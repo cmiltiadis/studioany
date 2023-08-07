@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Constantinos Miltiadis
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Constantinos
+last_name: Miltiadis
 
 # Status emoji
 status:
@@ -14,34 +14,40 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Transdisciplinary architect & researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aalto University, School of ARTS
+    url: https://www.aalto.fi/
+  - name: 'ORCID'
+    url: 'https://orcid.org/0000-0001-5279-8040'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is my short bio.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - design research 
+  - prototyping
+  - real-time spatial media 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Doctorate of Arts
+      institution: Aalto University
+      year: 2024 (expected)
+    - course: Computer Music (non-degree)
+      institution: IEM, KU Graz
+      year: 2018-2019
+    - course: Master of Advanced Studies (MAS) in Architecture and Information
+      institution: ETH Zurich
+      year: 2014    
+    - course: Dipl.-Ing Architect
+      institution: NTU-Athens
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,15 +63,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: 'https://scholar.google.com/citations?user=YM-ZEk8AAAAJ&hl=en'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cmiltiadis
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: 'https://www.linkedin.com/in/constantinosmiltiadis/'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -73,12 +79,13 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'c.miltiadis@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Constantinos Miltiadis is a transdisciplinary architect and researcher. 
 {style="text-align: justify;"}
