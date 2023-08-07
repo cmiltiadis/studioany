@@ -8,23 +8,32 @@ main:
     url: '#about'
     weight: 10
   - name: Posts
-    url: '/post' # was `#posts`
+    url: '/blog' # new
     weight: 20
+#  - name: Posts
+#    url: '/blog' # was `#posts` and '/post'
+#    weight: 20
   - name: Projects
     url: '/project' # was `#projects
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Talks & Events
+    url: 'event/' # was '#talks'
     weight: 40
   - name: Publications
     url: '/publication' # was '#featured'
     weight: 50
+  - name: Teaching
+    url: '/course' # new
+    weight: 60  
+  - name: Friends
+    url: '/authors' # new
+    weight: 70
   - name: Bio
     url: '/authors/admin'
-    weight: 60
+    weight: 80
   - name: Contact
     url: '/contact' #was '#contact'
-    weight: 70
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
