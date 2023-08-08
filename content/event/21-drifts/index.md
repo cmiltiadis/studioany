@@ -10,7 +10,7 @@ abstract: ''
 # AUTHORS 
 authors: [gregoire-rousseau, admin]
 #TAGS
-tags: [presentation, station of commons, fix, text]
+tags: [presentation, station of commons]
 ##################################################################
 # EVENT NAME 
 event: 'Drifts Festival'
