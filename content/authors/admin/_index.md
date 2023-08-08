@@ -36,13 +36,13 @@ interests:
 education:
   courses:
     - course: Doctorate of Arts
-      institution: Aalto University
+      institution: School of ARTS, Aalto University
       year: 2024 (expected)
     - course: Computer Music (non-degree)
       institution: IEM, KU Graz
       year: 2018-2019
     - course: Master of Advanced Studies in Architecture and Information (MAS AI ETH)
-      institution: ETH Zurich
+      institution: Chair for CAAD, ETH Zurich
       year: 2014    
     - course: Architect Engineer (Dipl.-Ing)
       institution: NTU-Athens
