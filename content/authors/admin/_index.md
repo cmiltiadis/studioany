@@ -41,10 +41,10 @@ education:
     - course: Computer Music (non-degree)
       institution: IEM, KU Graz
       year: 2018-2019
-    - course: Master of Advanced Studies (MAS) in Architecture and Information
+    - course: Master of Advanced Studies in Architecture and Information (MAS AI ETH)
       institution: ETH Zurich
       year: 2014    
-    - course: Dipl.-Ing Architect
+    - course: Architect Engineer (Dipl.-Ing)
       institution: NTU-Athens
       year: 2012
 
@@ -56,10 +56,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'contact/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/studioany
     label: Follow me on Twitter
     display:
       header: true
