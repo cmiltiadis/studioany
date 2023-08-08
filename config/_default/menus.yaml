@@ -25,13 +25,16 @@ main:
   - name: Teaching
     url: '/course' # new
     weight: 60  
-  - name: Friends
+  # - name: Project Filter
+  #   url: '/project-filter' # new
+  #   weight: 70  
+  - name: Friends & Collaborators
     url: '/authors' # new
-    weight: 70
-  - name: Bio
-    url: '/authors/admin'
     weight: 80
-  - name: Contact
+  # - name: Bio
+  #   url: '/authors/admin'
+  #   weight: 90
+  - name: Bio & Contact
     url: '/contact' #was '#contact'
     weight: 90
 
