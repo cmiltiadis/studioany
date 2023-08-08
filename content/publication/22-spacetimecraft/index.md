@@ -8,7 +8,7 @@ abstract: ""
 
 
 # TAGS 
-tags: [spacetimecraft, virtual reality, media archeology, spatiotemporality, mathematics, open access, fix, pdf link]
+tags: [spacetimecraft, virtual reality, media archeology, spatiotemporality, mathematics, open access]
 # PUB DATE
 date: '2022-11-16T00:00:00Z' 
 # Schedule page publish date (NOT publication's date).
