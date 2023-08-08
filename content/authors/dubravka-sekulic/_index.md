@@ -20,7 +20,7 @@ role: 'architect, theorist and educator'
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 'Senior Tutor at RCA'
-    url: 'https://www.rca.ac.uk/more/staff/dubravka-sekuli%C4%87/'
+    url: 'https://pgr.rca-architecture.com/people/dubravka-sekulic'
   - name: 'Wikipedia'
     url: 'https://en.wikipedia.org/wiki/Dubravka_Sekuli%C4%87'
 
