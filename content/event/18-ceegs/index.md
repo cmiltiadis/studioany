@@ -11,7 +11,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [game studies, presentation, conference, fix, add abstract]
+tags: [game studies, presentation, conference]
 ##################################################################
 # EVENT NAME 
 event: 'Central and Eastern European Game Studies Conference (CEEGS) 2018, "Ludic Expressions"'
