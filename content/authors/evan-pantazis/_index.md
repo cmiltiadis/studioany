@@ -15,11 +15,11 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: 'Computational Design Lead'
+role: 'Architect, computational designer, and researcher.'
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 'IBI Group'
+  - name: 'Computational Design Lead, IBI Group'
     url: 'https://www.ibigroup.com/ibi-people/evangelos-pantazis/'
   - name: 'Co-founder at Topotheque' 
     url: 'https://topotheque.com/'
