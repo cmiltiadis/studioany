@@ -22,11 +22,7 @@ organizations:
     url: 'https://www.instagram.com/spaeslab/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is my short bio.
-
-
-
-
+bio: ''
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'c.miltiadis@gmail.com'
 
@@ -35,7 +31,6 @@ highlight_name: true
 ---
 
 https://www.gksh.net/
-
 https://spaes.org/
 
 <!--
