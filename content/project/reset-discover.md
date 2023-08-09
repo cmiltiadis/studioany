@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Reset Discover"
-subtitle: ""
-summary: "installation for VR and ambisonics spatial audio; 2018"
-authors: [admin, Antonia Manhartsberger]
-tags: [virtual reality, ambisonics, installation]
-categories: []
-date: 2018-08-06T12:55:55+03:00
+title: "reset.discover"
+subtitle: "Installation for VR and ambisonics"
+summary: "Installation for VR and ambisonics spatial audio; 2018"
+authors: [Antonia Manhartsberger, admin]
+tags: [virtual reality, ambisonics, spatial audio, installation]
+categories: [spatial audio]
+date: 2018-01-31T12:55:55+03:00
 lastmod: 2023-08-06T12:55:55+03:00
 featured: false
 draft: false
@@ -19,6 +19,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+
+url_video: 'https://vimeo.com/298533739'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,13 +39,21 @@ The project elaborates on the idea of arrangement of sound in the spatial rath
 
 The piece and it’s theoretical background are described in greater detail in the thesis of Antonia Manhartsberger “Das soziopolitische Potential von Raummusik im Angesicht zeitgenössischer Gestaltungsmöglichkeiten” (IEM, June 2018).
 
+---
 {{<vimeo 298533739>}}
 
-It was first presented at the CUBE Concert, of the Institute of Electronic Music, University of Music and Performing Arts Graz, on January 31st 2018.  
-“reset.discover” was exhibited in the Arts Programme of the 2019 Elevate Festival, Orpheum Extra, Graz, March 2 2019 [[x](https://elevate.at/en/arts/programme/)]
+
+---
+
+Exhibitions: 
+- The piece was first presented at the CUBE Concert, of the Institute of Electronic Music, University of Music and Performing Arts Graz, on January 31st 2018.  
+- *reset.discover* was exhibited in the Arts Programme of the 2019 Elevate Festival, Orpheum Extra, Graz, March 2 2019.
 
 Interactive installation for multichannel spatial audio, ambisonics, binaural audio and Vive VR
 
-Concept & development: Antonia Manhartsberger & Constantinos Miltiadis  
-Electronic music composition: Antonia Manhartsberger  
-Virtual environment & programming: Constantinos Miltiadis
+**Concept & development**  
+Antonia Manhartsberger & Constantinos Miltiadis  
+**Electronic music composition**  
+Antonia Manhartsberger  
+**Virtual environment & programming**  
+Constantinos Miltiadis
