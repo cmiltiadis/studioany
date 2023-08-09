@@ -3,10 +3,10 @@
 
 title: "Towards the Expanded Field"
 subtitle: "experimental and interdisciplinary approaches to immaterial spatiotemporal environments"
-summary: "3-day symposium at Haus der Architektur, Graz; 2018"
-authors: [admin, gerriet-sharma, Stephan Günzel, Antonia Manhartsberger, Paul Wolff, Valentin Moser, Lukas Gosch, Philipp Sattler]
-tags: []
-categories: []
+summary: "Curation of a 3-day symposium at Haus der Architektur, Graz; 2018"
+authors: [admin, gerriet-sharma, Stephan Günzel, Antonia Manhartsberger, Paul Wolff, Valentin Moser, Lukas Gosch, Philipp Sattler, Sabrina Kullmaier, Julian Lebitsch]
+tags: [spatial audio, virtual reality, exhibition, presentation, performance, symposium, Haus der Architektur, Graz]
+categories: [curatorial]
 date: 2018-03-07T18:26:39+03:00
 lastmod: 2023-08-06T18:26:39+03:00
 featured: false
@@ -77,3 +77,5 @@ with the participation of: Prof. Stephan Günzel (BTK Berlin), Antonia Manhartsb
 concept & organisation: Constantinos Miltiadis
 
 Thanks to the Haus der Architektur, The Institute of Architecture and Media TU Graz, and the Deanery of the Faculty of Architecture of TU Graz for their support.
+
+{{< gallery album="tef" >}}
