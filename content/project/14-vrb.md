@@ -4,7 +4,7 @@ subtitle: "Wearables, interactive installation at CAAD, ETH; 2014"
 summary: "Wearables, interactive installation at CAAD, ETH; 2014"
 authors: [admin, Gregoris Gregoriadis, Togo Takamura]
 tags: [prototype, installation, wearables, fix]
-categories: [projects]
+categories: [projects, prototype]
 date: 2014-03-07T17:15:18+03:00
 lastmod: 2023-08-07T17:15:18+03:00
 featured: false
