@@ -22,6 +22,8 @@ image:
 links: 
  - name: "WADS @ Ars Electronica"
    url: 'https://ars.electronica.art/keplersgardens/en/wads-exhibition/'
+ - name: "Review by Eria Dapola (super-effective.net)"
+   url: 'https://super-effective.net/floating-through-gardens-wads-and-its-states-of-potentiality/'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
