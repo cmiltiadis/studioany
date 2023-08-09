@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: 'architect and new media artist'
+role: 'architect, researcher, and new media artist'
 
 # Organizations/Affiliations to show in About widget
 organizations:
