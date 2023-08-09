@@ -25,8 +25,6 @@ organizations:
 highlight_name: true
 ---
 
-
-
 {style="text-align: justify;"}
 
 <!--

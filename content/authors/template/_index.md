@@ -20,13 +20,12 @@ role: 'Role'
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 'Organization'
-    url: https://www.organization.fi/
+    url: 'https://www.organization.fi/'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Some text
 {style="text-align: justify;"}
 
 <!--
