@@ -3,12 +3,12 @@
 
 title: "Decoded Language"
 subtitle: ""
-summary: ""
+summary: "Interactive installation for Kinect V2, Supercollider, and projector; IEM, 2019."
 authors: [admin]
-tags: [interactive installation, supercollider, fix]
+tags: [installation, audiovisual installation, interactive installation, supercollider, fix, remove keyshot stamp]
 categories: [projects]
-date: 2018-07-06T18:18:58+03:00
-lastmod: 2023-08-06T18:18:58+03:00
+date: 2019-01-15T18:18:58+03:00
+#lastmod: 2023-08-06T18:18:58+03:00
 featured: false
 draft: false
 
@@ -20,11 +20,11 @@ image:
   focal_point: ""
   preview_only: false
 
+links:
+- name: 'Exhibition text'
+  url: '19-cmiltiadis-decoded-language.pdf'
+
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 
@@ -40,3 +40,8 @@ Installation catalogue http://studioany.com/wp-content/uploads/2019/03/cmiltiadi
 Multi-user interactive sound installation for Supercollider, Java, KinectV2 and projector
 
 Institute of Electronic Music, University of Music and Performing Arts, Graz, 2019
+
+<!--
+until is final
+{{< gallery album="decoded-language">}}
+-->
