@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-21-liss-c-werner-cybernetics-architecture-information/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL21_Werner.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

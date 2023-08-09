@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-13-angelos-chronis-simulation-as-a-driver-for-form-found-architecture/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL13_Chronis.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

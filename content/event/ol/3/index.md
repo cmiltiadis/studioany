@@ -47,11 +47,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-3-mihye-an-affair-on-a-fantastic-planet/'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-#url_video: ''
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL3_Mihye.pdf'
 ##################################################################
 
 # Markdown Slides (optional).

@@ -46,6 +46,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-5-reinhard-koenig-cognitive-urban-design-computing/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL5_Konig.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

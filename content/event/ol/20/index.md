@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-20-frank-fetzer-being-there-in-virtual-worlds/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL20_Fetzer.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

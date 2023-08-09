@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol25-wolfang-walcher-the-sixth-wave-of-computing-or-why-augmented-reality-is-not-just-for-architects/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL25_Walcher.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

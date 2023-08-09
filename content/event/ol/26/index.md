@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol26-georgios-artopoulos-simulations-of-built-heritage-as-urban-commons/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL26_Artopoulos.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

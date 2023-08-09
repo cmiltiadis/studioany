@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol22-anita-leirfall-on-real-and-virtual-space/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL22_Leirfall.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-16-efilena-baseta-adaptive-structures-and-material-performance/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL16_Baseta.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

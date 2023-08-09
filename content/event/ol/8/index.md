@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-8-emma-fraser-ruined-cities-video-games-and-digital-space-virtual-material-feedback/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL8_Fraser.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

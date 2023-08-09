@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-14-miro-roman-void-brands-characters-and-how-to-deal-with-a-lots/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL14_Roman.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

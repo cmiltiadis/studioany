@@ -47,6 +47,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-4-abel-groenewolt-robot-aided-architecture/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL4_Groenewolt.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

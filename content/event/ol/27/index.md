@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol27-eduardo-brito-see-and-tell-image-and-imaginary-strategies-artist-talk-film-screening/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL27_Brito.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

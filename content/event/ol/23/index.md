@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol23-ellen-foster-maker-cultures-dominant-discourse-and-the-possibility-of-heterogeneous-practices/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL23_Foster.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol29-giacomo-pala-fiction-time-the-design-of-time/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL29_Pala.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

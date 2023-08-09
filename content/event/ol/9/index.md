@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-9-marko-ciciliani-cppg-composition-performance-and-perception-of-gamified-audiovisual-works/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL9_Ciciliani.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

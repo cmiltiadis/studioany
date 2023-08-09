@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-18-anouk-de-clercq-architectonics-film-presentation-discussion/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL18_DeClercq.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

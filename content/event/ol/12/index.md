@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-12-georgios-cherouvim-from-vfx-to-experimental-animation-and-generative-design/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL12_Cherouvim.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

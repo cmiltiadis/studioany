@@ -46,6 +46,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-6-pierre-cutellic-machine-learning-from-las-vegas/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL6_PierreCutellic.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

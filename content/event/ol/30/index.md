@@ -46,6 +46,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol30-false-mirror-office-of-mirrors-and-plays-heterotopia-as-a-design-tool/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL30_FMO.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

@@ -46,6 +46,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol24-martina-menegon-synthetic-corporeality-in-contemporary-digital-art-practice-artist-talk-vr-experience/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL24_Menegon.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

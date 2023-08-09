@@ -45,6 +45,8 @@ featured: false
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lectures-1-jan-henrik-hansen-iohannes-zmoelnig-sound-to-space/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL1_Henrik_Zmolnig.pdf'
 
 
 #  - icon: twitter

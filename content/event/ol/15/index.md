@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-15-asya-ilgun-the-designed-and-self-organized-coupling-distinct-paradigms-of-deposition-based-construction/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL15_Ilgun.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

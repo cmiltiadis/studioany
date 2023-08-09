@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-11-nicole-stoecklmayr-projection-production-scenes-of-architecture-in-movies-and-games/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL11_Stoecklmayr.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

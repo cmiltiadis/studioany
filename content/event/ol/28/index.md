@@ -1,5 +1,5 @@
 ---
-title: 'IAM Open Lecture 28: TScavengers and Other Creatures'
+title: 'IAM Open Lecture 28: Scavengers and Other Creatures'
 subtitle: ''
 draft: false
 # SUMMARY
@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol28-ricardo-de-ostos-scavengers-and-other-creatures/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL28_deOstos.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''

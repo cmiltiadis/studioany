@@ -48,11 +48,8 @@ featured: false
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lectures-2-prof-werner-jauk-sound-to-space/'
-
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL2_Jauk.pdf'
 
 # LINKS 
 #url_code: ''

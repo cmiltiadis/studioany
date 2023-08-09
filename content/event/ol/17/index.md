@@ -45,6 +45,8 @@ image:
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-17-gerald-kozicz-ludwig-grimm-behind-the-visual-digitalization-of-indian-stone-architecture/'
+- name: 'Event Poster'
+  url: '/IAM-open-lecture-posters/OL17_Kozicz_Grimm.pdf'
 # LINKS 
 #url_code: ''
 url_pdf: ''
