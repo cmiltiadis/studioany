@@ -6,8 +6,8 @@ subtitle: "HD video + 8 channel spatial audio installation loop, 15:31"
 summary: "HD video + 8 channel spatial audio installation loop, 15:31"
 authors: [Bassam El Baroni, admin, georgios-cherouvim, gerriet-sharma]
 # TAGS 
-tags: [video, artistic research]
-categories: [exhibition]
+tags: [video, artistic research, spatial audio, exhibition]
+categories: [artistic research]
 #
 date: 2021-07-07T12:55:44+03:00
 lastmod: 2023-08-06T12:55:44+03:00
