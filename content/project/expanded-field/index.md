@@ -78,4 +78,6 @@ concept & organisation: Constantinos Miltiadis
 
 Thanks to the Haus der Architektur, The Institute of Architecture and Media TU Graz, and the Deanery of the Faculty of Architecture of TU Graz for their support.
 
+Pictures: Felix Zitter (HDA). 
+
 {{< gallery album="tef" >}}
