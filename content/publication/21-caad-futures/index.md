@@ -3,10 +3,10 @@
 title: 'Computer-Aided Architectural Design. Design Imperatives: The Future is Now'
 subtitle: '19th International Conference, CAAD Futures 2021, Los Angeles, CA, USA, July 16–18, 2021, Selected Papers.'
 # Summary. An optional shortened abstract.
-summary: 'Co-editor for the proceedings of *CAAD Futures 2021: Design Imperatives: The Future is Now*, published by Springer.'
+summary: 'Co-editor for the proceedings of *CAAD Futures 2021: Design Imperatives: The Future is Now*, published by Springer (2022).'
 draft: false
 # PUB DATE
-date: '2022-03e-17T00:00:00Z' 
+date: '2022-03-17T00:00:00Z' 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-03-01T00:00:00Z'
 # Authors
@@ -34,9 +34,9 @@ The 33 revised full papers presented were carefully reviewed and selected from 9
 tags: [proceedings volume, CAAD Futures]
 
 # Custom links (uncomment lines below)
-#links:
-#- name: Springer website
-#  url: https://link.springer.com/book/10.1007/978-981-19-1280-1
+links:
+- name: Volume front matter
+  url: '22-caad-futures-21-frontmatter.pdf'
 
 url_pdf: ''
 url_code: ''
@@ -58,18 +58,8 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
+projects: [caad-futures]
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
 ---
 
 Gerber, David, Evangelos Pantazis, Biayna Bogosian, Alicia Nahmad, and Constantinos Miltiadis, eds. _Computer-Aided Architectural Design. Design Imperatives: The Future Is Now. 19th International Conference, CAAD Futures 2021, Los Angeles, CA, USA, July 16–18, 2021, Selected Papers._ Communications in Computer and Information Science. Springer, 2022. [https://doi.org/10.1007/978-981-19-1280-1](https://doi.org/10.1007/978-981-19-1280-1).
