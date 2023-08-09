@@ -60,3 +60,5 @@ links:
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [reset-discover]
 ---
+
+> The piece reset.discover is the result of a collaboration between composer Antonia Manhartsberger and the VR artist Constantinos Miltiadis, investigating the possibilities of uniting spatial-visual and spatial-sonic elements into one abstract spatio-temporal virtual environment. The piece develops over notions of proximity and distance, thus consisting of two layers of experience. An individual point of view controlled by a VR HMD and headphones, and a correlated surrounding spatial audio loudspeaker setup. The audience is called upon to discover and experience this synthetic surrounding.
