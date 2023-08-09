@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Gregoire Rousseau
+title: Grégoire Rousseau
 draft: false
 
 # Full name (for SEO)
-first_name: Gregoire
+first_name: Grégoire
 last_name: Rousseau
 
 # Status emoji
