@@ -14,18 +14,18 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: ''
+role: 'Architect, researcher; musician'
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 'Organization'
-    url: https://www.organization.fi/
+  - name: 'achilleasxydis.com'
+    url: 'https://www.achilleasxydis.com/'
+  - name: 'Postdoctoral researcher at GKR, ETH Zurich'
+    url: 'https://gramaziokohler.arch.ethz.ch/web/team/e/0/0/0/269.html' 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-https://www.achilleasxydis.com/
 
 {style="text-align: justify;"}
 
