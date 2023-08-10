@@ -5,7 +5,7 @@ title: "Other than Text: Media Used in Game Studies Publications"
 subtitle: "A Computational Analysis into 20 Years of Publications of the Game Studies Journal, and an Appeal for Research Through Design"
 summary: "A Computational Analysis into 20 Years of Publications of the Game Studies Journal, and an Appeal for Research Through Design; paper contribution, DiGRA 2023."
 authors: [admin]
-categories: [test]
+categories: [game studies]
 date: 2023-08-05T14:23:09+03:00
 lastmod: 2023-08-05T14:23:09+03:00
 featured: false
@@ -21,7 +21,7 @@ url_code: 'https://github.com/cmiltiadis/other-than-text'
 links:
 - name: 'Preprint PDF'
   url: '23-cmiltiadis-other-than-text-digra.pdf'
-- name: 'Scraper program DOI'
+- name: 'DOI (scraper & visualizer program)'
   url: "https://doi.org/10.5281/zenodo.7944673"
 
 # Publication type.
@@ -57,8 +57,5 @@ image:
   preview_only: false
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
