@@ -2,14 +2,15 @@
 title: 'On the matter and matters of space in novel media'
 draft: false
 # SUMMARY
-summary: 'Summary.'
+summary: 'Two guest lectures on spatiotemporal digital media at TU Berlin & HafenCity University Hamburg; 2020.'
 # ABSTRACT 
-abstract: ''
+abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Gunzel & Gerriet K. Sharma, founding members of the [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449) special interest group (SIG) sponsored by the Sociey for Artistic Research (SAR).'
 ##################################################################
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [virtual reality, digital spatiality, presentation]
+tags: [virtual reality,spatiotemporal media, digital spatiality, mathematics, geometry, presentation]
+categories: []
 ##################################################################
 # EVENT NAME 
 event: ''
@@ -17,7 +18,6 @@ event: ''
 event_url: ''
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-12-11T16:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
 all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
@@ -28,19 +28,17 @@ location: 'TU Berlin & HafenCity University Hamburg (remote event)'
 # FEATURED
 # Is this a featured talk? (true/false)
 featured: false
-
+##################################################################
 # IMAGE 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #  focal_point: Right
 ##################################################################
-
 # CUSTOM LINKS 
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-
 # LINKS 
 #url_code: ''
 #url_pdf: ''
@@ -49,12 +47,9 @@ featured: false
 ##################################################################
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
 slides: ''
 
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
 
-EMPTY
