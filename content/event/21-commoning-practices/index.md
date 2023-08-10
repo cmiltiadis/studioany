@@ -40,6 +40,8 @@ image:
 links: 
 - name: 'Lectures video archive'
   url: 'https://site.stationofcommons.org/events/digital-commoning-practices-archives'
+- name: 'Review by Ksenia Kaverina (NO NIIN)'
+  url: 'https://no-niin.com/issue-3/producing-and-practicing-presence-digital-commoning-practices-in-oksasenkatu-11/'
 # Projects (optional).
 projects: []
 ---
