@@ -14,12 +14,14 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Sound artist
+role: 'Sound artist, researcher'
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: 'gksh.net'
+    url: 'https://www.gksh.net/'
   - name: 'spæs lab for spatial aesthetics in sound Berlin'
-    url: 'https://www.instagram.com/spaeslab/'
+    url: 'https://spaes.org/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -30,8 +32,7 @@ bio: ''
 highlight_name: true
 ---
 
-https://www.gksh.net/
-https://spaes.org/
+
 
 <!--
 # Social/Academic Networking
