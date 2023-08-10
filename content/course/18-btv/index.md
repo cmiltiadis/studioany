@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Beyond the Visual"
 subtitle: "Workshop part of the OSSA 2018 Architectural festival *Vision*"
 summary: "Workshop part of the OSSA 2018 Architectural festival *Vision*"
