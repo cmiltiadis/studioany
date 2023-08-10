@@ -11,7 +11,9 @@ abstract: ''
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [presentation]
+tags: [presentation, architecture, computation]
+#CATEGORIES
+categories: [presentation]
 ##################################################################
 # EVENT NAME 
 event: 'Bartlett Plexus Paris *Expanse*'
