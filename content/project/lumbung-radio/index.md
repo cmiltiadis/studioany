@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Interlocal radio station for Documenta fifteen; global, broadcasting since 2022."
 abstract: 'lumbung Radio is an online community radio project that is part of documenta fifteen. As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is as a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server.'
 authors: [Gregoire Rousseau, Eddie Choo Wen Yi, admin, Juan Gomez, Alain Ryckelynck, Minera Ruolahti]
-tags: [online radio, sound practice]
+tags: [online radio, sound practice, fix, text]
 categories: [commons]
 date: 2022-06-08T21:54:44+03:00
 lastmod: 2023-08-08T21:54:44+03:00
