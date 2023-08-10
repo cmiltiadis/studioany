@@ -1,9 +1,9 @@
 ---
-title: 'Live concerts at Documenta Fifteen'
-subtitle: 'Production of sound performances at Documenta Fifteen; Trafohaus, Kassel, July 2022.'
+title: 'Live concerts for Lumbung Radio at Documenta Fifteen'
+subtitle: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
 draft: false
 # SUMMARY
-summary: 'Production of sound performances at Documenta Fifteen; Trafohaus, Kassel, July 2022.'
+summary: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
 # ABSTRACT 
 abstract: ''
 ##################################################################
@@ -63,7 +63,7 @@ projects: [lumbung-radio]
 ---
 
 Production of two concerts by Lain Iwakura (Mille Plateaux/O Graz), Niko Mas (CDCY), and  Klaus Masuda (O Graz), for *lumbung radio* at Documenta Fifteen, on behalf of *Station of Commons*. 
-The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/),[^th] Lutherplatz, hosted by [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
+The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/),[^th] Lutherplatz, hosted by the collective [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
 
 [^th]: Trafohaus is a former electricity transformer building now run by a local collective. During Documenta fifteen, Trafohaus was taken over by  the collective [Arts Collaboratory](https://artscollaboratory.org/) and its radio station [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
 
