@@ -1,12 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Project Anywhere"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
-categories: []
+authors: [admin]
+tags: [fix, add content]
+categories: [prototype]
 date: 2014-11-07T18:04:19+03:00
 lastmod: 2023-08-07T18:04:19+03:00
 featured: false
@@ -21,9 +19,5 @@ image:
   preview_only: false
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
