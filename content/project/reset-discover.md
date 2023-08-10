@@ -5,7 +5,7 @@ title: "reset.discover"
 subtitle: "Installation for VR and ambisonics"
 summary: "Installation for VR and ambisonics spatial audio; 2018"
 authors: [Antonia Manhartsberger, admin]
-tags: [virtual reality, ambisonics, spatial audio, installation]
+tags: [virtual reality, ambisonics, spatial audio, installation,procedural generation]
 categories: [spatial audio]
 date: 2018-01-31T12:55:55+03:00
 lastmod: 2023-08-06T12:55:55+03:00
