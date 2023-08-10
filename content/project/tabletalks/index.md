@@ -5,7 +5,7 @@ title: "Tabletalks on Architecture (2016-2017)"
 subtitle: ""
 summary: "Open research lecture series"
 authors: [admin, Marcello Fantuz, Sophia Walk, Christoph Breser, Diederik de Koning]
-tags: [lecture series, Graz, TU Graz]
+tags: [lecture series, Graz, TU Graz, fix text]
 categories: [curatorial]
 date: 2016-08-05T15:33:29+03:00
 lastmod: 2023-08-05T15:33:29+03:00
@@ -34,5 +34,3 @@ The event is free, open and public.
 [Facebook page @TabletalksArchitecture](https://www.facebook.com/tabletalksarchitecture/)
 
 Tabletalks on Architecture was an initiative by a group of young university assistants (“mittelbau”) at the Architecture Faculty of TU Graz.  
-Co-founders include [Sophia Walk](http://akk.tugraz.at/team/sophia-walk/), [Christoph Breser](https://www.baugeschichte.eu/christoph-breser/personen/info/), [Diederik de Koning](https://la-di-da.nl/), Marcello Fantuz, and Constantinos Miltiadis.
-
