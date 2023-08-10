@@ -4,7 +4,7 @@ subtitle: "subtitle"
 summary: "Construction of an open access archive for the ACADIA conference (1985-2023)."
 authors: [admin]
 tags: [archiving, sandpoints, ACADIA, fellowship]
-categories: [projects]
+categories: [projects, archive]
 date: 2023-08-05T14:21:30+03:00
 lastmod: 2023-08-05T14:21:30+03:00
 featured: false
@@ -27,10 +27,9 @@ projects: []
 ---
 
 
-https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/
+https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/
 
-
-I was awarded the inaugural [ACADIA Cultural History Fellowship](http://acadia.org/news/69P4TY), together with 
+In May 2023, I was awarded the inaugural [ACADIA Cultural History Fellowship](http://acadia.org/news/69P4TY), together with 
 Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).[^fellows]
 
 
