@@ -3,8 +3,11 @@ title: "Beyond the Visual - A research curriculum for explorations in spatiotemp
 authors: [admin, gerriet-sharma]
 date: "2021-09-27T00:00:00Z"
 draft: false
-doi: ""
-
+doi: "https://doi.org/10.22501/jar.815001"
+# Summary. An optional shortened abstract.
+summary: "Exposition published in the *Journal for Artistic Research*; 2021."
+# TAGS
+tags: [architecture, music, spatial audio, soundwalk, virtual reality, spatiotemporality, aural literacy]
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -20,17 +23,11 @@ publication_short: "JAR"
 
 abstract: "Virtual reality and spatial audio technologies bring about a new paradigm in the fields of architecture and music. Works developed in these media produce experiences beyond what is perceivable in the physical world, extending therefore our capacities to design/compose as well as our sensibilities for spatial and temporal perception. By operating in the spatiotemporal domain, these new media, question our disciplinary understandings of space and time as well as their aesthetics, requiring an altogether new post-disciplinary conception of design/composition and experience. \"Beyond the Visual\" is a research curriculum for the investigation of spatiotemporal aesthetics,  in the interface between architecture and music, in regard to perception and creativity and design/composition. This exposition is part of the research agenda of the Society of Artistic Research Special Interest Group (SIG): Spatial Aesthetics and Artificial Environments."
 
-# Summary. An optional shortened abstract.
-summary: ""
-
-# TAGS
-tags: [ architecture, music, spatial audio, soundwalk, virtual reality, spatiotemporality, aural literacy]
-
 featured: false
 
 links:
-- name: "Research Catalogue"
-  url: "https://www.researchcatalogue.net/view/815001/815002"
+- name: "JAR Issue 24"
+  url: "https://jar-online.net/en/issues/24"
 - name: 'BtV on Itch.io'
   url: 'https://studioany.itch.io/beyond-the-visual'
   
