@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: 'Sound artist, researcher'
+role: 'Composer, sound artist, researcher'
 
 # Organizations/Affiliations to show in About widget
 organizations:
