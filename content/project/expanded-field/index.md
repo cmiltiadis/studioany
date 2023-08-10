@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Towards the Expanded Field"
 subtitle: "experimental and interdisciplinary approaches to immaterial spatiotemporal environments"
 summary: "Curation of a 3-day symposium at Haus der Architektur, Graz; 2018"
