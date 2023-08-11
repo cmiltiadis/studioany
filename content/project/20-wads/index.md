@@ -3,7 +3,7 @@ title: "WADS ↑ ← → ↓"
 subtitle: "Ars Electronica 2020 participation"
 summary: "Curatorial project for Ars Electronica 2020 *In Kepler’s Gardens*."
 authors: [shammas, admin, Emiddio Vasquez, Myrto Aristidou ]
-tags: [ars electronica festival, exhibition]
+tags: [ars electronica festival, exhibition, fix, add pictures]
 categories: [curatorial]
 date: 2020-09-06T12:56:56+03:00
 lastmod: 2023-08-06T12:56:56+03:00
