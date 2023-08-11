@@ -1,11 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "WADS ↑ ← → ↓"
-subtitle: "Ars Electronica 2020 participation, on behalf of Rise CY"
-summary: "Curatorial project for Ars Electronica 2020"
+subtitle: "Ars Electronica 2020 participation"
+summary: "Curatorial project for Ars Electronica 2020 *In Kepler’s Gardens*."
 authors: [shammas, admin, Emiddio Vasquez, Myrto Aristidou ]
-tags: [ars electronica, exhibition]
+tags: [ars electronica festival, exhibition]
 categories: [curatorial]
 date: 2020-09-06T12:56:56+03:00
 lastmod: 2023-08-06T12:56:56+03:00
@@ -22,6 +20,10 @@ image:
 links: 
  - name: "WADS @ Ars Electronica"
    url: 'https://ars.electronica.art/keplersgardens/en/wads-exhibition/'
+ - name: 'WADS Mozzila Hubs'
+   url: 'https://hubs.mozilla.com/UbTzCec/wads-garden'
+ - name: 'WADS Instagram'
+   url: 'https://www.instagram.com/wads.garden/'
  - name: "Review by Eria Dapola (super-effective.net)"
    url: 'https://super-effective.net/floating-through-gardens-wads-and-its-states-of-potentiality/'
 
@@ -35,6 +37,10 @@ WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining prin
 
 In this spirit and following its own mission, RISE invites local artists to pollinate the digital by employing a technique derived from gardening: namely, grafting. WADS, a digital garden of commoning formed by 21 local artists, sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. The digital exhibition is created and experienced in the online environment of Mozilla Hubs and will be accessible through the Ars Electronica Digital Platform.
 
-Participating Artists: Raissa Angeli, Maria Andreou, Marina Ashioti, Pandelis Diamantides, Anastasia Dolitsay, Peter Eramian, Ibrahim Latif Ince, Stelios Ilchouk, Marina Kassianidou, Irini Khenkin, Angeliki Koutsodimitropoulou, Marinos Koutsomichalis, Marietta Mavrokordatou, Panagiotis Mina, Faysal Mroueh, Lina Protopapa, Doros Polydorou, Despina Rangou, Kleanthis Rousos, Elena Savvidou, Nico Stephou
+**Participating Artists**  
+Raissa Angeli, Maria Andreou, Marina Ashioti, Pandelis Diamantides, Anastasia Dolitsay, Peter Eramian, Ibrahim Latif Ince, Stelios Ilchouk, Marina Kassianidou, Irini Khenkin, Angeliki Koutsodimitropoulou, Marinos Koutsomichalis, Marietta Mavrokordatou, Panagiotis Mina, Faysal Mroueh, Lina Protopapa, Doros Polydorou, Despina Rangou, Kleanthis Rousos, Elena Savvidou, Nico Stephou
 
-Curatorial Team: Demetris Shammas, Constantinos Miltiadis, Emiddio Vasquez, Myrto Aristidou
+**Curatorial Team**  
+Demetris Shammas, Constantinos Miltiadis, Emiddio Vasquez, Myrto Aristidou
+
+With the support of [RISE CY (now CYENS)](https://www.cyens.org.cy/en-gb/media/news/ars-electronica-garden-nicosia-by-rise/) and the [Austrian Embassy in Nicosia, Cyprus](https://www.bmeia.gv.at/en/austrian-embassy-nicosia/news/events/detail/article/ars-electronica-2020-in-keplers-gardens-cyprus-wads-garden-digital-exhibition-by-itica-rise-cy/).
