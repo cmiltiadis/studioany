@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "John Paul George & Me"
-subtitle: ""
-summary: ""
+subtitle: "Interactive wearable musical instruments"
+summary: "Interactive wearable musical instruments (2015)"
 authors: [admin, selina-reiterer ]
-tags: [wearables, prototype, award]
+tags: [wearables, prototype, interactive textiles, award]
 categories: [prototype]
 date: 2015-04-06T18:11:20+03:00
 lastmod: 2023-08-06T18:11:20+03:00
@@ -27,7 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 
 “JOHN PAUL GEORGE & ME” is a collection of wearable musical instruments for kids. Each T-shirt represents a specific instrument, all together forming a rock ensemble. Through the seemingly ‘magical’ clothes that produce sound by touch, the project brings to children an interactive musical game that encourages and estimates their musical sensibilities as well as collaboration for performing music together. The project is an investigation of smart materials, wearable technologies, and animated textiles, developed with textile designer Selina Reiterer, as a first implementation of ongoing research.
 
