@@ -1,22 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Lumbung Radio"
-subtitle: ""
-summary: "Interlocal radio station for Documenta fifteen; global, broadcasting since 2022."
-abstract: 'lumbung Radio is an online community radio project that is part of documenta fifteen. As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is as a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server.'
+subtitle: "Interlocal radio station for Documenta fifteen; global, live since April 2022"
+summary: "Interlocal radio station for Documenta fifteen; global, live since April 2022."
+abstract: ''
 authors: [Gregoire Rousseau, Eddie Choo Wen Yi, admin, Juan Gomez, Alain Ryckelynck, Minera Ruolahti]
-tags: [online radio, sound practice, fix, text]
+tags: [online radio, sound practice,open infrastructure,documenta 15,working group]
 categories: [commons]
-date: 2022-06-08T21:54:44+03:00
-lastmod: 2023-08-08T21:54:44+03:00
+date: 2022-04-08T21:54:44+03:00
+#lastmod: 2023-08-08T21:54:44+03:00
 featured: false
 draft: false
 
 # video link 
 links: 
 - name: 'lumbungradio.org'
-  url: 'lumbungradio.org/'
+  url: 'https://lumbungradio.org/'
 - name: lumbung radio working group (d15)
   url: 'https://documenta-fifteen.de/en/lumbung-radio/'
 - name: 'lumung radio announcement (d15)'
@@ -25,8 +23,10 @@ links:
   url: 'https://lumbung.space/'
 - name: 'ruruhaus.de'
   url: 'https://ruruhaus.de/'
+- name: 'Project video trailer'
+  url: 'https://www.youtube.com/watch?v=jGqzHTjExho'
 
-url_video: 'https://www.youtube.com/watch?v=jGqzHTjExho'
+#url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -40,21 +40,21 @@ image:
 projects: []
 ---
 
+_lumbung Radio_ is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server. 
 
-2021-2022
+*lumbung Radio* the result of the radio working group (consisting of the initial members **Grégoire Rousseau**, **Malene Saalmann**, **Gözde Filinta**, **Ayşe Güleç**, and **Reza Afisina**) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen [_ekosistem_](https://documenta-fifteen.de/en/glossary/?entry=ekosistem).
 
+*lumbung Radio* was launched in April 2022, broadcasting 24/7 during the 100 days of d15, from and to the whole planet. With the end of d15, the participants of the network, with the support of [ruangrupa](https://ruangrupa.id/en/) voted to continue the project. 
 
-_lumbung Radio_ is the online community radio project of documenta fifteen. It started in April 2022 and is broadcasting 24/7 during the 100 days of documenta fifteen, and hopefully also afterwards, from and to the whole planet.
+*lumbung Radio* is coordinated by _[Station of Commons](https://stationofcommons.org/)_—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.
 
-
-It’s the result of the radio working group (consisting of the initial members **Grégoire Rousseau**, **Malene Saalmann**, **Gözde Filinta**, **Ayşe Güleç**, and **Reza Afisina**) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen [_ekosistem_](https://documenta-fifteen.de/en/glossary/?entry=ekosistem).
-
-lumbung Radio is coordinated by _[Station of Commons](https://stationofcommons.org/)_—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.
+In November 2022, *Station of Commons* was awarded a 3-year grant by the [KONE foundation](https://koneensaatio.fi/en/) for the coordination of *lumbung Radio*. 
 
 ---
 
 {{< youtube jGqzHTjExho>}}
 
+---
 # Participating networks
 
 - [RURUradio](https://rururadio.org/), Jakarta, Indonesia
@@ -82,5 +82,8 @@ lumbung Radio is coordinated by _[Station of Commons](https://stationofcommons.o
 - Good Morning, I Love You, Nicosia, Cyprus
 - [Station of Commons](https://stationofcommons.org/) 
 
+---
+
+Co-ordination team member,  active primarily during the initial phase of the project between mid 2021 and early 2022.
 
 <!--invites Helsinki-based artists to release their sound archives or new material: Samuli Tanner and Heta Bilaletdin, MYÖS DJ collective, Kiilan Äänipäivät, among others to be announced.-->
