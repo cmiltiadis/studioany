@@ -84,6 +84,6 @@ In November 2022, *Station of Commons* was awarded a 3-year grant by the [KONE f
 
 ---
 
-Co-ordination team member,  active primarily during the initial phase of the project between mid 2021 and early 2022.
+Co-ordination team member,  active primarily during the initial phase of the project between August 2021 and early 2022.
 
 <!--invites Helsinki-based artists to release their sound archives or new material: Samuli Tanner and Heta Bilaletdin, MYÖS DJ collective, Kiilan Äänipäivät, among others to be announced.-->
