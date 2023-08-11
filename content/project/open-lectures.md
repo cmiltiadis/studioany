@@ -3,7 +3,7 @@
 
 title: "Open Lecture Series (2015-2019)"
 subtitle: "Lecture series at Institute of Architecture and Media, TU Graz"
-summary: "lecture series curation, at the Institute of Architecture and Media, TU Graz; 2015-2019"
+summary: "Lecture series founder and curator at the Institute of Architecture and Media, TU Graz; 2015-2019"
 authors: [admin]
 tags: [lecture series, architecture, computation, media, media art, ai, research, dissemination, TU Graz, Graz]
 categories: [curatorial]
