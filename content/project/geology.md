@@ -3,7 +3,7 @@ title: "The geology of the Geology of Morals"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [audiovisual]
+tags: [audiovisual, programming, MAS CAAD]
 categories: []
 date: 2013-10-06T18:13:41+03:00
 lastmod: 2023-08-06T18:13:41+03:00
