@@ -1,12 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Cybersyn 1973/2023"
 subtitle: "HD video + 8 channel spatial audio installation loop, 15:31"
 summary: "HD video + 8 channel spatial audio installation loop, 15:31"
 authors: [Bassam El Baroni, admin, georgios-cherouvim, gerriet-sharma]
 # TAGS 
-tags: [video, artistic research, spatial audio, exhibition]
+tags: [video, artistic research, animation, cgi, spatial audio, exhibition]
 categories: [artistic research]
 #
 date: 2021-07-07T12:55:44+03:00
