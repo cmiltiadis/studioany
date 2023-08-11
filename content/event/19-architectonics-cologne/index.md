@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics"
 subtitle: "Architectonics of Game Worlds - On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies"
 summary: "Presentation at the symposium Architectonics of Game Worlds; 2019"
