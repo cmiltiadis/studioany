@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Journal of Architectural Computing* 14 (4)"
-publication_short: "IJAC"
+publication_short: "IJAC 14 (4)"
 
 abstract: Virtual and augmented realities open a new world of great potential for spatial research and experimentation by allowing new forms of unbuilt sensible architectural space. This article starts with a sketch of the current context in virtual reality and continues by outlining the development and structure of the research ‘project Anywhere’. The project is an easily deployable, wireless, multi-user, augmented reality app system that offers full body immersion through body, head and hands tracking. It can host multiple concurrent users, able to move freely in the virtual space, by moving in the real and also perform actions through a gesture interface to affect their shared environment. In conclusion, we describe the inherent properties of such a space, which we propose as a novel spatio-temporal medium for architecture that suggests an enriched notion of space for exploration and experimentation, through an example of a potential application.
 

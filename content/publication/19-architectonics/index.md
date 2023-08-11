@@ -20,7 +20,7 @@ publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In *Architectonics of Game Spaces: The Spatial Logic of the Virtual and Its Meaning for the Real*, edited by Andri Gerber and Ulrich Götz, 183–99.'
-publication_short: '*Architectonics of Game Spaces*'
+publication_short: 'In *Architectonics of Game Spaces*'
 
 isbn: '978-618-85361-8-0'
 abstract: "The notion of space, as the substrate of design, is often taken for granted in architecture and design related fields, as well as in videogames. Tracing its history from ancient Greek mathematics to today, this chapter intends to show that western design-space is far from an abstract entity or a given, but on the contrary, a shared cultural construct, deeply rooted in historical tradition. As such, it resides in past obsolete beliefs, reluctant to adopt or comply with current theories of physical space. Considering however the Renaissance establishment of drawing as a valid architectural medium besides building, can allow us to conceptualize a continuum of such architectural substrates. »Choropoietic media« as media of special modelling, do not only afford different spaces, but qualitatively different constitutions of space. As part of this lineage, videogame and virtual reality provide the means to design and explore media-specific spaces beyond the conventions of drawing and building as well as of physical reality and its laws, serving furthermore as vehicles to spectra of experience of an »expanded field« of architecture."

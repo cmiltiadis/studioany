@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Artistic Research 24*"
-publication_short: "JAR"
+publication_short: "JAR 24"
 
 abstract: "Virtual reality and spatial audio technologies bring about a new paradigm in the fields of architecture and music. Works developed in these media produce experiences beyond what is perceivable in the physical world, extending therefore our capacities to design/compose as well as our sensibilities for spatial and temporal perception. By operating in the spatiotemporal domain, these new media, question our disciplinary understandings of space and time as well as their aesthetics, requiring an altogether new post-disciplinary conception of design/composition and experience. \"Beyond the Visual\" is a research curriculum for the investigation of spatiotemporal aesthetics,  in the interface between architecture and music, in regard to perception and creativity and design/composition. This exposition is part of the research agenda of the Society of Artistic Research Special Interest Group (SIG): Spatial Aesthetics and Artificial Environments."
 

@@ -23,10 +23,8 @@ publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
 publication: 'In *Chimeras: Inventory of Synthetic Cognition*, edited by  Ilan Manuach and Anna Engelhardt, 310–12.'
-publication_short: '*Chimeras: Inventory of Synthetic Cognition*'
+publication_short: 'In *Chimeras: Inventory of Synthetic Cognition*'
 abstract: ""
-
-
 
 # DOI 
 doi: ''

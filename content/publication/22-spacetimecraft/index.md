@@ -28,7 +28,7 @@ publication_types: ['6']
 # Publication name and optional abbreviated publication name.
 publication: 'In *Bildhafte Räume, begehbare Bilder*, edited by  Kassandra Nakas
 and Philipp Reinfeld, 149–165.'
-publication_short: '*Bildhafte Räume, begehbare Bilder*'
+publication_short: 'In *Bildhafte Räume, begehbare Bilder*'
 
 
 # DOI 
