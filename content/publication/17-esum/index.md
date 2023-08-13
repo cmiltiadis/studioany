@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -50,7 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [esum]
+projects: [15-esum]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -60,6 +60,6 @@ projects: [esum]
 slides: ''
 ---
 
-Responsible for the design, development, programming, and documentation of the backpack sensor module (sections 2.1, 2.2, and source code annex of the report). 
+Responsible for the design, development, programming, and documentation of the [ESUM backpack sensor module](../../project/esum), presented in sections 2.1, 2.2, and the source code annex of the report. 
 
 Griego, Danielle, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven Schneider, Reinhard König, et al. ‘ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack & 360° Videos’. Application/pdf. ETH Zurich, 13 September 2017. [https://doi.org/10.3929/ETHZ-B-000184587](https://doi.org/10.3929/ETHZ-B-000184587).
