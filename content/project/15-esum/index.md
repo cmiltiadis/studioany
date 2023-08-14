@@ -43,6 +43,10 @@ links:
 ---
 
 
+<!-- FIND 
+award at Falling Wall competition Paris esum
+-->
+
 Design, development, and documentation of the ESUM backpack, a standalone mobile prototype for an 'Anthropocentric Urban Sensing Unit' at the [Chair of Information Architecture](http://www.ia.arch.ethz.ch) ETH Zurich. 
 
 The ESUM project was initiated by  [Reinhard König](../../authors/reinhard-konig) at ETH Zurich. The concept behind the backpack sensor prototype was to develop a mobile sensor unit to measure, analyse and correlate both ambient and biometric data from a subject’s itinerary in an urban context, and eventually correlate environmental qualities with psychosomatic effects. 
@@ -56,7 +60,6 @@ This work is part of *[ESUM­-Analysing trade­offs between the energy and socia
 
 
 [^ml]: Ojha, Varun Kumar, Danielle Griego, Saskia Kuliga, Martin Bielik, Peter Buš, Charlotte Schaeben, Lukas Treyer, et al. ‘Machine Learning Approaches to Understand the Influence of Urban Environments on Human’s Physiological Response’. Information Sciences 474 (1 February 2019): 154–69. https://doi.org/10.1016/j.ins.2018.09.061. Project repository: [ESUM-project](https://github.com/vojha-code/ESUM-project).
-
 
 ## ESUM backpack prototype
 
