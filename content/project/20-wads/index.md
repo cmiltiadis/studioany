@@ -16,7 +16,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 links: 
  - name: "WADS @ Ars Electronica"
    url: 'https://ars.electronica.art/keplersgardens/en/wads-exhibition/'
@@ -44,3 +44,5 @@ Raissa Angeli, Maria Andreou, Marina Ashioti, Pandelis Diamantides, Anastasia Do
 Demetris Shammas, Constantinos Miltiadis, Emiddio Vasquez, Myrto Aristidou
 
 With the support of [RISE CY (now CYENS)](https://www.cyens.org.cy/en-gb/media/news/ars-electronica-garden-nicosia-by-rise/) and the [Austrian Embassy in Nicosia, Cyprus](https://www.bmeia.gv.at/en/austrian-embassy-nicosia/news/events/detail/article/ars-electronica-2020-in-keplers-gardens-cyprus-wads-garden-digital-exhibition-by-itica-rise-cy/).
+
+{{< gallery album = "wads" >}}
