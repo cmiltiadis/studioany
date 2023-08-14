@@ -5,10 +5,10 @@ title: "John Paul George & Me"
 subtitle: "Interactive wearable musical instruments"
 summary: "Interactive wearable musical instruments (2015)"
 authors: [admin, selina-reiterer ]
-tags: [wearables, prototype, interactive textiles, award]
+tags: [wearables, prototype, interactive textiles, award, fix, pngs, featured]
 categories: [prototype]
 date: 2015-04-06T18:11:20+03:00
-lastmod: 2023-08-06T18:11:20+03:00
+#lastmod: 2023-08-06T18:11:20+03:00
 featured: false
 draft: false
 
@@ -30,21 +30,19 @@ projects: []
 
 “JOHN PAUL GEORGE & ME” is a collection of wearable musical instruments for kids. Each T-shirt represents a specific instrument, all together forming a rock ensemble. Through the seemingly ‘magical’ clothes that produce sound by touch, the project brings to children an interactive musical game that encourages and estimates their musical sensibilities as well as collaboration for performing music together. The project is an investigation of smart materials, wearable technologies, and animated textiles, developed with textile designer Selina Reiterer, as a first implementation of ongoing research.
 
-[![](http://studioany.com/wp-content/uploads/2015/12/kids01-900x600.jpg)](http://studioany.com/projects/john-paul-george-me/none)
-
 [![](http://studioany.com/wp-content/uploads/2016/01/tshirt-logo-09-900x600.png)](http://studioany.com/projects/john-paul-george-me/none)
 
 [![](http://studioany.com/wp-content/uploads/2015/12/kids06-900x600.jpg)](http://studioany.com/projects/john-paul-george-me/none)
-
-[![](http://studioany.com/wp-content/uploads/2015/12/2_a-900x600.jpg)](http://studioany.com/projects/john-paul-george-me/none)
-
-[![](http://studioany.com/wp-content/uploads/2015/12/tools01-900x600.jpg)](http://studioany.com/projects/john-paul-george-me/none)
 
 JPG&Me is a collection of interactive T-shirts, inspired by and designed after the standard rock trio, including guitar, bass, and drums. Each shirt has a distinct pattern, based on the attributes of the instrument it represents. The patterns were silk-screen printed on plain T-shirts with electrically conductive paint — a flexible, washable, non-toxic textile chemical mixture. Each shape is uniformly sensitive to touch.
 
 A microcontroller attached to a removable pocket in the back of each garment is connected to the shapes with conductive threat, and senses touch input. The signals produced, are in turn sent to a mobile application via Bluetooth Low Energy (LE). The application itself is multi-platform and runs on both Android and iOS devices. The mobile app receives touch signals wirelessly and triggers sound sample playback in real-time. Multiple T-shirts can be connected to a single mobile device, or each band member can use their own. The device can be connected with headphones or external speakers to isolate or amplify the sound output.
 
-[RESHAPE15 | 2nd prize_JEAN PAUL GEORGE & ME](https://vimeo.com/132808247) from [RESHAPE](https://vimeo.com/user38300143) on [Vimeo](https://vimeo.com).
+
+
+{{<vimeo 132808247>}}
+
+from [RESHAPE](https://vimeo.com/user38300143) on [Vimeo](https://vimeo.com).
 
 **Additional references & technical documentation**  
 “John Paul George & Me” received the 2nd prize in the [YouReshape wearable technology competition](https://web.archive.org/web/20160323144253/http://www.youreshape.com/entries/) (August 2015), and exhibited at the Maker Faire in Rome, 2015.  
@@ -61,3 +59,5 @@ Music: Constantinos Miltiadis
 **Concept and development**: [Selina Reiterer](http://www.selinareiterer.com) (textile design & material research) & Constantinos Miltiadis (electronics & app development).
 
 _Developed at the [Chair for CAAD](http://caad.ethz.ch/) ETHz, 2015_.
+
+{{<gallery album ="15-jpgm">}}
