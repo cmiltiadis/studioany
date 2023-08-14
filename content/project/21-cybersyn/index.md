@@ -64,3 +64,6 @@ The screenplay is composed of original writing, inspirations, and reconfigured f
 - Peer reviewed participation in the screening section of [ISEA 2022: Possibles](https://isea2022.isea-international.org/event/screening-cybersyn-1973-2023/) – The 27th International Symposium on Electronic Art. Barcelona June 10-16 2022.
 - “[Infrahauntologies” (Part 1),  galerie La Box; Ecole nationale supérieure d’art de Bourges](https://www.ensa-bourges.fr/index.php/en/2-infos/7620-infrahauntologies-part-i), October 21 – November 20 2021.
 - “[Infrahauntologies” Edith Russ Haus](https://www.edith-russ-haus.de/no_cache/en/exhibitions/exhibitions/archive.html?tx_kdvzerhapplications_pi4%5Bexhibition%5D=271&tx_kdvzerhapplications_pi4%5Baction%5D=show&tx_kdvzerhapplications_pi4%5Bcontroller%5D=Exhibition), Oldenburg, July 8 – October 3 2021.
+
+
+{{<gallery album="21 cybersyn">}}
