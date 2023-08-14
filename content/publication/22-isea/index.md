@@ -51,12 +51,12 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
-projects: [cybersyn]
+projects: [21-cybersyn]
 ---
 
 **Part of the ISEA 2022 screening programme, in collaboration with  Sónar Festival**  
