@@ -2,15 +2,15 @@
 title: 'On the matter and matters of space in novel media'
 draft: false
 # SUMMARY
-summary: 'Two guest lectures on spatiotemporal digital media at TU Berlin & HafenCity University Hamburg; 2020.'
+summary: 'Guest lectures at TU Berlin & HafenCity University Hamburg, 2020.'
 # ABSTRACT 
-abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Gunzel & Gerriet K. Sharma, founding members of the [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449) special interest group (SIG) sponsored by the Sociey for Artistic Research (SAR).'
+abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Gunzel & Gerriet K. Sharma at TU Berlin and HafenCity University Hamburg.'
 ##################################################################
 # AUTHORS 
 authors: [admin]
 #TAGS
 tags: [virtual reality,spatiotemporal media, digital spatiality, mathematics, geometry, presentation]
-categories: []
+categories: [presentation]
 ##################################################################
 # EVENT NAME 
 event: ''
@@ -53,3 +53,7 @@ slides: ''
 projects: []
 ---
 
+
+<!--
+ founding members of the [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449) special interest group (SIG) sponsored by the Sociey for Artistic Research (SAR).
+-->
