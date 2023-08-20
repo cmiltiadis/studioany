@@ -3,7 +3,7 @@ title: 'Live concerts for Lumbung Radio at Documenta Fifteen'
 subtitle: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
 draft: false
 # SUMMARY
-summary: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
+summary: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022'
 # ABSTRACT 
 abstract: ''
 ##################################################################

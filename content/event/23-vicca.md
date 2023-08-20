@@ -3,7 +3,7 @@ title: 'Space-Time-Craft'
 subtitle: ''
 draft: false
 # SUMMARY
-summary: 'Presentation at the workshop *Thinking Practices in Art and Media*. Aalto ARTS 2023.'
+summary: 'Presentation at the workshop *Thinking Practices in Art and Media*. Aalto ARTS, 2023'
 # ABSTRACT 
 abstract: ''
 ##################################################################

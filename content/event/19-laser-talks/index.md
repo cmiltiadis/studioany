@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: 'Aalto Laser Talks: Adaptation and Space'
 # SUMMARY
-summary: 'Speaker and co-moderator for Aalto Laser Talk *Adaptation and Space*. Helsinki, 2019.'
+summary: 'Speaker and co-moderator for Aalto Laser Talk *Adaptation and Space*. Helsinki, 2019'
 # EVENT NAME 
 event: 'Adaptation and Space'
 # EVENT URL 
