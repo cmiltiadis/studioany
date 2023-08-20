@@ -29,6 +29,8 @@ links:
 - name: "JAR Issue 24"
   url: "https://jar-online.net/en/issues/24"
 - name: 'BtV on Itch.io'
+  icon: itch-io
+  icon_pack: fab
   url: 'https://studioany.itch.io/beyond-the-visual'
   
 url_pdf: ''
