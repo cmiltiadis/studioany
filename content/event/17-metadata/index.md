@@ -25,7 +25,7 @@ publishDate: '2023-01-01T00:00:00Z'
 # AUTHORS 
 authors: [admin, Dubravka Sekulić, Marcell Mars]
 #TAGS
-tags: [talks, librarianship, memory of the world, TU Graz, fix, links]
+tags: [talks, librarianship, memory of the world, TU Graz]
 
 # FEATURED
 # Is this a featured talk? (true/false)
