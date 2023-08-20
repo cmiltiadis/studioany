@@ -9,14 +9,9 @@ date: '2022-06-11T00:00:00Z'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 # TAGS 
-tags: [screening, conference,Cybernetics, Post-Scarcity, Financialization, Repurposing Infrastructures, Sci-Fi, fix, get image]
+tags: [screening, conference,Cybernetics, Post-Scarcity, Financialization, Repurposing Infrastructures, Sci-Fi]
 # Authors
 authors: [Bassam El Baroni, admin, georgios-cherouvim, gerriet-sharma]
-
-# Author notes (optional)
-#author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
 
 # Publication type.
 publication_types: ['1']
@@ -59,13 +54,16 @@ image:
 projects: [21-cybersyn]
 ---
 
-**Part of the ISEA 2022 screening programme, in collaboration with  Sónar Festival**  
-June 11-16 2016, at Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona. 
+{{< vimeo 573055092 >}}
+
+---
+
+Peer reviewed artwork part of the ISEA 2022 screening programme, in collaboration with  Sónar Festival: June 11-16 2016, Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona. 
+## Credits
 
 **Grupo Synco** is a collaboration between curator and researcher Bassam El Baroni (Aalto University, Finland) transdisciplinary architect Constantinos Miltiadis (Aalto University, Finland), multidisciplinary artist and animator Georgios Cherouvim (New York), and composer and sound artist Gerriet K. Sharma (Berlin). The group’s first co-creation is the CGI video work Cybersyn 1973/2023.
 
 ---
 
 
-{{< vimeo 573055092 >}}
 
