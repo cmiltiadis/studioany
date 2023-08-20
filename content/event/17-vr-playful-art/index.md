@@ -1,6 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 title: 'VR exhibition at VR Playful Art'
+slug: 'vr-playful-art'
 subtitle: ''
 draft: false
 # SUMMARY
@@ -53,22 +53,15 @@ links:
 #url_slides: ''
 #url_video: ''
 ##################################################################
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
 # Projects (optional).
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
 
-Participation in the exhibition *VR Playful Art* at Kunsthaus Graz, with 12 original VR projects developed by the students of the [Virtual Spaces Master Studio 2017: 16m2 Labyrinths](../../course/17-vsms). 
+Exhibition of 12 original VR projects  developed by the students of the [Virtual Spaces Master Studio 2017](../../course/17-vsms), at the event *VR Playful Art*, at Kunsthaus Graz. 
+The event was organized  by the [Game Development Graz](https://www.facebook.com/gamedevgraz/?fref=mentions) community in collaboration with TU Graz, in the context of [Game Dev Days 2017](https://www.facebook.com/events/838046996342513/). 
 
-The event was organized  by the [Game Development Graz](https://www.facebook.com/gamedevgraz/?fref=mentions) community in collaboration with TU Graz, in the context of [Game Dev Days 2017](https://www.facebook.com/events/838046996342513/). Free admission. 
-
-
-**Virtual Spaces Master Studio participants** 
+### Virtual Spaces Master Studio VR projects
 
 - Xaver Burkat – \#o  
 - Philipp Sattler – Library of the Absurd  
