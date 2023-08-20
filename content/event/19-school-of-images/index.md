@@ -3,7 +3,7 @@ title: 'Choropoietic Media: Against the cultural bias of the visual'
 slug: school-of-images
 draft: false
 # SUMMARY
-summary: 'Participation to the workshop School of Images. Athens, 2019.'
+summary: 'Participation to the workshop School of Images. Athens, 2019'
 # ABSTRACT 
 abstract: 'In the context of “For Ever More Images?” James Bridle will be leading a workshop with artists, technologists, and environmental activists to explore the role of images and other art forms in the way we see and appreciate the changes occurring to our entangled ecosystems and political systems, in Greece and around the Mediterranean.'
 ##################################################################

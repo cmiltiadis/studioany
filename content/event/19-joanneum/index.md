@@ -3,7 +3,7 @@ title: 'Space as Ideology: Choropoietic media and new paradigms of spatiality'
 subtitle: 'Presentation in the context of the exhibiton opening *Gib mir Raum* by FH Joanneum.'
 draft: false
 # SUMMARY
-summary: 'Presentation in the context of the exhibiton opening *Gib mir Raum* by FH Joanneum.'
+summary: 'Presentation in the context of the exhibiton opening *Gib mir Raum* by FH Joanneum. Graz, 2019'
 # ABSTRACT 
 abstract: 'Space in the western tradition is part of a certain epistemology. From Greek mathematics to Renaissance perspective, the understanding of space has been conditioned by the evolution of science before becoming a deeply rooted cultural “belief.” Contemporary media however, bring about new paradigms in the field of spatial arts, challenging existing traditional and disciplinary conceptions of space. Tracing a brief archeology of the evolution of spatial concepts, and drawing from architecture, videogames and virtual reality, this talk intends to discuss the aesthetic potential of contemporary “choropoietic media.”'
 ##################################################################

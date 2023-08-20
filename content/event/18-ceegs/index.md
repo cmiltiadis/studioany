@@ -4,7 +4,7 @@ title: 'Beyond the Implied Player: Transgression and Contingency in Digital Game
 subtitle: ''
 draft: false
 # SUMMARY
-summary: 'Presentation at CEEGS 2018, Prague.'
+summary: 'Presentation at CEEGS 2018, Prague'
 # ABSTRACT 
 abstract: ''
 ##################################################################

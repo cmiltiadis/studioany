@@ -3,7 +3,7 @@ title: 'VR exhibition of reset.discover'
 subtitle: ''
 draft: false
 # SUMMARY
-summary: 'Exhibition part of the Arts programme of Elevate Festival; Graz, 2019.'
+summary: 'Exhibition part of the Arts programme of Elevate Festival. Graz, 2019'
 # ABSTRACT 
 abstract: ''
 ##################################################################

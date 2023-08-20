@@ -1,9 +1,9 @@
 ---
 title: 'Manifestations of Radical Technology; Collective Digital Tools'
-subtitle: 'Presentation at Drifts Festival, Helsinki; 2021'
+subtitle: 'Presentation at Drifts Festival'
 draft: false
 # SUMMARY
-summary: 'Presentation at Drifts Festival, Helsinki; 2021'
+summary: 'Presentation at Drifts Festival. Helsinki, 2021'
 # ABSTRACT 
 abstract: ''
 ##################################################################

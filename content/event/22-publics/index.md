@@ -1,9 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 title: 'Virtual Infrastructures'
 draft: false
 # SUMMARY
-summary: 'Presentation at Open Up & Shape Helsinki; 2022.'
+summary: 'Presentation at Open Up & Shape Helsinki, 2022'
 # ABSTRACT 
 abstract: ''
 ##################################################################
@@ -39,29 +38,6 @@ featured: false
 image:
   caption: '' # 
   focal_point: Right
-
-# LINKS 
-#links:
-#- name: 'Url name'
-#  url: 'example.org'
-
-# url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
-# Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: []
 ---
 
 # Event description & programme 

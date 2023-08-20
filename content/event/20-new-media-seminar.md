@@ -1,9 +1,9 @@
 ---
 title: 'The situation of space in contemporary media environments'
-subtitle: 'Double lecture with Gerriet K. Sharma at the New Media Seminar, Aalto ARTS; 2020.'
+subtitle: 'Double lecture with Gerriet K. Sharma at the New Media Seminar, Aalto ARTS'
 draft: false
 # SUMMARY
-summary: 'Double lecture with Gerriet K. Sharma at the New Media Seminar, Aalto ARTS; 2020.'
+summary: 'Double lecture with Gerriet K. Sharma at the New Media Seminar. Aalto ARTS, 2020'
 # ABSTRACT 
 abstract: 'Virtual reality and spatial audio technologies bring about a new paradigm in the fields of architecture and music. Works developed in these media produce experiences beyond what is perceivable in the physical world, extending therefore our capacities to design/compose as well as our sensibilities for spatial and temporal perception. By operating in the spatiotemporal domain, these new media, question our disciplinary understandings of space and time as well as their aesthetics, requiring an altogether new post-disciplinary conception of design/composition and experience.
 

@@ -3,7 +3,7 @@ title: 'The Architectural Continuum'
 subtitle: ''
 draft: false
 # SUMMARY
-summary: 'Presentation at the symposium *The Architectonics of Virtual Space*, Einsiedeln; 2018.'
+summary: 'Presentation at the symposium *The Architectonics of Virtual Space*. Einsiedeln, 2018'
 # ABSTRACT 
 abstract: ''
 ##################################################################

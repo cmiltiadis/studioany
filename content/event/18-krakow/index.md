@@ -2,7 +2,7 @@
 title: '[FIX ABSTRACT]On the hypotheses which lie at the bases of -game- design: flat earthers and post-physical-world navigable environments'
 draft: false
 # SUMMARY
-summary: 'Presentation at the Game Studies Seminar \#14: In Kracow about cities, Kraków; 2018.'
+summary: 'Presentation at the Game Studies Seminar \#14: In Kracow about cities. Kraków, 2018'
 # ABSTRACT 
 abstract: ''
 ##################################################################

@@ -3,7 +3,7 @@ title: 'The Architectural Continuum'
 subtitle: ''
 draft: false
 # SUMMARY
-summary: 'Presentation at Digital Cultures Conference 2018, Leuphana University, 2018.'
+summary: 'Presentation at Digital Cultures Conference 2018. Leuphana University, 2018'
 # ABSTRACT 
 abstract: ''
 ##################################################################

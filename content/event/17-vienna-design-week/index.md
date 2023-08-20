@@ -3,7 +3,7 @@ title: 'Sonic Rug Hackathon'
 subtitle: 'Audiovisual interactive installation'
 draft: false
 # SUMMARY
-summary: 'Audiovisual interactive installation; Vienna Design Week, 2017.'
+summary: 'Audiovisual interactive installation. Vienna Design Week, 2017'
 # ABSTRACT 
 abstract: 'One-day hackathon with Antonia Manhatsberger, for the production of an interactive audiovisual installation  for the *Sonic Rug* developed by Selina Reiterer and Oliver Maklott.'
 ##################################################################

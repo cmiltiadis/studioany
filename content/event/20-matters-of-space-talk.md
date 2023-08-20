@@ -2,7 +2,7 @@
 title: 'On the matter and matters of space in novel media'
 draft: false
 # SUMMARY
-summary: 'Guest lectures at TU Berlin & HafenCity University Hamburg, 2020.'
+summary: 'Guest lectures at TU Berlin & HafenCity University Hamburg, 2020'
 # ABSTRACT 
 abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Gunzel & Gerriet K. Sharma at TU Berlin and HafenCity University Hamburg.'
 ##################################################################
