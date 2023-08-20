@@ -12,8 +12,6 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
@@ -36,8 +34,6 @@ projects: []
 ---
 
 {{<vimeo 297305474>}}
-
-
 
 <!--
 {{< toc >}}
@@ -103,7 +99,7 @@ Gerriet K. Sharma
 ## Gallery 
 
 ### Workshop process & exhibition 
-{{< gallery album="18-btv" >}}
+{{< gallery album="18-btv/workshop" >}}
 
 ### VR scenes
-{{< gallery album="18-btv-scenes" >}}
+{{< gallery album="18-btv/scenes" >}}
