@@ -10,7 +10,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin, Lain Iwakura, Niko Mas, Florian Fend, Waysatta Fernández]
 #TAGS
-tags: [concert, production, documenta 15]
+tags: [concert, production, documenta 15, fix, add pictures]
 ##################################################################
 # EVENT NAME 
 event: 'Documenta Fifteen'
@@ -63,9 +63,11 @@ projects: [lumbung-radio]
 ---
 
 Production of two concerts by Lain Iwakura (Mille Plateaux/O Graz), Niko Mas (CDCY), and  Klaus Masuda (O Graz), for *lumbung radio* at Documenta Fifteen, on behalf of *Station of Commons*. 
-The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/),[^th] Lutherplatz, hosted by the collective [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
+The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/), Lutherplatz, hosted by the collective [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
 
+<!--
 [^th]: Trafohaus is a former electricity transformer building now run by a local collective. During Documenta fifteen, Trafohaus was taken over by  the collective [Arts Collaboratory](https://artscollaboratory.org/) and its radio station [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
+-->
 
 |Programme|| 
 |-|-|
@@ -74,10 +76,12 @@ The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/t
 |July 26  | 19:00 Klaus Masuda - DJ set | 
 | | 20:00 Niko Mas - DJ set |
 
-{{< gallery album="trafohaus" >}}
 
 **Posters**   
 Waysatta Fernández ([Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/))
+{{< gallery album="trafohaus" >}}
+
+
 <!-- 
 https://afield.art/person/waysatta-fernandez/
 -->
