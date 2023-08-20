@@ -11,13 +11,13 @@ abstract: ''
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [exhibition, fix]
+tags: [exhibition, virtual reality, Graz, Kunsthaus Graz]
+category: [exhibition, teaching]
 ##################################################################
 # EVENT NAME 
 event: 'VR Playful Art'
 # EVENT URL 
 event_url: 'https://www.museum-joanneum.at/kunsthaus-graz/ihr-besuch/programm/events/event/6585/vr-playful-art/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-09-01T15:00:00Z'
 date_end: '2017-09-01T20:00:00Z'
 # all_day: false
@@ -42,12 +42,11 @@ featured: false
 ##################################################################
 
 # CUSTOM LINKS 
-
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
+links: 
+- icon: facebook
+  icon_pack: fab
+  name: Facebook event
+  url: 'https://www.facebook.com/events/1380517548699373/'
 # LINKS 
 #url_code: ''
 #url_pdf: ''
@@ -64,28 +63,22 @@ slides: ''
 projects: []
 ---
 
-The Institute of Architecture and Media, is taking part in the „VR Playful Art“ exhibition with VR projects developed by the students of the “[Virtual Spaces Master Studio 2017: 16m2 Labyrinths](http://studioany.com/teaching/vsms2017/)“. The event is taking place at Kunsthaus Graz, on the 1st of September 2017.  
-Admission is free and everybody is invited to join and try out our projects as well as the ones of the Graz Game Dev Community.
+Participation in the exhibition *VR Playful Art* at Kunsthaus Graz, with 12 original VR projects developed by the students of the [Virtual Spaces Master Studio 2017: 16m2 Labyrinths](../../course/17-vsms). 
 
-The event is part of the [Game Dev Days Graz 2017](https://www.facebook.com/events/838046996342513/), organised by the [Game Development Graz](https://www.facebook.com/gamedevgraz/?fref=mentions) community in collaboration with TU Graz.
+The event was organized  by the [Game Development Graz](https://www.facebook.com/gamedevgraz/?fref=mentions) community in collaboration with TU Graz, in the context of [Game Dev Days 2017](https://www.facebook.com/events/838046996342513/). Free admission. 
 
-Kunsthaus Graz, 15:00-20:00, September 1st 2017
 
-VR Playful Art event details: [https://www.museum-joanneum.at/kunsthaus-graz/ihr-besuch/veranstaltungen/events/event/6585/vr-playful-art  
-](https://www.museum-joanneum.at/kunsthaus-graz/ihr-besuch/veranstaltungen/events/event/6585/vr-playful-art)Facebook Event: [https://www.facebook.com/events/1380517548699373/](https://www.facebook.com/events/1380517548699373/)[  
-](http://gamedevdays.com/)VSMS 2017: [https://iam.tugraz.at/course/studio_ss_17/](https://iam.tugraz.at/course/studio_ss_17/) | [http://studioany.com/teaching/vsms2017/](http://studioany.com/teaching/vsms2017/)
+**Virtual Spaces Master Studio participants** 
 
-Virtual Spaces Master Studio participants and projects 
-
-Xaver Burkat – #o [[v](https://vimeo.com/223755500)][[b](https://issuu.com/iamtugraz/docs/booklet__o)]  
-Philipp Sattler – Library of the Absurd [[v](https://vimeo.com/223701104)] [[b](https://issuu.com/iamtugraz/docs/vsms_booklet_philippsattler)]  
-Valentin Moser – Chronicles [[v](https://vimeo.com/223775946)][[b](https://issuu.com/iamtugraz/docs/vsms_export_valentinmoser_singlepag)]  
-Lukas Gosch – Awakening [[v](https://vimeo.com/223753651)][[b](https://issuu.com/iamtugraz/docs/awakening_webtversion_singlesheets)]  
-Lukas Meindl – Moving [[v](https://vimeo.com/223665339)][[b](http://issuu.com/iamtugraz/docs/moving_booklet)]  
-Vesa Bunjaku – Noseum [[v](https://vimeo.com/225542503)][[b](https://issuu.com/iamtugraz/docs/nonseum_booklet)]  
-Daniel Seiwald – In-between [[v](https://vimeo.com/224286499)][[b](https://issuu.com/iamtugraz/docs/vsms_seiwald_in_between)]  
-Dinko Jelecevic – The Game of the Goose [[v](https://vimeo.com/224286402)][[b](https://issuu.com/iamtugraz/docs/vsms_jelecevic)]  
-Emina Lozzo – Ghost Talk [[v](https://vimeo.com/224286247)][[b](https://issuu.com/iamtugraz/docs/booklet_emina)]  
-Robert Aumayr – Solitude [[v](https://vimeo.com/224286189)][[b](https://issuu.com/iamtugraz/docs/solitude_booklet_aumayr_robert)]  
-Petrit Vesjeli – Escape from the Unknown[[v](https://vimeo.com/224286613)][[b](https://issuu.com/iamtugraz/docs/petritvejseli_booklet_vsms)]  
-Sabrina Kullmaier & Julian Lebitsch – Continuity [[v](https://vimeo.com/224286029)][[b](https://issuu.com/iamtugraz/docs/booklet_kullmaier_lebitsch)]
+- Xaver Burkat – \#o  
+- Philipp Sattler – Library of the Absurd  
+- Valentin Moser – Chronicles  
+- Lukas Gosch – Awakening  
+- Lukas Meindl – Moving    
+- Vesa Bunjaku – Noseum  
+- Daniel Seiwald – In-between  
+- Dinko Jelecevic – The Game of the Goose  
+- Emina Lozzo – Ghost Talk   
+- Robert Aumayr – Solitude   
+- Petrit Vesjeli – Escape from the Unknown  
+- Sabrina Kullmaier & Julian Lebitsch – Continuity 
