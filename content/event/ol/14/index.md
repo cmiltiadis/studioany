@@ -11,9 +11,8 @@ abstract: 'A lot of images, architectural blogs, Dezeen, ArchDaily, internet, pu
 authors: [Miro Roman]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +46,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-14-miro-roman-void-brands-characters-and-how-to-deal-with-a-lots/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL14_Roman.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/253642887'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/253642887'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=c4d1bb08-4169-4f03-bc18-0d05b12f3258'
 ---
 
 {{<vimeo 253642887>}}

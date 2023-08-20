@@ -1,6 +1,6 @@
 ---
 title: 'IAM Open Lecture 27: See and Tell. Image and Imaginary Strategies: Artist talk & film screening'
-subtitle: ''
+slug: ol-27
 draft: false
 # SUMMARY
 summary: ''
@@ -11,9 +11,8 @@ abstract: 'The creation of imaginaries from the geography of Finisterre (from th
 authors: [Eduardo Brito]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +46,8 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol27-eduardo-brito-see-and-tell-image-and-imaginary-strategies-artist-talk-film-screening/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL27_Brito.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: ''
+  icon: 'file-pdf'
+  icon_pack: fas
 ---
 
 [no video]

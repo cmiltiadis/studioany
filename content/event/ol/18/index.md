@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 18: Architectonics : Film presentation & discussion'
+slug: ol-18
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'The Belgian artist Anouk De Clercq embraces the power of computer des
 authors: [Anouk De Clercq]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,15 +47,11 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-18-anouk-de-clercq-architectonics-film-presentation-discussion/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL18_DeClercq.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: ''
+  icon: 'file-pdf'
+  icon_pack: fas
 ---
 
 [no video]
-
 
 
 **Anouk De Clercq** studied piano in Ghent and film at the Sint Lukas Brussels University College of Art and Design. Her works explore the audiovisual potential of computer language to create possible worlds, many of which have a strongly architectonic character. She has received several awards, including the Illy Prize at Art Brussels in 2005 and a Prix Ars Electronica Honorary Mention in 2014. Her work has been shown in Tate Modern, Centre Pompidou, Museo Nacional Centro de Arte Reina Sofia, MAXXI, Centre d’Art Contemporain Genève, International Film Festival Rotterdam, Ars Electronica, among others. Anouk De Clercq is affiliated to the School of Arts University College Ghent as an artistic researcher. She’s a founding member of Auguste Orts and is represented by Gallery Sofie Van de Velde.

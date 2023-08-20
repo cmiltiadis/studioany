@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 15: The Designed and Self-organized. Coupling distinct paradigms of deposition-based construction'
+slug: ol-15
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'How can we start to limit our decimation of the Earth by utilising id
 authors: [Asya Ilgun]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-15-asya-ilgun-the-designed-and-self-organized-coupling-distinct-paradigms-of-deposition-based-construction/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL15_Ilgun.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/253029359'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/253029359'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=82b4d761-2718-423b-8aff-759fca3e9994'
 ---
 
 {{<vimeo 253029359>}}

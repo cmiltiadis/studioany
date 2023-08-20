@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 1: Sound to Space'
+slug: ol-1
 subtitle: ''
 draft: false
 # SUMMARY
@@ -47,7 +48,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/iam-open-lectures-1-jan-henrik-hansen-iohannes-zmoelnig-sound-to-space/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL1_Henrik_Zmolnig.pdf'
-
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/312573311'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=0205157d-e33e-46c4-882a-8642244393bf'
 
 #  - icon: twitter
 #    icon_pack: fab
@@ -56,17 +65,10 @@ links:
 
 # LINKS 
 #url_code: ''
-url_pdf: ''
 #url_slides: ''
-url_video: 'https://vimeo.com/312573311'
 ##################################################################
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ---
 

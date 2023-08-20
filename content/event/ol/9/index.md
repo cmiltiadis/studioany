@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture & Performance 9: CPPG Composition, Performance and Perception of Gamified Audiovisual Works'
+slug: ol-9
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'This talk will present questions, methodologies and results from the 
 authors: [Marko Ciciliani]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-9-marko-ciciliani-cppg-composition-performance-and-perception-of-gamified-audiovisual-works/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL9_Ciciliani.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/236586871'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/236586871'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=e2e2f670-9019-44c0-a0c8-b52b298081ef'
 ---
 
 {{<vimeo 236586871>}}

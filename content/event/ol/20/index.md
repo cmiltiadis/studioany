@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 20: Being There in Virtual Worlds: Embodiment as Foundation of Spatial Conception in Virtual Environments'
+slug: ol-20
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Roaming the vast landscape of Skyrim (Bethesda, 2011) or driving a sp
 authors: [Frank Fetzer]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-20-frank-fetzer-being-there-in-virtual-worlds/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL20_Fetzer.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/282863062'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/282863062'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=e00f451b-44f1-4d2b-8a40-4f0114f6238f'
 ---
 
 {{<vimeo 282863062>}}

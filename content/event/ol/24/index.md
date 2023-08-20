@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture & VR Experience 24: Synthetic corporeality in Contemporary Digital Art Practice: Artist Talk'
+slug: ol-24
 subtitle: ''
 draft: false
 # SUMMARY
@@ -12,9 +13,8 @@ Menegon’s „Plug your nose and try to hum“ VR installation can be seen and 
 authors: [Martina Menegon]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -48,11 +48,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol24-martina-menegon-synthetic-corporeality-in-contemporary-digital-art-practice-artist-talk-vr-experience/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL24_Menegon.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/299012305'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/299012305'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=2d261fbb-d1a7-4cbb-9601-831523033e12'
 ---
 
 {{<vimeo 299012305>}}

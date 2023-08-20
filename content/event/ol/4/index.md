@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 4: Robot-Aided Architecture'
+slug: ol-4
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'When investigating and developing digitally aided design methods and 
 authors: [Abel Groenewolt]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -49,16 +49,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-4-abel-groenewolt-robot-aided-architecture/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL4_Groenewolt.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/195939911'
-##################################################################
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/195939911'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=a2afd6a9-492f-40d0-b4b6-dd179ada1f5c'
 ---
 
 <!--

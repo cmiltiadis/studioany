@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 7: Robotic rod bending'
+slug: ol-7
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'In this talk Maria will present her current research focused on devel
 authors: [Maria Smigelska]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,16 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-7-maria-smigelska-robotic-rod-bending/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL7_Smigelska.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/214800687'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/214800687'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=1a976d67-92f0-42ec-81e5-9e862f812ed0'
+
 ---
 
 {{<vimeo 214800687>}}

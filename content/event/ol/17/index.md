@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 17: Behind the visual: Digitalization of Indian Stone Architecture'
+slug: ol-17
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'The lecture will present the current state of the 3-year FWF-Project 
 authors: [Gerald Kozicz,Ludwig Grimm]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-17-gerald-kozicz-ludwig-grimm-behind-the-visual-digitalization-of-indian-stone-architecture/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL17_Kozicz_Grimm.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/270385158'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/270385158'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=ed3ad10c-bd4a-40e8-b194-3c96c55aa2bb'
 ---
 
 {{<vimeo 270385158>}}

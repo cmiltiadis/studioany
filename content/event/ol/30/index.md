@@ -1,6 +1,6 @@
 ---
 title: 'IAM Open Lecture 30: Of Mirrors and Plays: Heterotopia as a design tool'
-subtitle: ''
+slug: ol-30
 draft: false
 # SUMMARY
 summary: ''
@@ -12,9 +12,8 @@ authors: [Boris Hamzeian, Filippo Fanciotti, False Mirror Office]
 # 
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -48,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol30-false-mirror-office-of-mirrors-and-plays-heterotopia-as-a-design-tool/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL30_FMO.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/346087697'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/346087697'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=3c733b16-f753-47b1-b034-258fb81dc6ae'
 ---
 
 {{<vimeo 346087697>}}

@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 12: From VFX to experimental animation and generative design'
+slug: ol-12
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Computer animation and visual effects have seen a tremendous developm
 authors: [Georgios Cherouvim]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-12-georgios-cherouvim-from-vfx-to-experimental-animation-and-generative-design/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL12_Cherouvim.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/237071298'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/237071298'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=0ed7e6ec-c084-4956-82da-d1579908355d'
 ---
 
 {{<vimeo 237071298>}}

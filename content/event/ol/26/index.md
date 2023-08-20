@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 26: Simulations of Built Heritage as Urban Commons'
+slug: ol-26
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Built heritage can be used to influence positively the social cohesio
 authors: [Georgios Artopoulos]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,12 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol26-georgios-artopoulos-simulations-of-built-heritage-as-urban-commons/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL26_Artopoulos.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/310964014'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/310964014'
 ---
 {{<vimeo 310964014>}}
 

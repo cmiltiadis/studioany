@@ -1,6 +1,6 @@
 ---
 title: 'IAM Open Lecture 29: Fiction[-]Time: The Design of Time'
-subtitle: ''
+slug: ol-29
 draft: false
 # SUMMARY
 summary: ''
@@ -11,9 +11,8 @@ abstract: 'Starting from the notion of “Parachronism”, it is discussed the p
 authors: [Giacomo Pala]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +46,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol29-giacomo-pala-fiction-time-the-design-of-time/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL29_Pala.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/338746746'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/338746746'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=1445ad66-98cd-4c43-bd89-2bd48cdd741c'
 ---
 
 {{<vimeo 338746746>}}

@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 19: From Architecture to architectures'
+slug: ol-19
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Architecture is synonymous with the notion of structure/construction/
 authors: [Mariana Bisti]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,8 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-19-mariana-bisti-from-architecture-to-architectures'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL19_Bisti.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: ''
+  icon: 'file-pdf'
+  icon_pack: fas
 ---
 
 [no video]

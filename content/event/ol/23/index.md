@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 23: Maker Cultures: Dominant discourse and the possibility of heterogeneous practices'
+slug: ol-23
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'The nascent increase of Do-It-Yourself (DIY) narratives, makerspaces,
 authors: [Ellen K Foster]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,12 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol23-ellen-foster-maker-cultures-dominant-discourse-and-the-possibility-of-heterogeneous-practices/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL23_Foster.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/282869281'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/282869281'
 ---
 
 {{<vimeo 282869281>}}

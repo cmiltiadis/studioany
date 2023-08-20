@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 21: Cybernetics Architecture Information'
+slug: ol-21
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Liss C. Werner will lecture on the systemic inter-relationships and r
 authors: [Liss C. Werner]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,12 @@ links:
   url: 'https://iam.tugraz.at/main-website/open-lecture-21-liss-c-werner-cybernetics-architecture-information/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL21_Werner.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/282874647'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/282874647'
 ---
 
 {{<vimeo 282874647>}}

@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 2: Sound to Space'
+slug: ol-2
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Sound is an artifact of motion, informing about its cause and its pro
 authors: [Werner Jauk]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # EVENT NAME 
@@ -50,17 +50,8 @@ links:
   url: 'https://iam.tugraz.at/main-website/iam-open-lectures-2-prof-werner-jauk-sound-to-space/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL2_Jauk.pdf'
-
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: ''
-##################################################################
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
+  icon: file-pdf
+  icon_pack: fas
 ---
 
 In the scope of the Virtual Spaces Master Studio, and the Interdisciplinary Media: Space to Sound, we are pleased to announce the IAM Open Lecture #2 by Prof. Werner Jauk, titled „Sound to (auditory) space“.

@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 3: Affair on a Fantastic Planet'
+slug: ol-3
 subtitle: ''
 draft: false
 # SUMMARY
@@ -12,9 +13,8 @@ In this talk Mihye An will present her book “Atlas of Fantastic Infrastructure
 authors: [Mihye An]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, video, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # EVENT NAME 
@@ -49,11 +49,8 @@ links:
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-3-mihye-an-affair-on-a-fantastic-planet/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL3_Mihye.pdf'
-##################################################################
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
+  icon: 'file-pdf'
+  icon_pack: fas
 ---
 
 IAM Open Lectures #3  

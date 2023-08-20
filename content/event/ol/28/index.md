@@ -1,6 +1,6 @@
 ---
 title: 'IAM Open Lecture 28: Scavengers and Other Creatures'
-subtitle: ''
+slug: ol-28
 draft: false
 # SUMMARY
 summary: ''
@@ -11,7 +11,7 @@ abstract: 'The lecture will present how storytelling, collapsing environments an
 authors: [Ricardo de Ostos]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
@@ -47,11 +47,12 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol28-ricardo-de-ostos-scavengers-and-other-creatures/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL28_deOstos.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/340734144'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/340734144'
 ---
 
 {{<vimeo 340734144>}}

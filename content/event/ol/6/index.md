@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 6:  Machine Learning from Las Vegas'
+slug: ol-6
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'What is needed for the development of a future-oriented computational
 authors: [Pierre Cutellic]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -48,16 +48,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-6-pierre-cutellic-machine-learning-from-las-vegas/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL6_PierreCutellic.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/216165949'
-##################################################################
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/216165949'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=a9152a78-0e6f-47b7-98fe-c8df36df2165'
 ---
 
 {{<vimeo 216165949>}}

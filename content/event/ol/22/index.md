@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 22: On Real and Virtual Space'
+slug: ol-22
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'In his article “The Virtual and the Real”, philosopher David Chal
 authors: [Anita Leirfall]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,15 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol22-anita-leirfall-on-real-and-virtual-space/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL22_Leirfall.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/282884124'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/282884124'
+- name: TUbe
+  icon: video
+  url: 'https://tube.tugraz.at/paella/ui/watch.html?id=d4a81434-0a3a-4c91-9c35-d30294a8232c'
 ---
 
 {{<vimeo 282884124>}}

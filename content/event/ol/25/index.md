@@ -1,5 +1,6 @@
 ---
 title: 'IAM Open Lecture 25: The Sixth Wave of Computing, or why Augmented Reality is not just for Architects'
+slug: ol-25
 subtitle: ''
 draft: false
 # SUMMARY
@@ -11,9 +12,8 @@ abstract: 'Augmented Reality is gradually moving from early consumer hypes, like
 authors: [Wolfang Walcher]
 categories: [curatorial]
 #TAGS
-tags: [IAM Open Lectures, curatorial, IAM TU Graz, fix, poster]
+tags: [IAM Open Lectures, curatorial, IAM TU Graz]
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: [open-lectures]
 ##################################################################
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -47,11 +47,12 @@ links:
   url: 'https://iam.tugraz.at/main-website/ol25-wolfang-walcher-the-sixth-wave-of-computing-or-why-augmented-reality-is-not-just-for-architects/'
 - name: 'Event Poster'
   url: '/IAM-open-lecture-posters/OL25_Walcher.pdf'
-# LINKS 
-#url_code: ''
-url_pdf: ''
-#url_slides: ''
-url_video: 'https://vimeo.com/299001337'
+  icon: 'file-pdf'
+  icon_pack: fas
+- name: Video
+  icon: 'vimeo-v'
+  icon_pack: fab
+  url: 'https://vimeo.com/299001337'
 ---
 
 {{<vimeo 299001337>}}
