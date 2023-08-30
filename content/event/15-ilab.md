@@ -9,7 +9,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [presentation, fix, add content]
+tags: [presentation, virtual reality, ]
 ##################################################################
 # EVENT NAME 
 event: 'i-Lab'
