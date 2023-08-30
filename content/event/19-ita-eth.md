@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 title: 'Inconstructible Architectures'
 draft: false
 # SUMMARY
@@ -26,7 +25,7 @@ publishDate: '2023-01-01T00:00:00Z'
 # LOCATION 
 location: 'Open Space 2, Arch_Tec_Lab (HIB)'
 address:
-  street: 'Stefano-Franscini-Platz 1 (ETH Hönggerberg Campus)'
+  street: 'ETH Hönggerberg Campus'
   city: 'Zurich'
   region: 'Switzerland'
 ##################################################################
