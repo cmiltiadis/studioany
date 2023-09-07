@@ -29,4 +29,6 @@ The digital counterpart requires her to wear a 20 LED suit to wonder in the virt
 
 [Chair for CAAD ETHz](http://caad.ethz.ch/) / 2014
 
-{{< gallery album = "14-vrb" >}}
+```
+gallery album = "14-vrb" 
+```
