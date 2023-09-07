@@ -5,7 +5,7 @@ title: "Decoded Language"
 subtitle: ""
 summary: "Interactive installation for Kinect V2, Supercollider, and projector; IEM, 2019."
 authors: [admin]
-tags: [installation, audiovisual installation, interactive installation, supercollider, fix, remove keyshot stamp]
+tags: [installation, audiovisual installation, interactive installation, Supercollider, fix, remove keyshot stamp]
 categories: [projects]
 date: 2019-01-15T18:18:58+03:00
 #lastmod: 2023-08-06T18:18:58+03:00
@@ -21,7 +21,7 @@ image:
   preview_only: false
 
 links:
-- name: 'Exhibition text'
+- name: 'Brochure'
   url: '19-cmiltiadis-decoded-language.pdf'
 
 # Projects (optional).
@@ -35,13 +35,9 @@ The installation granulates the audio from Saul William’s “coded language�
 “decoded language” was developed at IEM with the help of Prof. Marko Ciciliani and Prof. Daniel Mayer, and presented at the IEM CUBE Concert in January 2019.  
 An earlier version developed with Pure Data and presented in December 2017 at IAM.
 
-Installation catalogue http://studioany.com/wp-content/uploads/2019/03/cmiltiadis_DecodedLanguage_Catalogue.pdf
-
 Multi-user interactive sound installation for Supercollider, Java, KinectV2 and projector
 
 Institute of Electronic Music, University of Music and Performing Arts, Graz, 2019
 
-<!--
-until is final
+
 {{< gallery album="decoded-language">}}
--->

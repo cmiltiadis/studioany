@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Interactive Kinetic Structures"
 subtitle: ""
 summary: "Diploma thesis at NTU-Athens (2012)"

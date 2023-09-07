@@ -1,5 +1,6 @@
 ---
-title: 'VR exhibition at TU Graz VR Night'
+title: 'VR exhibition at TU Graz VR Night [DRAFT]'
+slug: vr-night
 subtitle: ''
 draft: true
 # SUMMARY

@@ -4,8 +4,8 @@
 title: "Extensile"
 subtitle: ""
 summary: ""
-authors: [admin, achilleas-xydis, Mariana Popescu]
-tags: [teaching, workshop, robotics, CNC]
+authors: [achilleas-xydis,  admin,Mariana Popescu]
+tags: [teaching, workshop, robotics, CNC, fix ]
 categories: [teaching]
 date: 2015-05-07T16:39:47+03:00
 #lastmod: 2023-08-07T16:39:47+03:00
@@ -33,9 +33,6 @@ Extensile is the product of a 2 week intensive workshop, given at the MAS studen
 
 [![](http://studioany.com/wp-content/uploads/2016/01/presintation_final_Page_16-640x400.png)](http://studioany.com/teaching/extensile/none)
 
-[](http://studioany.com/teaching/extensile/none)
-
-[](http://studioany.com/teaching/extensile/none)
 
 [Extensile](https://vimeo.com/130539347) from [MAS CAAD](https://vimeo.com/mascaad) on [Vimeo](https://vimeo.com/).
 
