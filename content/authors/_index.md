@@ -1,4 +1,5 @@
 ---
+title: Collaborators & Friends
 cms_exclude: true
 
 # To publish author profile pages, remove all of the `_build` and `cascade` settings below.
@@ -8,6 +9,10 @@ cascade:
   <!--_build:
     render: never
     list: always-->
+
+# TEST 
+type: landing
+view: 1  
 ---
 
 <!-- 230805 - 1st day, removed per instructions-->
