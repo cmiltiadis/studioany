@@ -15,7 +15,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: 'Visual artist and educator, co-founder of Station of Commons'
+role: 'Visual artist and educator'
 
 # Organizations/Affiliations to show in About widget
 organizations:

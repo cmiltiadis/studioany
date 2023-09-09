@@ -15,7 +15,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: 'Media artist and interaction designer; researcher'
+role: 'Media artist and interaction designer; researcher at EPFL'
 
 # Organizations/Affiliations to show in About widget
 organizations:

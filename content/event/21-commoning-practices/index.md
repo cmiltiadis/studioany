@@ -43,7 +43,7 @@ links:
 - name: 'Review by Ksenia Kaverina (NO NIIN)'
   url: 'https://no-niin.com/issue-3/producing-and-practicing-presence-digital-commoning-practices-in-oksasenkatu-11/'
 # Projects (optional).
-projects: []
+projects: [soc]
 ---
 
 Co-curation and hosting of the lecture part in [Phase 2](#p2) of the exhibition *Digital Commoning Practices*, by *Station of Commons* that took place at the artist-run gallery *Oksasenkatu 11*, in Helsinki, March 6-28 2021, during lockdown. See [exhibition credits](#credits) and [lecture programme](#lecture-programme)

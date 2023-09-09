@@ -1,11 +1,12 @@
 ---
 title: "Lumbung Radio"
-subtitle: "Interlocal radio station for Documenta fifteen; global, live since April 2022"
-summary: "Interlocal radio station for Documenta fifteen; global, live since April 2022."
+subtitle: "Multi-collective interlocal online radio station for Documenta fifteen; global, live since April 2022"
+summary: "Multi-collective interlocal online radio station for Documenta fifteen; global, live since April 2022."
 abstract: ''
-authors: [Gregoire Rousseau, Eddie Choo Wen Yi, admin, Juan Gomez, Alain Ryckelynck, Minera Ruolahti]
+authors: [Gregoire Rousseau, Alain Ryckelynck, Eddie Choo Wen Yi, admin, Juan Gomez,  Minerva Ruolahti]
 tags: [online radio, sound practice,open infrastructure,documenta 15,working group]
 categories: [commons]
+projects: [soc]
 date: 2022-04-08T21:54:44+03:00
 #lastmod: 2023-08-08T21:54:44+03:00
 featured: false
@@ -35,11 +36,12 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-projects: []
 ---
 
+{{< toc >}}
+
+[^d15d]: https://documenta-fifteen.de/en/lumbung-radio/
+## Lumbung radio description at d15[^d15d]
 _lumbung Radio_ is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server. 
 
 *lumbung Radio* the result of the radio working group (consisting of the initial members **Grégoire Rousseau**, **Malene Saalmann**, **Gözde Filinta**, **Ayşe Güleç**, and **Reza Afisina**) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen [_ekosistem_](https://documenta-fifteen.de/en/glossary/?entry=ekosistem).
@@ -50,12 +52,14 @@ _lumbung Radio_ is the online community radio project of documenta fifteen (d15)
 
 In November 2022, *Station of Commons* was awarded a 3-year grant by the [KONE foundation](https://koneensaatio.fi/en/) for the coordination of *lumbung Radio*. 
 
+lumbung radio was invited to participate to the 2023 Miss Read Berlin Art Book Fair 22-24.09.2023 at HKW, and co-organize the pre-fair programme of the festival, between 17-21.09.2023. 
+
 ---
 
 {{< youtube jGqzHTjExho>}}
 
 ---
-# Participating networks
+## Participating networks
 
 - [RURUradio](https://rururadio.org/), Jakarta, Indonesia
 - [The Nifty Radio](https://thenifty.radio/), Bogor, Indonesia
@@ -79,11 +83,18 @@ In November 2022, *Station of Commons* was awarded a 3-year grant by the [KONE f
 - [Radio Nopal](https://radionopal.com/), Mexico-City, Mexico
 - [Radio Ensayo](https://radioensayo.com), Yucatan, Mexico
 - [Radio Cocina Colaboratorio](http://www.colaboratorykitchen.com), Mexico-City / Oaxaca / Chiapas, Mexico
-- Good Morning, I Love You, Nicosia, Cyprus
+- Good Morning, I Love You, Nicosia, Cyprus  (Now *Affects & Dreams*, Berlin)
 - [Station of Commons](https://stationofcommons.org/) 
 
 ---
 
-Co-ordination team member,  active primarily during the initial phase of the project between August 2021 and early 2022.
+## Station of Commons team 
+- Grégoire Rousseau (project coordination; d15 on-site team)
+- Alain Ryckelynck (development, maintenance, and support of open technical infrastructure)
+- Eddie Choo Wen Yi (d15 on-site team; lumbung radio coordinator since mid-2022)
+- Juan Gomez (graphic design)
+- Essi Pellikka (lumbung radio publication coordinator since early 2023)
+- Minerva Ruolahti (coordination and content production for SoC)
+- Constantinos Miltiadis (contributor to initial project coordination between August 2021 and early 2022, and event production at d15)
 
 <!--invites Helsinki-based artists to release their sound archives or new material: Samuli Tanner and Heta Bilaletdin, MYÖS DJ collective, Kiilan Äänipäivät, among others to be announced.-->
