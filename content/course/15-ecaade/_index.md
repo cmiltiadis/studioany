@@ -1,9 +1,9 @@
 ---
-title: "Virtual / Augmented Reality in Architectural Visualisation"
+title: "VR & AR in Architectural Visualisation"
 subtitle: "Workshop at eCAADe 2015 *Real-time*, TU Wien"
 summary: "Workshop at eCAADe 2015 *Real-time*, TU Wien"
 authors: [admin, Achilleas Xydis]
-tags: [workshop, virtual reality, augemented reality, fix]
+tags: [workshop, virtual reality, augemented reality]
 categories: [teaching]
 date: 2015-09-14T16:41:06+03:00
 # lastmod: 2023-08-07T16:41:06+03:00
@@ -14,58 +14,50 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Image credit: Achilleas Xydis & Constantinos Miltiadis | Model: Despoina Pippa"
   focal_point: "Top"
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+# Projects
 projects: []
 ---
 
-The workshop is aiming to get participants familiar with contemporary tools and practices regarding Virtual and Augmented Reality. It will offer an introduction to the Unity 3D game engine and workflow for developing applications focused on architectural visualization. Using the Oculus Rift and the Leap Motion controller, participants will learn how to create Virtual Reality experiences, as well as Augmented Reality mobile applications.
+## Workshop information
 
-The workshop was given on the 14 and 15th of September, at TU Wien, Vienna, Austria, as part of the eCAADe 2015 conference themed “Real-time”.
+2-day workshop on AR and VR application development for architectural visualization at the eCAADe 2015 conference titled 'Real-Time.' TU Vienna, September 14-15, 2015. 
 
-Workshop Schedule
+**Workshop brief**  
+The workshop aims to get participants familiar with using Virtual and Augmented Reality for architectural visualization. The workshop will offer a brief introduction of the Unity 3D game engine, demonstrate workflows for developing VR and AR applications, and support participants to create their own applications.  The first day of the workshop will cover creating navigable VR applications for the Oculus DK2 HMD, also using the Leap Motion controller. The second day will cover mobile AR application development for iOS and Android using the Vuforia SDK. 
 
-[![oculus_Leap](http://studioany.com/wp-content/uploads/2016/01/oculusLeap7-1024x576.png)](http://studioany.com/wp-content/uploads/2016/01/oculusLeap7.png)
+**Workshop schedule**
 
-Day 1:
+Day 1
 
 - Software installation
-- Presentation of the tutors’ previous work with Unity that includes virtual & ugmented reality applications, realtime interaction, projection mapping, audio applications, real-time graphics, design parametrisation
-- Introduction and familiarisation with the environment of Unity 3D, and its core capabilities
+- Introduction of tutors and participants 
+- Introduction to Unity and familiarisation with its interface and main features
 - Creation of a basic scene with a 3D model, and in-world navigation
-- Oculus Rift HMD implementation
-- Homework: Implementation of the participants’ own models in the scene
+- Oculus Rift HMD demonstration and implementation in Unity
+- Exercise: Design a VR scene with your own 3D models and content 
 
-[![ecaade_AR](http://studioany.com/wp-content/uploads/2016/01/ecaade_AR-1024x853.png)](http://studioany.com/wp-content/uploads/2016/01/ecaade_AR.png)
+Day 2
 
-Day 2:
-
-- Homework presentation
+- Presentation of participant's projects from Day 1
 - Q&A
 - Further development focusing on interaction / implementation of the Leap Motion controller with the Oculus Rift HMD
 - Introduction to mobile app development
-- Implementation of an Augmented Reality mobile SKD
-- Application development and installation
+- Implementation of mobile AR SDK
+- Application development and testing 
 
-Requirements:
-
+**Requirements**
 - Laptop
+- Installation of the latest Unity3D
 - Smart phone (optional)
 - Basic knowledge of C# or Java programming is an advantage
-- Installation of the latest Unity3D
 
-Workshop goals:  
-Through a brief but thorough presentation and hands-on usage of state of the art methods and technology on VR and AR, the workshop is aiming to offer participants ideas about applications in architecture, as well as the necessary knowledge to start developing their own, and a stable foundation for further development of their skills. Participants will leave the workshop with their own VR and AR laptop and mobile apps.
+**Tutors**  
+Constantinos Miltiadis    
+Achilleas Xydis 
 
-Tutors:  
-Constantinos Miltiadis | studioany.com  
-Achilleas Xydis | achilleasxydis.com
+---
 
-September 2015 / eCAADe 2015: Real-time
+{{< gallery album="15-ecaade-workshop">}}
