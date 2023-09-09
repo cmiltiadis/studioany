@@ -15,12 +15,14 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: 'Visual artist, educator'
+role: 'Visual artist and educator, co-founder of Station of Commons'
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 'gregoire.persona.co'
     url: 'https://gregoire.persona.co/'
+  - name: 'Station of Commons'
+    url: 'https://site.stationofcommons.org/'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
