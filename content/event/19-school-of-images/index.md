@@ -1,5 +1,5 @@
 ---
-title: 'Choropoietic Media: Against the cultural bias of the visual'
+title: 'Choropoietic media: Against the cultural bias of the visual'
 slug: school-of-images
 draft: false
 # SUMMARY
@@ -18,8 +18,8 @@ event: 'School of Images'
 event_url: 'https://www.onassis.org/whats-on/for-ever-more-images/school-of-images-a-workshop-with-james-bridle'
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2019-04-10T10:00:00Z'
-date_end: '2019-04-10T18:00:00Z'
-# all_day: false
+# date_end: '2019-04-10T18:00:00Z'
+all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
 ##################################################################
