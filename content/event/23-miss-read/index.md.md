@@ -35,8 +35,13 @@ slides: ""
 projects: [lumbung-radio, soc]
 ---
 
-Invited participation of [lumbung Radio](../../project/lumbung-radio) to the 2023 Miss Read Berlin Art Book Far at HKW, and co-organization of it's pre-fair week program. 
+Invited participation of [lumbung Radio](../../project/lumbung-radio) to the 2023 Miss Read Berlin Art Book Fair at HKW, and co-organization of it's pre-fair week program. 
 
+Miss Read Pre-fair  
+17-21.09.2023. Miss Read HQ, Wedding, Berlin [Programme TBA]    
+
+Miss Read Festival  
+22-24.09.2023, HKW, Berlin
 
 Station of Commons coordination team: 
 - Gregoire Rousseau
@@ -44,14 +49,10 @@ Station of Commons coordination team:
 - Essi Pellikka (lumbung radio publication coordinator)
 - Juan Gomez (design)
 - Alain Ryckelynck (technical infrastructure)
-- Constantinos Miltiadis (contributor to on-site production)
+- Constantinos Miltiadis (contribution to on-site production)
 
 <!--The pre-fair week will include discussions and performances, and 
 lumbung radio members will participate with live performances, discussions, and exhibition of publications. The  -->
 
-Miss Read Pre-fair  
-17-21.09.2023. Miss Read HQ, Wedding, Berlin [Programme TBA]    
 
-Miss Read Festival  
-22-24.09.2023, HKW, Berlin
 
