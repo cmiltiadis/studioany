@@ -1,0 +1,88 @@
+/*Soft reset */
+/*
+html, body, quote , bib {line-height: 1px: }ul, ol, li, form, fieldset, legend { margin: 0; padding: 0; } h1, h2, h3, h4, h5, h6, p { margin-top: 0; } fieldset,img { border: 0; } legend { color: #000; } li { list-style: none; } sup { vertical-align: text-top; } sub { vertical-align: text-bottom; } table { border-collapse: collapse; border-spacing: 0; } caption, th, td { text-align: left; vertical-align: top; font-weight: normal; } input, textarea, select { font-size: 110%; line-height: 1.1; } abbr, acronym { border-bottom: .1em dotted; cursor: help; }
+*/
+
+/*
+body {
+	/*font-size: .5em; 
+	text-align: left; 
+}
+*/
+
+
+p {
+	font-size: .7em; 
+	/*text-align: left;*/
+}
+
+/*
+ul {
+	font-size: .5em; 
+}
+*/
+
+/*
+ul {
+	text-align: left;
+	font-size: .7em;  
+	display: block; 
+} 
+*/
+
+/* bullets*/
+
+ul {
+	font-size: .5em;  
+}
+
+li {
+	/*font-size: .7em; */ /* .7 is too small*/
+	text-align: left;  
+}
+
+
+table {
+	font-size: .4em; 
+}
+
+.reveal blockquote{
+	text-align: left; 
+	padding-left: 20px; 
+	font-size: .5em; 
+}
+
+/*
+			CUSTOM CLASSES 
+*/ 
+
+footer{
+	margin-top: 10px; 
+}
+
+/*For normal test aligned left */
+pleft > p{
+	text-align: left; 
+}
+
+/* 
+Intended for bib references. LIne spacing works when bullet list 
+*/
+bib {
+	display: block; 
+	line-height: 2;
+	text-align: left;
+	font-size: 50%; 
+	margin-top: 120px;  /*stick to relative bottom*/
+
+	/*
+	position: relative;
+	bottom: 0px;*/
+}
+
+quote {
+	font-size: 0.7em; 
+	font-style: italic;
+	/*background-color: */
+}
+
