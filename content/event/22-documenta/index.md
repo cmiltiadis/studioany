@@ -10,7 +10,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin, Lain Iwakura, Niko Mas, Florian Fend, Waysatta Fernández]
 #TAGS
-tags: [concert, production, documenta 15] # add pics 
+tags: [concert, production, documenta 15, station of commons, lumbung radio, fix] # add pics 
 ##################################################################
 # EVENT NAME 
 event: 'Documenta Fifteen'
