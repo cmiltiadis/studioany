@@ -140,7 +140,7 @@ Nele van der Mossalen 
 
 Daniele Monaco 
 
-14.30-15.15 **Reasoning in C****omputerized and Non-Computerized Games**
+14.30-15.15 **Reasoning in Computerized and Non-Computerized Games**
 
 Ida Jorgensen
 
