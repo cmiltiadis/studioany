@@ -4,7 +4,7 @@ title: "7x Cabin"
 subtitle: ""
 summary: ""
 authors: [admin, Tom Pawlofski, Adel Albloushi, Georgios Anagnostopoulos, Christian Braun, Kaihong Chen, Grigorios Grigoriadis, Abel Groenewolt, Periklis Kyriakidis, Valle Medina, Regina Mirzoyants, Yu-ting Sheng, Togo Takamura]
-tags: [robotics, collaborative,timber, MAS CAAD]
+tags: [robotic fabrication, collaborative,timber, MAS CAAD]
 categories: [projects]
 date: 2014-02-10T19:22:31+03:00
 #lastmod: 2023-08-10T19:22:31+03:00
