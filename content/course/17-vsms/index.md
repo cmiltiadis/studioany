@@ -1,7 +1,7 @@
 ---
 title: "Virtual Spaces Master Studio: 16m2  labyrinths"
-subtitle: "Master Design Studio module, IAM, TU Graz; 2017."
-summary: "Master Design Studio module, IAM, TU Graz; 2017"
+subtitle: "Master design studio module. Institute of Architecture and Media, TU Graz, 2017"
+summary: "Master design studio module. Institute of Architecture and Media, TU Graz, 2017"
 authors: [admin]
 tags: [course, VSMS, master studio, IAM TU Graz]
 categories: [teaching]

@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Sound Spatialisation in Immersive VR Environments"
-subtitle: "3-day intensive workshop at Mapping Festival 2016; Geneva"
-summary: "3-day intensive workshop at Mapping Festival 2016; Geneva."
+subtitle: "3-day intensive workshop at Mapping Festival 2016, Geneva"
+summary: "3-day intensive workshop at Mapping Festival 2016, Geneva"
 authors: [admin, achilleas-xydis, shammas]
 tags: [teaching, workshop, festival, exhibition, spatialization, virtual reality, Mapping Festival, Geneva, spatial audio]
 categories: [teaching]

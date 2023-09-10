@@ -1,7 +1,7 @@
 ---
 title: "Virtual Spaces Master Studio"
-subtitle: "Design studio module. IAM, TU Graz, 2016"
-summary: "Design studio module. Institute of Architecture and Media, TU Graz, 2016"
+subtitle: "Master design studio module. Institute of Architecture and Media, TU Graz 2016"
+summary: "Master design studio module. Institute of Architecture and Media, TU Graz, 2016"
 authors: [admin]
 tags: [course, VSMS, master studio, virtual reality, TU Graz, IAM]
 categories: [teaching]
