@@ -6,13 +6,7 @@ draft: false
 # SUMMARY
 summary: 'Presentation at the workshop *Thinking Practices in Art and Media*. Aalto ARTS, 2023'
 # ABSTRACT 
-abstract: "What is contemporary craft? 
-Unlike vernacular notions of craft -- involving situated knowledges of a place and its available material which are cultivated over generations and performed by masters -- the notion of craft in our times poses a challenge, even more so in the context of research. 
-The presentation will discuss notions of digital craft based on my research that investigates virtual space and movement *through exploratory design experimentation*. 
-While virtual environments are ubiquitous, digital media like virtual reality and videogames are lacking formal foundations or discourses pertaining to their design and development.
-In my work I approach virtual space as a 'contemporary material', something that necessitates practical experimentation for investigating its capacities and potentials. I develop experimental prototypes to investigate virtual environments that are experienceable, however, impossible to construct or come across in the physical world. 
-The aim of this practice is twofold: the exploration of the design space of such media through experienceable artifacts which also serve as research objects, parallel to the investigation of what is possible to experience. 
-Lastly, the presentation will discuss current difficulties in admitting design prototypes, and especially 'playable artifacts' as research objects."
+abstract: "What is contemporary craft? Unlike vernacular notions of craft -- involving situated knowledges of a place and its available material which are cultivated over generations and performed by masters -- the notion of craft in our times poses a challenge, even more so in the context of research.The presentation will discuss notions of digital craft based on my research that investigates virtual space and movement *through exploratory design experimentation*. While virtual environments are ubiquitous, digital media like virtual reality and videogames are lacking formal foundations or discourses pertaining to their design and development. In my work I approach virtual space as a 'contemporary material', something that necessitates practical experimentation for investigating its capacities and potentials. I develop experimental prototypes to investigate virtual environments that are experienceable, however, impossible to construct or come across in the physical world. The aim of this practice is twofold: the exploration of the design space of such media through experienceable artifacts which also serve as research objects, parallel to the investigation of what is possible to experience. Lastly, the presentation will discuss current difficulties in admitting design prototypes, and especially 'playable artifacts' as research objects."
 ##################################################################
 # AUTHORS 
 authors: [admin]
@@ -53,7 +47,7 @@ featured: false
 ##################################################################
 
 # Markdown Slides (optional).
-slides: ''
+slides: spacetimecraft
 # Projects (optional).
 projects: []
 ---

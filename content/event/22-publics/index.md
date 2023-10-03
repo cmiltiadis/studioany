@@ -27,13 +27,17 @@ address:
 # AUTHORS 
 authors: [admin, Bassam El Baroni]
 #TAGS
-tags: [infrastructure, digitalization, platform economy]
+tags: [infrastructure, digitalization, platform economy, presentation]
 ##################################################################
-
 # FEATURED
 # Is this a featured talk? (true/false)
 featured: false
 
+links: 
+- name: 'Event brochure'
+  url: 'Shape-Participants-Info-Schedule.pdf'
+  icon: 'file-pdf'
+  icon_pack: fas
 # IMAGE 
 image:
   caption: '' # 
