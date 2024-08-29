@@ -32,7 +32,7 @@ projects: []
 
 
 
-In May 2023, I was awarded the inaugural [ACADIA Cultural History Project Fellowship](http://acadia.org/news/69P4TY)together with Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).[^fellows] 
+In May 2023, I was awarded the inaugural [ACADIA Cultural History Project Fellowship](http://acadia.org/news/69P4TY) together with Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).[^fellows] 
 
 The fellowship entailed production of work related to the 'archive' of ACADIA, which at the time was an Excel sheet listing all papers published between 1985 and 2020, and a cloud drive with PDFs of conference proceedings volumes and other publications of ACADIA (e.g. quarterlies, membership lists, etc.).
 
