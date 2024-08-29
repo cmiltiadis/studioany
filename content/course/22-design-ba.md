@@ -1,7 +1,7 @@
 ---
-title: "Design BA thesis advisor"
-subtitle: "Thesis advisor for design research"
-summary: "English language Design BA. Aalto ARTS, 2022"
+title: "Design research thesis course"
+# subtitle: "Thesis advisor for design research"
+summary: "Design BA Program. Aalto ARTS, 2022"
 authors: [admin, Oscar Person, Namkyu Chun]
 tags: [design research, advising]
 categories: [teaching]
@@ -22,6 +22,8 @@ image:
 projects: []
 ---
 
-Thesis advisor for the English language [Design BA](https://www.aalto.fi/en/study-options/design-bachelor-of-arts-master-of-arts-art-and-design) programme taught by Oscar Person and Namkyu Chun. Dept. of Design, Aalto University, School of ARTS, 2022. Completed theses: 
-- [Ilona Pakarinen – Community driven anti-harassment strategies for MMOGs](https://aaltodoc.aalto.fi/handle/123456789/115534).
-- [Reti Kilvet – Nudging for sustainable consumption](https://aaltodoc.aalto.fi/handle/123456789/119014).
+Bachelor thesis course tutor and thesis advisor for the English-language [Design BA](https://www.aalto.fi/en/study-options/design-bachelor-of-arts-master-of-arts-art-and-design) program taught by Oscar Person and Namkyu Chun. Department of Design, Aalto University, School of ARTS, 2022. 
+
+Advisor for the theses:  
+- Pakarinen, Ilona. ‘Community Driven Anti-Harassment Strategies for MMOGs’. Bachelor Thesis, Aalto University, School of Art and Design, 2022. Aalto ARTS. [https://urn.fi/URN:NBN:fi:aalto-202207034373](https://urn.fi/URN:NBN:fi:aalto-202207034373).
+- Reti Kilvet. ‘Nudging for Sustainable Fashion Consumption: A Concept Design Based on Expert and Consumer Analysis’. Bachelor Thesis, Aalto University, School of Art and Design, 2022. Aalto ARTS. [https://urn.fi/URN:NBN:fi:aalto-202301221368](https://urn.fi/URN:NBN:fi:aalto-202301221368).

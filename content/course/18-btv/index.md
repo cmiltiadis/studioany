@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Visual"
-subtitle: "Workshop part of the OSSA 2018 Architecture Festival *Vision*"
-summary: "Workshop part of the OSSA 2018 Architecture Festival *Vision*"
+subtitle: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
+summary: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
 authors: [admin, gerriet-sharma]
 tags: [workshop, virtual reality, spatial audio, spatiotemporal design, exhibition]
 categories: [teaching, spatial audio]
@@ -67,7 +67,6 @@ The second half of the workshop started with blindfolded listening sessions of  
 ### Lectures 
 
 *The Aesthetics of Presence in Inconstructible Spaces I & II* -- public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łodz.
-
 ### Presentation & exhibition
 The workshop participants held a presentation and exhibition of the workshop outcomes on Saturday, October 21, at the Art Inkubator, in Łodz.
 
@@ -91,7 +90,6 @@ Ihor Savchenko
 
 ### Spatial audio piece  
 [grrawe](https://www.gksh.net/portfolio/grrawe/) (spatial audio composition for an 8-channel loudspeaker ring; 2009-2010) by Gerriet K. Sharma  
-
 ### Teachers  
 Constantinos Miltiadis  
 Gerriet K. Sharma 
