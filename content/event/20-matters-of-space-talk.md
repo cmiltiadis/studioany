@@ -4,7 +4,7 @@ draft: false
 # SUMMARY
 summary: 'Guest lectures at TU Berlin & HafenCity University Hamburg, 2020'
 # ABSTRACT 
-abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Gunzel & Gerriet K. Sharma at TU Berlin and HafenCity University Hamburg.'
+abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Günzel, and Gerriet K. Sharma at TU Berlin and HafenCity University Hamburg.'
 ##################################################################
 # AUTHORS 
 authors: [admin]

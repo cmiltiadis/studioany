@@ -9,7 +9,7 @@ abstract: 'Space, as the substrate that conditions design and architecture is of
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [presentation, virtual reality, virtual architecture, digital spatial media, Zurich]
+tags: [presentation, virtual reality, virtual architecture, digital spatial media, Zurich, ETH Zurich]
 ##################################################################
 # EVENT NAME 
 event: 'ITA Lunch Talks'
@@ -39,12 +39,6 @@ featured: false
 #  focal_point: Right
 ##################################################################
 
-# CUSTOM LINKS 
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
 # LINKS 
 #url_code: ''
 #url_pdf: ''
@@ -60,5 +54,3 @@ slides: ''
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
-
-EMPTY
