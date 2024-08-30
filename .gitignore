@@ -11,3 +11,6 @@ go.sum
 
 # obsidian 
 .obsidian
+
+# temp folder 
+temp/
