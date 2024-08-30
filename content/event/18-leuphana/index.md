@@ -43,7 +43,8 @@ featured: false
 
 links: 
 - name: 'Abstract PDF'
-  url: '18-cmiltiadis-architectural-continuum-digital-cultures.pdf'
+  url: 'uploads/18-cmiltiadis-architectural-continuum-digital-cultures.pdf'
+  icon: file-pdf
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow

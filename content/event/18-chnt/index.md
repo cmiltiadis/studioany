@@ -25,8 +25,8 @@ address:
 links: 
 - icon: file-pdf ####### SLIDES 
   icon_pack: fas
-  name: Slides
-  url: '2018_cmiltiadis_CHNT.pdf'
+  name: Presentation slides
+  url: 'uploads/18-cmiltiadis-CHNT.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

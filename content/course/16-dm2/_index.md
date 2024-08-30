@@ -21,7 +21,7 @@ links:
 - icon: 'file-pdf'
   icon_pack: fas
   name: 'Introduction to P5 programming booklet'
-  url: '16-cmiltiadis-DM2-Processing-Booklet.pdf'
+  url: 'uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf'
 
 # Projects (optional).
 projects: []

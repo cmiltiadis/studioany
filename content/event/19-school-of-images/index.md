@@ -41,8 +41,11 @@ image:
 
 # CUSTOM LINKS 
 links:
-- name: 'For Ever More Images'
+- name: 'For Ever More Images website'
   url: 'https://www.onassis.org/whats-on/for-ever-more-images'
+- name: 'School of Images brief'
+  url: 'uploads/19-Bridle-School of Images Introduction.pdf' 
+  icon: file-pdf
 # LINKS 
 #url_code: ''
 #url_pdf: ''

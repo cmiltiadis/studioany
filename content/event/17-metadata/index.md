@@ -11,7 +11,7 @@ address:
   city: Graz
   region: Austria
 # SUMMARY
-summary: 'Presentation on historical, technological, political and practical aspects of librarianship and archiving. 2017.'
+summary: 'Presentation concerning historical, technological, political and practical aspects of librarianship and archiving. Graz, 2017.'
 # ABSTRACT 
 abstract: ''
 
@@ -42,7 +42,7 @@ links:
   url: 'https://www.facebook.com/events/340902669639677/'
 - name: 'Event poster'
   icon: file-pdf 
-  url: 'ttoa_3_mars_sekulic_miltiadis.pdf'
+  url: 'uploads/ttoa_3_mars_sekulic_miltiadis.pdf'
 
 slides: ''
 

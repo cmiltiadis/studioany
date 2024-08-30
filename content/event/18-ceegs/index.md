@@ -46,10 +46,11 @@ featured: false
 links: 
  - icon: facebook
    icon_pack: fab
-   name: 'Facebook page'
+   name: 'Conference facebook homepage'
    url: 'https://www.facebook.com/CEEGameStudies'
- - name: 'Abstract PDF'
-   url: '18-cmiltiadis-transgressionAndContingency-abstract.pdf'
+ - name: 'Presentation abstract'
+   url: 'uploads/18-cmiltiadis-transgressionAndContingency-abstract.pdf'
+   icon: file-pdf
 
 # LINKS 
 #url_code: ''

@@ -35,7 +35,7 @@ featured: false
 
 links: 
 - name: 'Event brochure'
-  url: 'Shape-Participants-Info-Schedule.pdf'
+  url: 'uploads/22-Shape-Participants-Info-Schedule.pdf'
   icon: 'file-pdf'
   icon_pack: fas
 # IMAGE 

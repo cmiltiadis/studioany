@@ -1,5 +1,6 @@
 ---
-title: 'The Architectural Continuum'
+title: 'The Architectural Continuum.'
+# added a space in the title otherwise it gets confused with entry of the same title from Luniburg
 subtitle: ''
 draft: false
 # SUMMARY
@@ -15,7 +16,7 @@ tags: [architecture, game studies, videogames, virtual reality, digital spatial 
 # EVENT NAME 
 event: 'The Architectonics of Virtual Space'
 # EVENT URL 
-event_url: 'https://example.org'
+# event_url: 'https://example.org'
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-06-09T09:30:00Z'
 date_end: '2018-06-09T17:30:00Z'
@@ -42,8 +43,11 @@ image:
 
 # CUSTOM LINKS 
 links:
-- name: 'World-architects.com'
+- name: 'Announcement at World-architects.com'
   url: 'https://www.world-architects.com/ru/events/the-architectonics-of-virtual-spaces-1'
+- name: 'Workshop program'
+  url: 'uploads/the-architectonics-of-virtual-spaces-program.pdf'
+  icon: file-pdf
 
 #  - icon: twitter
 #    icon_pack: fab
