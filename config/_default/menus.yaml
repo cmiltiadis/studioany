@@ -3,39 +3,41 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# '/dir' is contents dir
+# '#something' is widget
+# Home leads to about .... (29/8/24)
+# sorting done by weight
+
 main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '/blog' # new
-    weight: 20
-#  - name: Posts
-#    url: '/blog' # was `#posts` and '/post'
-#    weight: 20
   - name: Projects
     url: '/project' # was `#projects
     weight: 30
-  - name: Talks & Events
-    url: 'event/' # was '#talks'
-    weight: 40
   - name: Publications
     url: '/publication' # was '#featured'
     weight: 50
+  - name: Talks & Events
+    url: 'event/' # was '#talks'
+    weight: 40
   - name: Teaching
     url: '/course' # new
-    weight: 60  
+    weight: 60
+  - name: Posts
+    url: '/blog' # new -- (earlier was #poasts and /post)
+    weight: 70
   # - name: Project Filter
   #   url: '/project-filter' # new
   #   weight: 70  
-  - name: Friends & Collaborators
+  - name: Peers #Friends & Collaborators
     url: '/authors' # new
     weight: 80
   # - name: Bio
   #   url: '/authors/admin'
   #   weight: 90
-  - name: Bio & Contact
-    url: '/contact' #was '#contact'
+  - name: Biography
+    url: '/contact' # was '#contact'
     weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
