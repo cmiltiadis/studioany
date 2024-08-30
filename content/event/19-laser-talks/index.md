@@ -22,11 +22,11 @@ abstract: 'Under the theme ‘Adaptation and Space’ this LASER Talk at Aalto U
 
 # AUTHORS 
 authors: [admin, Oguzhan Gencoglu, Friederike Landau, Shubhangi Singh]
+# author_notes: [Presenter, Presenter,Presenter, Presenter]
 #TAGS
 tags: [talk]
 
 # FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
 # IMAGE 
@@ -35,7 +35,11 @@ image:
   focal_point: Right
 
 # LINKS 
-#links:
+links:
+  - name: 'Event recording'
+    url:  'https://www.youtube.com/watch?v=v9RyiObRM3U'
+    icon: youtube
+    icon_pack: fab
 
 #url_code: ''
 #url_pdf: ''
