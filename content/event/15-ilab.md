@@ -1,8 +1,8 @@
 ---
-title: 'Virtual Space'
+title: 'Virtual Space-- REMOVED'
 subtitle: 'Guest lecture at i-Lab, University of Southern California; 2016'
 summary: 'Guest lecture at i-Lab, USC; 2016'
-draft: false
+draft: true
 # ABSTRACT 
 abstract: ''
 ##################################################################
