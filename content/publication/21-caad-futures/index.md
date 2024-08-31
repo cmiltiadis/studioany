@@ -10,9 +10,7 @@ date: '2022-03-17T00:00:00Z'
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-03-01T00:00:00Z'
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here and it will be replaced with their full name and linked to their profile.
 authors: [David Gerber, evan-pantazis, Biayna Bogosian, Alicia Nahmad,admin]
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -33,10 +31,10 @@ The 33 revised full papers presented were carefully reviewed and selected from 9
 # TAGS 
 tags: [proceedings volume, CAAD Futures]
 
-# Custom links (uncomment lines below)
 links:
-- name: Volume front matter
+- name: Proceedings volume Preface
   url: '22-caad-futures-21-frontmatter.pdf'
+  icon: file-pdf
 
 url_pdf: ''
 url_code: ''
@@ -58,7 +56,7 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: [caad-futures]
+projects: [21-caad-futures]
 
 ---
 
