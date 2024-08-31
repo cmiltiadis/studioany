@@ -1,16 +1,17 @@
 ---
 title: 'Live concerts for Lumbung Radio at Documenta Fifteen'
-subtitle: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
+subtitle: 'Concert production for lumbung Radio at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
 draft: false
 # SUMMARY
-summary: 'Production of sound performances at Documenta Fifteen. Trafohaus, Kassel, July 2022'
+summary: 'Concert production for lumbung Radio at Documenta Fifteen. Trafohaus, Kassel, July 2022'
 # ABSTRACT 
 abstract: ''
 ##################################################################
 # AUTHORS 
 authors: [admin, Lain Iwakura, Niko Mas, Florian Fend, Waysatta Fernández]
+author_notes: [Producer with Station of Commons, Performing artist, Performing artist, Performing artist, Producer with Arts Collaboratory & Radio Tropiezo]
 #TAGS
-tags: [concert, production, documenta 15, station of commons, lumbung radio, fix] # add pics 
+tags: [concert, production, documenta 15, Station of Commons, lumbung radio, Kassel] # add pics 
 ##################################################################
 # EVENT NAME 
 event: 'Documenta Fifteen'
@@ -19,7 +20,7 @@ event_url: ''
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-07-25T19:00:00Z'
 date_end: '2022-07-26T22:00:00Z'
-all_day: true
+all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
 ##################################################################
@@ -31,7 +32,6 @@ address:
   region: 'Germany'
 ##################################################################
 # FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
 # IMAGE 
@@ -44,30 +44,19 @@ featured: false
 #links:
 #- name: 'Url name'
 #  url: 'example.org'
-
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
 ##################################################################
 
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: [lumbung-radio]
+projects: [lumbung-radio, soc]
 ---
 
-Production of two concerts by Lain Iwakura (Mille Plateaux/O Graz), Niko Mas (CDCY), and  Klaus Masuda (O Graz), for *lumbung radio* at Documenta Fifteen, on behalf of *Station of Commons*. 
-The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/), Lutherplatz, hosted by the collective [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
-
-<!--
-[^th]: Trafohaus is a former electricity transformer building now run by a local collective. During Documenta fifteen, Trafohaus was taken over by  the collective [Arts Collaboratory](https://artscollaboratory.org/) and its radio station [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
+<!-- 
+maybe add pictures 
 -->
+
+
+Production of two concerts featuring Lain Iwakura (Mille Plateaux/O Graz), Niko Mas (CDCY), and Klaus Masuda (O Graz), for *lumbung radio* at Documenta Fifteen, on behalf of *Station of Commons*. 
+The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/), hosted by the collective [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
 
 |Programme|| 
 |-|-|
@@ -77,8 +66,10 @@ The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/t
 | | 20:00 Niko Mas - DJ set |
 
 
-**Posters**   
-Waysatta Fernández ([Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/))
+**Posters**[^posters]
+
+[^posters]: Poster design by Waysatta Fernández 
+
 {{< gallery album="trafohaus" >}}
 
 
