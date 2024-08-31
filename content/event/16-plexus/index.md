@@ -11,7 +11,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [presentation, architecture, computation]
+tags: [presentation, architecture, computation, Paris]
 #CATEGORIES
 categories: [presentation]
 ##################################################################
@@ -39,7 +39,7 @@ featured: false
 
 # IMAGE 
 image:
- caption: 'Image credit: [Maria Smigielska](https://mariasni.com/)'
+ caption: # 'Image credit: [Maria Smigielska](https://mariasni.com/)'
 #  focal_point: Right
 ##################################################################
 
@@ -65,7 +65,7 @@ slides: ''
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
-
+![](/images/16-plexus-paris.jpg)
 Event organized by Pierre Cutellic in collaboration with AA n+1.  
 AA n+1 gallery, Paris, November 16, 2016
 
