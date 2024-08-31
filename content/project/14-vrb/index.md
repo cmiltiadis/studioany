@@ -1,9 +1,14 @@
 ---
-title: "Vector Raster Blip"
-subtitle: "Wearables, interactive installation at CAAD, ETH; 2014"
-summary: "Wearables, interactive installation at CAAD, ETH; 2014"
+slug: "vector-raster-bleep"
+title: "Vector Raster Bleep"
+subtitle: "Wearables interactive installation. ETH Zurich, 2014"
+summary: "Wearables, interactive installation. ETH Zurich, 2014"
 authors: [admin, Gregoris Gregoriadis, Togo Takamura]
-tags: [prototype, installation, programming, wearables,MAS CAAD, ETH Zurich]
+author_notes: 
+- Concept, software development and electronics prototyping 
+- Concept, design, fabrication 
+- Concept, design, fabrication 
+tags: [prototype, installation, programming, wearables, collaboration, MAS CAAD, ETH Zurich]
 categories: [projects, prototype]
 date: 2014-03-07T17:15:18+03:00
 lastmod: 2023-08-07T17:15:18+03:00
@@ -21,11 +26,19 @@ projects: []
 ---
 
 
-VectorRasterBleep is an interactive installation developed at CAAD ETHz. Aiming for a fantastic digital baroque garden, the project was developed by the interpretation of the baroque and its transcription to the digital.  
-The installation’s subject is the garden Queen and the baroque garden is her own playground, open to all kinds of stimuli to subvert the normality of royal life. The Baroque Garden is in fact the Queen’s antidote to boredom, gate to the fantastic, and phantasmic .  
-The digital counterpart requires her to wear a 20 LED suit to wonder in the virtual garden. The “real” dimension of the garden is a generic space – any-space- tracked by infrared sensors and populated by machinery. The virtual one, the projected imaginary, is the one experienced by strolling in the generic space, and in this way metamorphosing it and the self, to an, or any, (unattainable) object of desire. The garden therefore is a transition; a space for attaining the desire for desire; the well of jouissance.
+*VectorRasterBleep* is an interactive installation developed as a playful interpretation of a baroque garden to the digital-virtual domain. 
+The garden is conceived as the Queen's antidote to boredom, a playground open to stimuli for subverting the normality of everyday life, and a gateway to the fantastic and phantasmic. 
+Wearing an electronic suit, the Queen escapes to the garden to explore its wonders. 
+Its physical dimension is a space --any generic space-- tracked by infrared sensors and populated by machinery. 
+Its virtual counterpart, however, is a live phantom that transforms continuously to reflect the Queen's desires while she strolls the generic space.
 
-Developed in 2014 for a course by Mihye An at the Chair for CAAD ETH Zurich. 
+Technical information: 
+- Wearable suit with 20 LEDs, a speaker, and an Arduino microcontroller with an XBEE wireless module
+- Kinect motion tracking sensor
+- Custom software for motion tracking and interactive graphics generation developed in Java 
+- Projector 
+
+Developed in 2014 for a course taught by Mihye An at the Chair for CAAD, ETH Zurich. 
 
 
 {{< gallery album = "14-vrb" >}}
