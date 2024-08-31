@@ -1,4 +1,5 @@
 ---
+slug: beyond-the-visual
 title: "Beyond the Visual - A research curriculum for explorations in spatiotemporal environments"
 authors: [admin, gerriet-sharma]
 date: "2021-09-27T00:00:00Z"
@@ -7,7 +8,7 @@ doi: "https://doi.org/10.22501/jar.815001"
 # Summary. An optional shortened abstract.
 summary: "Exposition published in the *Journal for Artistic Research*; 2021."
 # TAGS
-tags: [architecture, music, spatial audio, soundwalk, virtual reality, spatiotemporality, aural literacy]
+tags: [architecture, music, spatial audio, soundwalk, virtual reality, spatiotemporality, aural literacy, open access]
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -43,24 +44,14 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'VR experience screenshot'
   focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
+# BTV is not a project, so can't link 
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
 Miltiadis, Constantinos, and Gerriet K. Sharma. ‘Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
