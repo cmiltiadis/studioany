@@ -1,28 +1,29 @@
 ---
+slug: vsms-2017
 title: "Virtual Spaces Master Studio: 16m2  labyrinths"
 subtitle: "Master design studio module. Institute of Architecture and Media, TU Graz, 2017"
 summary: "Master design studio module. Institute of Architecture and Media, TU Graz, 2017"
-authors: [admin]
-tags: [course, VSMS, master studio, IAM TU Graz]
+authors: [admin, Urs Hirschberg, Oliver Reischl, Ludwig Grimm, Julian Jauk]
+author_notes: 
+  - Course leader, primary studio course teacher, elective course teacher 
+  - Studio course teaching team 
+  - Elective course teacher 
+  - Student assistant
+  - Student assistant
+  - Student assistant
+tags: [teaching, master studio, VSMS, virtual reality, game design, exhibition, Unity, Institute of Architecture and Media, TU Graz]
 categories: [teaching]
 date: 2017-02-07T16:13:17+03:00
-# lastmod: 2023-08-07T16:13:17+03:00
 featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 
@@ -30,16 +31,16 @@ projects: []
 
 ## Outline 
 
-Course designer and lead teacher for the *Virtual Spaces Master Studio* module (16 ECTS) at the Institute of Architecture and Media, TU Graz, during the summer semester of 2017.  The objective of the studio was to introduce virtual reality as a medium for experimental design, and to explore designing virtual environments in both space and time. At the end of the semester each student produced, presented, and exhibited a VR experience (for the HTV Vive). 
+Course designer and lead teacher for the *Virtual Spaces Master Studio* module (16 ECTS) at the Institute of Architecture and Media, TU Graz, during the summer semester of 2017.  The objective of the studio was to introduce virtual reality as a medium for experimental design, and to explore designing virtual environments in both space and time. At the end of the semester each student produced, presented, and exhibited a VR experience for the HTV Vive. 
 
-| | |
+| |  Course outline|
 |-|-|
 | Type | Master studio module; academic; master level | 
-| Module courses | Master design studio; Digital Form and Motion elective; Interdisciplinary Media elective | 
+| Module courses | Master design studio <br> Digital Form and Motion elective<br> Interdisciplinary Media elective | 
 | Context | Institute of Architecture and Media, TU Graz|
 | Module credits | 16 ECTS |  
 | Duration | Full semester (summer semester 2017) | 
-| Participants | 13 (architecture students) | 
+| Participants | 13 architecture students | 
 | Deliverables | Individual VR application (HTC Vive); video presentation; documentation booklet| 
 | Exhibitions | Graz Open Architecture Day; VR Playful Art at Kunsthaus Graz | 
 ## Course information 
@@ -113,21 +114,20 @@ Travel to Linz on the 23rd-24th of March, organized by Julian Jauk. The first da
 - Public exhibition at the event [VR Playful Art](../../../event/vr-playful-art) at Kunsthaus Graz, September 1, 2017. 
 ## Teaching team
 
-#### Teaching assistants 
+**Teaching assistants** 
 - Ludwig Grimm  
 - Julian Jauk
 
-#### Teachers  
+**Teachers**
 - Constantinos Miltiadis (course leader;  design studio; Interdisciplinary Media elective)  
 - Prof. Urs Hirschberg (design studio team)  
 - Oliver Reischl (Digital Form & Motion elective)
 
-## Gallery
 
-### Project posters
+## Project posters
 
 {{< gallery album="17-vsms/posters" >}}
 
-### Graz Open Architecture Day 2017 
+## Graz Open Architecture Day 2017 
 
 {{<gallery album="17-vsms/exhibition">}}
