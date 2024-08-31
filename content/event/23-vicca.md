@@ -11,7 +11,7 @@ abstract: "What is contemporary craft? Unlike vernacular notions of craft -- inv
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [presentation, upcoming]
+tags: [presentation, craft, Helsinki, Aalto]
 ##################################################################
 # EVENT NAME 
 event: 'Thinking Practices in Art and Media'
