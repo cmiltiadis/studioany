@@ -36,30 +36,18 @@ links:
   url: https://urenio.org/2019/02/01/neighbourhood-city-digital-analogue-perspectives/
 
 url_pdf: '18-artopoulos-miltiadis-bagni-hybrid-heritagescapes.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
 # Display this page in the Featured widget?
 featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: Toni Asch (Straylight Corp.)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: [daphnes-diary]
+projects: [17-daphnes-diary]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
