@@ -1,11 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Sound Spatialisation in Immersive VR Environments"
 subtitle: "3-day intensive workshop at Mapping Festival 2016, Geneva"
 summary: "3-day intensive workshop at Mapping Festival 2016, Geneva"
 authors: [admin, achilleas-xydis, shammas]
-tags: [teaching, workshop, festival, exhibition, spatialization, virtual reality, Mapping Festival, Geneva, spatial audio]
+tags: [teaching, workshop, festival, exhibition, spatial audio, virtual reality, game design, Unity, Mapping Festival, Geneva]
 categories: [teaching]
 date: 2016-05-06T16:30:42+03:00
 # lastmod: 2023-08-07T16:30:42+03:00
@@ -13,8 +11,6 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
