@@ -1,11 +1,11 @@
 ---
-
+slug: porocity
 title: "Porocity"
-subtitle: ""
-summary: ""
+subtitle: "Collaborative procedural design project using shape grammars. ETH Zurich, 2013"
+summary: "Collaborative procedural design project using shape grammars. ETH Zurich, 2013"
 authors: [admin,  Jinkyuk Choi, Adel Albloushi, Georgios Anagnostopoulos, Christian Braun, Kaihong Chen, Grigorios Grigoriadis, Abel Groenewolt, Periklis Kyriakidis, Valle Medina, Regina Mirzoyants, Yu-ting Sheng, Togo Takamura]
 author_notes: [Programming; coordination; video editing, programming; video editing, programming, programming, programming, programming, programming, programming, programming, programming, programming, programming, programming ]
-tags: [shape grammar, procedural, Processing, MAS CAAD, collaborative]
+tags: [shape grammar, procedural design, Processing,collaboration,  MAS CAAD, ETH Zurich]
 categories: []
 date: 2013-09-30T12:26:43+03:00
 # lastmod: 2023-08-13T12:26:43+03:00
@@ -40,3 +40,6 @@ https://vimeo.com/78187584
 
 *Porocity* is a collaborative procedural design project implementing shape grammars in Processing. 
 Produced by the 2013 MAS CAAD class at the [Chair for Digital Architectonics (née Chair for CAAD)](https://www.caad.arch.ethz.ch/), during a programming course taught by Benjamin Dillenburger. 
+
+
+{{< vimeo  78469790>}}
