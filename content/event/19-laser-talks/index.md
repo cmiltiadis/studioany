@@ -41,21 +41,12 @@ links:
     icon: youtube
     icon_pack: fab
 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=v9RyiObRM3U'
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+# url_video: 'https://www.youtube.com/watch?v=v9RyiObRM3U'
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
 slides: ''
 
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
 
