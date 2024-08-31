@@ -12,8 +12,6 @@ featured: false
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
@@ -22,7 +20,7 @@ image:
 links: 
 - name: Documentation booklet
   icon: file-pdf
-  url: '17-Daphnes-Diary-booklet-cmiltiadis.pdf'
+  url: uploads/17-cmiltiadis-Daphnes-Diary-booklet.pdf 
 ---
 
 Daphne's Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
