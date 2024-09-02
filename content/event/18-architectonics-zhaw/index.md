@@ -46,7 +46,7 @@ links:
 - name: 'Announcement at World-architects.com'
   url: 'https://www.world-architects.com/ru/events/the-architectonics-of-virtual-spaces-1'
 - name: 'Workshop program'
-  url: 'uploads/the-architectonics-of-virtual-spaces-program.pdf'
+  url: 'uploads/18-architectonics-of-virtual-spaces-program.pdf'
   icon: file-pdf
 
 #  - icon: twitter
