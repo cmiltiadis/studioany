@@ -117,4 +117,4 @@ Note: The projects trailer video is a collage of video trailers of students’ p
 
 ## Gallery 
 
-{{<gallery album="16-vsms-w">}}
+{{<gallery album="16-vsms">}}
