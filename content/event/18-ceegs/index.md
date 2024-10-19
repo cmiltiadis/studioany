@@ -1,10 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 title: 'Beyond the Implied Player: Transgression and Contingency in Digital Games'
-subtitle: ''
+subtitle: 'Presentation at CEEGS 2019. FAMU, Prague'
 draft: false
 # SUMMARY
-summary: 'Presentation at CEEGS 2018, Prague'
+summary: 'Presentation at CEEGS 2018. FAMU, Prague'
 # ABSTRACT 
 abstract: ''
 ##################################################################
@@ -25,9 +24,9 @@ date_end: '2018-10-13T17:00:00Z'
 publishDate: '2023-01-01T00:00:00Z'
 ##################################################################
 # LOCATION 
-location: 'FAMU'
+location: 'FAMU - Film and TV School of the Academy of Performing Arts in Prague'
 address:
-  street: 'Smetanovo nábř. 1012/2'
+  # street: 'Smetanovo nábř. 1012/2'
   city: 'Prague'
   region: 'Czechia'
 ##################################################################
@@ -52,19 +51,7 @@ links:
    url: 'uploads/18-cmiltiadis-transgressionAndContingency-abstract.pdf'
    icon: file-pdf
 
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
-# Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
 
