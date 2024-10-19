@@ -8,10 +8,12 @@
 # Home leads to about .... (29/8/24)
 # sorting done by weight
 
+# Notes
+# - removed 'home' from navbar 2/9/24
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
+#  - name: Home
+#    url: '#about'
+#    weight: 10
   - name: Projects
     url: '/project' # was `#projects
     weight: 30
