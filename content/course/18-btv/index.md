@@ -1,4 +1,5 @@
 ---
+slug: "beyond-the-visual"
 title: "Beyond the Visual"
 subtitle: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
 summary: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
@@ -34,6 +35,14 @@ projects: []
 ---
 
 {{<vimeo 297305474>}}
+
+<!-- 
+pictures (from FB by)
+
+1. Ada Trybuchowicz
+2. Anna Zagrodzka
+3. Aleksander Brylski See less
+-->
 
 <!--
 {{< toc >}}
