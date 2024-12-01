@@ -3,7 +3,8 @@
 
 # Hugo
 resources/
-public/
+# Include public for building
+# public/
 jsconfig.json
 node_modules/
 go.sum
