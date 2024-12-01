@@ -1,4 +1,5 @@
 ---
+slug: station-of-commons
 title: Station of Commons
 draft: false 
 summary: 'Helsinki-based collective for Digital Commoning Practices'
@@ -8,10 +9,20 @@ authors:
 - Gregoire Rousseau
 - Juan Gomez
 - Alain Ryckelynck
-- Minerva Juolahti
-- admin
+- Minerva Juolahti 
+- admin 
 - Eddie Choo Wen Yi
 - Essi Pellikka
+- Mathilde Palenius
+author_notes: 
+- SoC co-founder (2020)
+- SoC co-founder (2020)
+- SoC member (2020), technical infrastructure admininstrator 
+- SoC member (2021)
+- SoC member (2021)
+- SoC member (2022)
+- SoC member (2023-2024)
+- SoC member (2024) 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 image:
@@ -28,15 +39,20 @@ url_video: ''
 projects: [lumbung-radio]
 ---
 
-Station of Commons (SoC) is a Helsinki-based collective concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.  
-It operates in multiple ways, such as by developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network. SoC serves as coordinator of the interlocal online [lumbung radio](https://lumbungradio.org/).
-## Selected projects by SoC
+Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
+SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.
 
+Among the flagship initiatives of SoC is the interlocal online radio [lumbung radio](https://lumbungradio.org/), first established with ruangrupa for documeneta fifteen in 2022. 
+The radio comprises more than 20 radio and audio practice collective from around the world, and is broadcasting since April 2022 on open infrastructure developed by SoC. Since the end of documenta, SoC is the coordinating collective of lumbung radio, supported by the Kone Foundation.  
+
+
+<!--
+## Selected projects by SoC
+- [Miss Read Berlin Art Book Fair](../../event/miss-read). Invited participation as lumbung radio, and co-organization of the pre-fair week programme. HKW, Berlin, 17-24.09.2023. 
 - [Digital Commoning Practices](../../event/digital-commoning-practices) - exhibition including discourse, performance, and workshop sections at Oksasenkatu 11, Helsinki, March 2021. 
 - In mid-2021 Station of Commons in collaboration with [rugangrupa](https://ruangrupa.id/en/) initiated the multi-collective interlocal [lumbung radio](../lumbung-radio). The online radio is based on open infrastructure developed by SoC, and was launched in April 2022, broadcasting content from participating radio collectives from across the world. Following Documenta, the project's contributing collectives and networks elected to continue with the project. Station of Commons serves as coordinator of the project supported by the Kone foundation. 
 - [FORUM PIXELACHE x LUMBUNG RADIO](https://www.pixelache.ac/posts/forum-pixelache-x-lumbung-radio). Event co-production with Pixelache. MUU, Cable Factory, Helsinki, 2-3.09.2023.
-- [Miss Read Berlin Art Book Fair](../../event/miss-read). Invited participation as lumbung radio, and co-organization of the pre-fair week programme. HKW, Berlin, 17-24.09.2023. 
-<!--
+
 ## SoC history
 
 Station of Commons was originally founded in 2020 by Gregoire Rousseau and Juan Gomez. 
@@ -46,9 +62,14 @@ Visual artists Eddie Choo Wen Yi joined during Documenta fifteen in 2022 and ser
 
 -->
 
-## Station of Commons[^about]
+# Station of Commons
 
+> Description from [StationOfCommons.org](https://site.stationofcommons.org/about).  
+<!--
+[^about]
 [^about]: https://site.stationofcommons.org/about
+-->
+
 
 An ongoing collaborative initiative on **digital commoning practices** by Grégoire Rousseau (Helsinki), Juan Gomez (Geneva), Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, and Eddie Choo Wen Yi.
 
