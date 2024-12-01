@@ -1,4 +1,5 @@
 ---
+slug: continuum-cologne
 title: "The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics"
 subtitle: "Architectonics of Game Worlds - On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies"
 summary: "Presentation at the symposium Architectonics of Game Worlds; 2019"
@@ -41,12 +42,8 @@ image:
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+# Associated Projects (optional).
+projects: [spacetimecraft]
 ---
 
 Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln. 

@@ -53,18 +53,8 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
+projects: [spacetimecraft]
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
 ---
 
 Miltiadis, Constantinos. ‘The Architectural Continuum: Choropoietic Media and Post-Physical-World Environments’. In _Architectonics of Game Spaces. The Spatial Logic of the Virtual and Its Meaning for the Real_, edited by Andri Gerber and Ulrich Götz, 183–99. Bielefeld, Germany: Transcript, 2019. [https://www.transcript-verlag.de/978-3-8376-4802-7/architectonics-of-game-spaces/](https://www.transcript-verlag.de/978-3-8376-4802-7/architectonics-of-game-spaces/).

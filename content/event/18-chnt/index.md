@@ -37,7 +37,7 @@ image:
   preview_only: false
 
 # Projects (optional).
-projects: [daphnes-diary]
+projects: [17-daphnes-diary]
 ---
 
 Contribution to CHNT 2018 on intangible cultural heritage based on the project [Daphne's Diary](../../project/daphnes-diary). 

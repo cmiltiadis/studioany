@@ -54,13 +54,8 @@ featured: false
 #url_video: ''
 ##################################################################
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: []
+projects: [soc]
 ---
 
 Presentation of the work and practices of the Helsinki-based collective [Station of Commons](https://site.stationofcommons.org/).

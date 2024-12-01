@@ -43,11 +43,8 @@ links:
 
 # url_video: 'https://www.youtube.com/watch?v=v9RyiObRM3U'
 
-# Markdown Slides (optional).
-slides: ''
-
 # Projects (optional).
-projects: []
+projects: [spacetimecraft]
 ---
 
 Event organized by Laura Beloff, Pia Fricker, Ksenia Kaverina, Kirsi Peltonen, Nitin Sawhney and Koray Tahiroğlu.

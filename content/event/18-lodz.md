@@ -1,5 +1,5 @@
 ---
-title: '[find image]The Aesthetics of Presence in Inconstructible Spaces I & II'
+title: 'The Aesthetics of Presence in Inconstructible Spaces I & II'
 subtitle: ''
 draft: false
 # SUMMARY
@@ -10,7 +10,8 @@ abstract: ''
 # AUTHORS 
 authors: [admin, gerriet-sharma]
 #TAGS
-tags: [presentation, digital spatial media, aesthetics, mathematics, space]
+tags: [presentation, digital spatial media, aesthetics, mathematics, space, todo]
+# NOTE: Find image 
 ##################################################################
 # EVENT NAME 
 event: 'OSSA 2018 Architecture Festival *Vision*'
@@ -54,10 +55,7 @@ featured: false
 ##################################################################
 
 # Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
 
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: []
+projects: [spacetimecraft]
 ---

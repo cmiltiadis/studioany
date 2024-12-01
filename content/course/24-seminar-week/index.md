@@ -4,7 +4,7 @@ title: "Virtual Acoustic Ecologies"
 subtitle: "Seminar week course. ETH Zurich, 2024"
 summary: "Seminar week course. ETH Zurich, 2024"
 authors: [admin, achilleas-xydis]
-tags: [teaching, workshop, spatial audio, acoustics, spatial audio, spatiotemporal design, exhibition, ETH Zurich]
+tags: [teaching, workshop, spatial audio, acoustics, spatial audio, spatiotemporal design, exhibition, gamemaking, Unity, ETH Zurich]
 categories: [teaching, spatial audio]
 date: 2024-08-28T09:00:32+03:00
 # date_end: 2018-10-20T09:00:32+03:00
@@ -27,13 +27,8 @@ links:
   url: 'https://aa.arch.ethz.ch/seminar-weeks/hs24/'
 
 # Projects (optional).
-projects: []
+projects: [spacetimecraft]
 ---
-
-<!--
-{{< toc >}}
--->
-
 
 Week-long workshop focusing the exploration of architectural acoustics through experimental game design. Course taught with Dr. Achilleas Xydis.   
 [Architectural Acoustics](https://aa.arch.ethz.ch/), Gramazio Kohler Research. Department of Architecture, ETH Zurich. 

@@ -2,7 +2,7 @@
 slug: vsms-2016
 title: "Virtual Spaces Master Studio"
 subtitle: "Master design studio module. Institute of Architecture and Media, TU Graz 2016"
-summary: "Master design studio module. Institute of Architecture and Media, TU Graz, 2016"
+summary: "Master design studio module. Institute of Architecture and Media. TU Graz, 2016"
 authors: [admin, Urs Hirschberg, Ludwig Grimm, Julian Jauk, Martin Schrotz]
 author_notes: 
   - Course leader, studio course teacher, elective course teacher 
@@ -11,7 +11,7 @@ author_notes:
   - Student assistant 
   - Student assistant 
 
-tags: [course, VSMS, master studio, virtual reality, game design, exhibition, Unity, TU Graz, IAM]
+tags: [course, VSMS, master studio, virtual reality, game design, gamemaking, exhibition, Unity, TU Graz, IAM]
 categories: [teaching]
 date: 2016-02-07T16:21:47+03:00
 # lastmod: 2023-08-07T16:21:47+03:00
@@ -31,7 +31,7 @@ links:
   url: 'https://vimeo.com/803818267'
 
 # Projects (optional).
-projects: []
+projects: [spacetimecraft]
 ---
 
 

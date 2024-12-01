@@ -57,18 +57,7 @@ url_video: ''
 #  preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+projects: [spacetimecraft]
 ---
 
 Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In _Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference_, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. [http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366](http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366).

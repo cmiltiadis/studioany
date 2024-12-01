@@ -1,5 +1,6 @@
 ---
-title: 'The Architectural Continuum.'
+slug: continuum-architectonics
+title: 'The Architectural Continuum'
 # added a space in the title otherwise it gets confused with entry of the same title from Luniburg
 subtitle: ''
 draft: false
@@ -61,13 +62,8 @@ links:
 #url_video: ''
 ##################################################################
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
-# Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: []
+# Associated Projects (optional).
+projects: [spacetimecraft]
 ---
 
 ## Event description 

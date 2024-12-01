@@ -11,6 +11,11 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+      columns: '2'
+---
+
+<!--
   - block: contact
     id: contact
     content:
@@ -34,6 +39,4 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
-    design:
-      columns: '2'
----
+-->

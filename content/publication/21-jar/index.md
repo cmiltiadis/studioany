@@ -49,9 +49,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-# BTV is not a project, so can't link 
-
-slides: ""
+projects: [spacetimecraft]
 ---
 Miltiadis, Constantinos, and Gerriet K. Sharma. ‘Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).

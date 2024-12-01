@@ -57,12 +57,8 @@ links:
 #url_video: ''
 ##################################################################
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
 # Projects (optional).
-projects: []
+projects: [spacetimecraft]
 ---
 
 ## Presentation abstract 

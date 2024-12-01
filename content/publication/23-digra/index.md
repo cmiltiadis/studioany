@@ -62,8 +62,8 @@ image:
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-projects: []
+# Associated Projects (optional).
+projects: [spacetimecraft]
 ---
 
 

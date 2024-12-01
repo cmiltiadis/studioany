@@ -46,11 +46,8 @@ featured: false
 #url_video: ''
 ##################################################################
 
-# Markdown Slides (optional).
-slides: ''
-
 # Projects (optional).
-projects: []
+projects: [spacetimecraft]
 ---
 
 

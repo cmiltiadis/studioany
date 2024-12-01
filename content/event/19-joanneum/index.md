@@ -60,7 +60,7 @@ slides: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: []
+projects: [spacetimecraft]
 ---
 
 The program includes lectures by Timor Kardum, Markus Wintersberger and Irmfried Wöber.
