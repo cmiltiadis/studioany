@@ -10,18 +10,18 @@ type: landing
 sections: 
   - block: hero 
     content: 
-      title: 'Title'
-      text: "fldskjflsdk"
+      title: 'studio any'
+      # text: "ffdslk"
   - block: markdown
     id: landing-text
     content: 
-      title: Section title
-      text: Some markdown *text*
+      text: Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).  
+      title: This is an online portfolio and archive of projects by [Constantinos Miltiadis](/contact)
 # Collection block from https://hugoblox.com/blocks/collection/
   - block: collection
-    id: posts
+    # id: posts
     content:
-      title: News
+      title: Recent & upcoming 
       subtitle: ''
       # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
@@ -30,11 +30,12 @@ sections:
       filters:
         # The folders to display content from
         folders:
+          - project
+          - event
+          - curation
           - blog
           - course
-          - project
           - publication
-          - event
         author: ""
         category: ""
         tag: ""
@@ -51,6 +52,6 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view (def: 'card')
-      view: 5
+      view: 0
   
 ---
