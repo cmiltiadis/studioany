@@ -8,7 +8,8 @@ categories: [projects, videogame research, working group]
 date: 2023-06-20T14:21:30+03:00
 # lastmod: 2023-06-125T14:21:30+03:00
 featured: false
-draft: false
+draft: true 
+# NOT YET 1.12.2024 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
