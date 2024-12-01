@@ -20,9 +20,12 @@ main:
   - name: Publications
     url: '/publication' # was '#featured'
     weight: 50
-  - name: Talks & Events
+  - name: Talks
     url: 'event/' # was '#talks'
     weight: 40
+  - name: Curation & production
+    url: 'curation/'
+    weight: 55
   - name: Teaching
     url: '/course' # new
     weight: 60
@@ -38,7 +41,7 @@ main:
   # - name: Bio
   #   url: '/authors/admin'
   #   weight: 90
-  - name: Biography
+  - name: About
     url: '/contact' # was '#contact'
     weight: 90
 
