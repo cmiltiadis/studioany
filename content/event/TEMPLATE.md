@@ -10,6 +10,7 @@ abstract: ''
 ##################################################################
 # AUTHORS 
 authors: [admin]
+author_notes: [presenter]
 #TAGS
 tags: [add tags]
 ##################################################################
@@ -18,7 +19,7 @@ event: 'Some event'
 # EVENT URL 
 event_url: 'https://example.org'
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
-date: '2017-03-21T18:00:00Z'
+date: '2024-12-01T18:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 # Schedule page publish date (NOT talk date).
