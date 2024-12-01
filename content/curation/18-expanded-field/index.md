@@ -35,7 +35,7 @@ image:
   preview_only: false
 
 # Projects (optional).
-projects: []
+projects: [spacetimecraft]
 
 # don't show profile at bottom of page
 profile: false
