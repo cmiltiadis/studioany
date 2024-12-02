@@ -1,10 +1,15 @@
 ---
-title: '[FIX ABSTRACT]On the hypotheses which lie at the bases of -game- design: flat earthers and post-physical-world navigable environments'
+slug: hypotheses-krakow
+title: 'On the hypotheses which lie at the bases of game design: flat earthers and post-physical navigable environments'
 draft: false
 # SUMMARY
-summary: 'Presentation at the Game Studies Seminar \#14: In Kracow about cities. Kraków, 2018'
+summary: 'Presentation at the Game Studies Seminar \#14: In Kracow about cities. Kraków, 2018'
 # ABSTRACT 
-abstract: ''
+abstract: "The turn of the millennium saw the publication of multiple influential game studies contributions exploring videogame spatiality as 'raison d'être' for the medium. 
+However, despite the various proposed theories and typologies for conceptualizing and analyzing gamespace, no particular approach has gained prominence. All the while, spatiality in videogame production remains rather conventional, in line with the Euclidean-Cartesian rhetoric embedded in gamemaking software as well as design software at large.  
+Drawing both from theory and experimental gamemaking practice the presentation suggests the possibility of escaping the flat-earth paradigm that conditions contemporary game development and related discourse. 
+We thus turn beyond the purely visual esthetic styles of videogame environments and their scenography, to the aesthetics of practiced space, the sensibility par-excellence of the new literacy of videogames.
+Using the theory of Riemannian manifolds (that address the hypotheses at the bases of mathematical geometry) and informed by recent contributions in empirical research concerning videogameplay, the presentation suggests game design and gameplay as means to explore spaces that are perfectly perceivable, yet beyond the field of what is constructible in physical reality. This domain of post-real-world navigable environments specific to the videogame medium holds latent registers of cognitive sensibilities and media aesthetics waiting to be discovered."
 ##################################################################
 # AUTHORS 
 authors: [admin]
@@ -17,8 +22,8 @@ event: ' Game Studies Seminar \#14: In Cracow about cities'
 event_url: ''
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-11-24T10:30:00Z'
-date_end: '2018-11-24T16:30:00Z'
-# all_day: false
+# date_end: '2018-11-24T16:30:00Z'
+all_day: true 
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
 ##################################################################
@@ -49,20 +54,7 @@ featured: false
 #url_video: ''
 ##################################################################
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
-slides: ''
-
-# Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: []
+# Associated Projects (optional).
+projects: [spacetimecraft]
 ---
 
-## Abstract 
-
-The turn of the millennium saw influential publications1–3 exploring the proximity between game design and gameplay on the one hand, and spatial practices and architecture on the other. While subsequent contributions suggested typologies4–6 for the analysis of gamespace, no particular approach has gained prominence7.
-Based on both theory and experimental practice, and following Riemann’s habilitation8 that exposed the hypotheses of euclidean geometry, this presentation intends to propose the possibility of escaping the flat-earth paradigm that conditions gamespace -due to both the western mathematics tradition and game development software.
-
-Instead, we want to turn beyond the visual aesthetics of game cities and their styles, to the aesthetics of practiced space, the sensibility par-excellence of the new literacy9 of videogames, as Fraser proposed.10
-
-Drawing from Gardner’s “spatial intelligence”11, a developable cognitive capacity proven to be correlated with gameplay,12 this presentation suggests game design and gameplay as means to explore spaces that are perfectly perceivable, which we can come to reason and act upon, that lie beyond the field of what is constructible in physical reality. Post-real-world navigable environments, intrinsic to the videogame medium, uncover latent domains of cognitive sensibilities, and a correlated domain of aesthetics waiting to be discovered.
