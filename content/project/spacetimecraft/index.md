@@ -18,7 +18,7 @@ date: '2024-11-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Toroidal Mobius manifold. Videogame prototype screenshot (2023)
+  caption: Procedurally generated navigable toroidal Möbius manifold. Videogame prototype screenshot (2023)
   focal_point: Smart
 
 links:
