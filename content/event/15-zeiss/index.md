@@ -1,4 +1,5 @@
 ---
+slug: zeiss-vr-one
 title: 'Second Prize in the Zeiss VR One App Contest'
 subtitle: ''
 draft: false
