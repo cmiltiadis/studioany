@@ -7,24 +7,54 @@ summary: 'Miss Read pre-fair co-production with Station of Commons for Lumbung R
 abstract: 
 authors:
   - Gregoire Rousseau
-  - Eddie Choo Wen Yi
   - Mathilde Palenius
+  - Eddie Choo Wen Yi
   - admin
+  - Minerva Juolahti 
   - Essi Pellikka 
   - Alain Ryckelynck
   - Juan Gomez
   - Michalis Pichler 
-  - Pascale Obolo 
+  - Pascale Obolo
+  - 200 Suaves
+  - Radio Tropiezo 
+  - Sumugan Sivanesan
+  - Nikolay Oleynikov
+  - Alessandra Pomarico
+  - Elliot Perkins
+  - Lena Pozdnyakova
+  - Simona Dvorak
+  - Luise Willer
+  - DJ Shlucht
+  - Manuela Garcia Aldana
+  - Lynhan Balatbat-Helbock
+  - Cashmere Radio
+  - SAVVYZAAR
 author_notes: 
-  - production & coordination 
-  - production & coordination 
-  - production & coordination 
-  - production support
-  - production support
-  - technical support 
-  - production support
-  - Festival director 
-  - Festival director
+  - Production & coordination (SoC)
+  - Production & coordination (SoC)
+  - Production & coordination (SoC)
+  - Production support (SoC)
+  - Performance; production support (SoC)
+  - Production support (SoC)
+  - Technical support (SoC)
+  - Production support (SoC)
+  - Contributor (Miss Read festival director) 
+  - Contributor (Miss Read festival co-director; Afrikadaa; African Art Book Fair)
+  - Contributor (Radio Nopal)
+  - Contributor (Radio Tropiezo & Crater Invertido) 
+  - Contributor (Fugitive Radio)
+  - Contributor (Chto Delat; Free Home University; Firefly Frequencies)
+  - Contributor (Free Home University; Ecoveristies Alliance; Firefly Fequencies)
+  - Contributor (Free Home University; Ultra-Red)
+  - Contributor (There There)
+  - Contributor 
+  - Contributor
+  - Contributor (Radio Cashmere)
+  - Contributor (Savvy Contemporary)
+  - Contributor (Savvy Contemporary)
+  - Local radio partner 
+  - Local radio partner 
 tags:
   - exhibition
   - production
@@ -57,35 +87,38 @@ links:
 projects: [lumbung-radio, soc]
 ---
 
-For a second year Station of Commons is collaborating with *Miss Read: the Berlin Art Book Fair*, and is curating the prefair program in collaboration with Lumbung Radio, 06-10.10.2024 at Miss Read & Savvy Contemporary in Wedding. 
+For a second year [Station of Commons](../../../project/station-of-commons) is collaborating with  [Miss Read: The Berlin Art Book Fair ](https://missread.com/) to produce the festival's prefair program in collaboration with Lumbung Radio, and to live stream presentations from the Miss Read fair weekend. 
+The prefar takes place at Miss Read & Savvy Contemporary in Wedding on 06-10.10.2024, and the Miss Read fair takes place at Haus der Kulturen der Welt (HKW) on 11-13.10.2024. 
 
-<!-- 
-[lumbung radio / Station of Commons](../../project/lumbung-radio) was invited to participate to the 2023 [Miss Read Festival](https://missread.com/), the Berlin Art Book Fair at HKW, and organize the pre-fair week at the Miss Read HQ in Wedding, Berlin. 
+The events are open to public and is streamed live on missread.com/radio, lumbungradio.org and partly via local FM in collaboration with [Radio Cashmere](https://cashmereradio.com) and [SAVVYZAAR radio](https://savvy-contemporary.com/en/pillars/savvyzaar/).
 
-FM relay of lumbung radio stream by [Radio Cashmere](https://cashmereradio.com/) and [SAVVYZAAR](https://savvy-contemporary.com/en/pillars/savvyzaar/). 
--->
+The pre-fair program taking place at the Miss Read space and at Savvy Contemporary, consists of
+a diverse set of workshops, panel discussions and performances organised with the lumbung radio and Miss Read contributors and collaborators.  
 
-The pre-fair program was streamed live on lumbung radio. 
+# Venues 
+Miss Read prefair (06-10.10.2024)  
+- Miss Read space, Wedding, Berlin
+- [Savvy Contemporary](https://savvy-contemporary.com/en/) (9.10.2024)  
 
-**Venues**  
-Miss Read Pre-fair: 06-10.10.2024  
-- Miss Read office
-- [Savvy Contemporary](https://savvy-contemporary.com/en/)
+Miss Read Festival (11-13.10.2024)  
+- Haus der Kulturen der Welt, Berlin 
 
-Miss Read Festival: 11-13.10.2024
-- Haus der Kulturen der Welt 
-
-**Participants**   
-- [Station of Commons](https://site.stationofcommons.org/) (coordinating collective, Helsinki);  
-- Radio Nopal (Mexico City); 
-- [Radio Tropiezo](https://radiotropiezo.org/) (Mexico City); 
+# Contributors   
+- [Station of Commons](https://site.stationofcommons.org/) (coordinating collective, Helsinki) 
+- radiophønix (Berlin)
+- Minerva Juolahti (Helsinki)
 - Alessandra Pomarico & Nikolay Oleynikov (Free Home University; Ecoveristies Alliance; [Firefly Fequencies](https://fireflyfrequencies.org/)); 
-- [Radio Cashmere](https://cashmereradio.com/) (Berlin);  
-- DJ Super Shy [Fugitive Radio](https://fugitive-radio.net/) (Berlin),
-- [School of Commons](https://www.schoolofcommons.org/) (Zurich) & There There 
-- [Oda Projesi Radio](https://odaprojesi.blogspot.com/)
+- Icnelly/200 Suaves & [Radio Nopal](https://www.radionopal.com/) (Mexico City);
+- Pascale Obolo (Miss Read co-director; AFRIKADAA; African Art Book Fair)
+- Michalis Pichler (Miss Read director)
+- Eldar Tagi & Lena Pozdnyakova (There There & [School of Commons](https://www.schoolofcommons.org/), Berlin)
+- Simona Dvorak and Luise Willer (Paris, Berlin)
+- [SAVVYZAAR radio](https://savvy-contemporary.com/en/pillars/savvyzaar/) 
+- [Radio Tropiezo](https://radiotropiezo.org/) (Mexico City)
+- [Radio Cashmere](https://cashmereradio.com/) (Berlin)
+- Sumugan Sivanesan; [Fugitive Radio](https://fugitive-radio.net/) (Berlin)
 
-**Station of Commons team**
+# Station of Commons 
 - Gregoire Rousseau, Mathilde Palenius, Eddie Choo Wen Yi: Radio & pre-fair coordinators 
 - Constantinos Miltiadis: Open-source kitchen & on-site support
 - Essi Pellikka, Juan Gomez: on-site support
