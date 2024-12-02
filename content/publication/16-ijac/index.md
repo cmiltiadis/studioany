@@ -47,7 +47,7 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: [spacetimecraft]
+projects: [14-project-anywhere] 
 ---
 
 Miltiadis, Constantinos. ‘Project Anywhere: An Interface for Virtual Architecture’. _International Journal of Architectural Computing_ 14, no. 4 (7 October 2016): 386–97. [https://doi.org/10.1177/1478077116670746](https://doi.org/10.1177/1478077116670746).

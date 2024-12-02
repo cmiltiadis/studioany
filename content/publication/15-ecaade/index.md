@@ -52,15 +52,6 @@ links:
 - name: Cumincad
   url: https://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
@@ -69,14 +60,7 @@ url_video: ''
 #  preview_only: false
 
 # Associated Projects (optional).
-projects: [project-anywhere]
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+projects: [14-project-anywhere] 
 ---
 
 The contribution was awarded the *Ivan Petrovic Award* for the best presentation by a young researcher.
