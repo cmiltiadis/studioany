@@ -1,4 +1,5 @@
 ---
+slug: wads
 title: "WADS ↑ ← → ↓"
 subtitle: "Ars Electronica 2020"
 summary: "Virtual exhibition at Ars Electronica Festival 2020 *In Kepler’s Gardens*."
