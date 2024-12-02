@@ -28,22 +28,16 @@ publication_short: ""
 
 abstract: Design media have an intimate relationship with architecture, and also serve as the means of its practice.With new technologies, and especially virtual reality, a new rhetoric of design media is becoming increasingly possible.That is, media being used as means both to design and to experience space. Such rhetorics expand the formal manifestations of architecture besides building, as well as the horizon of what can be design as well as what can be aesthetically experienced as architecture.
 
-
-
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf:  http://www.archidoct.net/issue15.html
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
+links:
+- icon: 'file-pdf'
+  icon_pack: fas
+  name: "PDF"
+  url:  "publications/20-cmiltiadis-oblivious-to-gravity-ArchiDoct.pdf"
+- name: "Archidoct"
+  url: "http://www.archidoct.net/issue15.html"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

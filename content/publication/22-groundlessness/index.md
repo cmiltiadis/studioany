@@ -32,18 +32,11 @@ doi: ''
 # Custom links (uncomment lines below)
 links:
 - name: 'PDF'
-  url: '22-miltiadis-roman-groundlessness.pdf'
+  icon: 'file-pdf'
+  icon_pack: fas
+  url: 'publications/22-miltiadis-roman-groundlessness.pdf'
 - name: Open access volume
   url: https://www.onassis.org/culture/publications/chimeras-inventory-of-synthetic-cognition
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Display this page in the Featured widget?
 featured: true

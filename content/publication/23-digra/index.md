@@ -33,8 +33,8 @@ publication: "In *Proceedings of the 2023 DiGRA International Conference: Limits
 links:
 - icon: 'file-pdf'
   icon_pack: fas
-  name: 'Preprint'
-  url: '23-cmiltiadis-other-than-text-digra.pdf'
+  name: 'PDF'
+  url: 'publications/23-cmiltiadis-other-than-text-digra.pdf'
 - icon: 'github'
   icon_pack: fab
   name: 'Data scraper & visualizer'

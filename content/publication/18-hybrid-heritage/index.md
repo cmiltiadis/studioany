@@ -34,8 +34,10 @@ isbn: '978-989-757-077-3'
 links:
 - name: Open access volume
   url: https://urenio.org/2019/02/01/neighbourhood-city-digital-analogue-perspectives/
-
-url_pdf: '18-artopoulos-miltiadis-bagni-hybrid-heritagescapes.pdf'
+- name: 'PDF'
+  icon: 'file-pdf'
+  icon_pack: fas
+  url: 'publications/18-artopoulos-miltiadis-bagni-hybrid-heritagescapes.pdf'
 # Display this page in the Featured widget?
 featured: true
 

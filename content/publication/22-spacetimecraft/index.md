@@ -41,7 +41,9 @@ doi: 'https://doi.org/10.30965/9783846767238_011'
 
 links: 
 - name: 'PDF'
-  url: '22-cmiltiadis-spacetimecraft.pdf'
+  icon: 'file-pdf'
+  icon_pack: fas
+  url: 'publications/22-cmiltiadis-spacetimecraft.pdf'
 
 url_pdf: ''
 url_code: ''

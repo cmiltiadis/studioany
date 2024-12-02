@@ -32,8 +32,8 @@ The 33 revised full papers presented were carefully reviewed and selected from 9
 tags: [proceedings volume, CAAD Futures]
 
 links:
-- name: Proceedings volume Preface
-  url: '22-caad-futures-21-frontmatter.pdf'
+- name: Proceedings preface 
+  url: 'publications/22-caad-futures-21-frontmatter.pdf'
   icon: file-pdf
 
 url_pdf: ''

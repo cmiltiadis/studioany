@@ -27,7 +27,9 @@ featured: false
 
 links:
 - name: 'PDF' 
-  url: '17-griego-and-colleagues-esum-report.pdf'
+  icon: 'file-pdf'
+  icon_pack: fas
+  url: 'publications/17-griego-and-colleagues-esum-report.pdf'
   
 url_pdf: ''
 url_code: ''

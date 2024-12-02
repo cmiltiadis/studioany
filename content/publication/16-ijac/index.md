@@ -34,19 +34,10 @@ tags:
 featured: false
 
 links:
-- name: PDF
-  url: '16-cmiltiadis-project-anywhere-ijac.pdf'
-#- name: "IJAC SAGE"
-#  url: "https://journals.sagepub.com/doi/10.1177/1478077116670746"
-  
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+- icon: 'file-pdf'
+  icon_pack: fas
+  name: "PDF"
+  url: 'publications/16-cmiltiadis-project-anywhere-ijac.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,14 +47,7 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: [project-anywhere]
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+projects: [spacetimecraft]
 ---
 
 Miltiadis, Constantinos. ‘Project Anywhere: An Interface for Virtual Architecture’. _International Journal of Architectural Computing_ 14, no. 4 (7 October 2016): 386–97. [https://doi.org/10.1177/1478077116670746](https://doi.org/10.1177/1478077116670746).

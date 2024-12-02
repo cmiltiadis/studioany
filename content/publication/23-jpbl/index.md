@@ -26,8 +26,10 @@ tags: [PBL for Transformative Learning, Interdisciplinary Perspectives, Complex 
 doi: "https://doi.org/10.54337/ojs.jpblhe.v11i2.7780"
 
 links:
-- name: "PDF"
-  url: "Fricker et al. - 2023 - Interconnected Agencies.pdf"
+- icon: 'file-pdf'
+  icon_pack: fas
+  name: "PDF"
+  url: "publications/23-Fricker et al-Interconnected Agencies.pdf"
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''

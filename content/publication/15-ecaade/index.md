@@ -46,7 +46,9 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: PDF 
-  url: '15-cmiltiadis-virtual-real-time-architecture-ecaade.pdf'
+  icon: 'file-pdf'
+  icon_pack: fas
+  url: 'publications/15-cmiltiadis-virtual-real-time-architecture-ecaade.pdf'
 - name: Cumincad
   url: https://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113
 

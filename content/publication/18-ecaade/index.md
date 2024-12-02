@@ -35,8 +35,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: PDF 
-  url: '18-cmiltiadis-ecaade-vr-videogames-architecture-education.pdf'
+- icon: 'file-pdf'
+  icon_pack: fas
+  name: "PDF"
+  url: 'publications/18-cmiltiadis-ecaade-vr-videogames-architecture-education.pdf'
 - name: Cumincad
   url: papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366
 

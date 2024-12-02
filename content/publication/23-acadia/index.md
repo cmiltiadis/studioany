@@ -4,7 +4,7 @@ subtitle: "Forward to the open archive developed for the ACADIA Cultural History
 authors: [admin]
 categories: [game studies]
 # TAGS
-tags: [acadia, architecture, archive, cultural history]
+tags: [ACADIA, architecture, archive, Sandpoints, cultural history]
 date: 2023-11-16T14:23:09+03:00
 lastmod: 2023-08-05T14:23:09+03:00
 featured: false
@@ -22,8 +22,7 @@ links:
 - icon: 'file-pdf'
   icon_pack: fas
   name: 'Preprint'
-  url: 'ACADIA2023_CHP_Miltiadis_preprint.pdf'
-
+  url:  'publications/23-cmiltiadis-ACADIA2023-CHP-preprint.pdf'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -32,7 +31,6 @@ publication_types: ['3']
 
 # Abstract
 abstract: "This brief text outlines my proposal for an open living archive for ACADIA, developed using the open infrastructure Sandpoints in mid-2023, contributed to the ACADIA Cultural History Project with support from the inaugural ACADIA CHP fellowship."
-
 
 
 # Featured image
@@ -47,5 +45,4 @@ image:
 projects: [23-acadia]
 ---
 
-
-See the [related project]({{<ref "/project/23-acadia/index.md" >}}) for more information on the [ACADIA archive](https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/).
+See also the [related project]({{<ref "/project/23-acadia/index.md" >}}), and the proposed [ACADIA archive](https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/).
