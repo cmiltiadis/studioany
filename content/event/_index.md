@@ -1,5 +1,5 @@
 ---
-title: Talks & Events
+title: Presentations
 cms_exclude: true
 
 # View.
@@ -14,3 +14,7 @@ header:
   image: ''
 ---
 
+Archive of presentations and exhibitions
+<br>
+--- 
+---
