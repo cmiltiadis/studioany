@@ -1,23 +1,31 @@
 ---
 slug: towards-the-expanded-field
 title: "Towards the Expanded Field"
-subtitle: "experimental and interdisciplinary approaches to immaterial spatiotemporal environments"
-summary: "Curation of a 3-day symposium at Haus der Architektur, Graz; 2018"
+subtitle: "Experimental and interdisciplinary approaches to immaterial spatiotemporal environments"
+summary: "Curation of a 3-day symposium at Haus der Architektur. Graz, 2018"
 authors: [admin, gerriet-sharma, Stephan Günzel, Antonia Manhartsberger, Paul Wolff, Valentin Moser, Lukas Gosch, Philipp Sattler, Sabrina Kullmaier, Julian Lebitsch]
 author_notes: 
   - Curation, production, and opening presentation 
-  - Co-organization, presentation, and spatial audio performance 
-  - Presentation 
+  - Co-organization, presentation, spatial audio performance 
+  - Invited presenter 
   - Spatial audio performance 
   - Spatial audio performance 
-  - VR exhibition 
-  - VR exhibition 
-  - VR exhibition 
-  - VR exhibition 
-  - VR exhibition 
+  - Contributor; VR exhibition 
+  - Contributor; VR exhibition 
+  - Contributor; VR exhibition 
+  - Contributor; VR exhibition 
+  - Contributor; VR exhibition 
 tags: [spatial audio, virtual reality, exhibition, presentation, performance, symposium, Haus der Architektur, Graz]
 categories: [curatorial]
 date: 2018-03-07T18:26:39+03:00
+date_end: 2018-03-09T18:26:39+03:00
+all_day: true
+location: Haus der Achitektur
+address:
+  street: ''
+  city: Graz 
+  region: Austria
+
 lastmod: 2023-08-06T18:26:39+03:00
 featured: false
 draft: false
@@ -25,7 +33,7 @@ draft: false
 links: 
 - name: 'Haus der Architektur'
   url: 'https://hda-graz.at/programm/towards-the-expanded-field-en'
-- name: 'Facebook'
+- name: 'Facebook event'
   url: 'https://www.facebook.com/events/210994876143959'
 
 # Featured image
@@ -65,42 +73,43 @@ Constantinos Miltiadis – The Architectural Continuum: science, technology, art
 | 6 pm        | **Spatial audio performances**  <br>Antonia Manhartsberger -- Mo.ve [modus vertiginis]  <br>Paul Wolff -- 1500                                                                                                                               |
 | 7 pm        | **VR exhibition**                               <br>Valentin Moser -- Chronicles  <br>Lukas Gosch -- Awakening  <br>Philipp Sattler -- Library of the Absurd                                                                                 |
 | **March 9** |                                                                                                                                                                                                                                              |
-| 6:30pm      | **Closing round table discussion**                                                                                                                                                                                                           |
+| 6:30pm      | **Closing round table discussion**<br>Constantinos Miltiadis, Gerriet K. Sharma, Antonia Manhartsberger, Valentin Moser, Philipp Sattler                                                                                                                                                                                                           |
 | 7:30 pm     | **Spatial audio performance**  <br>Gerriet K. Sharma: “gleAM” sound sculpture for BESSY II VSR and IKO                                                                                                                                       |
 
 # Credits 
 
-**Concept & organization**   
-Constantinos Miltiadis
+## Concept & realization 
+Constantinos Miltiadis, in collaboration with Gerriet K. Sharma. 
 
-**Presentations**  
+## Presentations 
 - Constantinos Miltiadis  
-is an architect and computational designer, currently an assistant professor at the Institute of Architecture and Media of TU Graz. His research and teachings are focused on the architectural qualities and aesthetic potential of virtual navigable environments.  
+ architect and computational designer, currently an assistant professor at the Institute of Architecture and Media of TU Graz. His research and teachings are focused on the architectural qualities and aesthetic potential of virtual navigable environments.  
 [studioany.com/](http://studioany.com/)
 - **Gerriet K. Sharma**   
-is a composer and sound artist, currently an artistic researcher in the OSIL project at the Institute of Electronic Music and Acoustics of KU Graz and Edgard Varèse guest-professor at TU Berlin. His work is focused on sculptural composition in complex loudspeaker environments and space as a cultural key concept in the now.  
+ composer and sound artist, currently an artistic researcher in the OSIL project at the Institute of Electronic Music and Acoustics of KU Graz and Edgard Varèse guest-professor at TU Berlin. His work is focused on sculptural composition in complex loudspeaker environments and space as a cultural key concept in the now.  
 [www.gksh.net/](http://www.gksh.net/)
 - Stephan Günzel   
   media philosopher with expertise in the philosophy of space, Programme Director for New Media Design at UE Berlin (née BTK Berlin).   
 [stephan-guenzel.de/](http://www.stephan-guenzel.de/)
 
-**Spatial audio performances** 
+## Spatial audio performances 
 - Antonia Manhartsberger 
 - Paul Wolff  
 
-**VR exhibition** ([VSMS 2017 projects](../../course/17-vsms))
+# VR exhibition 
+[VSMS 2017 projects](../../course/vsms-2017) by 
 - Philipp Sattler 
 - Valentin Moster 
 - Sabrina Kullmaier 
 - Lukas Gosch
 
-**Documentation**
+## Documentation 
 - Pictures by Felix Zitter (HDA)
 - Video recording by Antonia Manhartsberger
 
-**Acknowledgments**  
-Carried out with the kind support of *Haus der Architektur* Graz, The Institute of Architecture and Media TU Graz, and the Deanery of the Faculty of Architecture of TU Graz for their support.
+## Acknowledgments  
+Conducted with the kind support of Haus der Architektur Graz, The Institute of Architecture and Media TU Graz, and the Deanery of the Faculty of Architecture of TU Graz.
 The IKO speaker was provided courtesy of the Institute of Electronic Music and Acoustics, Kunst Uni Graz. 
 
-
+# Photo documentation
 {{< gallery album="tef" >}}
