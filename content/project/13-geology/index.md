@@ -23,11 +23,14 @@ image:
 projects: []
 ---
 
-{{< youtube MZRo7heBZHE>}}
 
 The project is an abstract constructive take on the concept of *double articulation* introduced in the chapter "The Geology of Morals" from the book "A Thousand Plateaus" by Gilles Deleuze and Félix Guattari (2013 [1984]), which describes the interplay between form and substance of expression on one hand, and form and substance of content on the other. 
 Here, the notion of double articulation is applied to the book chapter itself by exploring computationally the correlations between its linguistic expression and the stratification of its textual substance. 
 As a video essay on the 'quantification of writing', the text of the chapter was analyzed computationally to infer abstract relations and densities between text atoms, and was then rendered into indexes, dimensions, colors, and shapes. 
+
+{{< youtube MZRo7heBZHE>}}
+
+<br>
 
 All numbers, colors, and shapes were generated through computational processing of the text in the chapter “Geology of Morals” (Deleuze and Guattari 2013 [1984]).
 The sound was produced with the modular synthesizer software [Aalto by Madrona Labs](https://madronalabs.com/products/aalto). 
