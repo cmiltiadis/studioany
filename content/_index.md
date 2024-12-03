@@ -8,15 +8,15 @@ date: 2022-10-24
 type: landing
 
 sections: 
-  - block: hero 
-    content: 
-      title: 'studio any'
+#  - block: hero 
+#    content: 
+#      title: 'studio any'
       # text: "ffdslk"
   - block: markdown
     id: landing-text
     content: 
-      text: Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).  
-      title: This is an online portfolio and archive of projects by [Constantinos Miltiadis](/contact)
+      text: # Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).  
+      title: <br>This is the online portfolio and project archive of [Constantinos Miltiadis](/contact)
 # Collection block from https://hugoblox.com/blocks/collection/
   - block: collection
     # id: posts
