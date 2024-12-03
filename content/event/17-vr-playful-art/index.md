@@ -47,6 +47,8 @@ links:
   icon_pack: fab
   name: Facebook event
   url: 'https://www.facebook.com/events/1380517548699373/'
+- name: VSMS 2017
+  url: ../../course/vsms-2017
 # LINKS 
 #url_code: ''
 #url_pdf: ''
@@ -58,7 +60,7 @@ links:
 projects: []
 ---
 
-Exhibition of 12 original VR projects  developed by the students of the [Virtual Spaces Master Studio 2017](../../course/17-vsms), at the event *VR Playful Art*, at Kunsthaus Graz. 
+Exhibition of 12 original VR projects  developed by the students of the [Virtual Spaces Master Studio 2017](../../course/vsms-2017), at the event *VR Playful Art*, at Kunsthaus Graz. 
 The event was organized  by the [Game Development Graz](https://www.facebook.com/gamedevgraz/?fref=mentions) community in collaboration with TU Graz, in the context of [Game Dev Days 2017](https://www.facebook.com/events/838046996342513/). 
 
 ### Virtual Spaces Master Studio VR projects

@@ -2,7 +2,7 @@
 slug: john-paul-george-me
 title: "John Paul George & Me"
 subtitle: "Interactive wearable musical instruments prototype"
-summary: "Interactive wearable musical instruments prototype (2015)"
+summary: "Interactive wearable musical instruments prototype. ETH Zurich, 2015"
 authors: [admin, selina-reiterer, Anna-Maragkoudaki, achilleas-xydis]
 author_notes: 
   - Concept, app development, electronics, programming, music

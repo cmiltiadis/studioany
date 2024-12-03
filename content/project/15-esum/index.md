@@ -2,7 +2,7 @@
 slug: 'esum'
 title: "ESUM: Anthropocentric Urban Sensing Unit"
 subtitle: "Design, development, and documentation of a mobile sensor unit prototype"
-summary: "Design, development, and documentation of a mobile sensor unit prototype. Chair for Information Architecture, ETH Zurich (2015)."
+summary: "Design, development, and documentation of a mobile sensor unit prototype. Chair for Information Architecture, ETH Zurich, 2015."
 authors: [admin]
 tags: [prototype, urban analysis, urban morphology, sensor logging, ESUM, ETH]
 categories: [prototype]
