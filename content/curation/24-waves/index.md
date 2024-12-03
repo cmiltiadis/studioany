@@ -3,7 +3,7 @@ slug: waves-helsinki-launch
 title: 'Book launch - WAVES: Radio as Collective Imagination'
 subtitle: 'Book launch by Station of Commons. Äänen Lumo, Helsinki'
 draft: false
-summary: 'Summary.'
+summary: 'Book launch by Station of Commons. Äänen Lumo, Helsinki'
 abstract: ''
 authors: 
   - Gregoire Rousseau
