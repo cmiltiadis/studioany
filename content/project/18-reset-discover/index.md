@@ -46,7 +46,7 @@ The piece is discussed further in the thesis of Antonia Manhartsberger titled â€
 
 
 # Exhibitions 
-- First presented at the CUBE Concert, at the Institute of Electronic Music (IEM), University of Music and Performing Arts Graz. January 31 2018. 
+- First presented at the CUBE Concert, Institute of Electronic Music (IEM), University of Music and Performing Arts Graz. January 31 2018. 
 - [Exhibited at the Orpheum Extra, part of the Arts Programme, at Elevate 2019 festival](https://elevate.at/websites/2019/en/arts/programme/e19resetdiscover/index.html). March 2 2019.
 
 # Credits 
