@@ -1,6 +1,6 @@
 ---
 slug: project-anywhere-ted
-title: 'Project anywhere installation at TEDx NTUA'
+title: 'Project Anywhere installation at TEDx NTUA'
 subtitle: ''
 summary: ''
 draft: false
@@ -14,7 +14,7 @@ tags: [installation, virtual reality, todo]
 # add images
 ##################################################################
 # EVENT NAME 
-event: 'TEDxNTUA'
+event: 'TEDx NTUA Chain Reactions'
 # EVENT URL 
 event_url: 'https://www.ted.com/tedx/events/12014'
 date: '2015-01-17T15:00:00Z'
@@ -56,7 +56,7 @@ links:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
-projects: [project-anywhere]
+projects: [14-project-anywhere]
 ---
 
 Public installation of [project Anywhere](../../project/project-anywhere) at TEDx NTUA, Athens 2015.  
