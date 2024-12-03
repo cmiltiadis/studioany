@@ -21,12 +21,10 @@ image:
 links: 
 - name: 'ACADIA archive'
   url: 'https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/'
+- name: 'Publication'
+  url: ../../publication/23-acadia/
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 
