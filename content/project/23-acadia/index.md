@@ -3,6 +3,9 @@ title: "ACADIA Conference Archive"
 subtitle: "Construction of an open access archive for ACADIA conferences (1985-2023)."
 summary: "Construction of an open access archive for ACADIA conferences (1985-2023)."
 authors: [admin, Marcell Mars]
+author_notes: 
+- Concept & development 
+- web hosting & technical support
 tags: [archiving, Sandpoints, ACADIA, fellowship, open-access]
 categories: [projects, archive, Sandpoints]
 date: 2023-07-20T14:21:30+03:00
