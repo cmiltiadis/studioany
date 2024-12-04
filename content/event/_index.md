@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: Presentations & exhibitions 
 cms_exclude: true
 
 # View.
@@ -14,7 +14,10 @@ header:
   image: ''
 ---
 
+<!-- 
 Archive of presentations and exhibitions
 <br>
---- 
 ---
+-->
+
+--- 
