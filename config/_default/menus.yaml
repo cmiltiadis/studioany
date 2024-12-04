@@ -15,7 +15,7 @@ main:
 #    url: '#about'
 #    weight: 10
   - name: Projects
-    url: '/project' # was `#projects
+    url: '/project-archive' # was '/projects'
     weight: 30
   - name: Publications
     url: '/publication' # was '#featured'
@@ -23,7 +23,7 @@ main:
   - name: Presentations
     url: 'event/' # was '#talks'
     weight: 50
-  - name: Curation & production
+  - name: Production # was Curation & production
     url: 'curation/'
     weight: 55
   - name: Teaching
@@ -44,6 +44,10 @@ main:
   - name: About
     url: '/contact' # was '#contact'
     weight: 90
+# this replaced projects
+ # - name: Projects filter
+ #   url: '/project-archive'
+ #   weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
