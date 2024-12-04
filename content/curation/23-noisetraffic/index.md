@@ -8,9 +8,22 @@ abstract: ''
 ##################################################################
 # AUTHORS 
 authors: [Nicolina Stylianou, admin, Gregoire Rousseau, Emiddio Vasquez, GRM, Minerva Jolahti, Forces, Tytti Arola, Androula Kafa, Jukka Kääriäinen, Ana Gutieszca, Sezgin Boynik]
-author_notes: [Curation & production, Production & post-production, Live streaming production / Performing artist, Sound engineering / Performing artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist, Book exhibition]
+author_notes: 
+- Curation & production 
+- Production & post-production 
+- Live streaming production; performing artist 
+- Sound engineering; performing artist
+- Performing artist
+- Performing artist
+- Performing artist
+- Performing artist
+- Performing artist
+- Performing artist
+- Performing artist
+- Book exhibition
 #TAGS
-tags: [production, live electronics, noise, performance, Helsinki]
+tags: [production, live electronics, noise,concert, performance, Helsinki, todo]
+# add pictures
 categories: [curatorial]
 ##################################################################
 # EVENT NAME 
@@ -61,20 +74,20 @@ projects: [soc]
 
 Experimental live art event curated by Nicolina Stylianou (sensorium space), and produced in collaboration with [Station of Commons](../../project/soc). 
 
-**Programme**
+# Event program
 - [GRM](https://totstellen-grmmsk.bandcamp.com/) (FI/DE)
 - [Minerva Juolahti](https://www.minervajuolahti.com/bio/) (FI)
-- Gregoire Rousseau (FI/FR)
+- [Grégoire Rousseau](https://gregoire.persona.co/) (FI/FR)
 - [Forces](https://joonassiren.fi/) (FI)
 - [Tytti Arola](https://www.tyttiarola.com/) (FI) 
-- Emiddio Vasquez (CY/US)
-- [Androula Kafa](https://www.androula.info/)(CY)
+- [Emiddio Vasquez](https://emiddiovasquez.info/) (CY/US)
+- [Androula Kafa](https://www.androula.info/) (CY)
 - [Jukka Kääriäinen](https://www.jukkakaariainen.com/) (FI)
 - [Ana Gutieszca](https://www.anagutieszca.com/) (FI/MX) 
 
 Pop-up stands by [Rab-Rab Press](https://www.rabrab.net/) and [Moneda](https://monedas.bandcamp.com/) records.
 
-**Production team**
+# Production team
 - Nicolina Stylianou (curation, production)
 - Constantinos Miltiadis (production, post-production)
 - Emiddio Vasquez (sound engineering)

@@ -7,7 +7,7 @@ author_notes: [Lecture programme co-curator & host, Co-organizer & host, Present
 tags: [exhibition, talks, station of commons, lecture series]
 categories: [commons, curatorial]
 
-lastmod: 2023-08-05T15:37:21+03:00
+# lastmod: 2023-08-05T15:37:21+03:00
 featured: false
 draft: false
 

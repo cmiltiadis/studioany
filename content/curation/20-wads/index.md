@@ -7,7 +7,7 @@ authors: [shammas, admin, Emiddio Vasquez, Myrto Aristidou ]
 tags: [ars electronica festival, exhibition]
 categories: [curatorial]
 date: 2020-09-06T12:56:56+03:00
-lastmod: 2023-08-06T12:56:56+03:00
+# lastmod: 2023-08-06T12:56:56+03:00
 featured: false
 draft: false
 
