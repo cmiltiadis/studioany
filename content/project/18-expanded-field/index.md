@@ -15,7 +15,7 @@ author_notes:
   - Contributor; VR exhibition 
   - Contributor; VR exhibition 
   - Contributor; VR exhibition 
-tags: [spatial audio, virtual reality, exhibition, presentation, performance, symposium, Haus der Architektur, Graz]
+tags: [spatial audio, virtual reality, exhibition, presentation, performance, symposium, curatorial, Haus der Architektur, Graz]
 categories: [curatorial]
 date: 2018-03-07T18:26:39+03:00
 date_end: 2018-03-09T18:26:39+03:00
