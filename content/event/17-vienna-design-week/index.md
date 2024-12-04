@@ -1,16 +1,21 @@
 ---
-title: 'Sonic Rug Hackathon'
-subtitle: 'Audiovisual interactive installation'
+slug: sonic-rug
+title: 'Sonic Rug Hackathon - Vienna Design Week 2017'
+subtitle: 'Audiovisual interactive installation. Vienna, 2017'
 draft: false
 # SUMMARY
 summary: 'Audiovisual interactive installation. Vienna Design Week, 2017'
 # ABSTRACT 
-abstract: 'One-day hackathon with Antonia Manhatsberger, for the production of an interactive audiovisual installation  for the *Sonic Rug* developed by Selina Reiterer and Oliver Maklott.'
 ##################################################################
 # AUTHORS 
 authors: [admin, Antonia Manhartsberger, Selina Reiterer, Oliver Maklott]
+author_notes: 
+  - Visuals programming 
+  - Sound programming 
+  - Host & facilitator 
+  - Host & facilitator 
 #TAGS
-tags: [interactive installation, collaboration, Vienna design week, interactive textiles, exhibition]
+tags: [interactive installation, installation, collaboration, Vienna design week, interactive textiles,media art, exhibition, Vienna]
 ##################################################################
 # EVENT NAME 
 event: 'Vienna Design Week'
@@ -49,30 +54,39 @@ links:
   - name: 'Documentation @ sonicrug.com'
     url: 'https://sonicrug.com/no01-hackathon-vienna-design-week/'
   - name: 'Video demo 1'
+    icon_pack: fab
+    icon: vimeo
     url: 'https://vimeo.com/244049800'
   - name: 'Video demo 2'
+    icon_pack: fab
+    icon: vimeo
     url: 'https://vimeo.com/239455128'  
   - name: 'Video demo 3'
+    icon_pack: fab
+    icon: vimeo
     url: 'https://vimeo.com/241005285'
 # LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
 ##################################################################
 # Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
 
 
-> Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch.
-> [...] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media. 
+Invited single-day hackathon project with Antonia Manhatsberger, for the production of an interactive audiovisual installation for the *Sonic Rug*, developed by Selina Reiterer and Oliver Maklott.
+
+"Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch. [...] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media."[^src] 
+[^src]: https://sonicrug.com/no01-hackathon-vienna-design-week/
 
 {{< vimeo 241005285 >}}
 
----
+<br>
 
-**Installation credits**  
-Antonia Manhatsberger: sound programming  
-Constantinos Miltiadis: visuals  programming
+# Credits 
+Antonia Manhartsberger: sound programming  
+Constantinos Miltiadis: visuals  programming  
+Hosted by Oliver Maklott, Matthias Gassner, Selina Reiterer  
+Photo documentation: Daniela Jakob (Vienna Design Week)  
+
+# Images 
+
+{{< gallery album = "18-sonic-rug" >}}
