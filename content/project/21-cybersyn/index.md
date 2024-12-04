@@ -1,10 +1,16 @@
 ---
+slug: cybersyn-1973-2023
 title: "Cybersyn 1973/2023"
 subtitle: "HD video + 8 channel spatial audio installation loop, 15:31"
 summary: "HD video + 8 channel spatial audio installation loop, 15:31"
 authors: [Bassam El Baroni, admin, georgios-cherouvim, gerriet-sharma]
+author_notes: 
+- Concept, research, screenplay 
+- Concept, research 
+- Animation director
+- Music and sound spatialization
 # TAGS 
-tags: [video, artistic research, animation, cgi, spatial audio, exhibition]
+tags: [video, artistic research, animation, cgi, spatial audio, exhibition, media art, installation, collaboration]
 categories: [artistic research]
 #
 date: 2021-07-07T12:55:44+03:00
@@ -48,14 +54,15 @@ Premiered on July 7 2021 at [Edit Russ Haus](https://www.edith-russ-haus.de/en/h
 
 [Infrahauntologies on e-flux](https://www.e-flux.com/announcements/398039/infrahauntologies/405676)
 
-**Credits**  
-Concept, Research, and Screenplay: Bassam El Baroni and Constantinos Miltiadis; Animation Director: Georgios Cherouvim;  
-Music and Sound Spatialisation: Gerriet K. Sharma.  
-Modelling: Katerina Lakovaki;  
-Illustration: Ino Zavvou and Andreas Kelemen.  
-Render Support: Dimitris Liatsos.  
-Special thanks: Agelos Christopoulos, Omer Shapira, Liz Ran Yang.  
-Voice actors: Bassam El Baroni, Andreas Kelemen, Constantinos Miltiadis, and Edel O’Reilly.
+# Credits  
+**Concept, Research, Screenplay**: Bassam El Baroni and Constantinos Miltiadis   
+**Animation Director**: Georgios Cherouvim;  
+**Music and Sound Spatialisation**: Gerriet K. Sharma.  
+**Modelling**: Katerina Lakovaki;  
+**Illustration**: Ino Zavvou and Andreas Kelemen.  
+**Render Support**: Dimitris Liatsos.  
+**Special thanks**: Agelos Christopoulos, Omer Shapira, Liz Ran Yang.  
+**Voice actors**: Bassam El Baroni, Andreas Kelemen, Constantinos Miltiadis, and Edel O’Reilly.
 
 The screenplay is composed of original writing, inspirations, and reconfigured fragments from essays and historical research by a host of philosophers, theorists, and historians: David Chandler, Bob Hughes, Anna Longo, Suhail Malik, Eden Medina, Andrew Pickering, Matthew Poole, Nick Srnicek and Alex Williams.
 

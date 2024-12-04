@@ -3,7 +3,7 @@ slug: station-of-commons
 title: Station of Commons
 draft: false 
 summary: 'Helsinki-based collective for Digital Commoning Practices'
-tags: [collective, commons, digital commoning, open infrastructure, online radio, Helsinki]
+tags: [collective, commons, digital commoning, open infrastructure, online radio, Helsinki, collaboration]
 date: '2020-08-27T00:00:00Z'
 authors: 
 - Gregoire Rousseau

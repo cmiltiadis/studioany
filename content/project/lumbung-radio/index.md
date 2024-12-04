@@ -1,10 +1,10 @@
 ---
 title: "Lumbung Radio"
-subtitle: "Multi-collective interlocal online radio station for Documenta fifteen; global, live since April 2022"
-summary: "Multi-collective interlocal online radio station for Documenta fifteen; global, live since April 2022."
+subtitle: "Multi-collective interlocal online radio station for Documenta fifteen, live since April 2022"
+summary: "Multi-collective interlocal online radio station for Documenta fifteen, live since April 2022."
 abstract: ''
-authors: [Gregoire Rousseau, Alain Ryckelynck, Eddie Choo Wen Yi, admin, Juan Gomez,  Minerva Ruolahti]
-tags: [online radio, sound practice,open infrastructure,documenta 15,working group]
+authors: [Gregoire Rousseau, Alain Ryckelynck, Eddie Choo Wen Yi, admin, Juan Gomez,  Minerva Ruolahti, Essi Pellikka, Mathilde Palenius]
+tags: [radio, interlocal, online radio, sound practice,open infrastructure,documenta 15,working group, collective, collaboration]
 categories: [commons]
 projects: [soc]
 date: 2022-04-08T21:54:44+03:00
@@ -18,13 +18,13 @@ links:
   url: 'https://lumbungradio.org/'
 - name: lumbung radio working group (d15)
   url: 'https://documenta-fifteen.de/en/lumbung-radio/'
-- name: 'lumung radio announcement (d15)'
+- name: 'lumbung radio announcement (d15)'
   url: 'https://documenta-fifteen.de/en/news/lumbung-radio-the-inter-local-radio-network-is-streaming-24-7-during-documenta-fifteen/'
 - name: 'Lumbung.space'
   url: 'https://lumbung.space/'
-- name: 'ruruhaus.de'
-  url: 'https://ruruhaus.de/'
-- name: 'Project video trailer'
+- name: 'Lumbung video d12 trailer'
+  icon: youtube
+  icon_pack: fab
   url: 'https://www.youtube.com/watch?v=jGqzHTjExho'
 
 #url_video: 
@@ -38,7 +38,6 @@ image:
   preview_only: false
 ---
 
-{{< toc >}}
 
 [^d15d]: https://documenta-fifteen.de/en/lumbung-radio/
 ## Lumbung radio description at d15[^d15d]
@@ -50,15 +49,12 @@ _lumbung Radio_ is the online community radio project of documenta fifteen (d15)
 
 *lumbung Radio* is coordinated by _[Station of Commons](https://stationofcommons.org/)_—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.
 
-In November 2022, *Station of Commons* was awarded a 3-year grant by the [KONE foundation](https://koneensaatio.fi/en/) for the coordination of *lumbung Radio*. 
-
-lumbung radio was invited to participate to the 2023 Miss Read Berlin Art Book Fair 22-24.09.2023 at HKW, and co-organize the pre-fair programme of the festival, between 17-21.09.2023. 
-
----
+Since 2022 *Station of Commons* is coordinating collective of lumbung radio, supported by the [KONE foundation](https://koneensaatio.fi/en/). 
 
 {{< youtube jGqzHTjExho>}}
+<br>
 
----
+# Credits 
 ## Participating networks
 
 - [RURUradio](https://rururadio.org/), Jakarta, Indonesia
@@ -86,15 +82,12 @@ lumbung radio was invited to participate to the 2023 Miss Read Berlin Art Book F
 - Good Morning, I Love You, Nicosia, Cyprus  (Now *Affects & Dreams*, Berlin)
 - [Station of Commons](https://stationofcommons.org/) 
 
----
-
 ## Station of Commons team 
-- Grégoire Rousseau (project coordination; d15 on-site team)
-- Alain Ryckelynck (development, maintenance, and support of open technical infrastructure)
-- Eddie Choo Wen Yi (d15 on-site team; lumbung radio coordinator since mid-2022)
-- Juan Gomez (graphic design)
-- Essi Pellikka (lumbung radio publication coordinator since early 2023)
-- Minerva Ruolahti (coordination and content production for SoC)
-- Constantinos Miltiadis (contributor to initial project coordination between August 2021 and early 2022, and event production at d15)
-
-<!--invites Helsinki-based artists to release their sound archives or new material: Samuli Tanner and Heta Bilaletdin, MYÖS DJ collective, Kiilan Äänipäivät, among others to be announced.-->
+- Grégoire Rousseau (LR coordination; d15 on-site team; d15 and post-d15 event production)
+- Alain Ryckelynck (open infrastructure development, maintenance, and support)
+- Eddie Choo Wen Yi (d15 on-site team; LR coordination; post-d15 event production)
+- Juan Gomez (graphic design; post-d15 event production)
+- Essi Pellikka (LR publication coordinator 2023-2024; post-d15 event production)
+- Minerva Ruolahti (coordination and content production for SoC; post-d15 event production)
+- Constantinos Miltiadis (initial coordination contributor 2021-2022; d15 & post-d15 event production)
+- Mathilde Palenius (producer since 2024) 
