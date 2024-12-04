@@ -4,7 +4,7 @@ title: "reset.discover"
 subtitle: "Interactive installation for VR and binaural ambisonics, 2018"
 summary: "Interactive installation for VR and binaural ambisonics, 2018"
 authors: [Antonia Manhartsberger, admin]
-tags: [virtual reality, ambisonics, spatial audio, installation,procedural generation,artistic research, spatiotemporal design, Unity, collaboration]
+tags: [virtual reality, ambisonics, spatial audio, installation,procedural generation,artistic research, spatiotemporal design, media art, Unity, collaboration]
 categories: [spatial audio]
 date: 2018-01-31T12:55:55+03:00
 # lastmod: 2023-08-06T12:55:55+03:00

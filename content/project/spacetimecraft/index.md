@@ -2,15 +2,15 @@
 slug: spacetimecraft
 title: 'Virtual Architecture and SpaceTimeCraft'
 draft: false
-summary: Long-term research project.
+summary: Long-term research project
 tags:
-  - VR
+  - virtual reality
   - kinesthetics 
   - virtual architecture 
   - game studies 
   - design research
   - media archeology
-  - prototyping 
+  - prototype 
   - gamemaking 
 date: '2024-11-27T00:00:00Z'
 

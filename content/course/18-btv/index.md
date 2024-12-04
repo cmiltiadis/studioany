@@ -4,7 +4,7 @@ title: "Beyond the Visual"
 subtitle: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
 summary: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
 authors: [admin, gerriet-sharma]
-tags: [workshop, virtual reality, spatial audio, spatiotemporal design, exhibition]
+tags: [workshop, virtual reality, spatial audio, spatiotemporal design, exhibition, Unity]
 categories: [teaching, spatial audio]
 date: 2018-10-13T09:00:32+03:00
 # date_end: 2018-10-20T09:00:32+03:00

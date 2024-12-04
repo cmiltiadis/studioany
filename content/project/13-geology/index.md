@@ -11,7 +11,11 @@ lastmod: 2023-08-06T18:13:41+03:00
 featured: false
 draft: false
 
-url_video: 'https://youtu.be/MZRo7heBZHE'
+links: 
+- name: Video
+  icon: youtube
+  icon_pack: fab
+  url: 'https://youtu.be/MZRo7heBZHE'
 
 # Featured image
 image:
