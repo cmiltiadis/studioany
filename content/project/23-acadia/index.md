@@ -1,4 +1,5 @@
 ---
+slug: acadia-archive
 title: "ACADIA Conference Archive"
 subtitle: "Construction of an open access archive for ACADIA conferences (1985-2023)."
 summary: "Construction of an open access archive for ACADIA conferences (1985-2023)."
@@ -6,7 +7,7 @@ authors: [admin, Marcell Mars]
 author_notes: 
 - Concept & development 
 - web hosting & technical support
-tags: [archiving, Sandpoints, ACADIA, fellowship, open-access]
+tags: [architecture, conference, archive, library, Sandpoints, ACADIA, fellowship, open-access, prototype]
 categories: [projects, archive, Sandpoints]
 date: 2023-07-20T14:21:30+03:00
 # lastmod: 2023-08-05T14:21:30+03:00
@@ -44,11 +45,11 @@ All archive contents are open access; all infrastructure and tools used to creat
 
 Currently, the ACADIA archive is hosted at *Sandpoints*, courtesy of Marcell Mars, at https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/ and is planned to move to archive.acadia.org .
 
-**Contribute**  
+# Contribute 
 
 As an open and living archive, the ACADIA archive welcomes contributions both in the form of maintenance and care for the archive itself as well as contributions making use of its contents and hypertextual publishing format. Some ideas for contributions include: corrections and ammendments to existing entries; contributions of biographies of ACADIA members and contributors; contributions of articles about ACADIA and its history as well as archeological or thematic syllabuses making use of its material.  
 
-**Archive contents**   
+# Archive contents  
 
 | Item |Description|  Amount|
 |-|-|-|
@@ -61,3 +62,7 @@ As an open and living archive, the ACADIA archive welcomes contributions both in
 
 [^fellows]: See [ACADIA Cultural History Project Fellowship Announcement](http://acadia.org/news/69P4TY) and  [Announcing Recipients of the ACADIA Cultural History Fellowship
 ](http://acadia.org/features/GVHMR9).
+
+# Credits 
+Constantinos Miltiadis: Data parsing, computational archive production, librarianship   
+Marcell Mars: Technical support and web hosting
