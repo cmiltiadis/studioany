@@ -1,5 +1,5 @@
 ---
-title: Curated and produced events 
+title: Event curation and production
 cms_exclude: true
 
 # View.
@@ -13,8 +13,10 @@ header:
   caption: ''
   image: ''
 ---
-Archive of curated and produced events. 
-These include 30 sessions of the [IAM Open Lecture Series](/tag/iam-open-lectures/), the Ars Electronica Festival virtual exhibition [WADS ↑ ← → ↓](wads) (2020), the symposium [Towards the Expanded Field](towards-the-expanded-field) (2018), and various projects co-produced and co-curated with [Station of Commons](../project/station-of-commons) since 2021. 
-<br>
---- 
+
+<!-- 
+<small><markdown>
+The catalog includes the virtual exhibition [WADS ↑ ← → ↓](wads) (Ars Electronica 2020), the symposium [Towards the Expanded Field](towards-the-expanded-field) (Haus Der Architektur 2018),  the [IAM Open Lecture Series](/tag/iam-open-lectures/) (30 session 2015-2019), and projects produced with [Station of Commons](../project/station-of-commons) since 2021. 
+</markdown></small>
+-->
 --- 
