@@ -21,7 +21,7 @@ author_notes:
   - Production assistance (IAM)
   - Production assistance (IAM)
   - Production assistance (IAM)
-tags: [lecture series, architecture, computation, media, media art, AI, artistic research, research, dissemination, TU Graz, Graz,todo ]
+tags: [curatorial,lecture series, architecture, computation, media art, AI, artistic research, research, dissemination, TU Graz, Graz,todo ]
 # ADD IMAGE
 categories: [curatorial]
 date: 2015-11-06T19:00:04+03:00
