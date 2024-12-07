@@ -16,7 +16,7 @@ sections:
     id: landing-text
     content: 
       text: # Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).  
-      title: <br>This is the online portfolio and project archive of [Constantinos Miltiadis](/contact)
+      title: <br><small>This is the online portfolio and project archive of [Constantinos Miltiadis](/contact)</small>
 # Collection block from https://hugoblox.com/blocks/collection/
   - block: collection
     # id: posts
@@ -53,5 +53,4 @@ sections:
     design:
       # Choose a listing view (def: 'card')
       view: 0
-  
 ---
