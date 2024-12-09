@@ -22,7 +22,7 @@ author_notes:
 - Performing artist
 - Book exhibition
 #TAGS
-tags: [production, live electronics, noise,concert, performance, Helsinki, todo]
+tags: [production, live electronics, noise,concert, performance, Helsinki, TD]
 # add pictures
 categories: [curatorial]
 ##################################################################
