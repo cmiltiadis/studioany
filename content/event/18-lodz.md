@@ -10,7 +10,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin, gerriet-sharma]
 #TAGS
-tags: [presentation, digital spatial media, aesthetics, mathematics, space, todo]
+tags: [presentation, digital spatial media, aesthetics, mathematics, space, TD]
 # NOTE: Find image 
 ##################################################################
 # EVENT NAME 

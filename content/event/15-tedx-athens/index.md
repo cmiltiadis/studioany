@@ -10,7 +10,7 @@ abstract: ''
 # AUTHORS 
 authors: [admin]
 #TAGS
-tags: [installation, virtual reality, todo]
+tags: [installation, virtual reality, TD]
 # add images
 ##################################################################
 # EVENT NAME 
