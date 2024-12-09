@@ -14,10 +14,5 @@ header:
   image: ''
 ---
 
-<!-- 
-Archive of presentations and exhibitions
-<br>
----
--->
 
 --- 

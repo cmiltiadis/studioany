@@ -1,8 +1,8 @@
 ---
 slug: wads
 title: "WADS ↑ ← → ↓"
-subtitle: "Ars Electronica 2020"
-summary: "Virtual exhibition at Ars Electronica Festival 2020 *In Kepler’s Gardens*."
+subtitle: "Virtual exhibition for Ars Electronica Festival 2020"
+summary: "Virtual exhibition for Ars Electronica Festival 2020"
 authors: [shammas, admin, Emiddio Vasquez, Myrto Aristidou ]
 tags: [Ars Electronica Festival, exhibition, virtual exhibition,virtual reality, Cyprus, curatorial, collaboration]
 categories: [curatorial]

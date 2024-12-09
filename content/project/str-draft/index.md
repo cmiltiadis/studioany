@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: str
 title: "*str - procedural extended range electric guitar generator"
 subtitle: ""
@@ -9,7 +10,6 @@ categories: [prototype, wip]
 date: 2023-08-10T11:03:03+03:00
 lastmod: 2023-08-10T11:03:03+03:00
 featured: false
-draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

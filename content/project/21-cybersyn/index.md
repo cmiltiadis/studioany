@@ -6,7 +6,7 @@ summary: "HD video + 8 channel spatial audio installation loop, 15:31"
 authors: [Bassam El Baroni, admin, georgios-cherouvim, gerriet-sharma]
 author_notes: 
 - Concept, research, screenplay 
-- Concept, research 
+- Concept, research, coordination 
 - Animation director
 - Music and sound spatialization
 # TAGS 
