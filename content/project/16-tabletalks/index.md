@@ -2,8 +2,8 @@
 title: "Tabletalks on Architecture (2016-2017)"
 subtitle: ""
 summary: "Architectural research lecture series, Graz"
-authors: [admin, Marcello Fantuz, Sophia Walk, Christoph Breser, Diederik de Koning, Petra Eckhard, Dubravka Sekulić, Marcell Mars, Christoph Walter Pirker]
-author_notes: [co-founder and presenter, co-founder, co-founder, co-founder, co-founder and presenter, presenter, presenter, presenter, presenter]
+authors: [admin, Marcello Fantuz, Sophia Walk, Christoph Breser, Diederik de Koning, Petra Eckhard, Dubravka Sekulić, Marcell Mars, Christoph Walter Pirker, Lilly Hafner]
+author_notes: [Co-founder; presenter, Co-founder, Co-founder, Co-founder, Co-founder; Presenter, Presenter, Presenter, Presenter, Presenter, Graphic design]
 tags: [curatorial,lecture series, Graz, TU Graz, architecture, research, collaboration]
 categories: [curatorial]
 date: 2016-08-05T15:33:29+03:00
@@ -32,12 +32,16 @@ image:
 projects: []
 ---
 
-**_Tabletalks on Architecture_** (2016-2017) was established by a group of university assistants ('mittlebau') of the Architecture faculty of TU Graz, as means to foster the research community of the university.  <!-- and a vehicle to present and exchange current research.-->
-The series was conceived as a casual event outside of formal structures; a space where academics, students, and practicing architects can converge, engage, exchange, and discuss matters related to architecture and architectural research. 
+**_Tabletalks on Architecture_** was a lecture series produced by a group of university assistants at the Faculty of Architecture, TU Graz between 2016 and 2017.
+The initiative was conceived as as means to foster current research and as a casual event outside of formal university structures where academics, students, and practicing architects can converge, engage, exchange, and discuss matters related to architecture and architectural research.
+
+Founding members of the initiative include Constantinos Miltiadis, Diederik de Koning, Marcello Fantuz, Sophia Walk, and Christoph Braser.   
+Graphic design by Lilly Hafner. 
+
+*Tabletalks on Architecture* ran between 2016 and 2017 with four sessions listed below. 
 All events took place at [Cafe Kork](https://cafe-kork.com/) and were free and open to the public.
 
 # Tabletalks archive 
-Between 2016 and 2017 the *Tabletalks on Architecture* series conducted four sessions, outlined below. 
 
 ## TToA 1: Diederik de Koning -- Agricultural Architecture & Land Management 
 - [TToA 1 event poster](/uploads/ttoa/ttoa_1_deKoning.pdf)
@@ -62,7 +66,7 @@ Petra Eckhard is a literary and cultural studies scholar at the Institute of Arc
 - Tuesday, 21.03.2017, 18:00
 - Kork, Lessingstraße 25, 8010 Graz
 
-See [Metadata Punks](../../event/metadata-punks)
+See [Metadata Punks](../../event/metadata-punks).
 
 ## TToA 4: Christoph Walter Pirker -- Visual Ontologies of the Indefinite 
 
