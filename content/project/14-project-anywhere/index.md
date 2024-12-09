@@ -10,7 +10,7 @@ author_notes:
   - Fabrication support; photo documentation 
   - Video model 
   - Music 
-tags: [virtual reality, virtual environment, prototype, Unity, gamemaking , thesis,award, ETH Zurich, TD]
+tags: [virtual reality, virtual environment, prototype, Unity, gamemaking , thesis,award, ETH Zurich]
 categories: [prototype]
 date: 2014-11-07T18:04:19+03:00
 lastmod: 2023-08-07T18:04:19+03:00
