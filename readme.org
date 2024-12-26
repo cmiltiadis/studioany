@@ -1,0 +1,18 @@
+#+title: "Readme"
+
+* HUGO Academic website
++ Deployed to Netlify
++ https://studioany-test.netlify.app/
++ Manually uploaded to
+  https://new.studioany.com/
++ Attempt to deploy to github pages; likely requires pushing /public/ dir.
+
+* Edits
+
+** DONE Fix mdash in events with duration
+Replace `&mdash;` with `-`
+`_vendor/.../wowchemie/...layouts/partials/functions/get_event_dates`
+
+```
+ {{ $str = $str | append "-" }}<!-- replaced "&mdash;" -->
+```
