@@ -44,7 +44,3 @@ image:
 projects: [23-acadia]
 ---
 
-<!-- 
-See also the [related project]({{<ref "/project/23-acadia/index.md" >}}), and the proposed [ACADIA archive](https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/).
-
--->
