@@ -42,7 +42,7 @@ main:
   #   url: '/authors/admin'
   #   weight: 90
   - name: About
-    url: '/contact' # was '#contact'
+    url: '/about' # was '#contact'
     weight: 90
 # this replaced projects
  # - name: Projects filter
