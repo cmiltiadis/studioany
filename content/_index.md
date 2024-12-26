@@ -15,8 +15,11 @@ sections:
   - block: markdown
     id: landing-text
     content: 
-      text: # Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).  
-      title: <br><small>This is the online portfolio and project archive of [Constantinos Miltiadis](/contact)</small>
+      # text: # Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).
+      title: |
+        <br><markdown><center><small>Online portfolio and project archive of [Constantinos Miltiadis](/contact)</small></center></markdown>
+      # text: <br><markdown><center>Online portfolio and project archive of [Constantinos Miltiadis](/contact)</center></markdown>
+      columns: '1'
 # Collection block from https://hugoblox.com/blocks/collection/
   - block: collection
     # id: posts
@@ -53,4 +56,16 @@ sections:
     design:
       # Choose a listing view (def: 'card')
       view: 0
+###################################################################################################
+# TAG CLOUD
+###################################################################################################
+  - block: tag_cloud
+    headless: true
+    content: 
+      title: <small>Browse content by tags</small>
+      taxonomy: tags
+      count: 20
+    design: 
+      font_size_min: 0.6
+      font_size_max: 1.2
 ---
