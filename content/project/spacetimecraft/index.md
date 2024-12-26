@@ -38,6 +38,6 @@ The project investigates the aesthetic experience in virtual spatiotemporal envi
 It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research. 
 
 The project started following the development of [project Anywhere](../project-anywhere) at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course [Virtual Spaces Master Studio](/tag/vsms) on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive [workshops](/tag/workshop).
-In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: *SpaceTimeCraft: Integrative Research through Design into the Experience of Vitual Navigation*. 
+In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: *SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation*. 
 
 Below is a catalog of related publications and presentations. 
