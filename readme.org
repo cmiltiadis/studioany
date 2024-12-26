@@ -1,6 +1,13 @@
-#+title: "Readme"
+#+title: Readme
+
+* Hugo & Theme COMPATIBILITY
++ ONLY WORKS WITH HUGO version 119
++ Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes
+  + gallery shortcode doesn't work
 
 * HUGO Academic website
+
+
 + Deployed to Netlify
 + https://studioany-test.netlify.app/
 + Manually uploaded to
