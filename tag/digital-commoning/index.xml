@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital commoning | studio any</title>
+    <link>https://example.com/tag/digital-commoning/</link>
+      <atom:link href="https://example.com/tag/digital-commoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital commoning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>digital commoning</title>
+      <link>https://example.com/tag/digital-commoning/</link>
+    </image>
+    
+    <item>
+      <title>Station of Commons</title>
+      <link>https://example.com/project/station-of-commons/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/station-of-commons/</guid>
+      <description>&lt;p&gt;Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
+SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.&lt;/p&gt;
+&lt;p&gt;Among the flagship initiatives of SoC is the interlocal online radio &lt;a href=&#34;https://lumbungradio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lumbung radio&lt;/a&gt;, first established with ruangrupa for documeneta fifteen in 2022.
+The radio comprises more than 20 radio and audio practice collective from around the world, and is broadcasting since April 2022 on open infrastructure developed by SoC. Since the end of documenta, SoC is the coordinating collective of lumbung radio, supported by the Kone Foundation.&lt;/p&gt;
+&lt;!--
+## Selected projects by SoC
+- [Miss Read Berlin Art Book Fair](../../event/miss-read). Invited participation as lumbung radio, and co-organization of the pre-fair week programme. HKW, Berlin, 17-24.09.2023. 
+- [Digital Commoning Practices](../../event/digital-commoning-practices) - exhibition including discourse, performance, and workshop sections at Oksasenkatu 11, Helsinki, March 2021. 
+- In mid-2021 Station of Commons in collaboration with [rugangrupa](https://ruangrupa.id/en/) initiated the multi-collective interlocal [lumbung radio](../lumbung-radio). The online radio is based on open infrastructure developed by SoC, and was launched in April 2022, broadcasting content from participating radio collectives from across the world. Following Documenta, the project&#39;s contributing collectives and networks elected to continue with the project. Station of Commons serves as coordinator of the project supported by the Kone foundation. 
+- [FORUM PIXELACHE x LUMBUNG RADIO](https://www.pixelache.ac/posts/forum-pixelache-x-lumbung-radio). Event co-production with Pixelache. MUU, Cable Factory, Helsinki, 2-3.09.2023.
+
+## SoC history
+
+Station of Commons was originally founded in 2020 by Gregoire Rousseau and Juan Gomez. 
+Alain Ryckelynck develops and maintains the open infrastructure by Station of Commons. 
+Performance artist Minerva Juolahti and researcher Constantinos Miltiadis joined later to assist with coordination and production. 
+Visual artists Eddie Choo Wen Yi joined during Documenta fifteen in 2022 and serves as lumbung radio coordinator, and Essi Pellikka joined in 2023 as coordinator for the lumbung radio publication.  
+
+--&gt;
+&lt;h1 id=&#34;station-of-commons&#34;&gt;Station of Commons&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Description from &lt;a href=&#34;https://site.stationofcommons.org/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StationOfCommons.org&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!--
+[^about]
+[^about]: https://site.stationofcommons.org/about
+--&gt;
+&lt;p&gt;An ongoing collaborative initiative on &lt;strong&gt;digital commoning practices&lt;/strong&gt; by Grégoire Rousseau (Helsinki), Juan Gomez (Geneva), Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, and Eddie Choo Wen Yi.&lt;/p&gt;
+&lt;p&gt;Initiated in February 2020, Station of Commons investigates &lt;strong&gt;the possibilities of re-appropriating technology within public space&lt;/strong&gt;. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?&lt;/p&gt;
+&lt;p&gt;Station of Commons stands for radical alternative strategies to the neo-liberal system in terms of digital means of production, communication and distribution. Station of Commons operates as an easily integrable &lt;strong&gt;on-line platform&lt;/strong&gt; for sharing local resources. Resources as commons integrate the ideas of shared data, &lt;strong&gt;Open Source&lt;/strong&gt; practices, artefacts and real time broadcast. The sustainability of exchange, the ways they interoperate, the ecologies of interaction between the Stations of Commons produce provocations for a better collective understanding on how the Commons are in constant flux and also at risk.&lt;/p&gt;
+&lt;p&gt;Each Station depends on its own means of production, way of thinking, learning and sharing. This position of autonomy reflects on the original concept of Internet: the equality in the relation client to server and the openness of the algorithmic process. The Station of Commons operates as a vibrant thinking space dedicated for tutorials, live performances and critical discussions around the practice of commoning and open technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

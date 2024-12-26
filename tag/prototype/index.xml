@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prototype | studio any</title>
+    <link>https://example.com/tag/prototype/</link>
+      <atom:link href="https://example.com/tag/prototype/index.xml" rel="self" type="application/rss+xml" />
+    <description>prototype</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>prototype</title>
+      <link>https://example.com/tag/prototype/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Architecture and SpaceTimeCraft</title>
+      <link>https://example.com/project/spacetimecraft/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/spacetimecraft/</guid>
+      <description>&lt;p&gt;Long-term transdisciplinary research project on virtual architecture.
+The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research.
+It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research.&lt;/p&gt;
+&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://example.com/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://example.com/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
+In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: &lt;em&gt;SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a catalog of related publications and presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An open living archive for ACADIA</title>
+      <link>https://example.com/publication/23-acadia/</link>
+      <pubDate>Thu, 16 Nov 2023 14:23:09 +0300</pubDate>
+      <guid>https://example.com/publication/23-acadia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACADIA Conference Archive</title>
+      <link>https://example.com/project/acadia-archive/</link>
+      <pubDate>Thu, 20 Jul 2023 14:21:30 +0300</pubDate>
+      <guid>https://example.com/project/acadia-archive/</guid>
+      <description>&lt;p&gt;In May 2023, I was awarded the inaugural &lt;a href=&#34;http://acadia.org/news/69P4TY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACADIA Cultural History Project Fellowship&lt;/a&gt; together with Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The fellowship entailed production of work related to the &amp;lsquo;archive&amp;rsquo; of ACADIA, which at the time was an Excel sheet listing all papers published between 1985 and 2020, and a cloud drive with PDFs of conference proceedings volumes and other publications of ACADIA (e.g. quarterlies, membership lists, etc.).&lt;/p&gt;
+&lt;p&gt;My proposal was to create an open-access archive to host all content published by ACADIA. Using the data available, I wrote a Python program to parse this information and generate entries for an archive implementing &lt;em&gt;Sandpoints&lt;/em&gt;, an open-source open-infrastructure framework for experimental publishing.
+The archive contains entries for all papers (1488), authors (2057), conference proceedings (40), and editors (116), as well as a library with readily available proceedings PDFs.&lt;/p&gt;
+&lt;p&gt;All archive contents are open access; all infrastructure and tools used to create this archive are open-souce; all data and original software used to create this archive are shared openly and documented at the archive website.&lt;/p&gt;
+&lt;p&gt;Currently, the ACADIA archive is hosted at &lt;em&gt;Sandpoints&lt;/em&gt;, courtesy of Marcell Mars, at &lt;a href=&#34;https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/&lt;/a&gt; and is planned to move to archive.acadia.org .&lt;/p&gt;
+&lt;h1 id=&#34;contribute&#34;&gt;Contribute&lt;/h1&gt;
+&lt;p&gt;As an open and living archive, the ACADIA archive welcomes contributions both in the form of maintenance and care for the archive itself as well as contributions making use of its contents and hypertextual publishing format. Some ideas for contributions include: corrections and ammendments to existing entries; contributions of biographies of ACADIA members and contributors; contributions of articles about ACADIA and its history as well as archeological or thematic syllabuses making use of its material.&lt;/p&gt;
+&lt;h1 id=&#34;archive-contents&#34;&gt;Archive contents&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Amount&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Issues&lt;/td&gt;
+&lt;td&gt;ACADIA conference annual proceedings&lt;/td&gt;
+&lt;td&gt;40  + 1 issue about the archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Articles&lt;/td&gt;
+&lt;td&gt;Peer reviewed proceedings articles (up to 2020)&lt;/td&gt;
+&lt;td&gt;1488&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Contributors&lt;/td&gt;
+&lt;td&gt;Article authors&lt;/td&gt;
+&lt;td&gt;2057&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Editors&lt;/td&gt;
+&lt;td&gt;Proceedings (issue) editors&lt;/td&gt;
+&lt;td&gt;116 + 1 entry for archivist&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Library&lt;/td&gt;
+&lt;td&gt;Library catalogue with downloadable ACADIA publications (note: metadata not finalized)&lt;/td&gt;
+&lt;td&gt;140&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;Constantinos Miltiadis: Data parsing, computational archive production, librarianship&lt;br&gt;
+Marcell Mars: Technical support and web hosting&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;See &lt;a href=&#34;http://acadia.org/news/69P4TY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACADIA Cultural History Project Fellowship Announcement&lt;/a&gt; and  &lt;a href=&#34;http://acadia.org/features/GVHMR9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcing Recipients of the ACADIA Cultural History Fellowship
+&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne&#39;s Diary</title>
+      <link>https://example.com/project/daphnes-diary/</link>
+      <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
+      <guid>https://example.com/project/daphnes-diary/</guid>
+      <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
+&lt;!--
+Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
+--&gt;
+&lt;p&gt;On February 2018, the Cyberparks COST Action awarded the project a &lt;a href=&#34;https://www.cyi.ac.cy/index.php/cyi-news/cyberparks-cost-action-awards-grants-to-starc-trainees-for-short-term-scientific-missions-on-mediated-landscapes-in-nicosia.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short-term scientific mission (STSM) grant&lt;/a&gt;, for further development of the project with local cultural institutions in both sides of Nicosia, in collaboration with the Cyprus Institute. The STSM was conducted between March 22 and April 4, 2018.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;h3 id=&#34;team-members&#34;&gt;Team members&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis, Institute of Architecture and Media, TU Graz&lt;/li&gt;
+&lt;li&gt;Paul Schmidt, Media &amp;amp; Culture, Utrecht University&lt;/li&gt;
+&lt;li&gt;Aurimas Žemaitaitis, Kaunas University of Applied Sciences&lt;/li&gt;
+&lt;li&gt;Tamás Tóth, Széchenyi István University, Győr&lt;/li&gt;
+&lt;li&gt;Simonas Skarzauskas, Mykolas Romeris University, Vilnius&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Text, story &amp;amp; documentation&lt;/strong&gt;: Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Voice acting &amp;amp; audio recordings&lt;/strong&gt;: Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Website design&lt;/strong&gt;: Tamás Tóth&lt;br&gt;
+&lt;strong&gt;Videos &amp;amp; editing&lt;/strong&gt;: Aurimas Žemaitaitis &amp;amp; Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Location scouting&lt;/strong&gt;: Aurimas Žemaitaitis, Paul Schmidt &amp;amp; Simonas Skarzauskas&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The team would like to thank George Artopoulos of The Cyprus Institute for organising the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp; 360 Videos</title>
+      <link>https://example.com/publication/17-esum/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/17-esum/</guid>
+      <description>&lt;p&gt;Responsible for the design, development, programming, and documentation of the &lt;a href=&#34;../../project/esum&#34;&gt;ESUM backpack sensor module&lt;/a&gt;, presented in sections 2.1, 2.2, and the source code annex of the report.&lt;/p&gt;
+&lt;p&gt;Griego, Danielle, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven Schneider, Reinhard König, et al. ‘ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp;amp; 360° Videos’. Application/pdf. ETH Zurich, 13 September 2017. &lt;a href=&#34;https://doi.org/10.3929/ETHZ-B-000184587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3929/ETHZ-B-000184587&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John Paul George &amp; Me</title>
+      <link>https://example.com/project/john-paul-george-me/</link>
+      <pubDate>Mon, 06 Apr 2015 18:11:20 +0300</pubDate>
+      <guid>https://example.com/project/john-paul-george-me/</guid>
+      <description>&lt;p&gt;&lt;em&gt;John Paul George &amp;amp; Me&lt;/em&gt; is a collection of interactive wearable musical instruments for kids.
+Each T-shirt represents a specific instrument and all together form a rock ensemble. Through the seemingly magical clothes that produce sound by touch, the project brings to children an interactive musical game, encouraging and stimulating their musical interest as well as collaboration with each other to perform music.
+The project was developed by textile designer Selina Reiterer and computational designer Constantinos Miltiadis for exploring playful applications of smart materials and interactive wearable technology.&lt;/p&gt;
+&lt;p&gt;The project includes three T-shirts, a microcontroller with a Bluetooth Low Energy (BLE) module, and a mobile app.&lt;br&gt;
+The three individual T-shirts were inspired by and designed after the standard rock trio representing a guitar, a bass, and a drum set.
+Each shirt has a distinct pattern, based on the attributes of the instrument it represents, which each shape forming a uniform conductive region sensitive to touch.
+The patterns were silk-screen printed on plain T-shirts with electrically conductive paint, a flexible, washable and non-toxic chemical mixture.&lt;br&gt;
+In the back of each garment is a removable pocket with an Arduino microcontroller that receives touch signals from each shape through conductive thread.&lt;br&gt;
+The touch signals are then sent wirelessly via BLE to a mobile application which triggers different audio samples corresponding to each garment-instrument.
+Multiple T-shirts can be connected to a single mobile device, or each band member can use their own. The device can be connected with headphones and external speakers to amplify the sound output.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/132808247&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;additional-information&#34;&gt;Additional information&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;“John Paul George &amp;amp; Me” was exhibited at the 2015 Maker Faire in Rome.&lt;/li&gt;
+&lt;li&gt;The project received the 2&lt;sup&gt;nd&lt;/sup&gt; prize in the &lt;a href=&#34;https://web.archive.org/web/20160323144253/http://www.youreshape.com/entries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouReshape wearable technology competition (archived)&lt;/a&gt; in August 2015.&lt;/li&gt;
+&lt;li&gt;It was featured at the Materiability Research Network at &lt;a href=&#34;http://materiability.com/john-paul-george-me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Paul George &amp;amp; Me (Materiability Research Network)&lt;/a&gt;, and the Bare Conductive Blog at &lt;a href=&#34;https://web.archive.org/web/20160312133650/https://www.bareconductive.com/make/bluetooth-connected-musical-t-shirts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Connected Musical T-shirts (archived)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- defunct 
+- [“Miltiadis + Reiterer desarrollan un sistema de camisetas musicales interactivas” – Article on Catalogo Diseno [ES].](http://www.catalogodiseno.com/2016/01/10/john-paul-george-me/)[  
+](http://www.catalogodiseno.com/2016/01/10/john-paul-george-me/)
+--&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Video credits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kids: Beda &amp;amp; Vasco&lt;/li&gt;
+&lt;li&gt;Filming: Anna Maragoudaki &amp;amp; Achilleas Xydis&lt;/li&gt;
+&lt;li&gt;Editing: Anna Maragoudaki&lt;/li&gt;
+&lt;li&gt;Music: Constantinos Miltiadis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project credits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selina Reiterer (textile design &amp;amp; material research)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (electronics &amp;amp; app development).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developed in 2015 at the &lt;a href=&#34;http://caad.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair for Digital Architectonics (née Chair for CAAD)&lt;/a&gt;, ETH Zurich.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/all-tshirts.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/all-tshirts_hu14b6018d5451e98317c694c9bbc3400b_181697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;all-tshirts.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/electronics_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/electronics_1000_hu438537a689e07416a7e40e471f8d8057_45172_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;electronics_1000.jpg&#34; width=&#34;750&#34; height=&#34;317&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids01.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids01_hu3f4cd1e3c5c761abb76e72ae011dc0fe_236842_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids01.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids02_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids02_1000_hu66f3ba1fc906e58e281e57352dd18760_73389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids02_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids03.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids03_hu978c9236487038caf5eee4d46aec4b01_227186_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids03.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/make01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/make01_800_hu5f374ab7b182b05816a5f5dfd17c8dae_274057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;make01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/paint_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/paint_800_hu21b54a9c48f370cfdd9e2cbf0262ce7f_213652_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;paint_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tools01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tools01_800_hube00a71990e50915561fbe6c132dfa2b_236954_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tools01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000_hu070597ecc7cbcebd8445c1a846ae9861_75398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-bass_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000_hu6f24cb63d18eb05680e10c214a3bbbcc_71269_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-drums_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000_hua9ff83c04998e5d5720dd499cb44ffb6_83131_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-guitar_1000.jpg&#34; width=&#34;750&#34; height=&#34;486&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800_hufdc8d2ec9817880a7ea46fb5cfdf77b5_20139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-02_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800_hucb084eb62f17524cb2ec2b7d26508b13_21338_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-03_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800_hucb084eb62f17524cb2ec2b7d26508b13_19259_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-04_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ESUM: Anthropocentric Urban Sensing Unit</title>
+      <link>https://example.com/project/esum/</link>
+      <pubDate>Fri, 06 Mar 2015 12:56:02 +0300</pubDate>
+      <guid>https://example.com/project/esum/</guid>
+      <description>&lt;!-- FIND 
+award at Falling Wall competition Paris esum
+--&gt;
+&lt;p&gt;Design, development, and documentation of the ESUM backpack, a standalone mobile prototype for an &amp;lsquo;Anthropocentric Urban Sensing Unit&amp;rsquo; at the &lt;a href=&#34;http://www.ia.arch.ethz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair of Information Architecture&lt;/a&gt; ETH Zurich.&lt;/p&gt;
+&lt;p&gt;The ESUM project was initiated by  &lt;a href=&#34;../../authors/reinhard-konig&#34;&gt;Reinhard König&lt;/a&gt; at ETH Zurich. The concept behind the backpack sensor prototype was to develop a mobile sensor unit to measure, analyse and correlate both ambient and biometric data from a subject’s itinerary in an urban context, and eventually correlate environmental qualities with psychosomatic effects.&lt;/p&gt;
+&lt;p&gt;The ESUM backpack sensor prototype was developed and documented with the intention to be easily replicated by the different research labs associated with the project. It includes several off the shelf electronics components, a custom housing that can fit in a small backpack, and custom software for logging sensor values.
+The software was developed as a Visual Studio C# console application, and is responsible for synchronous data logging from the different sensor units with varying frequencies and temporal dependencies &amp;ndash; sensor fusion and analysis was implemented via machine learning at a later stage of the project (see Ojha et al. 2019).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+The ESUM case is made from plywood and plexiglas, and can be laser cut and assembled in less than 1 hour.&lt;/p&gt;
+&lt;p&gt;This work is part of &lt;em&gt;&lt;a href=&#34;https://archive.arch.ethz.ch/esum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESUM­-Analysing trade­offs between the energy and social performance of urban morphologies&lt;/a&gt;&lt;/em&gt;, a joint project between the Chair of Information Architecture, ETH Zurich, Zurich, Switzerland and the Chair of Computer Science for Architecture, Bauhaus ­University Weimar; supported by the Swiss SNF and the German DFG funding programs.&lt;/p&gt;
+&lt;h2 id=&#34;esum-backpack-prototype&#34;&gt;ESUM backpack prototype&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-1-Assembly-diagram.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-1-Assembly-diagram_hu95f02b9271e3aae7dd83a7c5c743a416_26139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-1-Assembly-diagram.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-2-sf_img_3747_800.PNG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-2-sf_img_3747_800_hued852d73d76c1551ccdd5b7e7203956f_330358_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-2-sf_img_3747_800.PNG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-3-IMG_3646-w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-3-IMG_3646-w_hu9e733d373b4a8999faad40990483dd0c_21775_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-3-IMG_3646-w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-4-sf_img_3642_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-4-sf_img_3642_800_hu27f8e824c089a9f6ef65e1a88fdff233_166947_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-4-sf_img_3642_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-5-sf_img_3648_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-5-sf_img_3648_800_hu1d20588b06b062edfcfd372c0ae3b13f_190175_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-5-sf_img_3648_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-6-IMG_3622_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-6-IMG_3622_800_huffd2f7972b1d771be787de989e0fd64b_23846_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-6-IMG_3622_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-7-sf_IMG_3667_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-7-sf_IMG_3667_800_hu4b1d7ee142473ccb201a25f47ad7f806_19851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-7-sf_IMG_3667_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-8-sf_img_3657_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-8-sf_img_3657_800_hub71362fa4aaf47ddad6b06d3b924a662_154389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-8-sf_img_3657_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;prototype-parts&#34;&gt;Prototype parts&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Barebone PC&lt;/li&gt;
+&lt;li&gt;Battery unit&lt;/li&gt;
+&lt;li&gt;Emotiv Epoc+ 16 point wireless EEG&lt;/li&gt;
+&lt;li&gt;Libelium Meshlium WiFi sniffer&lt;/li&gt;
+&lt;li&gt;Empatica E4 biometric watch (electrodermal activity, photoplethysmography, peripheral temperature, motion)&lt;/li&gt;
+&lt;li&gt;GPS unit&lt;/li&gt;
+&lt;li&gt;Atmospheric pressure sensor&lt;/li&gt;
+&lt;li&gt;Temperature sensor&lt;/li&gt;
+&lt;li&gt;Humidity sensor&lt;/li&gt;
+&lt;li&gt;O3 sensor&lt;/li&gt;
+&lt;li&gt;Air pollutants sensor I (C4H10, CH3CH2OH, H2, CO, CH4)&lt;/li&gt;
+&lt;li&gt;Air pollutants sensor II (C6H5CH3, H2S, CH3CH2OH, NH3, H2)&lt;/li&gt;
+&lt;li&gt;CO2 sensor&lt;/li&gt;
+&lt;li&gt;NO2 sensor&lt;/li&gt;
+&lt;li&gt;Sound pressure sensor&lt;/li&gt;
+&lt;li&gt;Luminosity sensor&lt;/li&gt;
+&lt;li&gt;Dust sensor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;esum-project-descriptionref&#34;&gt;ESUM project description&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;In this research project, we investigate the impacts of urban morphology (UM) on citizen&amp;rsquo;s social potential as a function of accessibility and perception and compare it with the impacts of UM on building energy consumption for parallel case studies in Zürich Switzerland and Weimar Germany. This is of particular interest since urban planning decisions of urban morphology have long–term implications that affect not only the energy performance of the building stock but also on people&amp;rsquo;s experiential quality of the city environment.&lt;/p&gt;
+&lt;p&gt;In order to understand, measure and predict the impacts of UM on the perception of citizens we developed a three-tiered empirical study, which draws upon the participants&amp;rsquo; experiences in a real-world experiment, along with two controlled experiments using a 360­degree video and a gray-scaled 3D virtual reality (VR) model of the city. All three experiments are conducted using the same pre­defined path in each of the two cities, for a total of six participant based experiments. In each experiment, the participants subjectively rate the urban environment through surveys for an understanding of their explicit perception.&lt;/p&gt;
+&lt;p&gt;We also go beyond subjective impression ratings to gain further insight into the implicit perception of the participants by simultaneously measuring electro-dermal activity (EDA) data collected via wearable devices. The EDA data is processed to quantify the frequency, duration, and location of arousals along the experimental path to show a measure of excitation. The explicit perception data provides the sentiment of the experience such as spacious/narrow, beautiful/ugly, or private/public (among others) while the implicit perception provides the “raw” arousal-based perception from participants.&lt;/p&gt;
+&lt;p&gt;We also consider the impacts of urban environment features on perception, including temperature, illuminance, sound, and dust using data collected via a “sensor-backpack,” specifically designed for the use in the real-world participant studies. The data produced from this experiment is highly complex; the seven sensors have varying frequencies and varying temporal dependencies. We, therefore, developed an information fusion mechanism to combine the spatial-temporal data to produce a structured dataset, which is analyzed using four state-of-the-art Machine Learning algorithms. The quantified physiological responses or “human perception” data are paired with the sensor-based environmental measurements using Machine Learning based knowledge discovery approaches. These include classification, fuzzy rule-based inference, feature selection, and clustering to derive underlying relationships between participants’ physiological response and environmental conditions. The results indicate that the participant’s implicit responses are affected by both urban morphological features measured as participant field-of-view and street width as well as the dynamic environmental features temperature, noise levels, illuminance and traffic speed.&lt;/p&gt;
+&lt;!--
+ESUM is currently a joint research project between The Chair of Information Architecture ETH Zurich and Bauhaus-University of Weimar, with ties to other interdisciplinary research groups at ETH Zurich and the [Future Cities Lab ETH](http://www.fcl.ethz.ch) in Singapore.
+--&gt;
+&lt;!--
+ESUM Project repository: [https://github.com/vojha-code/ESUM-project](https://github.com/vojha-code/ESUM-project)
+--&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Ojha, Varun Kumar, Danielle Griego, Saskia Kuliga, Martin Bielik, Peter Buš, Charlotte Schaeben, Lukas Treyer, et al. ‘Machine Learning Approaches to Understand the Influence of Urban Environments on Human’s Physiological Response’. Information Sciences 474 (1 February 2019): 154–69. &lt;a href=&#34;https://doi.org/10.1016/j.ins.2018.09.061&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ins.2018.09.061&lt;/a&gt;. Project repository: &lt;a href=&#34;https://github.com/vojha-code/ESUM-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESUM-project&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.arch.ethz.ch/esum/about.html#esum&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://archive.arch.ethz.ch/esum/about.html#esum&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shifting perspectives</title>
+      <link>https://example.com/project/shifting-perspectives/</link>
+      <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
+      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
+&lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
+The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.
+The movement of the structure is controlled by stepper motors that pull the structure from 2 external points.
+The three custom software developed for the installation were: a Processing-Java program for real-time sound analysis (FFT); an Arduino-based software for controlling the stepper motors; and a Unity program for projection mapping, all synchronized with each other via OSC.
+Using real-time sound analysis the installation projected audio-responsive graphics mapped on the continuous movements of the grid structure.&lt;/p&gt;
+&lt;!--
+Three custom pieces of software were developed for the installation. 
+A Unity application for projection mapping; a Java software for live sound analysis (FFT); and a custom Arduino-based hardware  for controlling the movement of the structure. 
+The two were synchronized with OSC messages. 
+The first allowed projecting video and graphics on the structure.
+
+Combined with the real-time synchronization with the movement of the structure, it could project portions of the video that would follow each of the panels. Furthermore, the application could perform real-time sound analysis, and produce interactive graphics based on audio spectrum data of the music played at the event.
+
+The installation was developed with PUNCH collective, an interdisciplinary synergy between upcoming researchers, based in Zurich and Delft. It was exhibited at the 7 Sins event, November 2014 in Delft.
+--&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/116073674&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; was developed in Zurich, fabricated and assembled in Delft for the event 7 Sins, in November 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>project Anywhere</title>
+      <link>https://example.com/project/project-anywhere/</link>
+      <pubDate>Fri, 07 Nov 2014 18:04:19 +0300</pubDate>
+      <guid>https://example.com/project/project-anywhere/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The ultimate display would, of course, be a room within which the computer can control the existence of matter.&lt;br&gt;
+(Ivan E. Sutherland, The Ultimate Display 1965)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;project Anywhere&lt;/em&gt; is a framework and proof-of-concept prototype for full-body interactive wireless VR, developed at the Chair for CAAD, ETH Zurich in 2014, to investigate notions of virtual space and time, and to explore designing synthetic spatiotemporal sensory experiences.
+The project was initiated in mid-2014, following the release of the first commercial VR devices that featured limited bodily involvement and capacity for movement.
+Addressing these limitations, this project developed a VR framework consisting of a mobile application, custom wireless VR HMDs and data glove prototypes as well as skeleton tracking, to produce a vivid real-time interactive presence in a virtual reality environment
+In that, project Anywhere demonstrates the potential of virtual space as a valid architectural medium in itself (instead of its use as an intermediary form for design or visualization), that allows experimenting with synthetic kinaesthetic, visual and auditory sensory experiences.
+Concurrently it explores the capacity of designing spatiotemporal environments with an embedded dimension of time. The project’s title, “Anywhere”, refers to the generic nature of the digital-virtual environment that can be made to simulate any physical context: real or imaginary.&lt;/p&gt;
+&lt;!-- 
+this project was initiated as a proof-of-concept for full-body wireless interactive VR. 
+
+Blending aspects of both actuality and virtuality, the project creates a vivid presence in an augmented reality environment. The ubiquity of processors and the advent of cloud computing has made possible the decentralised aggregation of independent node systems in a common network, bringing together people from the most remote places to coexist in the same virtual space. 
+--&gt;
+&lt;h1 id=&#34;video-demo&#34;&gt;Video demo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/113398928&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;project-description&#34;&gt;Project description&lt;/h1&gt;
+&lt;p&gt;The project consists of the following bespoke software and hardware prototypes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;a mobile multiplayer VR app,&lt;/li&gt;
+&lt;li&gt;Omnimask: &lt;a href=&#34;#gallery-14-project-anywhere-7&#34;&gt;a 3D printed mobile VR head-mount&lt;/a&gt; ,&lt;/li&gt;
+&lt;li&gt;Inteligloves: &lt;a href=&#34;#gallery-14-project-anywhere-5&#34;&gt;a pair of custom wireless data gloves&lt;/a&gt;, and&lt;/li&gt;
+&lt;li&gt;Omnitracker: a sensor fusion software.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The main component of the project is a custom mobile application (1) developed in Unity as a multiplayer VR videogame.
+Mounted on a VR mask (2), the app provides a stereoscopic viewport for each individual user, through the point of view of their avatar in the shared virtual environment.&lt;/p&gt;
+&lt;!-- TRACKER  --&gt;
+&lt;p&gt;Each user&amp;rsquo;s spatial presence is tracked in real-time by their head-mount, data gloves, and a Kinect skeleton tracking sensor.
+Cumulatively, head, gesture and skeleton tracking provide 86 degrees of freedom, fused together by the Omnitracker (4), a software written in Java/Processing.
+These data are synchronized with a web cloud and are use to animate the user&amp;rsquo;s avatar in real-time (see &lt;a href=&#34;#gallery-14-project-anywhere-13&#34;&gt;image13&lt;/a&gt;).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+Thus, any movement of the subject in physical space, such as walking, or even head tilting and finger movement correlates 1:1 to movements of their avatar.&lt;/p&gt;
+&lt;!-- DATA GLOVES  --&gt;
+&lt;p&gt;Hardware prototypes developed for this project include a 3D printed VR head-mount (2) and a pair of data gloves (3).
+The VR head-mount was designed for an iPhone 5, and featured adjustable inter-pupillary distance, and focal length.&lt;br&gt;
+The data gloves (3) were developed using Arduino microcontrollers. Each glove features an XBEE transceiver module, a 9 DoF sensor, and up to 6 flex sensors (for tracking individual finger movement). These were mounted on a lightweight elastic 3D printed glove base, easily adjustable for different hand sizes.
+The framework was programmed to recognize hand gestures, used for performing various contextual virtual actions (see for example &lt;a href=&#34;#gallery-14-project-anywhere-8&#34;&gt;image 8&lt;/a&gt;), proving that a virtual presence can also be an active one.&lt;/p&gt;
+&lt;!--
+and synchronizing and formalizing an array of data from a web cloud in real time. Subjects can join from any device connected to the internet.
+
+The project was developed in Unity3D and Java, and its using a range of tools developed or prototyped for this purpose, such as the [omnimask](#gallery-14-project-anywhere-7) (3D printed VR head mount), the [inteliglove interface](#gallery-14-project-anywhere-5) (Arduino-based wireless data gloves) and the omnitracker (Java software for sensor fusion).
+--&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;Related publications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/16-ijac&#34;&gt;Constantinos Miltiadis (2016). Project Anywhere: An Interface for Virtual Architecture&lt;/a&gt;. IJAC 14 (4).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/15-ecaade&#34;&gt;Constantinos Miltiadis (2015). Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual&lt;/a&gt;. eCAADe 2015. TU Delft.&lt;/li&gt;
+&lt;li&gt;Photon Engine Dev Story (2015). &lt;a href=&#34;https://blog.photonengine.com/dev-story-project-anywhere/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere – Digital Route to an Out-of-Body Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ivan Petrovic Prize for the “best presentation by a young researcher” for the paper “&lt;a href=&#34;../../publication/15-ecaade&#34;&gt;Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment&lt;/a&gt;”.  eCAADe 2015, TU Vienna, September 2015.&lt;/li&gt;
+&lt;li&gt;Second place &lt;a href=&#34;../../event/zeiss-vr-one&#34;&gt;Zeiss VR One Contest for Mobile VR Apps&lt;/a&gt;, 2015.&lt;/li&gt;
+&lt;li&gt;Arthur C. Clarke prize for “the most creative and unorthodox approach”. &lt;a href=&#34;https://www.museumofsciencefiction.org/winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Museum of Science Fiction international architectural competition&lt;/a&gt;, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;press&#34;&gt;Press&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The Guardian &amp;amp; The Observer Tech Monthly (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.theguardian.com/technology/2015/jan/07/project-anywhere-digital-route-to-an-out-of-body-experience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere: digital route to an out-of-body experience : Constantinos Miltiadis’s project combines inteligloves and Kinect sensors to an Oculus Rift-style headset to provide the ultimate in impressive digital experiences&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Euronews High Tech; Euronews Next (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LfIDuVGGlts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euronews Next. Project Anywhere: an out-of-body experience of a new kind&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=R4M0IE6_WPo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proyecto Anywhere, una nueva forma de jugar en línea - hi-tech&lt;/a&gt; [Spanish]&lt;/li&gt;
+&lt;li&gt;Reuters (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.yahoo.com/news/project-anywhere-takes-virtual-reality-152034973.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere takes virtual reality gaming to new level&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DesignBoom  (2014)&lt;br&gt;
+&lt;a href=&#34;https://www.designboom.com/technology/studio-any-project-anywhere-virtual-universe-real-time-12-10-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Subjects manipulate project anywhere’s virtual universe in real-time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Museum of Science Fiction (2014)&lt;br&gt;
+&lt;a href=&#34;https://www.museumofsciencefiction.org/preview-museum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The preview museum: A departure from museums as usual…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fubiz.net/2014/12/16/virtual-universe-in-real-time/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fubiz (2014) Virtual Universe in Real-time&lt;/a&gt; [French]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;exhibitions--installations&#34;&gt;Exhibitions &amp;amp; installations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstration at the Carl Zeiss Headquarters, in the context of the &lt;a href=&#34;../../event/zeiss-vr-one&#34;&gt;Zeiss VR One App Contest&lt;/a&gt;. Oberkochen, Germany, June 2015&lt;/li&gt;
+&lt;li&gt;Public installation at TEDxNTUA. Athens, 17.01.2015&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-information&#34;&gt;Project information&lt;/h1&gt;
+&lt;p&gt;project Anywhere was developed as a postgraduate master thesis in 2014 at the Chair for CAAD, ETH Zurich, Prof. Ludger Hovestadt.
+It was first demonstrated at the Chair for CAAD in November 2014.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Concept and development&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Prototyping support&lt;/strong&gt;&lt;br&gt;
+Demetris Shammas &amp;amp; Achilleas Xydis&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Filming &amp;amp; Editing&lt;/strong&gt;&lt;br&gt;
+Demetris Shammas&lt;br&gt;
+&lt;strong&gt;Photo documentation&lt;/strong&gt;&lt;br&gt;
+Achilleas Xydis&lt;br&gt;
+&lt;strong&gt;Music&lt;/strong&gt;&lt;br&gt;
+Michalis Shammas
+&lt;strong&gt;Subject&lt;/strong&gt;&lt;br&gt;
+Anna Maragkoudaki&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;For a discussion of the networking topology of this project see the 2015 Photon Engine Dev story: &lt;a href=&#34;https://blog.photonengine.com/dev-story-project-anywhere/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere – Digital Route to an Out-of-Body Experience&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vector Raster Bleep</title>
+      <link>https://example.com/project/vector-raster-bleep/</link>
+      <pubDate>Fri, 07 Mar 2014 17:15:18 +0300</pubDate>
+      <guid>https://example.com/project/vector-raster-bleep/</guid>
+      <description>&lt;p&gt;&lt;em&gt;VectorRasterBleep&lt;/em&gt; is an interactive installation developed as a playful interpretation of a baroque garden to the digital-virtual domain.
+The garden is conceived as the Queen&amp;rsquo;s antidote to boredom, a playground open to stimuli for subverting the normality of everyday life, and a gateway to the fantastic and phantasmic.
+Wearing an electronic suit, the Queen escapes to the garden to explore its wonders.
+Its physical dimension is a space &amp;ndash;any generic space&amp;ndash; tracked by infrared sensors and populated by machinery.
+Its virtual counterpart, however, is a live phantom that transforms continuously to reflect the Queen&amp;rsquo;s desires while she strolls the generic space.&lt;/p&gt;
+&lt;p&gt;Technical information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wearable suit with 20 LEDs, a speaker, and an Arduino microcontroller with an XBEE wireless module&lt;/li&gt;
+&lt;li&gt;Kinect motion tracking sensor&lt;/li&gt;
+&lt;li&gt;Custom software for motion tracking and interactive graphics generation developed in Java&lt;/li&gt;
+&lt;li&gt;Projector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developed in 2014 for a course taught by Mihye An at the Chair for CAAD, ETH Zurich.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Kinetic Structures</title>
+      <link>https://example.com/project/iks/</link>
+      <pubDate>Wed, 10 Oct 2012 11:13:53 +0300</pubDate>
+      <guid>https://example.com/project/iks/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Interactive Kinetic Structures&lt;/strong&gt;&lt;/em&gt; is a prototype for an interactive architectural structure developed in 2012 as a diploma thesis project at NTU-Athens.
+The aim of the project was the production of a proof-of-concept for an architectural structure able to interact and reconfigure itself according to parameters of its immediate environment and different use scenarios.
+The concept for this work departed from the design flexibility of parametric design methods, and the intention of maintaining such flexibility as responsiveness even after the course of the design process:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;center&gt;What if we could transform the object of architecture from the design of the defined to the design of the unpredictable?&lt;/center&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;demo&#34;&gt;Video demo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/XZqgqt0Jc28&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;project-description&#34;&gt;Project description&lt;/h1&gt;
+&lt;!-- COMPONENTS  --&gt;
+&lt;p&gt;The main component of the project is a custom software written in the &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt; programming language.
+The software was responsible for the computational modeling of the structure, real-time interaction, and visualization (see &lt;a href=&#34;#demo&#34;&gt;video demo&lt;/a&gt;).
+The project also includes a functional physical modeling prototype with stepper motors and custom extendable beams developed with Arduino-based electronics, and controlled in real-time by the Processing software (see &lt;a href=&#34;#gallery-12-iks-9&#34;&gt;image 9&lt;/a&gt;).
+Moreover, a parametric CAD model developed in Rhino and Grasshopper was responsible for generating 3D models of instances of the structure using data forwarded by the Processing software via OSC.
+These were used to generate 3D renderings and &lt;a href=&#34;#gallery-12-iks-8&#34;&gt;3D prints&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- STRUCTURE --&gt;
+&lt;p&gt;The structure itself consists of two parallel grids: a triangular grid at the bottom and a hexagonal grid at the top.
+The two grids comprise of extendable beams. These are connected to each other with fixed-length beams, while all joints allow for free rotation.
+The structure is supported by vertical extendable beams at the outline of the lower grid.
+This configuration makes up a rigid spaceframe which can be deformed while maintaining structural integrity by altering the beam lengths of the two parallel grids (see &lt;a href=&#34;#gallery-12-iks-3&#34;&gt;image 3&lt;/a&gt;).
+The structural deformation solver was modeled using a mathematical equation based on triple-sphere intersection.
+The structural detailing of the project provisioned for pneumatic extendable beams, and explored three types of joints using antiprism nodes with universal mechanical joints, ball joints, and solid elastic polymers (see project booklet).&lt;/p&gt;
+&lt;!-- 
+The project comprises four main components: 
+1. a custom software developed in the Processing programming language; 
+2. functional physical modelling prototypes using Arduino-based custom electronics;
+3. fabrication and structural detailing to demonstrate the feasibility of the proposal; 
+
+The main component of the project was the Processing software (1). This was was responsible for the functional modelling of the structure,  
+Moreover, 
+
+The project had to rely on developing custom software using the Processing programming language, as well as functional physical modelling prototypes using custom electronics based on Arduino micro controllers.  
+
+which was triggered by the Processing software, in order to produce transformations. Traditional CAD software were used only for representational reasons (physics modelling, rendering, 3d-printing) by sending data from Processing to Grasshopper and Rhino via OSC.
+
+--&gt;
+&lt;p&gt;The project investigated two distinct use scenarios: playful interaction with people and adaptation to environmental conditions.&lt;br&gt;
+The first scenario produced continuous animations and transformations the structure according to the movements and densities of people under it in real-time, thus in a way encourage playful interaction between people in public space (see &lt;a href=&#34;#gallery-12-iks-5&#34;&gt;image 5&lt;/a&gt;).
+This was modeled virtually using a boid system, and was demonstrated live using a Kinect (spatial scanning) sensor.&lt;br&gt;
+The second made use of a solar radiation model that would calculate the position of the sun for a particular geolocation so that the structure would adapt accordingly to generate the maximum possible area of shade at any given moment of time (see &lt;a href=&#34;#gallery-12-iks-6&#34;&gt;image 6&lt;/a&gt;).&lt;br&gt;
+Moreover, the project explored a range of possible configurations of the structure based on various mathematical equations such as &lt;a href=&#34;#gallery-12-iks-19&#34;&gt;hyperbolic paraboloid&lt;/a&gt; and &lt;a href=&#34;#gallery-12-iks-17&#34;&gt;monkey&lt;/a&gt; saddle surfaces as well as various trigonometric equations (see &lt;a href=&#34;#images&#34;&gt;3D renderings below&lt;/a&gt;).&lt;/p&gt;
+&lt;h1 id=&#34;project-information&#34;&gt;Project information&lt;/h1&gt;
+&lt;p&gt;Interactive Kinetic Structures was developed in 2012 as a diploma thesis project at NTU-Athens, under the supervision of Prof. Dimitris Papalexopoulos.
+It was presented to a four-memeber jury in October 2012 and graded 10/10.&lt;/p&gt;
+&lt;p&gt;The project was one of the finalists of the international competition &lt;em&gt;ALGODeQ: Algorithmic Design Quest&lt;/em&gt; in 2013.&lt;/p&gt;
+&lt;p&gt;A paper based on this project was presented at the &lt;a href=&#34;../../publication/13-ecaade/&#34;&gt;2013 eCAADE conference&lt;/a&gt; at TU Delft, in September 2013.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Concept &amp;amp; development&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Supervision&lt;/strong&gt;&lt;br&gt;
+Dimitris Papalexopoulos&lt;br&gt;
+&lt;strong&gt;Additional support&lt;/strong&gt;&lt;br&gt;
+Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Antonis Tzortzis, Serafeim Matzoufas, Antreas Alygizos&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/a-closeup_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/a-closeup_1600_huc203bed8544035669fba41582aa4fcad_137742_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-closeup_1600.jpg&#34; width=&#34;750&#34; height=&#34;381&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/a-iks_poster-a3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/a-iks_poster-a3_1600_hu10b176ecfba98abd9f5db21c10965ae1_193561_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-iks_poster-a3_1600.jpg&#34; width=&#34;750&#34; height=&#34;519&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/d-flexGrid-side.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/d-flexGrid-side_hu31dc81b8ca484cffa859bc0117583e50_46256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-side.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/d-flexGrid-top.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/d-flexGrid-top_hu4b60077173abdd48a7ed4e0979f5ae6b_57619_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-top.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/f-agents.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/f-agents_hu5ff3a087e27f86727ed085569f5a54a9_158344_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-agents.png&#34; width=&#34;750&#34; height=&#34;360&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/f-light.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/f-light_hueb08e31b99f854c7bc836cb1347cce8a_131694_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-light.png&#34; width=&#34;750&#34; height=&#34;359&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/logo_1080.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/logo_1080_huc48e42036342832f3c91ffa710435f90_58904_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;logo_1080.jpg&#34; width=&#34;744&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/model-3D-print-model_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/model-3D-print-model_1600_hu446a96511a9d78499a82f1e7b5c4aa40_61469_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-3D-print-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;325&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/model-arduino-model_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/model-arduino-model_1600_huf79d84fe65a63182b5b8067e0a7115e0_105827_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-arduino-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;562&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/model-pyramid_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/model-pyramid_1600_hu54bd63e6031e13b272e6572b533781f9_79399_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-pyramid_1600.jpg&#34; width=&#34;750&#34; height=&#34;531&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-antiprism-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-antiprism-1_huf5e794251a2835061e6f96eaca550a74_25840_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-1.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-antiprism-3.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-antiprism-3_hud0388fd6ce3cd89d14ca9017449484f8_47770_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-3.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-polymer-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-polymer-1_huf9c5ccebc10e9b76c6ee4f8406e9ef97_37097_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-1.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-polymer-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-polymer-2_hu2b5a63908f3314f18b66d7a3df0a240a_39680_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-2.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-cylinder-perspective_1500.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-cylinder-perspective_1500_hu57fdb62cff74e637272f06ce3025e33b_100574_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-cylinder-perspective_1500.jpg&#34; width=&#34;750&#34; height=&#34;475&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-light-perspective_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-light-perspective_1000_hua04fc370ef39bcb0c9680eca160b88b7_59924_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-light-perspective_1000.jpg&#34; width=&#34;750&#34; height=&#34;469&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-monkey-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-monkey-perspective_1600_hu6341567a4824a868c58f9dc2aeac4e14_94539_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-monkey-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;458&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-normal-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-normal-perspective_1600_hu066c4362a32a397ae8561f441f0cc07d_101478_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-normal-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;450&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-paraboloid-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-paraboloid-perspective_1600_hub48f5ab2d2553a02599c88a103d8859a_104628_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-paraboloid-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;472&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-sine-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-sine-perspective_1600_hu62ad5fa31922e9c8aae9eda1f5820011_57334_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sine-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;428&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-sinecos-pespective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-sinecos-pespective_1600_hu54bd63e6031e13b272e6572b533781f9_104931_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sinecos-pespective_1600.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-sphere-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-sphere-perspective_1600_hueb4c213ca594cb8159ed8744e64b7db3_103248_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sphere-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;466&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-tan-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-tan-perspective_1600_hu54bd63e6031e13b272e6572b533781f9_98603_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-tan-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/x-iphone_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/x-iphone_1600_hu54bd63e6031e13b272e6572b533781f9_149524_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;x-iphone_1600.jpg&#34; width=&#34;695&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

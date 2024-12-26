@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robotic fabrication | studio any</title>
+    <link>https://example.com/tag/robotic-fabrication/</link>
+      <atom:link href="https://example.com/tag/robotic-fabrication/index.xml" rel="self" type="application/rss+xml" />
+    <description>robotic fabrication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2015 16:39:47 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>robotic fabrication</title>
+      <link>https://example.com/tag/robotic-fabrication/</link>
+    </image>
+    
+    <item>
+      <title>Extensile</title>
+      <link>https://example.com/course/extensile/</link>
+      <pubDate>Thu, 07 May 2015 16:39:47 +0300</pubDate>
+      <guid>https://example.com/course/extensile/</guid>
+      <description>&lt;!--  
+defunct
+[Extensile on CAAD Blog](http://www.caad.arch.ethz.ch/blog/extensile-robotic-workshop/)
+--&gt;
+&lt;p&gt;&lt;em&gt;Extensile&lt;/em&gt; was the result of a two-week robotic fabrication workshop module taught in the postgraduate programme (MAS CAAD) of the Chair for Computer Aided Architectural Design (CAAD), ETH Zurich, by Achilleas Xydis, Mariana Popescu and Constantinos Miltiadis, in May-June 2015.&lt;/p&gt;
+&lt;!--
+The workshop used a 7-axis Kuka robot, and 
+--&gt;
+&lt;p&gt;The aim of the module was to introduce robotic fabrication through experimental production methods.
+Therefore, we proposed a fabrication method that was neither subtractive nor additive, but rather &amp;lsquo;formative&amp;rsquo;.
+The course explored the use of thermoplastic materials &amp;ndash;polymers that become pliable above a specific temperature and solidify again when cooled down.
+For this, we created a setup where the thermoplastic sheet was fixed on a wooden frame mounted on the robot.
+A heat gun and a formative tool-tip were arranged in adjacent stations on the floor.
+The fabrication workflow had the robot moving the polymer sheet on top of the heat gun, where it was locally heated for a specific amount of time, and then moved over and pushed down the tool-tip, which like a mold, deformed a pliable area of the polymer sheet.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/130539347&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The course began with a series of tests to explore the behavior and tolerances of the mater against various parameters of head-induced deformation.
+The process generated a data set that described the tolerances of the material in regard to various tool tips, the height, angle and density of deformations, and the amount of heating required.
+This study informed the creation of parametric tools that assisted the material-specific design process and the automation of the fabrication process.
+In conjunction with the use of a 7-axis Kuka robot, this allowed us to design and fabricate with a high degree of controlled variation at the threshold of the material&amp;rsquo;s tolerances.&lt;/p&gt;
+&lt;p&gt;The course participants developed a panel-based construction consisting of 32 40×40 cm modules arranged in a 4x8 grid.
+The patterned surfaces were designed using a coplex system of probabilistic distributions developed in Wolfram Mathematica and Grasshopper.
+Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug-in.&lt;/p&gt;
+&lt;p&gt;Extensile was presented at the Chair for Computer Aided Architectural Design on 11.06.2015&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-2.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+&lt;p&gt;Despoina Pippa, Christoph Zechmeister, José Algeciras, Alina Kvirkveliya, Tsung-Hsun Ku, Apostolos Apostolinas, Anna Maragkoudaki&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;p&gt;Camera: Anna Maragkoudaki, Achilleas Xydis&lt;br&gt;
+Editing: Anna Maragkoudaki&lt;br&gt;
+Sound: Blank Banshee 0: B- Start Up&lt;/p&gt;
+&lt;h2 id=&#34;workshop-instructors&#34;&gt;Workshop instructors&lt;/h2&gt;
+&lt;p&gt;Achilleas Xydis&lt;br&gt;
+Mariana Popescu&lt;br&gt;
+Constantinos Miltiadis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7x Cabin</title>
+      <link>https://example.com/project/14-7x-cabin/</link>
+      <pubDate>Mon, 10 Feb 2014 19:22:31 +0300</pubDate>
+      <guid>https://example.com/project/14-7x-cabin/</guid>
+      <description>&lt;p&gt;The 7xCabin is the result of a workshop focusing on the implementation of a robotic fabrication process on the architectural scale. Instead of inventing a new architectural language based on shifts in technology, this projects searches for an integrative approach towards traditional crafts and archetypal forms. Using digital design tools, traditional timber joints were adapted to be usable with raw, irregular logs. These joints have subsequently been produced using a chainsaw mounted on an industrial robot. All movements for the robot were planned digitally, with students preparing the exact toolpaths for each log type.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/88490760&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+The project was realized by students of MAS CAAD prostgraduate program at ETH Zurich, under the supervision of Tom Pawlofsky.  Tom Pawlofksi’s &lt;em&gt;Rhino2KRL&lt;/em&gt; plugin was used to export Kuka source code.&lt;br&gt;
+The cabin was reassembled and displayed at the ETHz Campus at Honggerberg during February 2014.&lt;/p&gt;
+&lt;p&gt;The project video was accepted as project participation to &lt;a href=&#34;http://www.robarch2014.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob|Arch 2014&lt;/a&gt; - the international conference on robotic fabrication in architecture, art, and design.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Workshop instructor&lt;/strong&gt;&lt;br&gt;
+Tom Pawlofski&lt;br&gt;
+&lt;strong&gt;Project authors&lt;/strong&gt;   &lt;br&gt;
+Adel Albloushi, Georgios Anagnostopoulos, Christian Braun, Kaihong Chen, Grigorios Grigoriadis, Abel Groenewolt, Periklis Kyriakidis, Valle Medina, Constantinos Miltiadis, Regina Mirzoyants, Yu-ting Sheng, Togo Takamura and Tom Pawlofski&lt;br&gt;
+&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br&gt;
+Periklis Kyriakidis, Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Renderings&lt;/strong&gt;&lt;br&gt;
+Abel Groenewolt&lt;br&gt;
+&lt;strong&gt;Video&lt;/strong&gt; &lt;br&gt;
+Constantinos Miltiadis&lt;/p&gt;
+&lt;h1 id=&#34;image-documentation&#34;&gt;Image documentation&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

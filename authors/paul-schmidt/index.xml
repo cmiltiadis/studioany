@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Schmidt | studio any</title>
+    <link>https://example.com/authors/paul-schmidt/</link>
+      <atom:link href="https://example.com/authors/paul-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Schmidt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Nov 2017 12:56:19 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Paul Schmidt</title>
+      <link>https://example.com/authors/paul-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Daphne&#39;s Diary</title>
+      <link>https://example.com/project/daphnes-diary/</link>
+      <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
+      <guid>https://example.com/project/daphnes-diary/</guid>
+      <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
+&lt;!--
+Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
+--&gt;
+&lt;p&gt;On February 2018, the Cyberparks COST Action awarded the project a &lt;a href=&#34;https://www.cyi.ac.cy/index.php/cyi-news/cyberparks-cost-action-awards-grants-to-starc-trainees-for-short-term-scientific-missions-on-mediated-landscapes-in-nicosia.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short-term scientific mission (STSM) grant&lt;/a&gt;, for further development of the project with local cultural institutions in both sides of Nicosia, in collaboration with the Cyprus Institute. The STSM was conducted between March 22 and April 4, 2018.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;h3 id=&#34;team-members&#34;&gt;Team members&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis, Institute of Architecture and Media, TU Graz&lt;/li&gt;
+&lt;li&gt;Paul Schmidt, Media &amp;amp; Culture, Utrecht University&lt;/li&gt;
+&lt;li&gt;Aurimas Žemaitaitis, Kaunas University of Applied Sciences&lt;/li&gt;
+&lt;li&gt;Tamás Tóth, Széchenyi István University, Győr&lt;/li&gt;
+&lt;li&gt;Simonas Skarzauskas, Mykolas Romeris University, Vilnius&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Text, story &amp;amp; documentation&lt;/strong&gt;: Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Voice acting &amp;amp; audio recordings&lt;/strong&gt;: Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Website design&lt;/strong&gt;: Tamás Tóth&lt;br&gt;
+&lt;strong&gt;Videos &amp;amp; editing&lt;/strong&gt;: Aurimas Žemaitaitis &amp;amp; Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Location scouting&lt;/strong&gt;: Aurimas Žemaitaitis, Paul Schmidt &amp;amp; Simonas Skarzauskas&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The team would like to thank George Artopoulos of The Cyprus Institute for organising the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

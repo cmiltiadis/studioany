@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations &amp; exhibitions | studio any</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations &amp; exhibitions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentations &amp; exhibitions</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Open tools &amp; workflows for digital writing, notetaking, publishing, reference &amp; library management</title>
+      <link>https://example.com/event/kaymakkin-workshop/</link>
+      <pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
+      <guid>https://example.com/event/kaymakkin-workshop/</guid>
+      <description>&lt;p&gt;Workshop on open tools and workflows for writing, notetaking, publishing, reference and library management at &lt;em&gt;Social Space Kaymakkin&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop program&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital writing tools and workflows
+&lt;ol&gt;
+&lt;li&gt;Why word processors suck.&lt;/li&gt;
+&lt;li&gt;Writing in Markdown.&lt;/li&gt;
+&lt;li&gt;Introduction to Obsidian for personal knowledge management.&lt;/li&gt;
+&lt;li&gt;Brief introduction to Logseq, a FOSS alternative to Obsidian.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Library and reference management.
+&lt;ol&gt;
+&lt;li&gt;What is and what is not a library.&lt;/li&gt;
+&lt;li&gt;Calibre for ebook management.&lt;/li&gt;
+&lt;li&gt;Zotero for bibliographic reference management.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Publishing
+&lt;ol&gt;
+&lt;li&gt;Pandoc for document conversion.&lt;/li&gt;
+&lt;li&gt;Hugo for static website building.&lt;/li&gt;
+&lt;li&gt;Sandpoints Hugo framework&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Tools &amp;amp; software&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt; (open standard, lightweight markup plain-text language)&lt;/li&gt;
+&lt;li&gt;Software for Markdown &lt;a href=&#34;https://en.wikipedia.org/wiki/Zettelkasten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zettelkasten&lt;/a&gt; workflows:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian&lt;/a&gt; (Free software for writing and knowledge management)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://logseq.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logseq&lt;/a&gt; (FOSS for &lt;a href=&#34;https://en.wikipedia.org/wiki/Bullet_journal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bullet journaling&lt;/a&gt;, knowledge and task management, PDF annotation, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://panwriter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PanWriter&lt;/a&gt; Markdown text editor with Pandoc integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt; (FOSS, universal document converter)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calibre-ebook.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibre&lt;/a&gt; (FOSS for ebook management)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; (FOSS for bibliographic reference managment)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; (FOSS for building static websites)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.sandpoints.org/sandpoints/simplesandpoints-de47f813/_preview/draft/portfolio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sanpoints&lt;/a&gt; (FOSS Hugo theme; open infrastructure of experimental digital publishing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;br&gt;
+The workshop is free and open&lt;br&gt;
+Languages: Greek &amp;amp; English&lt;br&gt;
+Bring your own laptop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space-Time-Craft: Notions of digital craft and design practice in contemporary research</title>
+      <link>https://example.com/event/space-time-craft/</link>
+      <pubDate>Tue, 03 Oct 2023 09:00:00 +0000</pubDate>
+      <guid>https://example.com/event/space-time-craft/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Presenters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benedict Singleton  (&lt;a href=&#34;https://www.rivalstrategy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIVAL STRATEGY&lt;/a&gt; &amp;ndash; keynote)&lt;/li&gt;
+&lt;li&gt;Lucy Davis (Aalto ARTS)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis  (Aalto ARTS &amp;ndash; space-time-craft)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Event organizer&lt;/strong&gt;&lt;br&gt;
+Bassam El Baroni&lt;/p&gt;
+&lt;!--
+### Space-Time-Craft: Notions of digital craft and design practice in contemporary research 
+
+What is contemporary craft? 
+Unlike vernacular notions of craft -- involving situated knowledges of a place and its available material which are cultivated over generations and performed by masters -- the notion of craft in our times poses a challenge, even more so in the context of research. 
+The presentation will discuss notions of digital craft based on my research that investigates virtual space and movement *through exploratory design experimentation*. 
+While virtual environments are ubiquitous, digital media like virtual reality and videogames are lacking formal foundations or discourses pertaining to their design and development.
+In my work I approach virtual space as a &#39;contemporary material&#39;, something that necessitates practical experimentation for investigating its capacities and potentials. I develop experimental prototypes to investigate virtual environments that are experienceable, however, impossible to construct or come across in the physical world. 
+The aim of this practice is twofold: the exploration of the design space of such media through experienceable artifacts which also serve as research objects, parallel to the investigation of what is possible to experience. 
+Lastly, the presentation will discuss current difficulties in admitting design prototypes, and especially &#39;playable artifacts&#39; as research objects. 
+
+--&gt;
+&lt;!--
+20 minute presentation about how you think of your practice and research as a craft, a well contextualised short presentation that is not too dense and high speed otherwise their minds will explode and we don&#39;t want to clean up brain matter in the classroom. The presentation is part of the course Thinking Practices in Art and Media, the day you&#39;ll be presenting in will feature another short presentation by Lucy Davies and a Keynote by Benedict Singleton around craftiness as a main concern of art and design
+--&gt;
+&lt;!--
+
+
+What is contemporary craft? 
+
+As &#39;craft&#39; we usually identify colloquial practices 
+
+Digital space 
+
+The talk will discuss ongoing research pertaining to digital navigable space: virtual environments that allow for movement. 
+
+# Bio 
+**Constantinos Miltiadis** is a transdisciplinary architect and researcher; occasionally also programmer, media artist, curator, teacher, and librarian. His work is concerned with aesthetic phenomena between technology and culture, and his primary research investigates the design and experience of spatiotemporal navigable environments _inconstructible_ in the physical world, specific to and experienceable through digital media. He holds a diploma of architecture engineering from NTU-Athens, and a postgraduate degree on architecture and information from the Chair for CAAD ETH Zurich, with additional studies in computer music at IEM KU Graz. Constantinos’ work has been presented in seminars and exhibitions, published in conferences, journals as well as by international press. He has developed and taught courses on creative programming and experimental VR videogame design in academic contexts as well as conferences and art festivals. Between 2015 and 2019 Constantinos was assistant professor at the Institute of Architecture and Media of TU Graz. Since 2019 he is a doctoral researcher at the Dept. of Design, and the Dept. of Architecture at the School of ARTS at Aalto University in Helsinki.
+
+Personal website: [www⁄studioany.com](http://studioany.com/)
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From player representation to enactive presence: The case of &#34;boomer shooters&#34;</title>
+      <link>https://example.com/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</link>
+      <pubDate>Tue, 29 Aug 2023 09:00:00 +0000</pubDate>
+      <guid>https://example.com/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</guid>
+      <description>&lt;h2 id=&#34;presentation-abstract&#34;&gt;Presentation abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Just forget it. You know they are demons; we know they are demons; we both want to shoot them in the face. Let&amp;rsquo;s just go (&lt;a href=&#34;https://www.youtube.com/watch?v=vsoVQWnSOfM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Martin 2016&lt;/a&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The videogame medium generated novel forms of storytelling and character representation, matters that were discussed in length in the context of game studies. This proposal, concerns a persistent and sizeable part of videogames that offer neither stories, nor player-character representations per se. Just action journeys. Such game experiences often evade analytical lenses due to difficulties of accounting for nothing but moment-to-moment action in virtual space.&lt;/p&gt;
+&lt;p&gt;These cases are not about how the protagonist is represented (who is usually silent) nor a storyline (which often is a necessary wrapper around a sequence of predictably escalating challenges). What they celebrate instead are affective non-verbal aesthetics of virtual enaction.A prevalent example of this type is the ‘&lt;a href=&#34;https://www.youtube.com/watch?v=dXCOKpJcYZU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;boomer/movement shooter&lt;/a&gt;’ genre, a resurgence of the co-called ‘old school,’ ‘mindless’ first-person shooters, which was kickstarted with the modern reboot of Doom (id Software) in 2016.&lt;br&gt;
+Games of this genre often display contempt toward high brow or consistent narratives. Here, any potential or necessary injection of story elements is rather utilitarian, serving as pacing break, setting up the gameworld, and empowering the player, often toward the ridiculous.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Just forget it [&amp;hellip;] Let&amp;rsquo;s just go,&amp;rdquo; Doom director Hugo Martin remarked on its ridiculous staging. Whether, Nazis, demons, aliens or other necessary evils, what these games suggest is a mode of representation through identification with what the protagonist &lt;em&gt;can practically do&lt;/em&gt; in the gameworld, and less than, or even against notions such as who they are, or why they do. They boil down to enactive representation: the mastery of actions like jumping, dashing, sliding and shooting, which define and set apart the protagonist in both worlds &amp;ndash; what Martin termed &amp;lsquo;Doom dance.&amp;rsquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;workshop-programme&#34;&gt;Workshop programme&lt;/h2&gt;
+&lt;h4 id=&#34;tuesday-august-29&#34;&gt;&lt;strong&gt;Tuesday August 29&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;09.30 Registration and Introductions&lt;/p&gt;
+&lt;p&gt;10.00-11.30   &lt;strong&gt;Representation, Imagination and Fiction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Stacie Friend&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;11.30-13.00&lt;/em&gt;  Lunch break&lt;/p&gt;
+&lt;p&gt;13.00-13.45   &lt;strong&gt;Representations of the Immaterial Through Player as a Prop in Video Games&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maciej Jemioł&lt;/p&gt;
+&lt;p&gt;13.45-14.30  &lt;strong&gt;From Player Representation to Enactive Presence: The Case of ‘Boomer Shooters’&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Constantinos Mitiadis&lt;/p&gt;
+&lt;p&gt;14.30-15.15  &lt;strong&gt;The Game of Video Game Objects&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jesper Juul&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;15.15-15.45&lt;/em&gt;  Coffee break&lt;/p&gt;
+&lt;p&gt;15.45-16.30  &lt;strong&gt;The Epistemic Power of Perception In Virtual Worlds and Virtual Games&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Joseph Larse&lt;/p&gt;
+&lt;p&gt;16.30-17.15   &lt;strong&gt;Ludofictionality&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;John Sageng&lt;/p&gt;
+&lt;p&gt;17.15-18.00  &lt;strong&gt;SNES is my Co-Author??? Authorship, Videogames, and Generative Glitches&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nathan Wildman&lt;/p&gt;
+&lt;p&gt;20.15  Conference dinner at “Madklubben”, St. Kongensgade 66&lt;/p&gt;
+&lt;h2 id=&#34;wednesday-august-30&#34;&gt;&lt;strong&gt;Wednesday August 30&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;09.30-11.00  &lt;strong&gt;Cybersemantics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Peter Pagin&lt;/p&gt;
+&lt;p&gt;11.00-11.45 –  &lt;strong&gt;Diegetic versus Deictic Fiction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rune Klevjer&lt;/p&gt;
+&lt;p&gt;11.45-13.00  Lunch break&lt;/p&gt;
+&lt;p&gt;13.00-13.45  &lt;strong&gt;Perceiving Represented Gameworlds: Actual, Fictional, and Imaginative Perceptions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nele van der Mossalen &lt;/p&gt;
+&lt;p&gt;13.45-14.30  &lt;strong&gt;The Challenge of Genius Loci and Spatial Representation in Virtual Worlds&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Daniele Monaco &lt;/p&gt;
+&lt;p&gt;14.30-15.15 &lt;strong&gt;Reasoning in Computerized and Non-Computerized Games&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ida Jorgensen&lt;/p&gt;
+&lt;p&gt;15.15-15.45  Coffee break&lt;/p&gt;
+&lt;p&gt;15.45-16.30  &lt;strong&gt;Against Metaphysical Interpretations of VR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Grant Tavinor&lt;/p&gt;
+&lt;p&gt;16.30-17.15 &lt;strong&gt;Why VR Does Not Involve Picture Perception – a Gibsonian Account&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Edward Baggs, Paweł Grabarczyk and Zuzanna Rucińska&lt;/p&gt;
+&lt;p&gt;17.15-18.00 – &lt;strong&gt;Veridical Representation through Exaggeration in “Hans Christian and I”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dooley Murphy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Infrastructures</title>
+      <link>https://example.com/event/virtual-infrastructures/</link>
+      <pubDate>Thu, 09 Jun 2022 10:00:00 +0000</pubDate>
+      <guid>https://example.com/event/virtual-infrastructures/</guid>
+      <description>&lt;h1 id=&#34;event-description--programme&#34;&gt;Event description &amp;amp; programme&lt;/h1&gt;
+&lt;p&gt;The &lt;em&gt;Open Up and Shape Helsinki&lt;/em&gt; Symposium discusses how equity, labour, money and structures of power are configured globally, while reflecting these questions back onto Helsinki’s cultural scene, inviting three position papers and three Helsinki-based respondents:&lt;/p&gt;
+&lt;p&gt;Carolina Rito, co-editor of Institution as &lt;a href=&#34;https://www.sternberg-press.com/product/institution-as-praxis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Praxis – New Curatorial Directions for Collaborative Research&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; (Sternberg Press, 2020); followed by Joasia Krysia, Curator of Helsinki Biennial 2023&lt;/p&gt;
+&lt;p&gt;Bassam El Baroni, editor of &lt;a href=&#34;https://mitpress.mit.edu/books/between-material-and-possible&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Between the Material and the Possible: Infrastructural Re-Examination and Speculation in Art&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; (Sternberg Press and Edith Russ Haus, 2022); in with architect and researcher Constantinos Miltiadis&lt;/p&gt;
+&lt;p&gt;Cynthia Cruz, author of &lt;a href=&#34;https://repeaterbooks.com/product/the-melancholia-of-class-a-manifesto-for-the-working-class/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;The Melancholia of Class: A Manifesto for the Working Class&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; (Repeater Books, 2021); with poet and novelist Niko Hallikainen&lt;/p&gt;
+&lt;p&gt;On Friday 10th Justina Zubaitė-Bundzė, Helen Kaplinsky, Maria Mkrtycheva, Irina Mutt and Henri Terho will participate in a public panel discussion around the three focuses of the Symposium: Infrastructures of power, and (re-) distribution; class, money and access; institutional reimagining and future publics.&lt;/p&gt;
+&lt;p&gt;In conjunction with &lt;a href=&#34;https://www.shape-helsinki.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SHAPE&lt;/strong&gt;&lt;/a&gt;, a mapping of art spaces and public events across the city, initiated in 2021 by PUBLICS and Kohta, the Symposium offers a platform for voicing individual and common challenges. Over 100 Helsinki-based art organisations and institutions have been invited to join in &lt;em&gt;Rants &amp;amp; Raves&lt;/em&gt; of four minutes and thirty-three seconds each, inspired by John Cage’s composition 4’33’’. ‘Ranting’ and ‘Raving’ are immediate and liberating forms of public expression. They tell about the present, while pointing at long-coming conditions of pressure, uncertainty and search for alternatives.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rants &amp;amp; Raves&lt;/em&gt; will form a choral, humorous and situated picture of Helsinki’s art scene; reflected by curator, artist and educator Dahlia El Broul, chair of the board at Catalysti, and Henna Harri, director of the Association of Photographic Artistsand Photographic Gallery Hippolyte.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Open Up and Shape Helsinki&lt;/em&gt; Symposium programme is planned in collaboration with &lt;a href=&#34;https://kohta.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Kunsthalle Kohta&lt;/strong&gt;&lt;/a&gt; in the framework of the three-year &lt;a href=&#34;https://openupeu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Open Up&lt;/strong&gt;&lt;/a&gt; (Creative Europe) project, for which PUBLICS is a partner. Through &lt;em&gt;Open Up and Shape Helsinki&lt;/em&gt;, PUBLICS will map out, invite, and nurture new audiences for its activities. &lt;a href=&#34;https://frame-finland.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Frame Contemporary Art Finland&lt;/strong&gt;&lt;/a&gt; joins the collaboration by co-hosting one session in the context of &lt;em&gt;Rehearsing Hospitalities&lt;/em&gt; public programme.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Bassam El Baroni&lt;/strong&gt; is associate professor in curating at the School of Arts, Design and Architecture, Aalto University, Finland. Formerly, he has lectured at the Dutch Art Institute, ArtEZ University of the Arts, Arnhem and was artistic director of the now folded non-profit art space ACAF – Alexandria Contemporary Arts Forum in Alexandria, Egypt (2005–2012). His current research engages with financialization in relation to artistic practices, artists’ engagement with infrastructural futures and histories, and new forms of artist-led activism. Recent curatorial projects include: Infrahauntologies at the Edith-Russ-Haus for Media Art, Oldenburg, Germany, and La Box, ENSA Bourges, France (2021, 2022). He is the author of various essays on artists, art and curating, and editor of &lt;em&gt;Between the Material and the Possible: Infrastructural Re-examination and Speculation in Art&lt;/em&gt; (Sternberg Press and Edith Russ Haus, 2022) and co-editor, together with Ida Soulard and Abinadi Meza, of &lt;em&gt;Manual for a Future Desert&lt;/em&gt; (Mousse Publishing, 2021).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cynthia Cruz&lt;/strong&gt; is a PhD candidate at the European Graduate School where her dissertation work focuses on Hegel’s concept of Verrüktheit and the possibility of emancipation. Cynthia Cruz teaches writing at Sarah Lawrence College. She has previously taught at the Juilliard School, Fordham University, the Rutgers-Newark MFA Program, Eugene Lang College, and in the MFA Writing Program at Columbia University, and amongst others. Born in Germany, Cruz grew up in Northern California, where she earned her BA at Mills College. Cruz earned an MFA in creative writing at Sarah Lawrence College, an MFA in art writing &amp;amp; criticism at the School of Visual Arts, and an MA in German language and literature at Rutgers University. She has published essays, interviews, and book and art reviews in the &lt;em&gt;Los Angeles Review of Books&lt;/em&gt;, &lt;em&gt;Hyperallergic&lt;/em&gt;, &lt;em&gt;Guernica&lt;/em&gt;, and the &lt;em&gt;American Poetry Review&lt;/em&gt;. The author of &lt;em&gt;The Melancholia of Class: A Manifesto for the Working Class&lt;/em&gt;, and &lt;em&gt;Disquieting: Essays on Silence&lt;/em&gt;, she is the author of seven critically acclaimed collections of her poetry including &lt;em&gt;Hotel Oblivion&lt;/em&gt; as her latest just published by Four Way Books, and is currently working on a book-length study of negative freedom and the working class.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Carolina Rito&lt;/strong&gt; is Professor of Creative Practice Research, at the Research Centre for Arts, Memory and Communities (CAMC), at Coventry University; and leads on the centre’s Critical Practices research strand. Rito is a researcher and curator whose work explores ‘the curatorial’ as an investigative practice, expanding practice-based research in the fields of curating, visual arts, visual cultures and cultural studies. Rito is the co-editor of &lt;em&gt;Institution as Praxis – New Curatorial Directions for Collaborative Research&lt;/em&gt; (Sternberg, 2020), &lt;em&gt;Architectures of Education&lt;/em&gt; (e-flux Architecture, 2020), and &lt;em&gt;FABRICATING PUBLICS: the dissemination of culture in the post-truth era&lt;/em&gt; (Open Humanities Press, forthcoming). Rito is editor of “On Translations” (2018) and “Critical Pedagogies” (2019) issues (The Contemporary Journal). From 2017 to 2019, she was Head of Public Programmes and Research at Nottingham Contemporary, leading the institution’s research strategy with Nottingham Trent University and University of Nottingham. She holds a PhD in Curatorial/Knowledge from Goldsmiths, University of London, where she taught from 2014 to 2016.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Joasia Krysa&lt;/strong&gt; is a curator and scholar working at the intersection of contemporary art, technology and cultural studies.  She is Professor of Exhibition Research and Head of Art and Design at Liverpool John Moores University, with an adjunct position at Liverpool Biennial. Formerly, she served as Artistic Director of Kunsthal Aarhus, Denmark, part of the curatorial team for dOCUMENTA (13). (Kassel, 2012), and co-curator of the 9th edition of Liverpool Biennial (2016). She is currently appointed curator of the 2nd edition of Helsinki Biennial opening summer 2023.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constantinos Miltiadis&lt;/strong&gt; is a transdisciplinary architect and researcher, occasionally also programmer, media artist, curator, teacher, and librarian. His work focuses on aesthetic phenomena between technology and culture, and more formally on spatiotemporal environments inconstructible in the physical world, specific to and experienceable through technological mediation. Since 2019 he is a doctoral researcher in the Departments of Design and of Architecture at the School of ARTS of Aalto University. Between 2015 and 2019 he was assistant professor at the Institute of Architecture and Media at TU Graz. Constantinos has developed and taught courses on creative computation and experimental game design in academic contexts and festivals and contributed to multiple conferences and symposia. He was founder and curator of the IAM Open Lecture series (TU Graz, 2015-2019), co-curator of the experimental electronic music event series ◯ (Graz, 2019), co-founder of the Spatial Aesthetics and Artificial Environments special interest group (SAR, 2020), and co-chair for CAAD Futures 2021: Design Imperatives (University of Southern California).  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Niko Hallikainen&lt;/strong&gt; is a performance poet and novelist born and based in Helsinki. He teaches creative writing in the dance performance programmes at University of the Arts Helsinki. Niko is currently finishing his second novel, dealing with spectres, libido and bad luck in the landscape of a Nordic class system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Justina Zubaitė-Bundzė&lt;/strong&gt; is a contemporary art librarian and a bookseller. She is responsible for the collection and the event’s program at the Reading Room of the Contemporary Art Centre (CAC), Vilnius and owns an independent art bookshop &lt;strong&gt;Six Chairs Books&lt;/strong&gt;. Since 2019 Zubaitė-Bundzė curates an educational program at the Kaunas Art Book Fair, organised by Kaunas Photography Gallery and currently is the head of literature festival – Paviljonas Book Festival. One of her parallel projects – compiling archives of contemporary and historical artists’ books by Lithuanian artists, on the invitation from Nida Art Colony.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Helen Kaplinsky&lt;/strong&gt; (she/her) is a curator and writer based in Helsinki and London. Her most recent exhibition is GENDERS, Science Gallery London (2020). She is currently undertaking a PhD in Curating at Liverpool John Moores University, Exhibition Research Lab (UK) and is part of Beyond Matter, a research collaboration across several European galleries. Her research spans cyberfeminist legacies, postdigital identity and ownership. In 2015 she co-founded Res., workspace/ gallery (London). Collections research includes fellowships with the Contemporary Art Society, the Arts Council Collection and initiating alternative collection model #temporarycustodians with Islington Mill studios.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maria Mkrtycheva&lt;/strong&gt; is a curator, educator and researcher. She is currently conducting PhD research at the University of Wolverhampton, part of the FEINART network, focusing on the relationships between the art institutions and the public(s) through the notions of situatedness, asymmetrical reciprocity and in-betweenness. Maria’s previous roles include Curator of “Characters” – a long-term public engagement project in the Museum of Norilsk; Museum Designer at Solarsense Bureau, specializing on setting up and reinventing museums across Russia; Curator of Public Program in the industrial town Vyksa; Head of Education at the V-A-C Foundation, Moscow. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Irina Mutt&lt;/strong&gt; is an in(ter)dependent writer and curator from Barcelona currently based in Helsinki. She has been part of the public program commission at Hangar BCN and for the Catalan Critic Association. Some of her exhibitions have been “Undoing text” for Ineditos Casa Encendida in Madrid or “A break can be what we are aiming for” with Barcelona Producció. Since living in Helsinki, she has collaborated with Frame, the gallery Myymälä2, Akademie Schloss Solitude in Stuttgart, and is a current board member of Pixelache. Her research goes from video games to post-porn, experimental publishing and temporalities outside the hegemonic sense of productivity or linearity. Always doing and thinking from intersectional feminism.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Henri Terho&lt;/strong&gt; is the Head of Arts Support in Arts Promotion Centre Finland. He is also the chair of Finnish State Art Commission.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dahlia El Broul&lt;/strong&gt; is an artist, educator, and curator, originally from New York City, where she received her BFA in Illustration and a minor degree in Art History. She holds an MA in Curating, Managing, and Mediating Art from Aalto University. She has collaborated with various cultural organisations and worked with independent projects as an educator, resident-artist, and producer. In New York, she worked with such institutions as BAAD! Bronx Academy of Arts and Dance, the 92nd Street Y Art Center, MoMA PS1, the Hudson River Museum, and Flux Factory. She was part of the educational team for documenta 14, in Kassel Germany. In Finland, she developed the educational programme for the exhibition Ote/Points of View at the Espoo Museum of Modern Art, has worked for the Helsinki International Artist Programme and Frame Contemporary Art Finland and is currently an editor for their upcoming publication on curatorial research. She is the Chair of Catalysti; an arts association focused on anti-racist work, inclusivity, and equity. Dahlia is currently a PhD student at the University of Fine Arts Hamburg (HFBK). &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Henna Harri&lt;/strong&gt; is the director of the Association of Photographic Artists and Photographic Gallery Hippolyte in Helsinki, Finland. She has vast experience in managing and organizing in the field of contemporary art, and an endless curiosity of how structures and agencies play together in and outside of institutions. The years from 2011 till 2016 she was Lecturer of Manging and Mediating Art at the Aalto University in Helsinki, and co-director of a masters’ programme of Curating, Managing and Mediating Art together with Professor Nora Sternfeld. Before that she has worked as a regional artist in Arts Council of Lapland, as a coordinator in FRAME, and as an interim director at HIAP–Helsinki International Artist Programme. At her current position she is co-directing Art Fair Suomi, a biennial contemporary art festival in Helsinki.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ilona Sagar&lt;/strong&gt;, lives and works in London. Using a diverse range of media spanning moving-image, text, performance and assemblage, she has formed a body of work which responds to the social and historic context found in the public and private spaces we inhabit. By instrumentalising historical archives and their institutions, not as an encounter with a safely sealed past, but as something current and unstable that speaks urgently to our present condition, she explores the links between language, surface, technologies and the body through our increasingly mediated encounters in social, political and experiential space. Ilona Sagar is the Stanley Picker Arts Fellow 2021 and the Saastamoinen Foundation, Helsinki, artist in residence for 2022. Forthcoming commissions include ‘The Radio Ballads’ Serpentine Gallery, where she is one of four new commissions with Sonia Boyce, Helen Cammock and Rory Pilgrim (2021/22), and is embarking on a new solo commission with Firstsite Gallery, Colchester (2023).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manifestations of Radical Technology; Collective Digital Tools</title>
+      <link>https://example.com/event/manifestations-of-radical-technology-collective-digital-tools/</link>
+      <pubDate>Sun, 08 Aug 2021 14:00:00 +0000</pubDate>
+      <guid>https://example.com/event/manifestations-of-radical-technology-collective-digital-tools/</guid>
+      <description>&lt;p&gt;Presentation of the work and practices of the Helsinki-based collective &lt;a href=&#34;https://site.stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aalto Laser Talks: Adaptation and Space</title>
+      <link>https://example.com/event/aalto-laser-talks-adaptation-and-space/</link>
+      <pubDate>Thu, 29 Apr 2021 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/aalto-laser-talks-adaptation-and-space/</guid>
+      <description>&lt;p&gt;Event organized by Laura Beloff, Pia Fricker, Ksenia Kaverina, Kirsi Peltonen, Nitin Sawhney and Koray Tahiroğlu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the matter and matters of space in novel media</title>
+      <link>https://example.com/event/on-the-matter-and-matters-of-space-in-novel-media/</link>
+      <pubDate>Fri, 11 Dec 2020 16:00:00 +0000</pubDate>
+      <guid>https://example.com/event/on-the-matter-and-matters-of-space-in-novel-media/</guid>
+      <description>&lt;!--
+ founding members of the [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449) special interest group (SIG) sponsored by the Sociey for Artistic Research (SAR).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The situation of space in contemporary media environments</title>
+      <link>https://example.com/event/the-situation-of-space-in-contemporary-media-environments/</link>
+      <pubDate>Thu, 19 Mar 2020 16:25:00 +0000</pubDate>
+      <guid>https://example.com/event/the-situation-of-space-in-contemporary-media-environments/</guid>
+      <description>&lt;h2 id=&#34;space-writing-within-architectures-expanded-field&#34;&gt;Space-Writing Within Architecture’s Expanded Field &lt;/h2&gt;
+&lt;p&gt;Space, as the substrate that conditions design and architecture is often taken for granted. Through a brief archeology of the evolution of spatial concepts from Greek mathematics through Renaissance perspective and 20th century physics, this talk intends to present how design-space is a culturally embedded “ideology” that adheres more to tradition rather than to any current scientific theory. Contemporary space-making media however can allow for us to experiment with and explore perceivable spaces beyond the traditions of design, as well as of what is constructible in physical reality, requiring thus a new set of conventions for engagement with space. Akin to writing spaces rather than designing in space, “choropoietic media” from drawing to videogames, VR and spatial audio, challenge us in considering an “expanded field” of architecture and spatial praxis, while providing vehicles for uncovering latent spectra of aesthetic experience.&lt;/p&gt;
+&lt;p&gt;Constantinos Miltiadis (&lt;a href=&#34;http://studioany.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;studioany.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Constantinos Miltiadis is a transdisciplinary architect, whose research and practice focus on virtual spatiotemporal environments, as a means of expanding the scope of architecture and its aesthetics. He has studied architecture at NTU-Athens, at the Chair for Computer Aided Architectural Design of ETH Zurich, and pursued studies in computer music at the Institute of Electronic Music of Kunst Uni Graz. His work has been presented in exhibitions, seminars, published in academic conferences as well as by international press, and received awards in international competitions. He has taught creative programming and experimental computation in academic contexts, as well as in conferences and art festivals. In addition, he was founder and curator of the “&lt;em&gt;IAM Open Lectures&lt;/em&gt;” and co-founder of “&lt;em&gt;Tabletalks on Architecture&lt;/em&gt;” as well as of the experimental electronic music event series . Between 2015 and 2019 he has been assistant professor at the Institute of Architecture and Media of TU Graz, while currently he is a doctoral student between the departments of Design and Architecture at Aalto ARTS, part of the Experience Platform.&lt;/p&gt;
+&lt;h2 id=&#34;spatial-aestheticsin-auditive-media-composition&#34;&gt;Spatial Aesthetics in Auditive Media Composition&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;In the cases both of music and of science, detachment involved the use of mechanical aids: scientic instruments helped discover a world, musical instruments to build one (D. Burrows)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We as composers and sound artists have never confronted a machine of the collective, networked, and externally defined media perception design as we experience it today. So what do we share with our audience, the engineers and scientists working on perceptions in media spaces, and how can we still detect potential for aesthetic experiences and make them useful for the acoustic arts? It seems unavoidable that this question causes us to fall back on our ears and the aesthetic reflection of what is experienced and experienceable in situ. Spatialization is the synthesis of spaces and spatial properties of sounds for audiences using numerous loudspeakers. Although one of the most important developments in music within the past century it is still an area of confusion and fundamentally different opinions between researchers, sound engineers, composers, and audiences. Great advantages in computer and audio technology have not necessarily yet led to similarly greater artistic advances in spatialization strategies and concepts within the past decades when compared with pioneering electro-acoustic music in the 1950s, in which visions of sculptural sound phenomena from the 1930s were firstly created and publicly performed. Moreover, as spatial computer music matures and consolidates within institutions and organizations, it is increasingly involving 3D audio systems which can create auditory virtual environments (AVEs). Quite likely in the very near future AVEs will be part of many people’s everyday life, e.g. in cars, working spaces, intelligent homes, concert halls and computer games. The emerging general question is, who creates these ‘virtual’ environments with which intention and how can music, sound art and sound design aesthetically contribute to this reality with their own strategies?&lt;/p&gt;
+&lt;p&gt;Gerriet K. Sharma (&lt;a href=&#34;https://www.gksh.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gksh.net&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Gerriet K. Sharma is a composer and sound artist. He studied Media Art at the Academy of Media Arts Cologne and composition/computer music at the University of Music and Performing Arts Graz. In 2016 he completed his doctorate at the scientific-artistic doctoral school Graz. His thesis is titled “Composing Sculptural Sound Phenomena in Computer Music”. Within the last 15 years he was deeply involved in spatialization of electroacoustic compositions in Ambisonics and Wave-Field Synthesis and transformation into 3D-soundsculptures. From 2009 to 2015 he was curator of “signale-graz” concert series for electroacoustic music, algorithmic composition, radio art and performance at the MUMUTH Graz. His works were presented and premiered at festivals in Europe and abroad. Scholarships by the German Academic Exchange Programme (DAAD) in 2007 and 2009. In 2008 he was awarded with the German Sound Art Award. In 2007 and 2010 he was Artist in Residence at Pact Zollverein Essen working on his concept of sculptural sound projection and formation. Within his Residency at the Institute of Musicology Wuerzburg 2011 – 2013 he conceived and established the Atelier for Sound Research. In spring 2014 he was composer in residence at ZKM Karlsruhe/Germany. 2015 – 2018 he was senior researcher and composer within the three year artistic research project “Orchestrating Space by Icosahedral Loudspeaker” (OSIL) funded by the Austrian Science Fund (FWF). He had been appointed as DAAD Edgar Varèse guest-professor at Electronic Music Studio, Audio communication (AK), TU Berlin for WS 2017/18. In 2019/20 he is visiting professor (Music and Technology) at IKG DART doctorate school Madrid. Publications in international journals and books on spatial practices and sound. “Aural Sculpturality. Spatio-temporal Phenomena within Auditive Media Techniques” was published by ZKM in 2019, his text “Surrounded by Immersion – Means of Post-Democratic Warfare” was released in the book Ultra Black of Music by Mille Plateaux in March 2020. He lives in Berlin.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Constantinos and Gerriet are founding members of the Special Interest Group on “Spatial Aesthetics and Artificial Environments” (2019) as part of the Society for Artistic Research (SAR).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Inconstructible: space writing within architecture’s expanded field</title>
+      <link>https://example.com/event/the-inconstructible-space-writing-within-architectures-expanded-field/</link>
+      <pubDate>Sat, 16 Nov 2019 20:00:00 +0000</pubDate>
+      <guid>https://example.com/event/the-inconstructible-space-writing-within-architectures-expanded-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inconstructible Architectures</title>
+      <link>https://example.com/event/inconstructible-architectures/</link>
+      <pubDate>Sat, 16 Nov 2019 12:30:00 +0000</pubDate>
+      <guid>https://example.com/event/inconstructible-architectures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choropoietic media: Against the cultural bias of the visual</title>
+      <link>https://example.com/event/school-of-images/</link>
+      <pubDate>Wed, 10 Apr 2019 10:00:00 +0000</pubDate>
+      <guid>https://example.com/event/school-of-images/</guid>
+      <description>&lt;p&gt;Organized by James Bridle and Onassis Stegi in the context of the event &lt;em&gt;For Ever More Images? Designing a cybermachine for the 21st century&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;James Bridle, writer and artist, &lt;a href=&#34;http://jamesbridle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jamesbridle.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Alexis Katsaros, Mediterranean Institute for Nature and Anthropos, &lt;a href=&#34;http://med-ina.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://med-ina.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stephanos Levidis, artist and researcher, Forensic Architecture and personal practice&lt;/li&gt;
+&lt;li&gt;Katerina Gkoutziouli, curator, &lt;a href=&#34;https://therestis.art/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://therestis.art/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrew Spyrou, sound artist and producer, &lt;a href=&#34;http://www.kiroku.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.kiroku.co.uk/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yiannis Hadjiaslanis, photographer, &lt;a href=&#34;https://www.hadjiaslanis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hadjiaslanis.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anastasia Miliou, Scientific Director, Archipelagos Institurte of Marine Conservation, &lt;a href=&#34;http://archipelago.gr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://archipelago.gr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mariana Bisti, artist, &lt;a href=&#34;https://www.marianabisti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marianabisti.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kyriaki Goni, artist, &lt;a href=&#34;http://kyriakigoni.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://kyriakigoni.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Constantinos Militiadis, artist, &lt;a href=&#34;http://studioany.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://studioany.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kika Kyriakakou, curator, Polyeco Contemporary Art Initiative, &lt;a href=&#34;https://www.pcai.gr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.pcai.gr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bryony Dunne May, artist, &lt;a href=&#34;http://bryonymay.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bryonymay.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chris Vrettos, biologist and co-founder, &lt;a href=&#34;http://theclimatecollective.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://theclimatecollective.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics</title>
+      <link>https://example.com/event/continuum-cologne/</link>
+      <pubDate>Mon, 18 Mar 2019 10:00:03 +0300</pubDate>
+      <guid>https://example.com/event/continuum-cologne/</guid>
+      <description>&lt;p&gt;Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.&lt;/p&gt;
+&lt;p&gt;Thus, the participants will thematise aesthetics of reception as well as aesthetics of production and approach the complex constitution of computer games from a wide range of disciplines – from Media and Game Studies to Art History, Sound Studies to Architecture, Design to Phenomenology and Embodiment, as well as Spatial Theory and Cultural Studies.&lt;/p&gt;
+&lt;p&gt;The aim of the conference is to channel multi-disciplinary approaches and current research projects to fuel an interest towards an understanding of computer games as spatial, architectural or world phenomena within the current digital media culture. Furthermore, it is to explore and discuss concepts and methodologies from other disciplines and the potential transfer as useful tools in Game Studies.&lt;/p&gt;
+&lt;h1 id=&#34;workshop-programme&#34;&gt;Workshop programme&lt;/h1&gt;
+&lt;h2 id=&#34;monday-031819&#34;&gt;Monday, 03/18/19&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Distant Agricultural Splendor: National Identity, Agricultural Labor, and Space in Farming Simulator (Derek Price) 10:45 a.m.&lt;/li&gt;
+&lt;li&gt;Taking a Breath of the Wild – Paidiatic Spaces and Practices Off the Ludic Grid (Cornelia Janina Schnaars) 11:05 a.m.&lt;/li&gt;
+&lt;li&gt;Feels Right – How Atmospheres of the Past Satisfy Expectations of Authenticity (Felix Zimmermann) 11:25 a.m.&lt;/li&gt;
+&lt;li&gt;Virtual Space and Video Game Photography: Towards a Socio-Political Reading of In-Game Photography (Vladimir Rizov) 12:00 p.m.&lt;/li&gt;
+&lt;li&gt;The World Machine: Self-Reflexive Worldmaking in OneShot (Theresa Krampe) 12:20 p.m.&lt;/li&gt;
+&lt;li&gt;Towards an Operationalized Definition of Procedural Representation (Michal Švarný) 12:40 p.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcoming Speech / Introduction (Marc Bonner) 1:30 p.m.&lt;/li&gt;
+&lt;li&gt;Protean Spaces. On the Aesthetics of Reconfiguring Game Spaces (Hans-Joachim Backe) 2:00 p.m.&lt;/li&gt;
+&lt;li&gt;Learning from Las Vegas … About Video Games and Virtual Reality Experiences (Gundolf S. Freyermuth) 2:45 p.m.&lt;/li&gt;
+&lt;li&gt;Labyrinth (Rolf F. Nohr) 3:45 p.m.&lt;/li&gt;
+&lt;li&gt;Personal and Cinematic Landscapes in Games (Rune Klevjer) 4:30 p.m.&lt;/li&gt;
+&lt;li&gt;Ludoforming (Espen Aarseth) 5:30 p.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tuesday-031919&#34;&gt;Tuesday, 03/19/19&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Borderless Sound (Marcus Erbe) 10:00 a.m.&lt;/li&gt;
+&lt;li&gt;»I love how you can see the bottom of the universe from this room…« The Inside-Out-Architecture of Davey Wreden’s The Beginner’s Guide (Benjamin Beil) 11:00 a.m.&lt;/li&gt;
+&lt;li&gt;The Interior of Video Games (Thomas Hensel) 11:45 a.m.&lt;/li&gt;
+&lt;li&gt;Two Ways to Dwell: Hestial and Hermetic Dwelling in Digital Game Worlds (Daniel Vella) 1:30 p.m.&lt;/li&gt;
+&lt;li&gt;The ‘Lived Spaces’ of Computer Games (Stephan Günzel) 2:15 p.m.&lt;/li&gt;
+&lt;li&gt;Sense of Being Here: 3D Spaces Between Vision and Haptics (Carolin Höfler) 3:15 p.m.&lt;/li&gt;
+&lt;li&gt;The Architectural Continuum – Choropoietic Media and Post-Physical-World Spatial Aesthetics (Constantinos Miltiadis) 4:00 p.m.&lt;/li&gt;
+&lt;li&gt;Dreaming in the Witch House (Thomas Hawranke) 4:45 p.m.&lt;/li&gt;
+&lt;li&gt;Round Up Discussion 5:45 p.m.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>reset.discover VR exhibition</title>
+      <link>https://example.com/event/reset.discover-vr-exhibition/</link>
+      <pubDate>Sat, 02 Mar 2019 12:00:00 +0000</pubDate>
+      <guid>https://example.com/event/reset.discover-vr-exhibition/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The piece reset.discover is the result of a collaboration between composer Antonia Manhartsberger and the VR artist Constantinos Miltiadis, investigating the possibilities of uniting spatial-visual and spatial-sonic elements into one abstract spatio-temporal virtual environment. The piece develops over notions of proximity and distance, thus consisting of two layers of experience. An individual point of view controlled by a VR HMD and headphones, and a correlated surrounding spatial audio loudspeaker setup. The audience is called upon to discover and experience this synthetic surrounding.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space as Ideology: Choropoietic media and new paradigms of spatiality</title>
+      <link>https://example.com/event/space-as-ideology-choropoietic-media-and-new-paradigms-of-spatiality/</link>
+      <pubDate>Thu, 24 Jan 2019 12:00:00 +0000</pubDate>
+      <guid>https://example.com/event/space-as-ideology-choropoietic-media-and-new-paradigms-of-spatiality/</guid>
+      <description>&lt;p&gt;The program includes lectures by Timor Kardum, Markus Wintersberger and Irmfried Wöber.&lt;/p&gt;
+&lt;!--
+Symposium Spatial Turn [[x](https://www.facebook.com/events/553650948484862/)]  
+Gib mir Raum [[x](https://www.gibmirraum.at/)]
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the hypotheses which lie at the bases of game design: flat earthers and post-physical navigable environments</title>
+      <link>https://example.com/event/hypotheses-krakow/</link>
+      <pubDate>Sat, 24 Nov 2018 10:30:00 +0000</pubDate>
+      <guid>https://example.com/event/hypotheses-krakow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes</title>
+      <link>https://example.com/event/visual-imaginary-intangible-heritage/</link>
+      <pubDate>Wed, 14 Nov 2018 19:40:57 +0300</pubDate>
+      <guid>https://example.com/event/visual-imaginary-intangible-heritage/</guid>
+      <description>&lt;p&gt;Contribution to CHNT 2018 on intangible cultural heritage based on the project &lt;a href=&#34;../../project/daphnes-diary&#34;&gt;Daphne&amp;rsquo;s Diary&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents theoretical and practical considerations regarding the role of moat of the medieval walls of historic Nicosia. It introduces the history of Nicosia, the last divided capital of Europe, through the development of its Venetian fortifications. The moat acquired an important role for Nicosia when the city started expanding beyond the medieval footprint of the labyrinthine urban fabric of the historic core during the late period of British rule on the island. Since the beginning of the 20th century numerous activities and uses were hosted into the moat, from sporting events, livestock trade and markets to parades and leisure spaces, waste disposal and farming. &lt;/p&gt;
+&lt;p&gt;After the war of 1974 and the division of Nicosia, the urgent and ever-growing needs of the city for empty plots to support its infrastructure and operation led to the fragmentation of the moat. In this context the paper reflects on the current state of the moat and inquires for the pressing need to reconsider the identity and value of the moat for the city.&lt;/p&gt;
+&lt;p&gt;In response to this need it discusses new approaches to the use of Information Communication Technologies (ICT)  for facilitating the re-appropriation of the moat of Nicosia’s medieval fortifications from being used as parking space, and other fragmentary private uses, into a green belt that highlights the only shared heritage that unites the two sides of the divided city, that is, its Medieval Walls. In particular an ICT-enabled initiative is presented that involves the creation of spatially-distributed storytelling for the promotion of the history of the Medieval walls of the city by exploiting the software and communities of Geocaching driven by preliminary results of a survey of users of the public space of the moat. The organization of this initiative was supported by a H2020 COST Action (TU1306) Short Term Scientific Mission, the results of which will be presented in the paper. &lt;/p&gt;
+&lt;p&gt;Concluding, the paper presents a grassroots approach to the application of digital interfaces and interactive narratives, which contributes to the exploitation of heritage in Mediterranean cities for the reactivation of neglected urban green spaces through playful engagement and storytelling. Specifically it suggests the use of a “cloud” layer over the city, on which to collect and expose the multiple narratives of its dense historical past, functioning therefore as a neutral ground for the analysis of the city’s palimpsest and the negotiation of the cultural processes for the production of the lived space. Employing a format of locative, historically corroborated dramatized audio narratives, the initiative intends to provide an experiential approach to history, eventually aiming to trigger the audience’s visual imaginary over their immediate surroundings. &lt;/p&gt;
+&lt;p&gt;It argues that heritage can be used to influence positively the social cohesion of the urban context. Promoting heritage in such a way that, instead of provoking tensions and division (based on a hegemonic reading of the -complex and debated- past), can offer opportunities of understanding, by enabling politically, historically and socially excluded communities to narrate their histories.. Focusing on everyday experiences, the project intends to eventually contributing to an inclusive view of the past of the built environment and therefore to a sense of mutual belonging.&lt;/p&gt;
+&lt;!--
+&#34;The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes&#34; paper with [Georgios Artopoulos](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/160-george-artopoulos.html) of the Cyprus Institute, for CHNT 23, Congress of Visual Heritage 2018, Vienna 12-15 November 2018. The paper will be presented in the Session &#34;Locative media and heritage engagement in pre-modern urban Environments&#34; on November 14.  
+The contribution is based on the project [Daphne&#39;s Diary](http://studioany.com/projects/daphnes-diary/).
+
+Abstract [[x](https://www.chnt.at/the-visual-imaginary-of-intangible-cultural-heritage-accessing-the-palimpsest-of-nicosia-through-audio-enabled-routes/)]  
+Full paper to be published later in the conference proceedings.
+
+CHNT Website [[x](https://www.chnt.at/)]
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Paradise? Immersion in Space and Time</title>
+      <link>https://example.com/event/artificial-paradise-immersion-in-space-and-time/</link>
+      <pubDate>Thu, 08 Nov 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/artificial-paradise-immersion-in-space-and-time/</guid>
+      <description>&lt;p&gt;Round table discussion on the topic of Immersion in the Arts, in the context of the exhibition &amp;ldquo;Artificial Paradise? Immersion in Space and Time&amp;rdquo; curated by Jürgen Dehm, at the &lt;a href=&#34;https://www.km-k.at/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graz Kunstlerhaus&lt;/a&gt;, part of the &lt;a href=&#34;https://www.steirischerherbst.at/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steirischer Herbst 2018 Festival&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Gerriet K. Sharma&lt;/em&gt; (*1974 Bonn, lives in Graz and Berlin) is a sound artist and composer. He studied media art at the Art College for Media at Cologne and composition/computer music at the Institute for Electronic Music and Acoustics (IEM) at the University for the Arts in Graz. Moreover, he completed a doctorate at the artistic-scientific doctorate school at the University for the Arts in Graz. In the winter semester 17/18, he was appointed for the renowned “Edgard Varèse Professorship” in Berlin. His works include numerous space-sound-compositions, sound-installations and performances. Moreover, he teaches and curates. He has received many international awards and grants.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Constantinos Miltiadis&lt;/em&gt; (*1986, lives in Graz) is an architect and computational designer, currently an assistant professor at the Institute of Architecture and Media of TU Graz. He studied architecture at NTU-Athens (2012) and at the Chair for Computer Aided Architectural Design of ETH Zurich (2014). Miltiadis’ work is interdisciplinary and experimental, focused on real-time, interactive, virtual and augmented reality design, aiming the expansion of the scope of architecture. At the Institute of Architecture and Media, he teaches experimental VR game design to architecture students, while also researching the function and properties of space in virtual navigable environments, as a novel spatial platform for architectural experimentation. His work and contributions have been awarded in international competitions and academic conferences and have been published by the Guardian and Reuters.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Elisabeth Fiedler&lt;/em&gt; (*1960 Graz, lives in Graz) is head and chief curator at the Institute for Art in Public Space Styria and the Austrian Sculpture Park. She studied art history, history and philosophy at the Karl-Franzens-University Graz. After that she worked as assistant producer at the Austrian Broadcasting Corporation, as arts editor at Neue Zeit and at Grazer Kunstverein. From 1992 to 1996, she was responsible for the fine arts section at Forum Stadtpark and organized solo and group exhibitions by international as well as regional artists, symposia, concerts and other events, she wrote and published texts and books. After her time as referent for art at the Styrian council, sine 2001, she has been working as curator and alternate director of the Neue Galerie, as head of the department of arts and culture and as head of the department for Art in Public Space at the Universalmuseum Joanneum. Fiedler is the editor and author of numerous publications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Aesthetics of Presence in Inconstructible Spaces I &amp; II</title>
+      <link>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</link>
+      <pubDate>Mon, 15 Oct 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Implied Player: Transgression and Contingency in Digital Games</title>
+      <link>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
+      <pubDate>Thu, 11 Oct 2018 09:00:00 +0000</pubDate>
+      <guid>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
+      <description>&lt;!--
+abstract 
+https://www.researchgate.net/publication/328174581_Beyond_the_Implied_Player_Transgression_and_Contingency_in_Digital_Games
+
+https://gespielt.hypotheses.org/2009
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Architectural Continuum</title>
+      <link>https://example.com/event/continuum-digital-cultures/</link>
+      <pubDate>Wed, 19 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://example.com/event/continuum-digital-cultures/</guid>
+      <description>&lt;!-- 
+1.12.2024: digital cultures website doesnt work: available to buy 
+paper titled “The architectural continuum” will be presented at the [Digital Cultures 2018 Conference](https://digitalculturesconference.org/) at the Leuphana University of Lüneburg, 19-22 of September 2018.  
+Detailed conference schedule [[x](https://digitalculturesconference.org/files/2018/09/KCT18_Program_Abstracts.pdf)]  
+Download abstract from researchgate [[x](https://www.researchgate.net/publication/327436853_The_Architectural_Continuum_Abstract)]
+--&gt;
+&lt;h2 id=&#34;presentation-abstract&#34;&gt;Presentation abstract&lt;/h2&gt;
+&lt;p&gt;“Ουδείς αγεωμέτρητος εισήτω” reads the inscription believed to have marked the entrance of Plato’s Academy. Although often mistranslated, it’s literal meaning is: “Let no ungeometered person enter.” Plato addresses not geometers, but the geometered, as if mathematics were a practiced, embodied quality, and a modality of being, instead of mere knowledge. Indeed, Euclid’s rigorous axiomatic system, doubles also as a first formal scientific method, that Plato will employ as an instrument to better understand reality, while expecting from his students and guests the ability to employ the empirical sequential methodology of constructible geometry in their rhetoric. Mathematics thus, becomes a form of ideology. Centuries later, Alberti’s “De Pittura”, on mathematical perspective, bridges geometry with the experience of the world and initiates the scientific revolution. Cartesian rationalism will employ geometry to represent and understand the world, while Kant will advocate for “absolute space” as the petri dish of reality. In the millennia to come, Euclid’s geometry will become the most intuitive model of space. However, the search for a proof of his infamous fifth postulate, will trouble mathematicians for centuries. Gauss’ “Theorema Egregium” will provide a paradigm shift and alternative to Cartesian space, while his student Riemann, addressing the “hypotheses which lie at the bases of geometry” will generalize the theory for N-dimensions. Einstein will adopt such a geometry to theorize reality as spacetime, accounting for phenomena unheard of in Euclidean space, and providing the first significant rupture between visual space and reality. Meanwhile, video games become the most prominent entertainment medium and the field of game studies is established. Scholars will write on space; as the ‘raison d’être’ of games; as a parallel to architectural practices; and as a paradigm shift of this cultural medium coming of age. Space has indeed become the underlying substrate in both the production and consumption of games, with gameplay seen a spatial practice. From military flight simulators to contemporary videogames, ‘gameplay’ has been proven to develop and expand one’s spatial skills. Although architectural design is locked in a Euclidean paradigm, a few video games show our capacity to conceive and engage with spaces impossible to construct physically. Through a short historiography of the evolution of spatial concepts, this contribution intends to suggest the possibility of a Virtual Architecture. Based on both theory and experimental practice we will discuss sensible, postphysical-world navigable environments residing in the VR-video game medium, and the vast aesthetic potential stemming from their capacity to tap into currently latent spatial-cognitive abilities. As Van Schaik suggests, our ability to harness and cultivate “spatial intelligence” is the essence of architecture par excellence, and the well of its future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Architectural Continuum</title>
+      <link>https://example.com/event/continuum-architectonics/</link>
+      <pubDate>Sat, 09 Jun 2018 09:30:00 +0000</pubDate>
+      <guid>https://example.com/event/continuum-architectonics/</guid>
+      <description>&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
+&lt;p&gt;Space – in particular architectural and urban space – is always both real and virtual. For human beings, space is a construct of its perception via the body, but it is also culturally and socially determined as “relational space.” Architectural and urban spaces are inherently shaped by human beings: by their senses, by their perception, and by their cultural and social bonds. We experience these spaces as “real” and contingent, despite all possible false perceptions that might deceive us. They are an extension of our body – as well as related to the neurological, embodied mind – and are tied to its limitations.&lt;/p&gt;
+&lt;p&gt;While traditional forms of virtuality such as movies and literature can only partially overcome these ties and boundaries – bound as they are to sight, sound, or our sense of fantasy – new digital tools and forms of immersive virtuality can reveal new orders of experience, allowing an interaction with this space. This interaction even partially allows one to design this space. At least one is either asked to perform tasks – play – or can replicate reality via simulation.&lt;/p&gt;
+&lt;p&gt;At the latest at this point, one must question the nature of the relationship between “virtual reality” and “reality,” in particular regarding the experience and the design of space, and thus in relation to architecture. Is the designed virtual space a metaphor for real space and thus only a translation of it into virtual space, or is it more than that? Perhaps a transformation or extension of it? And what is different between these two, if there are any differences?&lt;/p&gt;
+&lt;p&gt;The term “architectonics” (Architektonik) refers to the structure and nature of this space and thus to the threshold between architecture, either as system and structure or process. As such, architecture is either a metaphor (as discussed by Kant) – e.g. software-architecture – or a design process, with inherent methods and a specific spatial knowledge, which can be applied to the construction of virtual space.&lt;/p&gt;
+&lt;p&gt;Architecture and town planning are disciplines based on design that create real and virtual spaces: rooms, buildings, towns, worlds. The process of design itself has always comprised a “virtual space” spanning the contingency of reality, with all its restrictions: the act of design itself – between making and thinking – and the implementation of the project in a real context, with a constant feedback loop between these different stages. The introduction of computers in the design process in the 1990s has significantly extended this space and created new and closer connections between reality and virtuality, which have only recently started to transform architecture and the act of design through algorithms and “design to production.”&lt;/p&gt;
+&lt;p&gt;This “virtual space” of design has two implications for our discussion: on the one hand, despite decades of investigations via design theory, it remains a terra incognita, which reflects the Janus-faced nature of architecture between art and science; on the other, architecture and urbanism have traditionally fetishized this virtual space of the project – as utopia – not least because of the many oppositions to its ideals by clients, politics, costs, and so forth.&lt;/p&gt;
+&lt;p&gt;This raises two questions that we would like to address in this round table/conference: Starting from these concurrent virtual spaces – architecture/video games/simulations – what can architecture learn from new virtual realities, in terms of its nature and of the act of design, and what can be the specific contribution of architecture both to the design of virtual spaces and their understanding? What can thus the contribution of architects to this new order of the virtual be, in the field of video games – including the aspects of gaming and narration – , serious games, or in the field of simulations, which allow for measurement and prediction (e.g. smart cities)? Can the architect apply their specific spatial abilities and the capacity to construct narratives around projects in this virtual context? And inversely, what can architecture and urbanism learn from this new virtual reality in all of its implications? Is there something of the design of virtual spaces in games or simulations that can be implemented in architecture and urbanism, in order to improve its efficiency or its sustainability, as well as to better understand the processes and nature of design?&lt;/p&gt;
+&lt;p&gt;In the end, we must ask ourselves if the ubiquity of this virtual order represents a danger for architecture and urbanism, ushering in greater distance to the human “body” and “society,” for whom architecture has traditionally been constructed. Will these disciplines reduce their social and cultural impact through building virtual utopias, in which human beings and social ties will be simulated or mimicked – and thus lost? And is this euphoria for the potential of digital technologies not leading us again to naïve optimism, which in turn distracts us from real problems and leads architecture and urbanism to further abstraction from “reality?”&lt;/p&gt;
+&lt;p&gt;We would like to address these questions in a lively discussion with experts from different fields, most of whom hold a degree in architecture. Besides seven invited speakers, there are two more positions open to individuals with different disciplinary backgrounds – game theory, philosophy, architecture, history of technology, etc. – interested in these questions and ideally with a background in architecture. These will be selected via an open call for papers.&lt;/p&gt;
+&lt;p&gt;Organization: Andri Gerber, Institute Urban Landscape, ZHAW Winterthur, in collaboration with Werner Oechslin, Stiftung Bibliothek Werner Oechslin.&lt;/p&gt;
+&lt;h2 id=&#34;event-programme&#34;&gt;Event Programme&lt;/h2&gt;
+&lt;p&gt;Andri Gerber (Institute Urban Landscape, ZHAW)&lt;br&gt;
+Welcome/Introduction&lt;/p&gt;
+&lt;p&gt;Stefano Gualeni (University of Malta)&lt;br&gt;
+&lt;a href=&#34;https://www.game.edu.mt/blog/architectonics-of-virtual-spaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIG TROUBLE in Little Cities&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ekim Tan (Play the City)&lt;br&gt;
+City Gaming&lt;/p&gt;
+&lt;p&gt;James Delaney (BlockWorks)&lt;br&gt;
+Architectonic of Virtual Space&lt;/p&gt;
+&lt;p&gt;Luke Caspar Pearson (Bartlett School of Architecture)&lt;br&gt;
+Videogame Urbanism: rethinking speculative architecture projects through the design of virtual game spaces&lt;/p&gt;
+&lt;p&gt;Stephan Günzel (University of Applied Sciences Europe)&lt;br&gt;
+The ‘Lived Spaces’ of Computer Games&lt;/p&gt;
+&lt;p&gt;Ulrich Götz (Zurich University of the Arts, ZHdK)&lt;br&gt;
+The Design of Game Spaces, Caught Between Demands of the Virtual and References to the Real&lt;/p&gt;
+&lt;p&gt;Philipp Schaerer (&lt;a href=&#34;https://www.philippschaerer.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.philippschaerer.ch&lt;/a&gt;)&lt;br&gt;
+Built Images. Experimental and visual compositional techniques&lt;/p&gt;
+&lt;p&gt;Nicole Stoecklmayr (scenesofarchitecture.com)&lt;br&gt;
+Parallel Perspectives: Experiencing Architecture on Screens&lt;/p&gt;
+&lt;p&gt;Constantinos Miltiadis (TU Graz)&lt;br&gt;
+The Architectural Continuum&lt;/p&gt;
+&lt;p&gt;Final discussion&lt;br&gt;
+Johannes Binotto (HSLU)&lt;br&gt;
+Philippe Koch (Institute Urban Landscape, ZHAW)&lt;br&gt;
+Amadeo Sarbach (ZHAW)&lt;/p&gt;
+&lt;p&gt;Werner Oechslin (Stiftung Bibliothek Werner Oechslin)&lt;br&gt;
+Guided visit through the library&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sonic Rug Hackathon - Vienna Design Week 2017</title>
+      <link>https://example.com/event/sonic-rug/</link>
+      <pubDate>Wed, 04 Oct 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/sonic-rug/</guid>
+      <description>&lt;p&gt;Invited single-day hackathon project with Antonia Manhatsberger, for the production of an interactive audiovisual installation for the &lt;em&gt;Sonic Rug&lt;/em&gt;, developed by Selina Reiterer and Oliver Maklott.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch. [&amp;hellip;] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media.&amp;rdquo;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/241005285&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;Antonia Manhartsberger: sound programming&lt;br&gt;
+Constantinos Miltiadis: visuals  programming&lt;br&gt;
+Hosted by Oliver Maklott, Matthias Gassner, Selina Reiterer&lt;br&gt;
+Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://sonicrug.com/no01-hackathon-vienna-design-week/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sonicrug.com/no01-hackathon-vienna-design-week/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VR exhibition at VR Playful Art</title>
+      <link>https://example.com/event/vr-playful-art/</link>
+      <pubDate>Fri, 01 Sep 2017 15:00:00 +0000</pubDate>
+      <guid>https://example.com/event/vr-playful-art/</guid>
+      <description>&lt;p&gt;Exhibition of 12 original VR projects  developed by the students of the &lt;a href=&#34;../../course/vsms-2017&#34;&gt;Virtual Spaces Master Studio 2017&lt;/a&gt;, at the event &lt;em&gt;VR Playful Art&lt;/em&gt;, at Kunsthaus Graz.
+The event was organized  by the &lt;a href=&#34;https://www.facebook.com/gamedevgraz/?fref=mentions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game Development Graz&lt;/a&gt; community in collaboration with TU Graz, in the context of &lt;a href=&#34;https://www.facebook.com/events/838046996342513/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game Dev Days 2017&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;virtual-spaces-master-studio-vr-projects&#34;&gt;Virtual Spaces Master Studio VR projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Xaver Burkat – #o&lt;/li&gt;
+&lt;li&gt;Philipp Sattler – Library of the Absurd&lt;/li&gt;
+&lt;li&gt;Valentin Moser – Chronicles&lt;/li&gt;
+&lt;li&gt;Lukas Gosch – Awakening&lt;/li&gt;
+&lt;li&gt;Lukas Meindl – Moving&lt;/li&gt;
+&lt;li&gt;Vesa Bunjaku – Noseum&lt;/li&gt;
+&lt;li&gt;Daniel Seiwald – In-between&lt;/li&gt;
+&lt;li&gt;Dinko Jelecevic – The Game of the Goose&lt;/li&gt;
+&lt;li&gt;Emina Lozzo – Ghost Talk&lt;/li&gt;
+&lt;li&gt;Robert Aumayr – Solitude&lt;/li&gt;
+&lt;li&gt;Petrit Vesjeli – Escape from the Unknown&lt;/li&gt;
+&lt;li&gt;Sabrina Kullmaier &amp;amp; Julian Lebitsch – Continuity&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Timescales of Architecture</title>
+      <link>https://example.com/event/timescales-of-architecture/</link>
+      <pubDate>Mon, 29 May 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/timescales-of-architecture/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Event organizer&lt;/strong&gt;&lt;br&gt;
+Marko Ciciliani&lt;/p&gt;
+&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
+&lt;!--Signale graz Soirée mit Susanne Fröhlich und Constantinos Miltiadis, Montag, 29.05.2017, 18:00 CUBE, IEM, Inffeldgasse 10/3--&gt;
+&lt;p&gt;Die signale graz Soirées bilden seit dem Sommersemester 2012/13 ein Forum, in dem der Dialog zwischen den Instituten der KUG und anderen Grazer Universitäten gefördert wird, um so einen intensiveren Austausch der künstlerischen und wissenschaftlichen Projekte zu ermöglichen. Bei der Veranstaltung werden von den Gästen kurze Vorträge gehalten, in denen ihre aktuellen Interessen und künstlerischen oder wissenschaftlichen Forschungen dargestellt werden, was dann Anstoß zu gemeinsamen Diskussionen bietet.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns, am kommenden Montag in diesem Rahmen Susanne Fröhlich (künstl.-wiss. Doktoratsschule, KUG) und MAS ETH AI Dipl. Constantinos Miltiadis (Institute of Architecture and Media, TU Graz) begrüßen zu dürfen.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Susanne Fröhlich (künstl.-wiss. Doktoratsschule, KUG)&lt;br&gt;
+&amp;ldquo;The recorder in the 21st century&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;From the Middle Ages on, the recorder had many different forms of appearance and was always adapted to the sound worlds and music aesthetics of its particular time. Therefore, recorder players from today can choose from a big variety of instruments to perform in different styles and performance practises. So, it seems quite logic to perform music from today on instruments from today. But, reality looks different and in terms of method, extended techniques and performance practise on modern recorder models we are still at the starting point and there is a lot to develop, to explore, to fathom and to document. This fact marks the actual starting point of my artistic research and leads me the question: How much will new recorder models enrich repertoire, playing techniques and performance practise of recorder players?&lt;/p&gt;
+&lt;p&gt;Susanne studied the recorder with P. Leenhouts at Amsterdam Conservatory, with G. Lünenbürger at the Berlin University of Arts and with J. Fischer at the Akademie für Tonkunst in Darmstadt. Since October 2015 she is doing an artistic-academic research on the Helder Tenor at the Kunstuniversität Graz. Susanne regularly performs recitals and teaches workshops in Europe and overseas. As founding member of the former recorder quartet QNG – Quartet New Generation, she appears both as soloist and different formations as well as music theatre productions. She has participated in numerous world premieres at renowned venues and festivals worldwide with e.g. Ensemble Adapter, Collegium Novum Zürich, Figura Ensemble, Ensemble ICTUS and Neue Vokalsolisten. Susanne has won several scholarships and international competitions in Berlin, Bonn, Cracow, Darmstadt, Göttingen, Graz, New York, and Rotterdam. She is living and teaching in Berlin and won a lectureship at the University of Arts in April 2010.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;MAS ETH AI Dipl. Constantinos Miltiadis (Institute of Architecture and Media, TU Graz)&lt;br&gt;
+&amp;ldquo;Timescales of architecture”&lt;/p&gt;
+&lt;p&gt;In contrast to sound and music, architecture, understood primarily as the discipline of materialization of spatial designs, is traditionally thought of as an event of presence outside of the time dimension. The talk aims to examine different notions of a timeline in architecture history; from the timeless, to the periodic, metabolic and temporary, and eventually, through personal works and current research dealing with procedural design, interactive structures, virtual reality and game studies, present a conjecture of an immaterial but sensible architecture, of narrative events and interactive agency in contingent and subjective spatiotemporal environments.&lt;/p&gt;
+&lt;p&gt;Constantinos Miltiadis is an architect, computational designer and researcher, currently a University Assistant at the Institute of Architecture and Media of TU Graz. His work is interdisciplinary and experimental, and focuses on real-time, interactive, virtual and augmented reality design as a means of expanding the scope of architecture. He holds an MAS in Architecture and Information from the Chair for CAAD of ETH Zurich and a Diploma in Architecture Engineering from the NTU-Athens. Constantinos has taught programming classes in academic environments, conferences and festivals, and has worked for various academic and research oriented practices. His work has been awarded in international competitions, presented in exhibitions and conferences, and published by between others The Guardian and Reuters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metadata Punks</title>
+      <link>https://example.com/event/metadata-punks/</link>
+      <pubDate>Tue, 21 Mar 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/metadata-punks/</guid>
+      <description>&lt;p&gt;#000000&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In the past we were acting like data-punks. Not so much “here’s three chords, now form your band.” More like: “Here’s three gigs, now go form your autonomous art collective.” The new tactic might be more question of being metadata-punks.” (McKenzie Wark - Metadata Punk, 2015)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Constantinos Miltiadis, Dubravka Sekulić, and Marcell Mars are amateur librarians sharing and maintaining their collections at &lt;a href=&#34;https://library.memoryoftheworld.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://library.memoryoftheworld.org/&lt;/a&gt;. Like other amateur librarians they run away, on daily bases, from interesting, exciting professional duties into the boring acts of searching for new books available on the internet, meticulously editing their metadata, running optical character recognition against badly scanned books, slicing double-paged books into single-paged ready for screen. If an important author and her books are not already available on internet then they scan and make it available. Sometimes, not always, they also read, annotate, cite, and discuss with others.&lt;/p&gt;
+&lt;p&gt;In this tabletalk the three speakers will present different aspects of the inevitable role of a researcher as librarian. From the definition of a library, to the act of creating a public library and of making sense of one’s reading corpus. The talk will be followed by a workshop on Wednesday, to introduce book scanning methods, and software for annotating, citing and organizing libraries.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Marcell Mars&lt;/strong&gt; started his research “Ruling Class Studies” at Jan van Eyck (2011-12), continued at Akademie Schloss Solitude (2013) and since spring 2015, he is a PhD student at Leuphana University in DCRL (Digital Cultures Research Lab). Public Library/Memory of the World was established in 2012 to develop sociotechnical infrastructure and invigorate (again) historical argument for universal access to knowledge. He develops software: [let’s share books] Calibre plugin and related server infrastructure. Public Library/Memory of the World was heard and exhibited at Museo Reina Sofía, 98weeks, Impakt Festival, Transmediale, The New School, Kunstverein Stuttgart…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constantinos Miltiadis&lt;/strong&gt; is an architect and computational designer, currently an assistant professor at the Institute of Architecture and Media of TU Graz. His work is interdisciplinary and experimental, and focuses on real-time, interactive, virtual and augmented reality design as a means of expanding the scope of architecture. Constantinos has studied architecture at NTU-Athens and at the Chair for CAAD ETH Zurich, and his current research intends to bridge Game Studies and architecture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dubravka Sekulić&lt;/strong&gt; is an amateur librarian researching transformations of contemporary city. In September she joined the Institute for Contemporary Art, Department of Architecture, TU Graz as an assistant professor. She is PhD fellow at the Institute for History and Theory of Architecture, Department of Architecture, ETH Zürich. She is an author of “Glotzt Nicht so Romatnisch! On Extralegal Space in Belgrade” (Jan van Eyck Academie, Maastricht, 2012) and co-editor of “Zoran Bojovic: Three Points of Support” (Museum of Contemporary Art Belgrade, 2013), Surfing the Black (Jan van Eyck Academie, Maastricht, 2012) and Peti Park, Struggle for Everyday (Kontekst, Belgrade, 2012).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Wark, McKenzie. &amp;lsquo;Metadata Punk&amp;rsquo;. In &lt;em&gt;&lt;a href=&#34;https://library.memoryoftheworld.org/#/book/4779b288-9ea0-415a-bc93-faf03065538c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Javna Knjižnica / Public Library&lt;/a&gt;&lt;/em&gt;, edited by Tomislav Medak and Marcell Mars. WHW Multimedia Institute, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Architecture as a Complex Number</title>
+      <link>https://example.com/event/architecture-as-a-complex-number/</link>
+      <pubDate>Wed, 16 Nov 2016 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/architecture-as-a-complex-number/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/images/16-plexus-paris.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Event organized by Pierre Cutellic in collaboration with AA n+1.&lt;br&gt;
+AA n+1 gallery, Paris, November 16, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br&gt;
+The Plexus Project is an initiative to bring together the creative talent of different disciplines to share techniques, solve problems and build networks of collaboration. The events take place every month inviting young designers, architects, engineers, programmers, game designers and visual artists. This initiative is open to anyone in London that is looking for an informal place to network and learn about new methodologies and workflows.&lt;br&gt;
+The event was initially called Bartlett Nexus and was created by Jose Sanchez, currently he co-curates it together with Manuel Jimenez Garcia, who joined the event organization in September of 2013.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Frederic Migayrou (UCL),&lt;/li&gt;
+&lt;li&gt;Manuel Jimenez Garcia (UCL),&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (TU Graz), and&lt;/li&gt;
+&lt;li&gt;Corneel Cannaerts (KU Leuven).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Prize in the Zeiss VR One App Contest</title>
+      <link>https://example.com/event/zeiss-vr-one/</link>
+      <pubDate>Thu, 19 Mar 2015 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/zeiss-vr-one/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp 400w,
+               /event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_e8f989911037cdfe38513ab1f598075d.webp 760w,
+               /event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Anywhere installation at TEDx NTUA</title>
+      <link>https://example.com/event/project-anywhere-ted/</link>
+      <pubDate>Sat, 17 Jan 2015 15:00:00 +0000</pubDate>
+      <guid>https://example.com/event/project-anywhere-ted/</guid>
+      <description>&lt;p&gt;Public installation of &lt;a href=&#34;../../project/project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at TEDx NTUA, Athens 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

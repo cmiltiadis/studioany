@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media archeology | studio any</title>
+    <link>https://example.com/tag/media-archeology/</link>
+      <atom:link href="https://example.com/tag/media-archeology/index.xml" rel="self" type="application/rss+xml" />
+    <description>media archeology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>media archeology</title>
+      <link>https://example.com/tag/media-archeology/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Architecture and SpaceTimeCraft</title>
+      <link>https://example.com/project/spacetimecraft/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/spacetimecraft/</guid>
+      <description>&lt;p&gt;Long-term transdisciplinary research project on virtual architecture.
+The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research.
+It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research.&lt;/p&gt;
+&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://example.com/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://example.com/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
+In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: &lt;em&gt;SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a catalog of related publications and presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An open living archive for ACADIA</title>
+      <link>https://example.com/publication/23-acadia/</link>
+      <pubDate>Thu, 16 Nov 2023 14:23:09 +0300</pubDate>
+      <guid>https://example.com/publication/23-acadia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spacetime-Craft: An Archaeology of Visions and Explorations of Spatial Experience</title>
+      <link>https://example.com/publication/22-spacetimecraft/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-spacetimecraft/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘Spacetime-Craft: An Archaeology of Visions and Explorations of Spatial Experience’. In &lt;em&gt;Bildhafte Räume, Begehbare Bilder&lt;/em&gt;, edited by Kassandra Nakas and Philipp Reinfeld, 149–65. Architektur Der Medien – Medien Der Architektur 2. Paderborn, Germany: Brill | Fink, 2022. &lt;a href=&#34;https://doi.org/10.30965/9783846767238_011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.30965/9783846767238_011&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

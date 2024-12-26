@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>space | studio any</title>
+    <link>https://example.com/tag/space/</link>
+      <atom:link href="https://example.com/tag/space/index.xml" rel="self" type="application/rss+xml" />
+    <description>space</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>space</title>
+      <link>https://example.com/tag/space/</link>
+    </image>
+    
+    <item>
+      <title>Interconnected Agencies For Sustainable Futures: A Discourse on the Notion of Adaptation and Space</title>
+      <link>https://example.com/publication/23-jpbl/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/23-jpbl/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Aesthetics of Presence in Inconstructible Spaces I &amp; II</title>
+      <link>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</link>
+      <pubDate>Mon, 15 Oct 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Architectural Continuum</title>
+      <link>https://example.com/event/continuum-digital-cultures/</link>
+      <pubDate>Wed, 19 Sep 2018 10:00:00 +0000</pubDate>
+      <guid>https://example.com/event/continuum-digital-cultures/</guid>
+      <description>&lt;!-- 
+1.12.2024: digital cultures website doesnt work: available to buy 
+paper titled “The architectural continuum” will be presented at the [Digital Cultures 2018 Conference](https://digitalculturesconference.org/) at the Leuphana University of Lüneburg, 19-22 of September 2018.  
+Detailed conference schedule [[x](https://digitalculturesconference.org/files/2018/09/KCT18_Program_Abstracts.pdf)]  
+Download abstract from researchgate [[x](https://www.researchgate.net/publication/327436853_The_Architectural_Continuum_Abstract)]
+--&gt;
+&lt;h2 id=&#34;presentation-abstract&#34;&gt;Presentation abstract&lt;/h2&gt;
+&lt;p&gt;“Ουδείς αγεωμέτρητος εισήτω” reads the inscription believed to have marked the entrance of Plato’s Academy. Although often mistranslated, it’s literal meaning is: “Let no ungeometered person enter.” Plato addresses not geometers, but the geometered, as if mathematics were a practiced, embodied quality, and a modality of being, instead of mere knowledge. Indeed, Euclid’s rigorous axiomatic system, doubles also as a first formal scientific method, that Plato will employ as an instrument to better understand reality, while expecting from his students and guests the ability to employ the empirical sequential methodology of constructible geometry in their rhetoric. Mathematics thus, becomes a form of ideology. Centuries later, Alberti’s “De Pittura”, on mathematical perspective, bridges geometry with the experience of the world and initiates the scientific revolution. Cartesian rationalism will employ geometry to represent and understand the world, while Kant will advocate for “absolute space” as the petri dish of reality. In the millennia to come, Euclid’s geometry will become the most intuitive model of space. However, the search for a proof of his infamous fifth postulate, will trouble mathematicians for centuries. Gauss’ “Theorema Egregium” will provide a paradigm shift and alternative to Cartesian space, while his student Riemann, addressing the “hypotheses which lie at the bases of geometry” will generalize the theory for N-dimensions. Einstein will adopt such a geometry to theorize reality as spacetime, accounting for phenomena unheard of in Euclidean space, and providing the first significant rupture between visual space and reality. Meanwhile, video games become the most prominent entertainment medium and the field of game studies is established. Scholars will write on space; as the ‘raison d’être’ of games; as a parallel to architectural practices; and as a paradigm shift of this cultural medium coming of age. Space has indeed become the underlying substrate in both the production and consumption of games, with gameplay seen a spatial practice. From military flight simulators to contemporary videogames, ‘gameplay’ has been proven to develop and expand one’s spatial skills. Although architectural design is locked in a Euclidean paradigm, a few video games show our capacity to conceive and engage with spaces impossible to construct physically. Through a short historiography of the evolution of spatial concepts, this contribution intends to suggest the possibility of a Virtual Architecture. Based on both theory and experimental practice we will discuss sensible, postphysical-world navigable environments residing in the VR-video game medium, and the vast aesthetic potential stemming from their capacity to tap into currently latent spatial-cognitive abilities. As Van Schaik suggests, our ability to harness and cultivate “spatial intelligence” is the essence of architecture par excellence, and the well of its future.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

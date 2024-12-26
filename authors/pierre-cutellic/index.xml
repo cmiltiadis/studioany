@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Cutellic | studio any</title>
+    <link>https://example.com/authors/pierre-cutellic/</link>
+      <atom:link href="https://example.com/authors/pierre-cutellic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Cutellic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jan 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Pierre Cutellic</title>
+      <link>https://example.com/authors/pierre-cutellic/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 6:  Machine Learning from Las Vegas</title>
+      <link>https://example.com/curation/ol/ol-6/</link>
+      <pubDate>Thu, 26 Jan 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-6/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/216165949&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Pierre Cutellic&lt;/strong&gt; is currently PhD Fellow at the &lt;a href=&#34;http://www.caad.arch.ethz.ch/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAAD chair of ETH ITA Zürich&lt;/a&gt; since October 2016. His research proposal focuses on the integration of peculiar neuro- and other bio-signals together with machine learning in decision-making and learning automation of design processes. Pierre graduated in Architecture at E.N.S.A. Paris-Malaquais in 2007. He joined Gehry Technologies in Europe in 2008 as a Project Consultant and worked until 2012 on Europe and UAE projects, as the Qatar National Museum (Doha) or the Luma Foundation (Arles), while being involved with renowned design firms and general contractors such as Gehry Partners, Zaha Hadid Architects, Ateliers Jean Nouvel, Coop Himmelb(l)au, Oger International, Bouygues Construction and Hyundai Construction. Between 2010 and 2015, Pierre became adjunct-assistant professor for digital knowledge and practices, integrative design and production, human computation and algorithmics at the Digital Knowledge Dept. of Paris-Malaquais. In 2013, Pierre co-founded his first innovative company in neuroscience and computational design. His past professional experience and collaborations have been frequently published (SmartGeometry 2010, Ecaade 2013, Icgg 2014, Acadia 2014). Before joining ETH, and since 2014 he was a lecturer in innovations and computation for the building industry at CNPA Laboratory of EPF Lausanne.&lt;/p&gt;
+&lt;!--
+
+IAM Open Lecture #6  
+Pierre Cutellic „Machine Learning from Las Vegas“  
+18:30 Thursday 26 Jan 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/01/OL6_PierreCutellic.pdf
+Original post: https://iam.tugraz.at/2017/01/iam-open-lecture-6-pierre-cutellic-machine-learning-from-las-vegas/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

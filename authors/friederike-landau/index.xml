@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friederike Landau | studio any</title>
+    <link>https://example.com/authors/friederike-landau/</link>
+      <atom:link href="https://example.com/authors/friederike-landau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Friederike Landau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Friederike Landau</title>
+      <link>https://example.com/authors/friederike-landau/</link>
+    </image>
+    
+    <item>
+      <title>Aalto Laser Talks: Adaptation and Space</title>
+      <link>https://example.com/event/aalto-laser-talks-adaptation-and-space/</link>
+      <pubDate>Thu, 29 Apr 2021 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/aalto-laser-talks-adaptation-and-space/</guid>
+      <description>&lt;p&gt;Event organized by Laura Beloff, Pia Fricker, Ksenia Kaverina, Kirsi Peltonen, Nitin Sawhney and Koray Tahiroğlu.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

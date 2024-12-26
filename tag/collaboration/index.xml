@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collaboration | studio any</title>
+    <link>https://example.com/tag/collaboration/</link>
+      <atom:link href="https://example.com/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 21:54:44 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>collaboration</title>
+      <link>https://example.com/tag/collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Lumbung Radio</title>
+      <link>https://example.com/project/lumbung-radio/</link>
+      <pubDate>Fri, 08 Apr 2022 21:54:44 +0300</pubDate>
+      <guid>https://example.com/project/lumbung-radio/</guid>
+      <description>&lt;h2 id=&#34;lumbung-radio-description-at-d15d15d&#34;&gt;Lumbung radio description at d15&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; the result of the radio working group (consisting of the initial members &lt;strong&gt;Grégoire Rousseau&lt;/strong&gt;, &lt;strong&gt;Malene Saalmann&lt;/strong&gt;, &lt;strong&gt;Gözde Filinta&lt;/strong&gt;, &lt;strong&gt;Ayşe Güleç&lt;/strong&gt;, and &lt;strong&gt;Reza Afisina&lt;/strong&gt;) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen &lt;a href=&#34;https://documenta-fifteen.de/en/glossary/?entry=ekosistem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ekosistem&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; was launched in April 2022, broadcasting 24/7 during the 100 days of d15, from and to the whole planet. With the end of d15, the participants of the network, with the support of &lt;a href=&#34;https://ruangrupa.id/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ruangrupa&lt;/a&gt; voted to continue the project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is coordinated by &lt;em&gt;&lt;a href=&#34;https://stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;&lt;/em&gt;—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.&lt;/p&gt;
+&lt;p&gt;Since 2022 &lt;em&gt;Station of Commons&lt;/em&gt; is coordinating collective of lumbung radio, supported by the &lt;a href=&#34;https://koneensaatio.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KONE foundation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jGqzHTjExho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;h2 id=&#34;participating-networks&#34;&gt;Participating networks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rururadio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RURUradio&lt;/a&gt;, Jakarta, Indonesia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://thenifty.radio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Nifty Radio&lt;/a&gt;, Bogor, Indonesia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radiotropiezo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arts Collaboratory Radio&lt;/a&gt;, coordinated by Radio Tropiezo, Mexico-City, Mexico, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wazaradio.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre d’art Waza&lt;/a&gt;, Lubumbashi, Democratic Republic of the Congo, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.radioalhara.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio AlHara&lt;/a&gt;, Bethlehem, Palestine&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/le-18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LE 18&lt;/a&gt;, Marrakech, Marocco, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/amol-k-patil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amol K Patil&lt;/a&gt;, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/party-office-b2b-fadescha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Party Office b2b Fadescha&lt;/a&gt; , hosted by artist-curator Vidisha-Fadescha, New Delhi, India, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://obn.org/obn/faq/fs_faq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Old Boys Network (OBN)&lt;/a&gt; Archive, Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radio-rasclat.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Rasclat&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freies-radio-kassel.de/startseite.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freies Radio Kassel&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kollektiv-eigenklang.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kollektiv Eigenklang&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cashmereradio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cashmere Radio&lt;/a&gt;, Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedfrequencies.live/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shared Frequencies Radio&lt;/a&gt;, Austin, Texas, USA&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://force-inc.org/en/c/music/mille-plateaux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc. / mille plateaux , NON / ‘O’ /&lt;/a&gt;, Graz, Austria&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radioart.zone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Art Zone&lt;/a&gt;, Esch/Alzette, Luxembourg&lt;/li&gt;
+&lt;li&gt;ook_visitorZentrum, podcast, hosted by lumbung artist &lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/ook_/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ook_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consonni.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consonni&lt;/a&gt;, Bilbao, Spain&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fugitive-radio.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fugitive Radio&lt;/a&gt;, Helsinki, Finland and Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radionopal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Nopal&lt;/a&gt;, Mexico-City, Mexico&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radioensayo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Ensayo&lt;/a&gt;, Yucatan, Mexico&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.colaboratorykitchen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Cocina Colaboratorio&lt;/a&gt;, Mexico-City / Oaxaca / Chiapas, Mexico&lt;/li&gt;
+&lt;li&gt;Good Morning, I Love You, Nicosia, Cyprus  (Now &lt;em&gt;Affects &amp;amp; Dreams&lt;/em&gt;, Berlin)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;station-of-commons-team&#34;&gt;Station of Commons team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Grégoire Rousseau (LR coordination; d15 on-site team; d15 and post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Alain Ryckelynck (open infrastructure development, maintenance, and support)&lt;/li&gt;
+&lt;li&gt;Eddie Choo Wen Yi (d15 on-site team; LR coordination; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Juan Gomez (graphic design; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Essi Pellikka (LR publication coordinator 2023-2024; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Minerva Ruolahti (coordination and content production for SoC; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (initial coordination contributor 2021-2022; d15 &amp;amp; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Mathilde Palenius (producer since 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-radio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://documenta-fifteen.de/en/lumbung-radio/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cybersyn 1973/2023</title>
+      <link>https://example.com/project/cybersyn-1973-2023/</link>
+      <pubDate>Wed, 07 Jul 2021 12:55:44 +0300</pubDate>
+      <guid>https://example.com/project/cybersyn-1973-2023/</guid>
+      <description>&lt;p&gt;Project Cybersyn was an experiment in instituting a socialist networked economy embraced by the short-lived Salvador Allende government of Chile (1970 – 1973) and developed together with the British cybernetician Stafford Beer. For the past decade, Project Cybersyn has been a recurrent reference – a best practice from the past – in discussions around the repurposing of hegemonic technological infrastructures and their redirection towards more equitable economic and social practices. The iconic image of Project Cybersyn’s control room – with its sci-fi appearance – represents a technical and aesthetic object that alludes to negotiation, democratic decision making, and stability. The allure of this image is the starting point for the video which proposes that desires for post-scarcity and postcapitalist economics must grapple with the shifts in the political, economic, and technological conditions of possibility that have transpired since Project Cybersyn. To this end the control room image itself becomes a platform for alien mutations, philosophical speculations, and social commitments. What would it take to reimagine the artefactual Cybersyn for our hyper-financialized day and age? For this work, curator and researcher Bassam El Baroni and transdisciplinary architect Constantinos Miltiadis collaborated with multidisciplinary artist and animator Georgios Cherouvim, and composer and sound artist Gerriet K. Sharma to bring this question to life.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/573055092&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;figcaption&gt;Project trailer.&lt;/figcaption&gt;
+&lt;hr&gt;
+&lt;p&gt;Premiered on July 7 2021 at &lt;a href=&#34;https://www.edith-russ-haus.de/en/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edit Russ Haus&lt;/a&gt;, Oldenbourg, part of the exhibition “Infrahauntologies” curated by Bassam El Baroni.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.e-flux.com/announcements/398039/infrahauntologies/405676&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Infrahauntologies on e-flux&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Concept, Research, Screenplay&lt;/strong&gt;: Bassam El Baroni and Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Animation Director&lt;/strong&gt;: Georgios Cherouvim;&lt;br&gt;
+&lt;strong&gt;Music and Sound Spatialisation&lt;/strong&gt;: Gerriet K. Sharma.&lt;br&gt;
+&lt;strong&gt;Modelling&lt;/strong&gt;: Katerina Lakovaki;&lt;br&gt;
+&lt;strong&gt;Illustration&lt;/strong&gt;: Ino Zavvou and Andreas Kelemen.&lt;br&gt;
+&lt;strong&gt;Render Support&lt;/strong&gt;: Dimitris Liatsos.&lt;br&gt;
+&lt;strong&gt;Special thanks&lt;/strong&gt;: Agelos Christopoulos, Omer Shapira, Liz Ran Yang.&lt;br&gt;
+&lt;strong&gt;Voice actors&lt;/strong&gt;: Bassam El Baroni, Andreas Kelemen, Constantinos Miltiadis, and Edel O’Reilly.&lt;/p&gt;
+&lt;p&gt;The screenplay is composed of original writing, inspirations, and reconfigured fragments from essays and historical research by a host of philosophers, theorists, and historians: David Chandler, Bob Hughes, Anna Longo, Suhail Malik, Eden Medina, Andrew Pickering, Matthew Poole, Nick Srnicek and Alex Williams.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exhibitions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Peer reviewed participation in the screening section of &lt;a href=&#34;https://isea2022.isea-international.org/event/screening-cybersyn-1973-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISEA 2022: Possibles&lt;/a&gt; – The 27th International Symposium on Electronic Art. Barcelona June 10-16 2022.&lt;/li&gt;
+&lt;li&gt;“&lt;a href=&#34;https://www.ensa-bourges.fr/index.php/en/2-infos/7620-infrahauntologies-part-i&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Infrahauntologies” (Part 1),  galerie La Box; Ecole nationale supérieure d’art de Bourges&lt;/a&gt;, October 21 – November 20 2021.&lt;/li&gt;
+&lt;li&gt;“&lt;a href=&#34;https://www.edith-russ-haus.de/no_cache/en/exhibitions/exhibitions/archive.html?tx_kdvzerhapplications_pi4%5Bexhibition%5D=271&amp;amp;tx_kdvzerhapplications_pi4%5Baction%5D=show&amp;amp;tx_kdvzerhapplications_pi4%5Bcontroller%5D=Exhibition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Infrahauntologies” Edith Russ Haus&lt;/a&gt;, Oldenburg, July 8 – October 3 2021.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_05-1200x675-.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_05-1200x675-_hu1bd51c042451564765bb4eab87c2745d_128464_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_05-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_06-1200x675-.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_06-1200x675-_hufad5dcc47b9d6bdb3965cf9618ac5605_169170_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_06-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_07-1200x675-.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_07-1200x675-_hu49b954eb52491f96d3541e073b17cb12_74153_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_07-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_01.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_01_hu43af7945808543548cea075bdff93343_297052_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_01.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_02.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_02_hu803932f76ed2f8fb0ba11c76eb9cfd84_462936_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_02.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_03.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_03_huda7e2008a021e5fec7cbd3c9cc6d6608_266662_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_03.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_04.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_04_huaa3b548b592e1451c9162906d538578c_271875_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_04.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>WADS ↑ ← → ↓</title>
+      <link>https://example.com/project/wads/</link>
+      <pubDate>Sun, 06 Sep 2020 12:56:56 +0300</pubDate>
+      <guid>https://example.com/project/wads/</guid>
+      <description>&lt;p&gt;Co-curation of virtual exhibition at Ars Electronica Festival 2020 &lt;em&gt;In Kepler&amp;rsquo;s Gardens&lt;/em&gt; (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs.&lt;/p&gt;
+&lt;h2 id=&#34;exhibition-text&#34;&gt;Exhibition text&lt;/h2&gt;
+&lt;p&gt;WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.&lt;/p&gt;
+&lt;p&gt;In this spirit and following its own mission, RISE invites local artists to pollinate the digital by employing a technique derived from gardening: namely, grafting. WADS, a digital garden of commoning formed by 21 local artists, sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. The digital exhibition is created and experienced in the online environment of Mozilla Hubs and will be accessible through the Ars Electronica Digital Platform.&lt;/p&gt;
+&lt;h2 id=&#34;project-presentation&#34;&gt;Project presentation&lt;/h2&gt;
+&lt;p&gt;WADS was exhibited at the Thinker Maker Space in Nicosia, on October 15-16, 2020.&lt;/p&gt;
+&lt;h2 id=&#34;exhibition-credits&#34;&gt;Exhibition credits&lt;/h2&gt;
+&lt;h3 id=&#34;participating-artists&#34;&gt;Participating Artists&lt;/h3&gt;
+&lt;p&gt;Raissa Angeli, Maria Andreou, Marina Ashioti, Pandelis Diamantides, Anastasia Dolitsay, Peter Eramian, Ibrahim Latif Ince, Stelios Ilchouk, Marina Kassianidou, Irini Khenkin, Angeliki Koutsodimitropoulou, Marinos Koutsomichalis, Marietta Mavrokordatou, Panagiotis Mina, Faysal Mroueh, Lina Protopapa, Doros Polydorou, Despina Rangou, Kleanthis Rousos, Elena Savvidou, Nico Stephou&lt;/p&gt;
+&lt;h3 id=&#34;graphic-design&#34;&gt;Graphic design&lt;/h3&gt;
+&lt;p&gt;Nico Stephou&lt;/p&gt;
+&lt;h3 id=&#34;curatorial-team&#34;&gt;Curatorial team&lt;/h3&gt;
+&lt;p&gt;Demetris Shammas, Constantinos Miltiadis, Emiddio Vasquez, Myrto Aristidou&lt;/p&gt;
+&lt;p&gt;With the support of &lt;a href=&#34;https://www.cyens.org.cy/en-gb/media/news/ars-electronica-garden-nicosia-by-rise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RISE CY (now CYENS)&lt;/a&gt; and the &lt;a href=&#34;https://www.bmeia.gv.at/en/austrian-embassy-nicosia/news/events/detail/article/ars-electronica-2020-in-keplers-gardens-cyprus-wads-garden-digital-exhibition-by-itica-rise-cy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Austrian Embassy in Nicosia, Cyprus&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--06.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--07.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Station of Commons</title>
+      <link>https://example.com/project/station-of-commons/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/station-of-commons/</guid>
+      <description>&lt;p&gt;Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
+SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.&lt;/p&gt;
+&lt;p&gt;Among the flagship initiatives of SoC is the interlocal online radio &lt;a href=&#34;https://lumbungradio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lumbung radio&lt;/a&gt;, first established with ruangrupa for documeneta fifteen in 2022.
+The radio comprises more than 20 radio and audio practice collective from around the world, and is broadcasting since April 2022 on open infrastructure developed by SoC. Since the end of documenta, SoC is the coordinating collective of lumbung radio, supported by the Kone Foundation.&lt;/p&gt;
+&lt;!--
+## Selected projects by SoC
+- [Miss Read Berlin Art Book Fair](../../event/miss-read). Invited participation as lumbung radio, and co-organization of the pre-fair week programme. HKW, Berlin, 17-24.09.2023. 
+- [Digital Commoning Practices](../../event/digital-commoning-practices) - exhibition including discourse, performance, and workshop sections at Oksasenkatu 11, Helsinki, March 2021. 
+- In mid-2021 Station of Commons in collaboration with [rugangrupa](https://ruangrupa.id/en/) initiated the multi-collective interlocal [lumbung radio](../lumbung-radio). The online radio is based on open infrastructure developed by SoC, and was launched in April 2022, broadcasting content from participating radio collectives from across the world. Following Documenta, the project&#39;s contributing collectives and networks elected to continue with the project. Station of Commons serves as coordinator of the project supported by the Kone foundation. 
+- [FORUM PIXELACHE x LUMBUNG RADIO](https://www.pixelache.ac/posts/forum-pixelache-x-lumbung-radio). Event co-production with Pixelache. MUU, Cable Factory, Helsinki, 2-3.09.2023.
+
+## SoC history
+
+Station of Commons was originally founded in 2020 by Gregoire Rousseau and Juan Gomez. 
+Alain Ryckelynck develops and maintains the open infrastructure by Station of Commons. 
+Performance artist Minerva Juolahti and researcher Constantinos Miltiadis joined later to assist with coordination and production. 
+Visual artists Eddie Choo Wen Yi joined during Documenta fifteen in 2022 and serves as lumbung radio coordinator, and Essi Pellikka joined in 2023 as coordinator for the lumbung radio publication.  
+
+--&gt;
+&lt;h1 id=&#34;station-of-commons&#34;&gt;Station of Commons&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Description from &lt;a href=&#34;https://site.stationofcommons.org/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StationOfCommons.org&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!--
+[^about]
+[^about]: https://site.stationofcommons.org/about
+--&gt;
+&lt;p&gt;An ongoing collaborative initiative on &lt;strong&gt;digital commoning practices&lt;/strong&gt; by Grégoire Rousseau (Helsinki), Juan Gomez (Geneva), Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, and Eddie Choo Wen Yi.&lt;/p&gt;
+&lt;p&gt;Initiated in February 2020, Station of Commons investigates &lt;strong&gt;the possibilities of re-appropriating technology within public space&lt;/strong&gt;. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?&lt;/p&gt;
+&lt;p&gt;Station of Commons stands for radical alternative strategies to the neo-liberal system in terms of digital means of production, communication and distribution. Station of Commons operates as an easily integrable &lt;strong&gt;on-line platform&lt;/strong&gt; for sharing local resources. Resources as commons integrate the ideas of shared data, &lt;strong&gt;Open Source&lt;/strong&gt; practices, artefacts and real time broadcast. The sustainability of exchange, the ways they interoperate, the ecologies of interaction between the Stations of Commons produce provocations for a better collective understanding on how the Commons are in constant flux and also at risk.&lt;/p&gt;
+&lt;p&gt;Each Station depends on its own means of production, way of thinking, learning and sharing. This position of autonomy reflects on the original concept of Internet: the equality in the relation client to server and the openness of the algorithmic process. The Station of Commons operates as a vibrant thinking space dedicated for tutorials, live performances and critical discussions around the practice of commoning and open technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>◯  (2019)</title>
+      <link>https://example.com/project/o-graz/</link>
+      <pubDate>Sat, 04 May 2019 11:30:12 +0300</pubDate>
+      <guid>https://example.com/project/o-graz/</guid>
+      <description>&lt;p&gt;◯ was an experimental event series and collective based in Graz, active from 2019 to 2022. Founded in early 2019 by a group of eight individuals associated with the computer music program at the Institute of Electronic Music, University of Music and Performing Arts Graz, the collective aimed to curate and produce experimental post-genre events that blended contemporary bass and dance music with experimental electronics, live arts, and discourse.&lt;/p&gt;
+&lt;p&gt;◯ was launched on May 5, 2019, at Forum Stadtpark. Following that and throughout 2019, the collective was highly active, organizing its own events while also participating in a variety of festivals and events. However, as the pandemic took hold in 2020 and several members relocated from Graz, sustaining the series became increasingly challenging.
+Eventually, ◯  held its closing event at Forum Stadtpark on November 25, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;h2 id=&#34;founding-members&#34;&gt;Founding members&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lain Iwakura / Bill B. Wintermute&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis&lt;/li&gt;
+&lt;li&gt;Korin Rizzo&lt;/li&gt;
+&lt;li&gt;Nico Mohammadi / &lt;a href=&#34;https://www.instagram.com/dj_durbin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Durbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Peter Stiegler / Echnatron&lt;/li&gt;
+&lt;li&gt;John-Robin Bold&lt;/li&gt;
+&lt;li&gt;Florian Fend / Klaus Masuda&lt;/li&gt;
+&lt;li&gt;Gianluca Iadema&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As the only non-performing-arist of the group my main contribution involved production and co-curation as well as visual design.&lt;/p&gt;
+&lt;h2 id=&#34;invited-guests&#34;&gt;Invited guests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jungantagen.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jung An Tagen&lt;/a&gt; (AT)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bienoise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bienoise&lt;/a&gt; (IT)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ra.co/dj/sunpeople&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sun People&lt;/a&gt; (AT)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ibi-alfa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ibrahim Alfa Jnr&lt;/a&gt; (UK)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emiddiovasquez.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emiddio Vasquez / Joralsky&lt;/a&gt; (CY/US)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isabella.klingt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Isabella Forciniti&lt;/a&gt; (IT/AT)&lt;/li&gt;
+&lt;li&gt;Teonas Borsetto (IT/AT)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators--contributors&#34;&gt;Collaborators &amp;amp; contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simon Hafner: sound engineer at Forum Stadtpark events&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nataliefend.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Natalie Fend&lt;/a&gt;: Dance performance for #2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.katharinawraubek.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katharina Wraubek&lt;/a&gt;: Set design for #2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.greynote.art/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grey note&lt;/a&gt; (collective): co-producer of #2&lt;/li&gt;
+&lt;li&gt;Ypatios Gregoriadis: Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Lain Iwakura and Korin Rizzo: sound engineering. --&gt;
+&lt;h2 id=&#34;collaborating-events-venues-festivals&#34;&gt;Collaborating events, venues, festivals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Forum Stadtpark&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elevate.at/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elevate Festival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://subsubsub.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUb&lt;/a&gt; (live, DJ sets, discourse)&lt;/li&gt;
+&lt;li&gt;Triple Hüttler (event series)&lt;/li&gt;
+&lt;li&gt;Rostfest 2019&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kulturverein-oag.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAG Kulturverein&lt;/a&gt; (&amp;lsquo;beach party&amp;rsquo; 2019)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+- Fridays for the Future (demonstrations: Lain Iwakura; DJ Durbin)
+
+# History &amp; list of events 
+In early 2019 ◯  approached [Forum Stadtpark](https://forumstadtpark.at/en) to propose a series of experimental events. The first even took place on 04.05.2019 at Forum Stadtpark with guests [Jung An Tagen](https://jungantagen.xyz/) (AT) and [Bienoise](www.bienoise.com) (IT).
+Following the launch event ◯  was invited to participate, co-curate, or provide showcase pereformances at multiple other events and festivals including:  
+- Fridays for the Future (demonstrations: Lain Iwakura; DJ Durbin)
+- Triple Hüttler (event series)
+- Rostfest 2019 Festival (showcase: Lain Iwakura; DJ Durbin; Klaus Masuda)
+- [Elevate Festival](https://elevate.at/en/)
+- [SUb](https://subsubsub.at/) (live, DJ sets, discourse)
+- [OAG Kulturverein](https://www.kulturverein-oag.org/) (&#39;beach party&#39; 2019) 
+
+◯  was terminated in late 2022, with a closing event taking place on 21.11.2022 with guests [Sun People](https://campsite.bio/sunpeople) and Ibrahim Alfa Jnr. 
+--&gt;
+&lt;h1 id=&#34;selected-events&#34;&gt;Selected events&lt;/h1&gt;
+&lt;h2 id=&#34;--inaugural-event-at-forum-stadtpark-04052019&#34;&gt;◯  inaugural event at Forum Stadtpark 04.05.2019&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/278099826240252/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;18:00 WORKSHOP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of no-input-mixing by &lt;a href=&#34;https://www.facebook.com/wntrmt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bill B. Wintermute&lt;/a&gt; ◯/ &lt;a href=&#34;https://www.facebook.com/forceincmusicworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc.&lt;/a&gt;/ mille plateaux/ &lt;a href=&#34;https://www.facebook.com/SacredConspiracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acéphale&lt;/a&gt;&lt;br&gt;
+no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;22:00 CONCERT&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Echnatron ◯&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/jungantagen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jung An Tagen&lt;/a&gt; (&lt;a href=&#34;https://www.facebook.com/editionsmego&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Editions Mego&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;John-Robin Bold ◯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;24:00 CLUB&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/iademamusic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gianluca Iadema&lt;/a&gt; -live A/V- ◯ / mille plateaux/ Force inc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bienoise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bienoise&lt;/a&gt; -live- Floating Forest / mille plateaux/ Force inc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/durbindj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Durbin&lt;/a&gt; ◯ / Row Records&lt;/li&gt;
+&lt;li&gt;Klaus Masuda ◯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-performance-concert-club-at-subhttpssubsubsubat-31052019&#34;&gt;Lecture, performance, concert, club at &lt;a href=&#34;https://subsubsub.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUb&lt;/a&gt; 31.05.2019&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/321481301875265/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lecture &amp;amp; performance&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emiddio Vasquez &amp;ldquo;Materialist synthesis&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Live concert&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teonas Borsetto, live electronics (dynamic feedback system).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isabella.klingt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Isabella Forciniti&lt;/a&gt;, live electronics (modular feedback improv)&lt;/li&gt;
+&lt;li&gt;Joined live improvisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DJ sets&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John-Robin Bold&lt;/li&gt;
+&lt;li&gt;Bill B. Wintermute&lt;/li&gt;
+&lt;li&gt;Joralsky&lt;/li&gt;
+&lt;li&gt;DJ Durbin&lt;/li&gt;
+&lt;li&gt;Klaus Masuda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grey-note-x---at-forum-stadtpark-07062019&#34;&gt;Grey Note x ◯  at Forum Stadtpark 07.06.2019&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/906533703010884/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB Event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Event produced by &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.facebook.com/thisisograz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;◯ &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Design &amp;amp; animation: studio any (animation) and &lt;a href=&#34;https://www.facebook.com/allloneofficial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alllone&lt;/a&gt; (sound design)&lt;/p&gt;
+&lt;p&gt;GreyNote guests&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/ileflottantebeats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILe Flottante&lt;/a&gt; [UK]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/dervinylizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Vinylizer&lt;/a&gt; [DE],&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://deafblindmedia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deafblind&lt;/a&gt; (live visuals)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Event introduction by ◯&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dance performance by Natalie Fend&lt;/li&gt;
+&lt;li&gt;Ezili-i Sabbah (live); set design by Katharina Wraubek&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music program&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/ileflottantebeats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILe Flottante&lt;/a&gt; Live Beat Set [UK]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/dervinylizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Vinylizer&lt;/a&gt; aka Marcus Maack II &lt;a href=&#34;https://www.facebook.com/wobwobdubstep&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WobWob&lt;/a&gt;! / &lt;a href=&#34;https://www.facebook.com/bttbradio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BTTB - Back To The Basics&lt;/a&gt; - &lt;a href=&#34;https://www.facebook.com/bytefm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ByteFM&lt;/a&gt; [DE]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/allloneofficial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alllone&lt;/a&gt; II &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/noisecollage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noise Collage&lt;/a&gt; &lt;a href=&#34;https://soundcloud.com/alllone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/alllone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/OmeBeats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OME Dubs&lt;/a&gt; II &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt;  &lt;a href=&#34;https://soundcloud.com/ome_dubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/ome_dubs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dotworks II &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/basstrace?__cft__[0]=AZWvEmCYCy1Q4JhllbkJhgz6xsJFsX30V6lx-MJFQDPVgSkzs4HRWalkb2n8-OlG5j_BUWOLYAU17PdQ8E9kNFGIk-76-tkDYuyzjvoiJpEbbSrX-L7U-3ov5bYrQ-oA6I4&amp;amp;__tn__=q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basstrace&lt;/a&gt;  &lt;a href=&#34;https://soundcloud.com/dotworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/dotworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/wntrmt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bill B. Wintermute&lt;/a&gt; (live) II ◯ / &lt;a href=&#34;https://www.facebook.com/forceincmusicworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc.&lt;/a&gt; / &lt;a href=&#34;https://www.facebook.com/SacredConspiracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acéphale&lt;/a&gt; / Mille Plateaux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/durbindj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Durbin&lt;/a&gt; II ◯ / &lt;a href=&#34;https://www.facebook.com/rowrec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Row Records&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://soundcloud.com/djdurbin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/djdurbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/EziliiSabbah&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ezili-i Sabbah&lt;/a&gt; II ◯ / &lt;a href=&#34;https://www.facebook.com/forceincmusicworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc.&lt;/a&gt; / &lt;a href=&#34;https://www.facebook.com/SacredConspiracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acéphale&lt;/a&gt; / Mille Plateaux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+## SPRING BRK 2019 - SUb 19-22.06.2019 [FB](https://www.facebook.com/events/367747014091879/)
+--&gt;
+&lt;!-- 
+## Post-2019 events 
+
+#### ◯ presents Book, Film, Concert &amp; Club - Forum Stadtpark 02.02.2020 [FB](https://www.facebook.com/events/453329305336465/?ref=newsfeed)
+- 8pm Book &amp; Compilation presentation: mille plateaux’s „Ultrablackness of Music“  
+- 9pm Movie &amp; Talk: demystification committee’s short film &#34;[Interface Chaos](https://interfacechaos.com/)&#34;  
+- 10.30pm Album Release Concert &amp; Reading: John-Robin Bold &amp; Harald Nicolas Stazol  
+- 23.30pm Club. [Klaus Masuda](https://soundcloud.com/klausmasuda), [DJ Durbin](https://soundcloud.com/djdurbin), [DJ Auto](https://soundcloud.com/aseulenspiegel)
+
+
+#### ◯  x Elevate Festival 2021 - Parkhaus 06.08.2021 [FB](https://www.facebook.com/events/615706472734537/)
+- EMA  
+- DJ Durbin  
+- Klaus Masuda  
+- Bill B. Wintermute
+
+--&gt;
+&lt;h2 id=&#34;-closing-event-at-forum-stadtpark-25112022&#34;&gt;◯ closing event at Forum Stadtpark 25.11.2022&lt;/h2&gt;
+&lt;p&gt;Organized by Lain Iwakura&lt;br&gt;
+&lt;a href=&#34;https://www.facebook.com/events/847371356306348/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Program&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Peter Stiegler (Live-Set)  &lt;a href=&#34;https://soundcloud.com/peterstiegler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/peterstiegler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;John-Robin Bold (Live-Set) &lt;a href=&#34;http://johnrobinbold.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://johnrobinbold.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DJ Durbin  &lt;a href=&#34;https://soundcloud.com/djdurbin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/djdurbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lain Iwakura (Live-Set) &lt;a href=&#34;https://derayling.copyriot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://derayling.copyriot.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sun People &lt;a href=&#34;https://soundcloud.com/simon-off&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/simon-off&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ibrahim Alfa Jnr (Live- &amp;amp; DJ-Set) &lt;a href=&#34;https://soundcloud.com/ibi-alfa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/ibi-alfa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>reset.discover</title>
+      <link>https://example.com/project/reset-discover/</link>
+      <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
+      <guid>https://example.com/project/reset-discover/</guid>
+      <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
+The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.
+These are correlated to physical-visual objects in the spatial simulation of the 3D virtual environment, sequenced to follow the behavior of their sonic doubles.
+Participants &lt;em&gt;enter&lt;/em&gt; the piece using a VR headset which allows to experience the piece interactively by exploring different perspectives into its spatial-visual (interactive stereoscopic VR) and spatial-aural (interactive binaural audio) dimensions.&lt;/p&gt;
+&lt;p&gt;The piece is discussed further in the thesis of Antonia Manhartsberger titled “&lt;em&gt;Das soziopolitische Potential von Raummusik im Angesicht zeitgenössischer Gestaltungsmöglichkeiten&lt;/em&gt;”,  presented at IEM in June 2018.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/298533739&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;First presented at the CUBE Concert, Institute of Electronic Music (IEM), University of Music and Performing Arts Graz. January 31 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elevate.at/websites/2019/en/arts/programme/e19resetdiscover/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exhibited at the Orpheum Extra, part of the Arts Programme, at Elevate 2019 festival&lt;/a&gt;. March 2 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antonia Manhartsberger: Concept and spatial audio composition&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis: Concept and virtual environment programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne&#39;s Diary</title>
+      <link>https://example.com/project/daphnes-diary/</link>
+      <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
+      <guid>https://example.com/project/daphnes-diary/</guid>
+      <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
+&lt;!--
+Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
+--&gt;
+&lt;p&gt;On February 2018, the Cyberparks COST Action awarded the project a &lt;a href=&#34;https://www.cyi.ac.cy/index.php/cyi-news/cyberparks-cost-action-awards-grants-to-starc-trainees-for-short-term-scientific-missions-on-mediated-landscapes-in-nicosia.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short-term scientific mission (STSM) grant&lt;/a&gt;, for further development of the project with local cultural institutions in both sides of Nicosia, in collaboration with the Cyprus Institute. The STSM was conducted between March 22 and April 4, 2018.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;h3 id=&#34;team-members&#34;&gt;Team members&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis, Institute of Architecture and Media, TU Graz&lt;/li&gt;
+&lt;li&gt;Paul Schmidt, Media &amp;amp; Culture, Utrecht University&lt;/li&gt;
+&lt;li&gt;Aurimas Žemaitaitis, Kaunas University of Applied Sciences&lt;/li&gt;
+&lt;li&gt;Tamás Tóth, Széchenyi István University, Győr&lt;/li&gt;
+&lt;li&gt;Simonas Skarzauskas, Mykolas Romeris University, Vilnius&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Text, story &amp;amp; documentation&lt;/strong&gt;: Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Voice acting &amp;amp; audio recordings&lt;/strong&gt;: Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Website design&lt;/strong&gt;: Tamás Tóth&lt;br&gt;
+&lt;strong&gt;Videos &amp;amp; editing&lt;/strong&gt;: Aurimas Žemaitaitis &amp;amp; Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Location scouting&lt;/strong&gt;: Aurimas Žemaitaitis, Paul Schmidt &amp;amp; Simonas Skarzauskas&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The team would like to thank George Artopoulos of The Cyprus Institute for organising the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sonic Rug Hackathon - Vienna Design Week 2017</title>
+      <link>https://example.com/event/sonic-rug/</link>
+      <pubDate>Wed, 04 Oct 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/sonic-rug/</guid>
+      <description>&lt;p&gt;Invited single-day hackathon project with Antonia Manhatsberger, for the production of an interactive audiovisual installation for the &lt;em&gt;Sonic Rug&lt;/em&gt;, developed by Selina Reiterer and Oliver Maklott.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch. [&amp;hellip;] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media.&amp;rdquo;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/241005285&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;Antonia Manhartsberger: sound programming&lt;br&gt;
+Constantinos Miltiadis: visuals  programming&lt;br&gt;
+Hosted by Oliver Maklott, Matthias Gassner, Selina Reiterer&lt;br&gt;
+Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://sonicrug.com/no01-hackathon-vienna-design-week/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sonicrug.com/no01-hackathon-vienna-design-week/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tabletalks on Architecture (2016-2017)</title>
+      <link>https://example.com/project/16-tabletalks/</link>
+      <pubDate>Fri, 05 Aug 2016 15:33:29 +0300</pubDate>
+      <guid>https://example.com/project/16-tabletalks/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tabletalks on Architecture&lt;/em&gt;&lt;/strong&gt; was a lecture series produced by a group of university assistants at the Faculty of Architecture, TU Graz between 2016 and 2017.
+The initiative was conceived as as means to foster current research and as a casual event outside of formal university structures where academics, students, and practicing architects can converge, engage, exchange, and discuss matters related to architecture and architectural research.&lt;/p&gt;
+&lt;p&gt;Founding members of the initiative include Constantinos Miltiadis, Diederik de Koning, Marcello Fantuz, Sophia Walk, and Christoph Braser.&lt;br&gt;
+Graphic design by Lilly Hafner.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tabletalks on Architecture&lt;/em&gt; ran between 2016 and 2017 with four sessions listed below.
+All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cafe Kork&lt;/a&gt; and were free and open to the public.&lt;/p&gt;
+&lt;h1 id=&#34;tabletalks-archive&#34;&gt;Tabletalks archive&lt;/h1&gt;
+&lt;h2 id=&#34;ttoa-1-diederik-de-koning----agricultural-architecture--land-management&#34;&gt;TToA 1: Diederik de Koning &amp;ndash; Agricultural Architecture &amp;amp; Land Management&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_1_deKoning.pdf&#34;&gt;TToA 1 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tuesday, 06.12.2016, 18:00&lt;/li&gt;
+&lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This tabletalk will focus on the role of architect-educators in the design of agricultural buildings and land settlement for the post-war European countryside. The research aims at building up the required body of knowledge for establishing an international discourse on agricultural design as part of the architectural discipline.&lt;/p&gt;
+&lt;p&gt;Diederik de Koning graduated cum laude in architecture from Delft University of Technology, and also holds a master’s degree in Environmental and Infrastructure Planning from the University of Groningen. Since the spring of 2013 he has taught a variety of courses at The Berlage Center for Advanced Studies in Architecture and Urban Design in Delft. He now works for the Institute of Architecture and Landscape at Graz University of Technology. He is currently working on his PhD research at the Borders &amp;amp; Territories research group at TU Delft, which deals with agricultural buildings in the post-war European countryside. Results of the research have been presented at conferences in Warsaw and Venice in 2016. In parallel, he runs an independent architecture practice together with Laura van Santen under the name la-di-da (&lt;a href=&#34;http://www.la-di-da.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.la-di-da.nl/&lt;/a&gt;) which was recently included as one of the 33 invited young Dutch and Flemish offices to present their work as part of the 2016 “MAATWERK/MASSARBEIT” exhibition at the Deutsches Architekturmuseum, Frankfurt.&lt;/p&gt;
+&lt;h2 id=&#34;ttoa-2----petra-eckhard-the-anti-canon-of-architectural-modernism&#34;&gt;TToA 2 &amp;ndash; Petra Eckhard: The Anti-canon of Architectural Modernism&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_2_eckhard.pdf&#34;&gt;TToA 2 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tuesday, 10.01.2017, 18:00&lt;/li&gt;
+&lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In her talk Petra Eckhard will explore architectural structures located in the Western hemisphere which emerged during the second half of the 20th century as an anti-canon of modernist architecture. As manifestations of personal desires and individual creativity, the works analysed have been realised without the burden of economic, functional, temporal or aesthetic restrictions&amp;ndash;aspects which usually accompany architectural practice. In their important function as foils, the anti-canonic works discussed unfold a special relationship to modernist forms, which paradoxically does both counteract and mirror the “greatness” and hubris associated with the modernist canon.&lt;/p&gt;
+&lt;p&gt;Petra Eckhard is a literary and cultural studies scholar at the Institute of Architectural Theory, Art History and Cultural Studies at Graz University of Technology. She studied English and American Studies in New York, Bern and Graz, where she also received her doctorate in 2010. Her fields of interdisciplinary research involve practices of architectural writing, postmodernist works of literature and architecture as well as their cultural implications. She is the author of “Chronotopes of the Uncanny” (2011) and co-editor of Graz Architecture Magazine (GAM). Currently, she is working on her second book which explores the anti-canon of modernist architecture.&lt;/p&gt;
+&lt;h2 id=&#34;ttoa-3-mars-miltiadis-sekulić----metadata-punks&#34;&gt;TToA 3: Mars, Miltiadis, Sekulić &amp;ndash; Metadata Punks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf&#34;&gt;TToA 3 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tuesday, 21.03.2017, 18:00&lt;/li&gt;
+&lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See &lt;a href=&#34;../../event/metadata-punks&#34;&gt;Metadata Punks&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ttoa-4-christoph-walter-pirker----visual-ontologies-of-the-indefinite&#34;&gt;TToA 4: Christoph Walter Pirker &amp;ndash; Visual Ontologies of the Indefinite&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_4_pirker.pdf&#34;&gt;TToA 4 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tuesday, 13.06.2017, 18:00&lt;/li&gt;
+&lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the epoch of the Anthropocene, human and non-human agencies are entangled in an extensive fabric, which determines the condition of our world. Such fabric is not balanced in a static equilibrium, but conceived as a flowing and intensive coexistence of currents and conditions, which define the expressions of our environment. The Anthropocene not only gains its geological importance by having inscribed the human’s impact in the geological strata of the planet, but similarly by formulating the conception of geological strata as artificial and virtual layers containing a productive, yet unknown potential.&lt;/p&gt;
+&lt;p&gt;The dynamic of the anthropocenic fabric brings about a new approach to ontogenesis, which no longer occurs by means of substantialist or hylomorphic principles, but through the process of becoming in the intra-action between the natural and the cultural, the conscious and the unconscious, the visible and the invisible. Matter is conceived as a living entity, which intra-acts with the human in complex networks, thereby abolishing traditional hierarchies and dichotomies imposed by the hegemonic system. To investigate such complexity by focusing on the construction of space is the aim of this research, while concurrently rendering visible the overall construction of the anthropocenic fabric.&lt;/p&gt;
+&lt;p&gt;Paul Virilio dates the origin of a global overformation with the development of the war landscape. It shows the anthropocenic fabric in its global dimensions, constructing an artificial climate and an ecology wherein the real and the virtual move and continuously flow together. Thereby, the construction of the bunker is seen as the mirror image of such war landscape, no longer being object or artefact, but an integral part or knot within the artificial fabric. Its geological investigation allows to consider the rhythm of the Anthropocene in its totality and to establish its rhythmic material as a tool for future inquiry and research.
+In referring to the notion of duration, “Visual ontologies of the indefinite” outlines an intra-acting method, which stands in a geological present and understands the geological relict as an atmospheric particle of our immediate environment. Developing practices of embodiment and intuition, the field of warfare is thus not conceived as a mere historic seclusion, but as vibrating object of investigation for our planetary entanglement, encompassing politics, ideology, space, media, visuality, and art to a cohesive body of action.&lt;/p&gt;
+&lt;p&gt;Christoph Walter Pirker (1989) is Assistant professor at the Institute for Architecture and Landscape at the Graz University of Technology. Furthermore, he is trained as an architect, musician, and visual artist. His transdisciplinary interest is based on studies at the University of Music and Performing Arts, Graz, the TU Graz and the Royal Danish Academy of Fine Arts in Copenhagen, Denmark. Highly engaged in practices of performative research, he is currently working on his PhD project (supervised by Milica Tomić) entitled “Visual ontologies of the indefinite &amp;ndash;Investigating spatial relationships of the human, the non-human, and the unknown”. The doctoral thesis is a continuation of the 2015 master thesis, which was awarded the Graz Architecture Diploma Award in October 2016. His work is at studiobirkenblau.com&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shifting perspectives</title>
+      <link>https://example.com/project/shifting-perspectives/</link>
+      <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
+      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
+&lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
+The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.
+The movement of the structure is controlled by stepper motors that pull the structure from 2 external points.
+The three custom software developed for the installation were: a Processing-Java program for real-time sound analysis (FFT); an Arduino-based software for controlling the stepper motors; and a Unity program for projection mapping, all synchronized with each other via OSC.
+Using real-time sound analysis the installation projected audio-responsive graphics mapped on the continuous movements of the grid structure.&lt;/p&gt;
+&lt;!--
+Three custom pieces of software were developed for the installation. 
+A Unity application for projection mapping; a Java software for live sound analysis (FFT); and a custom Arduino-based hardware  for controlling the movement of the structure. 
+The two were synchronized with OSC messages. 
+The first allowed projecting video and graphics on the structure.
+
+Combined with the real-time synchronization with the movement of the structure, it could project portions of the video that would follow each of the panels. Furthermore, the application could perform real-time sound analysis, and produce interactive graphics based on audio spectrum data of the music played at the event.
+
+The installation was developed with PUNCH collective, an interdisciplinary synergy between upcoming researchers, based in Zurich and Delft. It was exhibited at the 7 Sins event, November 2014 in Delft.
+--&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/116073674&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; was developed in Zurich, fabricated and assembled in Delft for the event 7 Sins, in November 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vector Raster Bleep</title>
+      <link>https://example.com/project/vector-raster-bleep/</link>
+      <pubDate>Fri, 07 Mar 2014 17:15:18 +0300</pubDate>
+      <guid>https://example.com/project/vector-raster-bleep/</guid>
+      <description>&lt;p&gt;&lt;em&gt;VectorRasterBleep&lt;/em&gt; is an interactive installation developed as a playful interpretation of a baroque garden to the digital-virtual domain.
+The garden is conceived as the Queen&amp;rsquo;s antidote to boredom, a playground open to stimuli for subverting the normality of everyday life, and a gateway to the fantastic and phantasmic.
+Wearing an electronic suit, the Queen escapes to the garden to explore its wonders.
+Its physical dimension is a space &amp;ndash;any generic space&amp;ndash; tracked by infrared sensors and populated by machinery.
+Its virtual counterpart, however, is a live phantom that transforms continuously to reflect the Queen&amp;rsquo;s desires while she strolls the generic space.&lt;/p&gt;
+&lt;p&gt;Technical information:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wearable suit with 20 LEDs, a speaker, and an Arduino microcontroller with an XBEE wireless module&lt;/li&gt;
+&lt;li&gt;Kinect motion tracking sensor&lt;/li&gt;
+&lt;li&gt;Custom software for motion tracking and interactive graphics generation developed in Java&lt;/li&gt;
+&lt;li&gt;Projector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developed in 2014 for a course taught by Mihye An at the Chair for CAAD, ETH Zurich.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>7x Cabin</title>
+      <link>https://example.com/project/14-7x-cabin/</link>
+      <pubDate>Mon, 10 Feb 2014 19:22:31 +0300</pubDate>
+      <guid>https://example.com/project/14-7x-cabin/</guid>
+      <description>&lt;p&gt;The 7xCabin is the result of a workshop focusing on the implementation of a robotic fabrication process on the architectural scale. Instead of inventing a new architectural language based on shifts in technology, this projects searches for an integrative approach towards traditional crafts and archetypal forms. Using digital design tools, traditional timber joints were adapted to be usable with raw, irregular logs. These joints have subsequently been produced using a chainsaw mounted on an industrial robot. All movements for the robot were planned digitally, with students preparing the exact toolpaths for each log type.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/88490760&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+The project was realized by students of MAS CAAD prostgraduate program at ETH Zurich, under the supervision of Tom Pawlofsky.  Tom Pawlofksi’s &lt;em&gt;Rhino2KRL&lt;/em&gt; plugin was used to export Kuka source code.&lt;br&gt;
+The cabin was reassembled and displayed at the ETHz Campus at Honggerberg during February 2014.&lt;/p&gt;
+&lt;p&gt;The project video was accepted as project participation to &lt;a href=&#34;http://www.robarch2014.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob|Arch 2014&lt;/a&gt; - the international conference on robotic fabrication in architecture, art, and design.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Workshop instructor&lt;/strong&gt;&lt;br&gt;
+Tom Pawlofski&lt;br&gt;
+&lt;strong&gt;Project authors&lt;/strong&gt;   &lt;br&gt;
+Adel Albloushi, Georgios Anagnostopoulos, Christian Braun, Kaihong Chen, Grigorios Grigoriadis, Abel Groenewolt, Periklis Kyriakidis, Valle Medina, Constantinos Miltiadis, Regina Mirzoyants, Yu-ting Sheng, Togo Takamura and Tom Pawlofski&lt;br&gt;
+&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br&gt;
+Periklis Kyriakidis, Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Renderings&lt;/strong&gt;&lt;br&gt;
+Abel Groenewolt&lt;br&gt;
+&lt;strong&gt;Video&lt;/strong&gt; &lt;br&gt;
+Constantinos Miltiadis&lt;/p&gt;
+&lt;h1 id=&#34;image-documentation&#34;&gt;Image documentation&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Porocity</title>
+      <link>https://example.com/project/porocity/</link>
+      <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
+      <guid>https://example.com/project/porocity/</guid>
+      <description>&lt;!-- 
+- on Choi&#39;s Vimeo account 
+https://vimeo.com/78187584
+- on My youtube account, variation 
+  - name: Project trailer 
+    url: &#39;https://www.youtube.com/watch?v=5RtswWw7Z-g&#39;
+    icon: youtube
+    icon_pack: fab 
+--&gt;
+&lt;p&gt;&lt;em&gt;Porocity&lt;/em&gt; is a collaborative procedural design project implementing shape grammars in Processing.
+Produced by the 2013 MAS CAAD class at the &lt;a href=&#34;https://www.caad.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair for Digital Architectonics (née Chair for CAAD)&lt;/a&gt;, during a programming course taught by Benjamin Dillenburger.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/78469790&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shape grammar | studio any</title>
+    <link>https://example.com/tag/shape-grammar/</link>
+      <atom:link href="https://example.com/tag/shape-grammar/index.xml" rel="self" type="application/rss+xml" />
+    <description>shape grammar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2013 12:26:43 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>shape grammar</title>
+      <link>https://example.com/tag/shape-grammar/</link>
+    </image>
+    
+    <item>
+      <title>Porocity</title>
+      <link>https://example.com/project/porocity/</link>
+      <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
+      <guid>https://example.com/project/porocity/</guid>
+      <description>&lt;!-- 
+- on Choi&#39;s Vimeo account 
+https://vimeo.com/78187584
+- on My youtube account, variation 
+  - name: Project trailer 
+    url: &#39;https://www.youtube.com/watch?v=5RtswWw7Z-g&#39;
+    icon: youtube
+    icon_pack: fab 
+--&gt;
+&lt;p&gt;&lt;em&gt;Porocity&lt;/em&gt; is a collaborative procedural design project implementing shape grammars in Processing.
+Produced by the 2013 MAS CAAD class at the &lt;a href=&#34;https://www.caad.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair for Digital Architectonics (née Chair for CAAD)&lt;/a&gt;, during a programming course taught by Benjamin Dillenburger.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/78469790&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

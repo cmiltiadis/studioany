@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intangible heritage | studio any</title>
+    <link>https://example.com/tag/intangible-heritage/</link>
+      <atom:link href="https://example.com/tag/intangible-heritage/index.xml" rel="self" type="application/rss+xml" />
+    <description>intangible heritage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Nov 2018 19:40:57 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>intangible heritage</title>
+      <link>https://example.com/tag/intangible-heritage/</link>
+    </image>
+    
+    <item>
+      <title>The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes</title>
+      <link>https://example.com/event/visual-imaginary-intangible-heritage/</link>
+      <pubDate>Wed, 14 Nov 2018 19:40:57 +0300</pubDate>
+      <guid>https://example.com/event/visual-imaginary-intangible-heritage/</guid>
+      <description>&lt;p&gt;Contribution to CHNT 2018 on intangible cultural heritage based on the project &lt;a href=&#34;../../project/daphnes-diary&#34;&gt;Daphne&amp;rsquo;s Diary&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents theoretical and practical considerations regarding the role of moat of the medieval walls of historic Nicosia. It introduces the history of Nicosia, the last divided capital of Europe, through the development of its Venetian fortifications. The moat acquired an important role for Nicosia when the city started expanding beyond the medieval footprint of the labyrinthine urban fabric of the historic core during the late period of British rule on the island. Since the beginning of the 20th century numerous activities and uses were hosted into the moat, from sporting events, livestock trade and markets to parades and leisure spaces, waste disposal and farming. &lt;/p&gt;
+&lt;p&gt;After the war of 1974 and the division of Nicosia, the urgent and ever-growing needs of the city for empty plots to support its infrastructure and operation led to the fragmentation of the moat. In this context the paper reflects on the current state of the moat and inquires for the pressing need to reconsider the identity and value of the moat for the city.&lt;/p&gt;
+&lt;p&gt;In response to this need it discusses new approaches to the use of Information Communication Technologies (ICT)  for facilitating the re-appropriation of the moat of Nicosia’s medieval fortifications from being used as parking space, and other fragmentary private uses, into a green belt that highlights the only shared heritage that unites the two sides of the divided city, that is, its Medieval Walls. In particular an ICT-enabled initiative is presented that involves the creation of spatially-distributed storytelling for the promotion of the history of the Medieval walls of the city by exploiting the software and communities of Geocaching driven by preliminary results of a survey of users of the public space of the moat. The organization of this initiative was supported by a H2020 COST Action (TU1306) Short Term Scientific Mission, the results of which will be presented in the paper. &lt;/p&gt;
+&lt;p&gt;Concluding, the paper presents a grassroots approach to the application of digital interfaces and interactive narratives, which contributes to the exploitation of heritage in Mediterranean cities for the reactivation of neglected urban green spaces through playful engagement and storytelling. Specifically it suggests the use of a “cloud” layer over the city, on which to collect and expose the multiple narratives of its dense historical past, functioning therefore as a neutral ground for the analysis of the city’s palimpsest and the negotiation of the cultural processes for the production of the lived space. Employing a format of locative, historically corroborated dramatized audio narratives, the initiative intends to provide an experiential approach to history, eventually aiming to trigger the audience’s visual imaginary over their immediate surroundings. &lt;/p&gt;
+&lt;p&gt;It argues that heritage can be used to influence positively the social cohesion of the urban context. Promoting heritage in such a way that, instead of provoking tensions and division (based on a hegemonic reading of the -complex and debated- past), can offer opportunities of understanding, by enabling politically, historically and socially excluded communities to narrate their histories.. Focusing on everyday experiences, the project intends to eventually contributing to an inclusive view of the past of the built environment and therefore to a sense of mutual belonging.&lt;/p&gt;
+&lt;!--
+&#34;The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes&#34; paper with [Georgios Artopoulos](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/160-george-artopoulos.html) of the Cyprus Institute, for CHNT 23, Congress of Visual Heritage 2018, Vienna 12-15 November 2018. The paper will be presented in the Session &#34;Locative media and heritage engagement in pre-modern urban Environments&#34; on November 14.  
+The contribution is based on the project [Daphne&#39;s Diary](http://studioany.com/projects/daphnes-diary/).
+
+Abstract [[x](https://www.chnt.at/the-visual-imaginary-of-intangible-cultural-heritage-accessing-the-palimpsest-of-nicosia-through-audio-enabled-routes/)]  
+Full paper to be published later in the conference proceedings.
+
+CHNT Website [[x](https://www.chnt.at/)]
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne&#39;s Diary</title>
+      <link>https://example.com/project/daphnes-diary/</link>
+      <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
+      <guid>https://example.com/project/daphnes-diary/</guid>
+      <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
+&lt;!--
+Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
+--&gt;
+&lt;p&gt;On February 2018, the Cyberparks COST Action awarded the project a &lt;a href=&#34;https://www.cyi.ac.cy/index.php/cyi-news/cyberparks-cost-action-awards-grants-to-starc-trainees-for-short-term-scientific-missions-on-mediated-landscapes-in-nicosia.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short-term scientific mission (STSM) grant&lt;/a&gt;, for further development of the project with local cultural institutions in both sides of Nicosia, in collaboration with the Cyprus Institute. The STSM was conducted between March 22 and April 4, 2018.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;h3 id=&#34;team-members&#34;&gt;Team members&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis, Institute of Architecture and Media, TU Graz&lt;/li&gt;
+&lt;li&gt;Paul Schmidt, Media &amp;amp; Culture, Utrecht University&lt;/li&gt;
+&lt;li&gt;Aurimas Žemaitaitis, Kaunas University of Applied Sciences&lt;/li&gt;
+&lt;li&gt;Tamás Tóth, Széchenyi István University, Győr&lt;/li&gt;
+&lt;li&gt;Simonas Skarzauskas, Mykolas Romeris University, Vilnius&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Text, story &amp;amp; documentation&lt;/strong&gt;: Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Voice acting &amp;amp; audio recordings&lt;/strong&gt;: Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Website design&lt;/strong&gt;: Tamás Tóth&lt;br&gt;
+&lt;strong&gt;Videos &amp;amp; editing&lt;/strong&gt;: Aurimas Žemaitaitis &amp;amp; Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Location scouting&lt;/strong&gt;: Aurimas Žemaitaitis, Paul Schmidt &amp;amp; Simonas Skarzauskas&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The team would like to thank George Artopoulos of The Cyprus Institute for organising the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

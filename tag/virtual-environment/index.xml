@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual environment | studio any</title>
+    <link>https://example.com/tag/virtual-environment/</link>
+      <atom:link href="https://example.com/tag/virtual-environment/index.xml" rel="self" type="application/rss+xml" />
+    <description>virtual environment</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2014 18:04:19 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>virtual environment</title>
+      <link>https://example.com/tag/virtual-environment/</link>
+    </image>
+    
+    <item>
+      <title>project Anywhere</title>
+      <link>https://example.com/project/project-anywhere/</link>
+      <pubDate>Fri, 07 Nov 2014 18:04:19 +0300</pubDate>
+      <guid>https://example.com/project/project-anywhere/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The ultimate display would, of course, be a room within which the computer can control the existence of matter.&lt;br&gt;
+(Ivan E. Sutherland, The Ultimate Display 1965)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;project Anywhere&lt;/em&gt; is a framework and proof-of-concept prototype for full-body interactive wireless VR, developed at the Chair for CAAD, ETH Zurich in 2014, to investigate notions of virtual space and time, and to explore designing synthetic spatiotemporal sensory experiences.
+The project was initiated in mid-2014, following the release of the first commercial VR devices that featured limited bodily involvement and capacity for movement.
+Addressing these limitations, this project developed a VR framework consisting of a mobile application, custom wireless VR HMDs and data glove prototypes as well as skeleton tracking, to produce a vivid real-time interactive presence in a virtual reality environment
+In that, project Anywhere demonstrates the potential of virtual space as a valid architectural medium in itself (instead of its use as an intermediary form for design or visualization), that allows experimenting with synthetic kinaesthetic, visual and auditory sensory experiences.
+Concurrently it explores the capacity of designing spatiotemporal environments with an embedded dimension of time. The project’s title, “Anywhere”, refers to the generic nature of the digital-virtual environment that can be made to simulate any physical context: real or imaginary.&lt;/p&gt;
+&lt;!-- 
+this project was initiated as a proof-of-concept for full-body wireless interactive VR. 
+
+Blending aspects of both actuality and virtuality, the project creates a vivid presence in an augmented reality environment. The ubiquity of processors and the advent of cloud computing has made possible the decentralised aggregation of independent node systems in a common network, bringing together people from the most remote places to coexist in the same virtual space. 
+--&gt;
+&lt;h1 id=&#34;video-demo&#34;&gt;Video demo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/113398928&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;project-description&#34;&gt;Project description&lt;/h1&gt;
+&lt;p&gt;The project consists of the following bespoke software and hardware prototypes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;a mobile multiplayer VR app,&lt;/li&gt;
+&lt;li&gt;Omnimask: &lt;a href=&#34;#gallery-14-project-anywhere-7&#34;&gt;a 3D printed mobile VR head-mount&lt;/a&gt; ,&lt;/li&gt;
+&lt;li&gt;Inteligloves: &lt;a href=&#34;#gallery-14-project-anywhere-5&#34;&gt;a pair of custom wireless data gloves&lt;/a&gt;, and&lt;/li&gt;
+&lt;li&gt;Omnitracker: a sensor fusion software.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The main component of the project is a custom mobile application (1) developed in Unity as a multiplayer VR videogame.
+Mounted on a VR mask (2), the app provides a stereoscopic viewport for each individual user, through the point of view of their avatar in the shared virtual environment.&lt;/p&gt;
+&lt;!-- TRACKER  --&gt;
+&lt;p&gt;Each user&amp;rsquo;s spatial presence is tracked in real-time by their head-mount, data gloves, and a Kinect skeleton tracking sensor.
+Cumulatively, head, gesture and skeleton tracking provide 86 degrees of freedom, fused together by the Omnitracker (4), a software written in Java/Processing.
+These data are synchronized with a web cloud and are use to animate the user&amp;rsquo;s avatar in real-time (see &lt;a href=&#34;#gallery-14-project-anywhere-13&#34;&gt;image13&lt;/a&gt;).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+Thus, any movement of the subject in physical space, such as walking, or even head tilting and finger movement correlates 1:1 to movements of their avatar.&lt;/p&gt;
+&lt;!-- DATA GLOVES  --&gt;
+&lt;p&gt;Hardware prototypes developed for this project include a 3D printed VR head-mount (2) and a pair of data gloves (3).
+The VR head-mount was designed for an iPhone 5, and featured adjustable inter-pupillary distance, and focal length.&lt;br&gt;
+The data gloves (3) were developed using Arduino microcontrollers. Each glove features an XBEE transceiver module, a 9 DoF sensor, and up to 6 flex sensors (for tracking individual finger movement). These were mounted on a lightweight elastic 3D printed glove base, easily adjustable for different hand sizes.
+The framework was programmed to recognize hand gestures, used for performing various contextual virtual actions (see for example &lt;a href=&#34;#gallery-14-project-anywhere-8&#34;&gt;image 8&lt;/a&gt;), proving that a virtual presence can also be an active one.&lt;/p&gt;
+&lt;!--
+and synchronizing and formalizing an array of data from a web cloud in real time. Subjects can join from any device connected to the internet.
+
+The project was developed in Unity3D and Java, and its using a range of tools developed or prototyped for this purpose, such as the [omnimask](#gallery-14-project-anywhere-7) (3D printed VR head mount), the [inteliglove interface](#gallery-14-project-anywhere-5) (Arduino-based wireless data gloves) and the omnitracker (Java software for sensor fusion).
+--&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;Related publications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/16-ijac&#34;&gt;Constantinos Miltiadis (2016). Project Anywhere: An Interface for Virtual Architecture&lt;/a&gt;. IJAC 14 (4).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/15-ecaade&#34;&gt;Constantinos Miltiadis (2015). Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual&lt;/a&gt;. eCAADe 2015. TU Delft.&lt;/li&gt;
+&lt;li&gt;Photon Engine Dev Story (2015). &lt;a href=&#34;https://blog.photonengine.com/dev-story-project-anywhere/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere – Digital Route to an Out-of-Body Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ivan Petrovic Prize for the “best presentation by a young researcher” for the paper “&lt;a href=&#34;../../publication/15-ecaade&#34;&gt;Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment&lt;/a&gt;”.  eCAADe 2015, TU Vienna, September 2015.&lt;/li&gt;
+&lt;li&gt;Second place &lt;a href=&#34;../../event/zeiss-vr-one&#34;&gt;Zeiss VR One Contest for Mobile VR Apps&lt;/a&gt;, 2015.&lt;/li&gt;
+&lt;li&gt;Arthur C. Clarke prize for “the most creative and unorthodox approach”. &lt;a href=&#34;https://www.museumofsciencefiction.org/winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Museum of Science Fiction international architectural competition&lt;/a&gt;, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;press&#34;&gt;Press&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The Guardian &amp;amp; The Observer Tech Monthly (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.theguardian.com/technology/2015/jan/07/project-anywhere-digital-route-to-an-out-of-body-experience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere: digital route to an out-of-body experience : Constantinos Miltiadis’s project combines inteligloves and Kinect sensors to an Oculus Rift-style headset to provide the ultimate in impressive digital experiences&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Euronews High Tech; Euronews Next (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LfIDuVGGlts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euronews Next. Project Anywhere: an out-of-body experience of a new kind&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=R4M0IE6_WPo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proyecto Anywhere, una nueva forma de jugar en línea - hi-tech&lt;/a&gt; [Spanish]&lt;/li&gt;
+&lt;li&gt;Reuters (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.yahoo.com/news/project-anywhere-takes-virtual-reality-152034973.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere takes virtual reality gaming to new level&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DesignBoom  (2014)&lt;br&gt;
+&lt;a href=&#34;https://www.designboom.com/technology/studio-any-project-anywhere-virtual-universe-real-time-12-10-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Subjects manipulate project anywhere’s virtual universe in real-time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Museum of Science Fiction (2014)&lt;br&gt;
+&lt;a href=&#34;https://www.museumofsciencefiction.org/preview-museum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The preview museum: A departure from museums as usual…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fubiz.net/2014/12/16/virtual-universe-in-real-time/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fubiz (2014) Virtual Universe in Real-time&lt;/a&gt; [French]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;exhibitions--installations&#34;&gt;Exhibitions &amp;amp; installations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstration at the Carl Zeiss Headquarters, in the context of the &lt;a href=&#34;../../event/zeiss-vr-one&#34;&gt;Zeiss VR One App Contest&lt;/a&gt;. Oberkochen, Germany, June 2015&lt;/li&gt;
+&lt;li&gt;Public installation at TEDxNTUA. Athens, 17.01.2015&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-information&#34;&gt;Project information&lt;/h1&gt;
+&lt;p&gt;project Anywhere was developed as a postgraduate master thesis in 2014 at the Chair for CAAD, ETH Zurich, Prof. Ludger Hovestadt.
+It was first demonstrated at the Chair for CAAD in November 2014.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Concept and development&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Prototyping support&lt;/strong&gt;&lt;br&gt;
+Demetris Shammas &amp;amp; Achilleas Xydis&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Filming &amp;amp; Editing&lt;/strong&gt;&lt;br&gt;
+Demetris Shammas&lt;br&gt;
+&lt;strong&gt;Photo documentation&lt;/strong&gt;&lt;br&gt;
+Achilleas Xydis&lt;br&gt;
+&lt;strong&gt;Music&lt;/strong&gt;&lt;br&gt;
+Michalis Shammas
+&lt;strong&gt;Subject&lt;/strong&gt;&lt;br&gt;
+Anna Maragkoudaki&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;For a discussion of the networking topology of this project see the 2015 Photon Engine Dev story: &lt;a href=&#34;https://blog.photonengine.com/dev-story-project-anywhere/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere – Digital Route to an Out-of-Body Experience&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

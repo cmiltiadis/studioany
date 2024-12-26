@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computation | studio any</title>
+    <link>https://example.com/tag/computation/</link>
+      <atom:link href="https://example.com/tag/computation/index.xml" rel="self" type="application/rss+xml" />
+    <description>computation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2020 13:12:53 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>computation</title>
+      <link>https://example.com/tag/computation/</link>
+    </image>
+    
+    <item>
+      <title>CAAD Futures 2021: Design Imperatives - The future is Now</title>
+      <link>https://example.com/project/caad-futures-2021/</link>
+      <pubDate>Thu, 09 Jul 2020 13:12:53 +0300</pubDate>
+      <guid>https://example.com/project/caad-futures-2021/</guid>
+      <description>&lt;p&gt;Co-chair and co-organizer for the 2021 iteration of the CAAD Futures international biannual conference, hosted remotely by the University of Southern California (USC).
+Contributed to authoring the open call, reviewing contributions, curating and hosting the keynote panel sessions, and co-editing the proceedings volume of the conference published in 2022 by &lt;em&gt;Springer&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Conference co-chairs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;David Gerber (main chair; USC)&lt;/li&gt;
+&lt;li&gt;Biayna Bogosian (USC; Florida International University)&lt;/li&gt;
+&lt;li&gt;Evan Pantasis (IBI Group; USC)&lt;/li&gt;
+&lt;li&gt;Alicia Nahmad (University of Calgary)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (Aalto University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+Conference co-chair, co-organizer, and host; co-curator of the keynote panel sessions;  co-writer of the conference open call; contribution reviewer; co-writer of the volume editorial.
+--&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Architecture as a Complex Number</title>
+      <link>https://example.com/event/architecture-as-a-complex-number/</link>
+      <pubDate>Wed, 16 Nov 2016 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/architecture-as-a-complex-number/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/images/16-plexus-paris.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Event organized by Pierre Cutellic in collaboration with AA n+1.&lt;br&gt;
+AA n+1 gallery, Paris, November 16, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br&gt;
+The Plexus Project is an initiative to bring together the creative talent of different disciplines to share techniques, solve problems and build networks of collaboration. The events take place every month inviting young designers, architects, engineers, programmers, game designers and visual artists. This initiative is open to anyone in London that is looking for an informal place to network and learn about new methodologies and workflows.&lt;br&gt;
+The event was initially called Bartlett Nexus and was created by Jose Sanchez, currently he co-curates it together with Manuel Jimenez Garcia, who joined the event organization in September of 2013.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Frederic Migayrou (UCL),&lt;/li&gt;
+&lt;li&gt;Manuel Jimenez Garcia (UCL),&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (TU Graz), and&lt;/li&gt;
+&lt;li&gt;Corneel Cannaerts (KU Leuven).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Lecture Series (2015-2019)</title>
+      <link>https://example.com/project/iam-open-lectures/</link>
+      <pubDate>Fri, 06 Nov 2015 19:00:04 +0300</pubDate>
+      <guid>https://example.com/project/iam-open-lectures/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;IAM Open Lecture Series&lt;/em&gt; was founded in late 2015 at the Institute of Architecture and Media (IAM), TU Graz. The project slowly formalised as a mapping of the research ecology concerning computation and related discourse in the wider field of architecture and media.
+The series hosts talks by younger academic researchers and practitioners aiming to present and promote experimental, interdisciplinary and ongoing research.
+All sessions are hosted at the New Media Lab of IAM, Kronesgasse 5/III, Graz.&lt;/p&gt;
+&lt;h1 id=&#34;open-lectures-archive&#34;&gt;Open lectures archive&lt;/h1&gt;
+&lt;p&gt;For the documentation of sessions 1-30 see the &lt;a href=&#34;https://example.com/tag/iam-open-lectures&#34;&gt;IAM Open Lectures Archive&lt;/a&gt; on this website.
+For the complete catalog of the series see &lt;a href=&#34;https://iam.tugraz.at/main-website/category/openlecture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IAM Open lectures at iam.tugraz.at&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Video documentation of the &lt;em&gt;IAM Open Lectures&lt;/em&gt; is archived at:
+&lt;a href=&#34;https://tube.tugraz.at/paella/ui/browse.html?series=9866b725-a6f2-41ca-8e5c-00879478b22f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TU Graz Tube&lt;/a&gt; and on &lt;a href=&#34;https://vimeo.com/channels/iamlectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;The &lt;em&gt;IAM Open Lecture&lt;/em&gt; series was founded in late 2015 by Constantinos Miltiadis who curated and produced the first 30 sessions of the series until mid 2019&amp;ndash;except lectures #1 and #15 organized by Urs Hirschberg, and #10 organized by Florian Fend.&lt;br&gt;
+Since late 2019, the &lt;em&gt;Open Lectures Series&lt;/em&gt; is carried out by current members of IAM.&lt;/p&gt;
+&lt;h2 id=&#34;filming--production&#34;&gt;Filming &amp;amp; Production&lt;/h2&gt;
+&lt;p&gt;Department of &lt;a href=&#34;https://www.tugraz.at/oe/lehr-und-lerntechnologien/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Educational Technology&lt;/a&gt;, TU Graz&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;p&gt;Special thanks to Ypatios Grigoriades (TU Graz Educational Technology Unit) for supporting the lecture series throughout the years; to Antonia Manhatsberger and Alexis Kalaitzopoulos who filmed and edited most of the lecture sessions; and to IAM student assistants Nora Hoti, Julian Jauk, Ludwig Grimm, and Martin Schrotz for their help in producing lecture sessions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From the Univocal to the Dissipative: Computation and performance methodology in real-time architecture</title>
+      <link>https://example.com/publication/13-ecaade/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/13-ecaade/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘From the Univocal to the Dissipative. Computation and Performance Methodology in Real-Time Architecture’. In &lt;em&gt;Computation and Performance – Proceedings of the 31st ECAADe Conference&lt;/em&gt;, 1:517–25. Delft: Delft University of Technology, 2013. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2013_206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2013_206&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

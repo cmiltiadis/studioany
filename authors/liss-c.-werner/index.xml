@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liss C. Werner | studio any</title>
+    <link>https://example.com/authors/liss-c.-werner/</link>
+      <atom:link href="https://example.com/authors/liss-c.-werner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liss C. Werner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Apr 2018 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Liss C. Werner</title>
+      <link>https://example.com/authors/liss-c.-werner/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 21: Cybernetics Architecture Information</title>
+      <link>https://example.com/curation/ol/ol-21/</link>
+      <pubDate>Tue, 24 Apr 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-21/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/282874647&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Liss C. Werner&lt;/strong&gt; is principal of ‘Tactile Architecture – office für systemarchitektur’ and Assistant Professor for Computational Architecture and Sustainable Urban Design at TU Berlin, with a focus on cybernetics and architecture. Her research engages with the applications in cyber-physical systems as well as digital theory. Between 2003 and 2016 Werner acted as a design studio master at Nottingham and Dessau, and Guest Professor at Carnegie Mellon and Taylor’s University Malaysia. She has lectured internationally at Cooper Union, Texas Tech, MIT, Kassel University, Bauhaus University Weimar, Innsbruck University and University of Alicante (EGA), and exhibited at the Venice Biennale 2012 and will do so in 2018. She co-chaired conferences on design strategies in an age of human-machine-collaboration and is chair of forthcoming eCAADe 2020 to be held at TU Berlin. Werner is the editor of ‘[En]Coding Architecture’ (2014) and ‘Cybernetics: state of the art’ (2017) as well as author of ‘Origins of Design Cybernetics’ and ‘Feedback Cybernetics Netgraft’. Werner has studied at the University of Westminster, RMIT and The Bartlett. In 2017, and she was awarded to be a ‘Young Digital Changer’ while her company received the German Enterprise Award for ‘Best for Modern Urban Architecture &amp;amp; Design 2017’. Liss C. Werner has recently founded the Cybernetics-Lab&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #21  
+Liss C. Werner  
+Cybernetics Architecture Information  
+18:30 Wednesday 25 April 2018  
+IAM Media Lab, Kronesgasse 5/III
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2018/04/OL21_Werner-1.pdf
+
+Original post: https://iam.tugraz.at/2018/04/ol_werner/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

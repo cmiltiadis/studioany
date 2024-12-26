@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epistemology | studio any</title>
+    <link>https://example.com/tag/epistemology/</link>
+      <atom:link href="https://example.com/tag/epistemology/index.xml" rel="self" type="application/rss+xml" />
+    <description>epistemology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 14:23:09 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>epistemology</title>
+      <link>https://example.com/tag/epistemology/</link>
+    </image>
+    
+    <item>
+      <title>Other than Text: Media Used in Game Studies Publications</title>
+      <link>https://example.com/publication/23-digra/</link>
+      <pubDate>Mon, 05 Jun 2023 14:23:09 +0300</pubDate>
+      <guid>https://example.com/publication/23-digra/</guid>
+      <description>&lt;h1 id=&#34;publication-history&#34;&gt;Publication history&lt;/h1&gt;
+&lt;p&gt;I originally wrote this paper in late 2021.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It was submitted in January 2022 for the conference &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>procedural generation | studio any</title>
+    <link>https://example.com/tag/procedural-generation/</link>
+      <atom:link href="https://example.com/tag/procedural-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>procedural generation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2018 12:55:55 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>procedural generation</title>
+      <link>https://example.com/tag/procedural-generation/</link>
+    </image>
+    
+    <item>
+      <title>reset.discover</title>
+      <link>https://example.com/project/reset-discover/</link>
+      <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
+      <guid>https://example.com/project/reset-discover/</guid>
+      <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
+The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.
+These are correlated to physical-visual objects in the spatial simulation of the 3D virtual environment, sequenced to follow the behavior of their sonic doubles.
+Participants &lt;em&gt;enter&lt;/em&gt; the piece using a VR headset which allows to experience the piece interactively by exploring different perspectives into its spatial-visual (interactive stereoscopic VR) and spatial-aural (interactive binaural audio) dimensions.&lt;/p&gt;
+&lt;p&gt;The piece is discussed further in the thesis of Antonia Manhartsberger titled “&lt;em&gt;Das soziopolitische Potential von Raummusik im Angesicht zeitgenössischer Gestaltungsmöglichkeiten&lt;/em&gt;”,  presented at IEM in June 2018.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/298533739&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;First presented at the CUBE Concert, Institute of Electronic Music (IEM), University of Music and Performing Arts Graz. January 31 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elevate.at/websites/2019/en/arts/programme/e19resetdiscover/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exhibited at the Orpheum Extra, part of the Arts Programme, at Elevate 2019 festival&lt;/a&gt;. March 2 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antonia Manhartsberger: Concept and spatial audio composition&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis: Concept and virtual environment programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference | studio any</title>
+    <link>https://example.com/tag/conference/</link>
+      <atom:link href="https://example.com/tag/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>conference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 14:21:30 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>conference</title>
+      <link>https://example.com/tag/conference/</link>
+    </image>
+    
+    <item>
+      <title>ACADIA Conference Archive</title>
+      <link>https://example.com/project/acadia-archive/</link>
+      <pubDate>Thu, 20 Jul 2023 14:21:30 +0300</pubDate>
+      <guid>https://example.com/project/acadia-archive/</guid>
+      <description>&lt;p&gt;In May 2023, I was awarded the inaugural &lt;a href=&#34;http://acadia.org/news/69P4TY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACADIA Cultural History Project Fellowship&lt;/a&gt; together with Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The fellowship entailed production of work related to the &amp;lsquo;archive&amp;rsquo; of ACADIA, which at the time was an Excel sheet listing all papers published between 1985 and 2020, and a cloud drive with PDFs of conference proceedings volumes and other publications of ACADIA (e.g. quarterlies, membership lists, etc.).&lt;/p&gt;
+&lt;p&gt;My proposal was to create an open-access archive to host all content published by ACADIA. Using the data available, I wrote a Python program to parse this information and generate entries for an archive implementing &lt;em&gt;Sandpoints&lt;/em&gt;, an open-source open-infrastructure framework for experimental publishing.
+The archive contains entries for all papers (1488), authors (2057), conference proceedings (40), and editors (116), as well as a library with readily available proceedings PDFs.&lt;/p&gt;
+&lt;p&gt;All archive contents are open access; all infrastructure and tools used to create this archive are open-souce; all data and original software used to create this archive are shared openly and documented at the archive website.&lt;/p&gt;
+&lt;p&gt;Currently, the ACADIA archive is hosted at &lt;em&gt;Sandpoints&lt;/em&gt;, courtesy of Marcell Mars, at &lt;a href=&#34;https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/&lt;/a&gt; and is planned to move to archive.acadia.org .&lt;/p&gt;
+&lt;h1 id=&#34;contribute&#34;&gt;Contribute&lt;/h1&gt;
+&lt;p&gt;As an open and living archive, the ACADIA archive welcomes contributions both in the form of maintenance and care for the archive itself as well as contributions making use of its contents and hypertextual publishing format. Some ideas for contributions include: corrections and ammendments to existing entries; contributions of biographies of ACADIA members and contributors; contributions of articles about ACADIA and its history as well as archeological or thematic syllabuses making use of its material.&lt;/p&gt;
+&lt;h1 id=&#34;archive-contents&#34;&gt;Archive contents&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Amount&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Issues&lt;/td&gt;
+&lt;td&gt;ACADIA conference annual proceedings&lt;/td&gt;
+&lt;td&gt;40  + 1 issue about the archive&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Articles&lt;/td&gt;
+&lt;td&gt;Peer reviewed proceedings articles (up to 2020)&lt;/td&gt;
+&lt;td&gt;1488&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Contributors&lt;/td&gt;
+&lt;td&gt;Article authors&lt;/td&gt;
+&lt;td&gt;2057&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Editors&lt;/td&gt;
+&lt;td&gt;Proceedings (issue) editors&lt;/td&gt;
+&lt;td&gt;116 + 1 entry for archivist&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Library&lt;/td&gt;
+&lt;td&gt;Library catalogue with downloadable ACADIA publications (note: metadata not finalized)&lt;/td&gt;
+&lt;td&gt;140&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;Constantinos Miltiadis: Data parsing, computational archive production, librarianship&lt;br&gt;
+Marcell Mars: Technical support and web hosting&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;See &lt;a href=&#34;http://acadia.org/news/69P4TY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACADIA Cultural History Project Fellowship Announcement&lt;/a&gt; and  &lt;a href=&#34;http://acadia.org/features/GVHMR9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Announcing Recipients of the ACADIA Cultural History Fellowship
+&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cybersyn 1973/2022</title>
+      <link>https://example.com/publication/22-isea/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-isea/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/573055092&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Peer reviewed artwork part of the ISEA 2022 screening programme, in collaboration with  Sónar Festival: June 11-16 2016, Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Grupo Synco&lt;/strong&gt; is a collaboration between curator and researcher Bassam El Baroni (Aalto University, Finland) transdisciplinary architect Constantinos Miltiadis (Aalto University, Finland), multidisciplinary artist and animator Georgios Cherouvim (New York), and composer and sound artist Gerriet K. Sharma (Berlin). The group’s first co-creation is the CGI video work Cybersyn 1973/2023.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAAD Futures 2021: Design Imperatives - The future is Now</title>
+      <link>https://example.com/project/caad-futures-2021/</link>
+      <pubDate>Thu, 09 Jul 2020 13:12:53 +0300</pubDate>
+      <guid>https://example.com/project/caad-futures-2021/</guid>
+      <description>&lt;p&gt;Co-chair and co-organizer for the 2021 iteration of the CAAD Futures international biannual conference, hosted remotely by the University of Southern California (USC).
+Contributed to authoring the open call, reviewing contributions, curating and hosting the keynote panel sessions, and co-editing the proceedings volume of the conference published in 2022 by &lt;em&gt;Springer&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Conference co-chairs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;David Gerber (main chair; USC)&lt;/li&gt;
+&lt;li&gt;Biayna Bogosian (USC; Florida International University)&lt;/li&gt;
+&lt;li&gt;Evan Pantasis (IBI Group; USC)&lt;/li&gt;
+&lt;li&gt;Alicia Nahmad (University of Calgary)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (Aalto University)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+Conference co-chair, co-organizer, and host; co-curator of the keynote panel sessions;  co-writer of the conference open call; contribution reviewer; co-writer of the volume editorial.
+--&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes</title>
+      <link>https://example.com/event/visual-imaginary-intangible-heritage/</link>
+      <pubDate>Wed, 14 Nov 2018 19:40:57 +0300</pubDate>
+      <guid>https://example.com/event/visual-imaginary-intangible-heritage/</guid>
+      <description>&lt;p&gt;Contribution to CHNT 2018 on intangible cultural heritage based on the project &lt;a href=&#34;../../project/daphnes-diary&#34;&gt;Daphne&amp;rsquo;s Diary&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper presents theoretical and practical considerations regarding the role of moat of the medieval walls of historic Nicosia. It introduces the history of Nicosia, the last divided capital of Europe, through the development of its Venetian fortifications. The moat acquired an important role for Nicosia when the city started expanding beyond the medieval footprint of the labyrinthine urban fabric of the historic core during the late period of British rule on the island. Since the beginning of the 20th century numerous activities and uses were hosted into the moat, from sporting events, livestock trade and markets to parades and leisure spaces, waste disposal and farming. &lt;/p&gt;
+&lt;p&gt;After the war of 1974 and the division of Nicosia, the urgent and ever-growing needs of the city for empty plots to support its infrastructure and operation led to the fragmentation of the moat. In this context the paper reflects on the current state of the moat and inquires for the pressing need to reconsider the identity and value of the moat for the city.&lt;/p&gt;
+&lt;p&gt;In response to this need it discusses new approaches to the use of Information Communication Technologies (ICT)  for facilitating the re-appropriation of the moat of Nicosia’s medieval fortifications from being used as parking space, and other fragmentary private uses, into a green belt that highlights the only shared heritage that unites the two sides of the divided city, that is, its Medieval Walls. In particular an ICT-enabled initiative is presented that involves the creation of spatially-distributed storytelling for the promotion of the history of the Medieval walls of the city by exploiting the software and communities of Geocaching driven by preliminary results of a survey of users of the public space of the moat. The organization of this initiative was supported by a H2020 COST Action (TU1306) Short Term Scientific Mission, the results of which will be presented in the paper. &lt;/p&gt;
+&lt;p&gt;Concluding, the paper presents a grassroots approach to the application of digital interfaces and interactive narratives, which contributes to the exploitation of heritage in Mediterranean cities for the reactivation of neglected urban green spaces through playful engagement and storytelling. Specifically it suggests the use of a “cloud” layer over the city, on which to collect and expose the multiple narratives of its dense historical past, functioning therefore as a neutral ground for the analysis of the city’s palimpsest and the negotiation of the cultural processes for the production of the lived space. Employing a format of locative, historically corroborated dramatized audio narratives, the initiative intends to provide an experiential approach to history, eventually aiming to trigger the audience’s visual imaginary over their immediate surroundings. &lt;/p&gt;
+&lt;p&gt;It argues that heritage can be used to influence positively the social cohesion of the urban context. Promoting heritage in such a way that, instead of provoking tensions and division (based on a hegemonic reading of the -complex and debated- past), can offer opportunities of understanding, by enabling politically, historically and socially excluded communities to narrate their histories.. Focusing on everyday experiences, the project intends to eventually contributing to an inclusive view of the past of the built environment and therefore to a sense of mutual belonging.&lt;/p&gt;
+&lt;!--
+&#34;The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes&#34; paper with [Georgios Artopoulos](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/itemlist/user/160-george-artopoulos.html) of the Cyprus Institute, for CHNT 23, Congress of Visual Heritage 2018, Vienna 12-15 November 2018. The paper will be presented in the Session &#34;Locative media and heritage engagement in pre-modern urban Environments&#34; on November 14.  
+The contribution is based on the project [Daphne&#39;s Diary](http://studioany.com/projects/daphnes-diary/).
+
+Abstract [[x](https://www.chnt.at/the-visual-imaginary-of-intangible-cultural-heritage-accessing-the-palimpsest-of-nicosia-through-audio-enabled-routes/)]  
+Full paper to be published later in the conference proceedings.
+
+CHNT Website [[x](https://www.chnt.at/)]
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond the Implied Player: Transgression and Contingency in Digital Games</title>
+      <link>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
+      <pubDate>Thu, 11 Oct 2018 09:00:00 +0000</pubDate>
+      <guid>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
+      <description>&lt;!--
+abstract 
+https://www.researchgate.net/publication/328174581_Beyond_the_Implied_Player_Transgression_and_Contingency_in_Digital_Games
+
+https://gespielt.hypotheses.org/2009
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7xCabin</title>
+      <link>https://example.com/publication/14-7x-cabin-robarch/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/14-7x-cabin-robarch/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/94076862&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

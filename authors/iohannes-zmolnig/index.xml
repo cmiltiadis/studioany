@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOhannes zmölnig | studio any</title>
+    <link>https://example.com/authors/iohannes-zmolnig/</link>
+      <atom:link href="https://example.com/authors/iohannes-zmolnig/index.xml" rel="self" type="application/rss+xml" />
+    <description>IOhannes zmölnig</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Nov 2015 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>IOhannes zmölnig</title>
+      <link>https://example.com/authors/iohannes-zmolnig/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 1: Sound to Space</title>
+      <link>https://example.com/curation/ol/ol-1/</link>
+      <pubDate>Wed, 25 Nov 2015 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-1/</guid>
+      <description>&lt;!--
+IAM Open Lecture #1  
+Jan Henrik Hansen &amp; IOhannes zmölnig  
+Sound to Space  
+18:00 Wednesday November 25 2015  
+IAM Media Lab, Inffeldgasse Campus--&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/312573311&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Jan Henrik Hansen&lt;/strong&gt; hat an der ETH Zürich Architektur studiert und war danach Assistent am Lehrstuhl für Digitale Fabrikation von Gramazio &amp;amp; Kohler an der ETH. Seit 2002 führt er ein Architekturbüro, daneben hat er sich mit seinen musikalischen Skulpturen einen Namen gemacht.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IOhannes zmölnig&lt;/strong&gt; ist studierter Toningenieur (MoS) und seit 2003 Forscher und Lehrender am Institut für Elektronische Musik (IEM) der Kunstuniversität Graz. Er ist Entwickler und Maintainer verschiedener Opensource-Projek- te im Bereich Media-Arts (pure-data, Gem.) und arbeitet an seinem Doktorat über „Live-Coding in computermusic“.&lt;/p&gt;
+&lt;!--
+Original post: 
+- https://iam.tugraz.at/2015/11/ol_hansen_zmoelnig/
+- https://iam.tugraz.at/main-website/iam-open-lectures-1-jan-henrik-hansen-iohannes-zmoelnig-sound-to-space/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

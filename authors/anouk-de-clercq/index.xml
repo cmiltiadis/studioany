@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anouk De Clercq | studio any</title>
+    <link>https://example.com/authors/anouk-de-clercq/</link>
+      <atom:link href="https://example.com/authors/anouk-de-clercq/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anouk De Clercq</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Apr 2018 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Anouk De Clercq</title>
+      <link>https://example.com/authors/anouk-de-clercq/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 18: Architectonics : Film presentation &amp; discussion</title>
+      <link>https://example.com/curation/ol/ol-18/</link>
+      <pubDate>Thu, 12 Apr 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-18/</guid>
+      <description>&lt;p&gt;[no video]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anouk De Clercq&lt;/strong&gt; studied piano in Ghent and film at the Sint Lukas Brussels University College of Art and Design. Her works explore the audiovisual potential of computer language to create possible worlds, many of which have a strongly architectonic character. She has received several awards, including the Illy Prize at Art Brussels in 2005 and a Prix Ars Electronica Honorary Mention in 2014. Her work has been shown in Tate Modern, Centre Pompidou, Museo Nacional Centro de Arte Reina Sofia, MAXXI, Centre d’Art Contemporain Genève, International Film Festival Rotterdam, Ars Electronica, among others. Anouk De Clercq is affiliated to the School of Arts University College Ghent as an artistic researcher. She’s a founding member of Auguste Orts and is represented by Gallery Sofie Van de Velde.&lt;/p&gt;
+&lt;p&gt;Anouk De Clercq’s work can found at portabak.be&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #18
+Anouk De Clercq
+Architectonics : Film presentation &amp; discussion
+18:00 Thursday 12 April 2018
+Halle, Kronesgasse 5/1
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2018/03/OL_DeClerq.pdf
+
+Original post: https://iam.tugraz.at/2018/03/ol_declercq/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

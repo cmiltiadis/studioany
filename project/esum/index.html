@@ -1,0 +1,1835 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: December 26, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.042e26407c9e383d96a1f26d6787c686.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Constantinos Miltiadis" />
+
+
+
+
+
+  
+
+<meta name="description" content="Design, development, and documentation of a mobile sensor unit prototype. Chair for Information Architecture, ETH Zurich, 2015." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://example.com/project/esum/" />
+<link rel="canonical" href="https://example.com/project/esum/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://example.com/project/esum/featured.JPG" />
+<meta property="og:site_name" content="studio any" />
+<meta property="og:url" content="https://example.com/project/esum/" />
+<meta property="og:title" content="ESUM: Anthropocentric Urban Sensing Unit | studio any" />
+<meta property="og:description" content="Design, development, and documentation of a mobile sensor unit prototype. Chair for Information Architecture, ETH Zurich, 2015." /><meta property="og:image" content="https://example.com/project/esum/featured.JPG" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2015-03-06T12:56:02&#43;03:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2015-03-06T12:56:02&#43;03:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/project/esum/"
+  },
+  "headline": "ESUM: Anthropocentric Urban Sensing Unit",
+  
+  "image": [
+    "https://example.com/project/esum/featured.JPG"
+  ],
+  
+  "datePublished": "2015-03-06T12:56:02+03:00",
+  "dateModified": "2015-03-06T12:56:02+03:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Constantinos Miltiadis"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "studio any",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Design, development, and documentation of a mobile sensor unit prototype. Chair for Information Architecture, ETH Zurich, 2015."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>ESUM: Anthropocentric Urban Sensing Unit | studio any</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c738c863faa2f677c1738fbab284b50a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.ec9d49ca50e4b80bdb08f0417a28ed84.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">studio any</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">studio any</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/project-archive"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event/"><span>Presentations</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/curation/"><span>Production</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/course"><span>Teaching</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/blog"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/authors"><span>Peers</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/about"><span>About</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>ESUM: Anthropocentric Urban Sensing Unit</h1>
+
+  
+  <p class="page-subtitle">Design, development, and documentation of a mobile sensor unit prototype</p>
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="/authors/admin/">Constantinos Miltiadis</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 6, 2015
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/prototype/">prototype</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://archive.arch.ethz.ch/esum/" target="_blank" rel="noopener">
+    ESUM project website</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/esum/ESUM%20Documentation%20Book.pdf" >
+    Documentation booklet</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/cmiltiadis/ESUM_Logger" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>ESUM Logger</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/cmiltiadis/ESUM_EEG_Logger" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>ESUM EEG Logger</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/cmiltiadis/ESUM_Waspmote_Gases" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>ESUM Waspmote Gases board</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/cmiltiadis/ESUM_Waspmote_Cities" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>ESUM Waspmote Cities board</a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <!-- FIND 
+award at Falling Wall competition Paris esum
+-->
+<p>Design, development, and documentation of the ESUM backpack, a standalone mobile prototype for an &lsquo;Anthropocentric Urban Sensing Unit&rsquo; at the <a href="http://www.ia.arch.ethz.ch" target="_blank" rel="noopener">Chair of Information Architecture</a> ETH Zurich.</p>
+<p>The ESUM project was initiated by  <a href="../../authors/reinhard-konig">Reinhard König</a> at ETH Zurich. The concept behind the backpack sensor prototype was to develop a mobile sensor unit to measure, analyse and correlate both ambient and biometric data from a subject’s itinerary in an urban context, and eventually correlate environmental qualities with psychosomatic effects.</p>
+<p>The ESUM backpack sensor prototype was developed and documented with the intention to be easily replicated by the different research labs associated with the project. It includes several off the shelf electronics components, a custom housing that can fit in a small backpack, and custom software for logging sensor values.
+The software was developed as a Visual Studio C# console application, and is responsible for synchronous data logging from the different sensor units with varying frequencies and temporal dependencies &ndash; sensor fusion and analysis was implemented via machine learning at a later stage of the project (see Ojha et al. 2019).<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>
+The ESUM case is made from plywood and plexiglas, and can be laser cut and assembled in less than 1 hour.</p>
+<p>This work is part of <em><a href="https://archive.arch.ethz.ch/esum/" target="_blank" rel="noopener">ESUM­-Analysing trade­offs between the energy and social performance of urban morphologies</a></em>, a joint project between the Chair of Information Architecture, ETH Zurich, Zurich, Switzerland and the Chair of Computer Science for Architecture, Bauhaus ­University Weimar; supported by the Swiss SNF and the German DFG funding programs.</p>
+<h2 id="esum-backpack-prototype">ESUM backpack prototype</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery-grid">
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-1-Assembly-diagram.jpg" >
+      <img src="/media/albums/15-esum/esum-1-Assembly-diagram_hu95f02b9271e3aae7dd83a7c5c743a416_26139_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-1-Assembly-diagram.jpg" width="531" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-2-sf_img_3747_800.PNG" >
+      <img src="/media/albums/15-esum/esum-2-sf_img_3747_800_hued852d73d76c1551ccdd5b7e7203956f_330358_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="esum-2-sf_img_3747_800.PNG" width="750" height="501">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-3-IMG_3646-w.jpg" >
+      <img src="/media/albums/15-esum/esum-3-IMG_3646-w_hu9e733d373b4a8999faad40990483dd0c_21775_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-3-IMG_3646-w.jpg" width="750" height="500">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-4-sf_img_3642_800.JPG" >
+      <img src="/media/albums/15-esum/esum-4-sf_img_3642_800_hu27f8e824c089a9f6ef65e1a88fdff233_166947_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-4-sf_img_3642_800.JPG" width="750" height="501">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-5-sf_img_3648_800.JPG" >
+      <img src="/media/albums/15-esum/esum-5-sf_img_3648_800_hu1d20588b06b062edfcfd372c0ae3b13f_190175_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-5-sf_img_3648_800.JPG" width="750" height="501">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-6-IMG_3622_800.jpg" >
+      <img src="/media/albums/15-esum/esum-6-IMG_3622_800_huffd2f7972b1d771be787de989e0fd64b_23846_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-6-IMG_3622_800.jpg" width="750" height="500">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-7-sf_IMG_3667_800.jpg" >
+      <img src="/media/albums/15-esum/esum-7-sf_IMG_3667_800_hu4b1d7ee142473ccb201a25f47ad7f806_19851_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-7-sf_IMG_3667_800.jpg" width="750" height="500">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-15-esum" href="/media/albums/15-esum/esum-8-sf_img_3657_800.JPG" >
+      <img src="/media/albums/15-esum/esum-8-sf_img_3657_800_hub71362fa4aaf47ddad6b06d3b924a662_154389_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="esum-8-sf_img_3657_800.JPG" width="750" height="501">
+    </a>
+  </div>
+  
+
+</div>
+
+<h3 id="prototype-parts">Prototype parts</h3>
+<ol>
+<li>Barebone PC</li>
+<li>Battery unit</li>
+<li>Emotiv Epoc+ 16 point wireless EEG</li>
+<li>Libelium Meshlium WiFi sniffer</li>
+<li>Empatica E4 biometric watch (electrodermal activity, photoplethysmography, peripheral temperature, motion)</li>
+<li>GPS unit</li>
+<li>Atmospheric pressure sensor</li>
+<li>Temperature sensor</li>
+<li>Humidity sensor</li>
+<li>O3 sensor</li>
+<li>Air pollutants sensor I (C4H10, CH3CH2OH, H2, CO, CH4)</li>
+<li>Air pollutants sensor II (C6H5CH3, H2S, CH3CH2OH, NH3, H2)</li>
+<li>CO2 sensor</li>
+<li>NO2 sensor</li>
+<li>Sound pressure sensor</li>
+<li>Luminosity sensor</li>
+<li>Dust sensor</li>
+</ol>
+<h2 id="esum-project-descriptionref">ESUM project description<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></h2>
+<p>In this research project, we investigate the impacts of urban morphology (UM) on citizen&rsquo;s social potential as a function of accessibility and perception and compare it with the impacts of UM on building energy consumption for parallel case studies in Zürich Switzerland and Weimar Germany. This is of particular interest since urban planning decisions of urban morphology have long–term implications that affect not only the energy performance of the building stock but also on people&rsquo;s experiential quality of the city environment.</p>
+<p>In order to understand, measure and predict the impacts of UM on the perception of citizens we developed a three-tiered empirical study, which draws upon the participants&rsquo; experiences in a real-world experiment, along with two controlled experiments using a 360­degree video and a gray-scaled 3D virtual reality (VR) model of the city. All three experiments are conducted using the same pre­defined path in each of the two cities, for a total of six participant based experiments. In each experiment, the participants subjectively rate the urban environment through surveys for an understanding of their explicit perception.</p>
+<p>We also go beyond subjective impression ratings to gain further insight into the implicit perception of the participants by simultaneously measuring electro-dermal activity (EDA) data collected via wearable devices. The EDA data is processed to quantify the frequency, duration, and location of arousals along the experimental path to show a measure of excitation. The explicit perception data provides the sentiment of the experience such as spacious/narrow, beautiful/ugly, or private/public (among others) while the implicit perception provides the “raw” arousal-based perception from participants.</p>
+<p>We also consider the impacts of urban environment features on perception, including temperature, illuminance, sound, and dust using data collected via a “sensor-backpack,” specifically designed for the use in the real-world participant studies. The data produced from this experiment is highly complex; the seven sensors have varying frequencies and varying temporal dependencies. We, therefore, developed an information fusion mechanism to combine the spatial-temporal data to produce a structured dataset, which is analyzed using four state-of-the-art Machine Learning algorithms. The quantified physiological responses or “human perception” data are paired with the sensor-based environmental measurements using Machine Learning based knowledge discovery approaches. These include classification, fuzzy rule-based inference, feature selection, and clustering to derive underlying relationships between participants’ physiological response and environmental conditions. The results indicate that the participant’s implicit responses are affected by both urban morphological features measured as participant field-of-view and street width as well as the dynamic environmental features temperature, noise levels, illuminance and traffic speed.</p>
+<!--
+ESUM is currently a joint research project between The Chair of Information Architecture ETH Zurich and Bauhaus-University of Weimar, with ties to other interdisciplinary research groups at ETH Zurich and the [Future Cities Lab ETH](http://www.fcl.ethz.ch) in Singapore.
+-->
+<!--
+ESUM Project repository: [https://github.com/vojha-code/ESUM-project](https://github.com/vojha-code/ESUM-project)
+-->
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Ojha, Varun Kumar, Danielle Griego, Saskia Kuliga, Martin Bielik, Peter Buš, Charlotte Schaeben, Lukas Treyer, et al. ‘Machine Learning Approaches to Understand the Influence of Urban Environments on Human’s Physiological Response’. Information Sciences 474 (1 February 2019): 154–69. <a href="https://doi.org/10.1016/j.ins.2018.09.061" target="_blank" rel="noopener">https://doi.org/10.1016/j.ins.2018.09.061</a>. Project repository: <a href="https://github.com/vojha-code/ESUM-project" target="_blank" rel="noopener">ESUM-project</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://archive.arch.ethz.ch/esum/about.html#esum" target="_blank" rel="noopener">https://archive.arch.ethz.ch/esum/about.html#esum</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/prototype/">prototype</a>
+  
+  <a class="badge badge-light" href="/tag/urban-analysis/">urban analysis</a>
+  
+  <a class="badge badge-light" href="/tag/urban-morphology/">urban morphology</a>
+  
+  <a class="badge badge-light" href="/tag/sensor-logging/">sensor logging</a>
+  
+  <a class="badge badge-light" href="/tag/esum/">ESUM</a>
+  
+  <a class="badge badge-light" href="/tag/eth/">ETH</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu8eb1854261df403bfbda5baeb7d9dcee_17003_270x270_fill_q75_lanczos_center.jpg" alt="Constantinos Miltiadis"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Constantinos Miltiadis</a></h5>
+      <h6 class="card-subtitle">Transdisciplinary architect &amp; design researcher</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:c.miltiadis@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-5279-8040" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=YM-ZEk8AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Constantinos-Miltiadis" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cmiltiadis" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/constantinosmiltiadis/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/studioany" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/cmiltiadis-cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/17-esum/" >ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp; 360 Videos</a>
+    </div>
+
+    
+    <a href="/publication/17-esum/"  class="summary-link">
+      <div class="article-style">
+        Report for the ESUM project by ETH Zurich and Future Cities Lab ETH Singapore; 2017.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/danielle-griego/">Danielle Griego</a></span>, <span >
+      <a href="/authors/saskia-kuliga/">Saskia Kuliga</a></span>, <span >
+      <a href="/authors/martin-bielik/">Martin Bielik</a></span>, <span >
+      <a href="/authors/matthias-standfest/">Matthias Standfest</a></span>, <span >
+      <a href="/authors/varun-kumar-ojha/">Varun Kumar Ojha</a></span>, <span >
+      <a href="/authors/sven-schneider/">Sven  Schneider</a></span>, <span >
+      <a href="/authors/reinhard-konig/">Reinhard König</a></span>, <span >
+      <a href="/authors/donath-dirk/">Donath Dirk</a></span>, <span >
+      <a href="/authors/gerhard-schmitt/">Gerhard Schmitt</a></span>, <span class="author-highlighted">
+      <a href="/authors/admin/">Constantinos Miltiadis</a></span>, <span >
+      <a href="/authors/allesandro-forino/">Allesandro Forino</a></span>, <span >
+      <a href="/authors/brigitte-clements/">Brigitte  Clements</a></span>, <span >
+      <a href="/authors/ashris-choudhury/">Ashris  Choudhury</a></span>, <span >
+      <a href="/authors/riccardo-joss/">Riccardo Joss</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/17-esum/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/esum/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.3929/ethz-b-000184587" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publications/17-griego-and-colleagues-esum-report.pdf" >
+    <i class="fas fa-file-pdf mr-1"></i>PDF</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      <a href="/publication/17-esum/" >
+        <img src="/publication/17-esum/featured_huc7759786fd1a0859d545bcff72633eaa_72369_150x0_resize_q75_h2_lanczos_3.webp" height="83" width="150"
+            alt="ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp; 360 Videos" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © studio any 2024. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.1d4346c6f7d46c340dc0a9058dd85c13.js"></script>
+
+
+
+
+  
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.c84202fca2a6efbbecbaf0e8358c1d51.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

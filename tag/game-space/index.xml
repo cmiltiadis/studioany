@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game space | studio any</title>
+    <link>https://example.com/tag/game-space/</link>
+      <atom:link href="https://example.com/tag/game-space/index.xml" rel="self" type="application/rss+xml" />
+    <description>game space</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2019 10:00:03 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>game space</title>
+      <link>https://example.com/tag/game-space/</link>
+    </image>
+    
+    <item>
+      <title>The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics</title>
+      <link>https://example.com/event/continuum-cologne/</link>
+      <pubDate>Mon, 18 Mar 2019 10:00:03 +0300</pubDate>
+      <guid>https://example.com/event/continuum-cologne/</guid>
+      <description>&lt;p&gt;Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.&lt;/p&gt;
+&lt;p&gt;Thus, the participants will thematise aesthetics of reception as well as aesthetics of production and approach the complex constitution of computer games from a wide range of disciplines – from Media and Game Studies to Art History, Sound Studies to Architecture, Design to Phenomenology and Embodiment, as well as Spatial Theory and Cultural Studies.&lt;/p&gt;
+&lt;p&gt;The aim of the conference is to channel multi-disciplinary approaches and current research projects to fuel an interest towards an understanding of computer games as spatial, architectural or world phenomena within the current digital media culture. Furthermore, it is to explore and discuss concepts and methodologies from other disciplines and the potential transfer as useful tools in Game Studies.&lt;/p&gt;
+&lt;h1 id=&#34;workshop-programme&#34;&gt;Workshop programme&lt;/h1&gt;
+&lt;h2 id=&#34;monday-031819&#34;&gt;Monday, 03/18/19&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Distant Agricultural Splendor: National Identity, Agricultural Labor, and Space in Farming Simulator (Derek Price) 10:45 a.m.&lt;/li&gt;
+&lt;li&gt;Taking a Breath of the Wild – Paidiatic Spaces and Practices Off the Ludic Grid (Cornelia Janina Schnaars) 11:05 a.m.&lt;/li&gt;
+&lt;li&gt;Feels Right – How Atmospheres of the Past Satisfy Expectations of Authenticity (Felix Zimmermann) 11:25 a.m.&lt;/li&gt;
+&lt;li&gt;Virtual Space and Video Game Photography: Towards a Socio-Political Reading of In-Game Photography (Vladimir Rizov) 12:00 p.m.&lt;/li&gt;
+&lt;li&gt;The World Machine: Self-Reflexive Worldmaking in OneShot (Theresa Krampe) 12:20 p.m.&lt;/li&gt;
+&lt;li&gt;Towards an Operationalized Definition of Procedural Representation (Michal Švarný) 12:40 p.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcoming Speech / Introduction (Marc Bonner) 1:30 p.m.&lt;/li&gt;
+&lt;li&gt;Protean Spaces. On the Aesthetics of Reconfiguring Game Spaces (Hans-Joachim Backe) 2:00 p.m.&lt;/li&gt;
+&lt;li&gt;Learning from Las Vegas … About Video Games and Virtual Reality Experiences (Gundolf S. Freyermuth) 2:45 p.m.&lt;/li&gt;
+&lt;li&gt;Labyrinth (Rolf F. Nohr) 3:45 p.m.&lt;/li&gt;
+&lt;li&gt;Personal and Cinematic Landscapes in Games (Rune Klevjer) 4:30 p.m.&lt;/li&gt;
+&lt;li&gt;Ludoforming (Espen Aarseth) 5:30 p.m.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tuesday-031919&#34;&gt;Tuesday, 03/19/19&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Borderless Sound (Marcus Erbe) 10:00 a.m.&lt;/li&gt;
+&lt;li&gt;»I love how you can see the bottom of the universe from this room…« The Inside-Out-Architecture of Davey Wreden’s The Beginner’s Guide (Benjamin Beil) 11:00 a.m.&lt;/li&gt;
+&lt;li&gt;The Interior of Video Games (Thomas Hensel) 11:45 a.m.&lt;/li&gt;
+&lt;li&gt;Two Ways to Dwell: Hestial and Hermetic Dwelling in Digital Game Worlds (Daniel Vella) 1:30 p.m.&lt;/li&gt;
+&lt;li&gt;The ‘Lived Spaces’ of Computer Games (Stephan Günzel) 2:15 p.m.&lt;/li&gt;
+&lt;li&gt;Sense of Being Here: 3D Spaces Between Vision and Haptics (Carolin Höfler) 3:15 p.m.&lt;/li&gt;
+&lt;li&gt;The Architectural Continuum – Choropoietic Media and Post-Physical-World Spatial Aesthetics (Constantinos Miltiadis) 4:00 p.m.&lt;/li&gt;
+&lt;li&gt;Dreaming in the Witch House (Thomas Hawranke) 4:45 p.m.&lt;/li&gt;
+&lt;li&gt;Round Up Discussion 5:45 p.m.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

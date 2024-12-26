@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Fetzer | studio any</title>
+    <link>https://example.com/authors/frank-fetzer/</link>
+      <atom:link href="https://example.com/authors/frank-fetzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frank Fetzer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Apr 2018 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Frank Fetzer</title>
+      <link>https://example.com/authors/frank-fetzer/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 20: Being There in Virtual Worlds: Embodiment as Foundation of Spatial Conception in Virtual Environments</title>
+      <link>https://example.com/curation/ol/ol-20/</link>
+      <pubDate>Thu, 19 Apr 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-20/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/282863062&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Frank Fetzer&lt;/strong&gt; is a PhD candidate in the last year at the University of Vienna. He holds a master’s degree in film studies from the same institution. His work focuses mainly on phenomenological and post-phenomenological theories. Key elements of his research are embodiment, human-technology relations, cyborgs, the ontology of virtual worlds and of course the video game as such. In his dissertation project, he tries to disentangle the manifold relations between player and video game as technological artefact and extension of player and world.&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #20  
+Frank Fetzer  
+Being There in Virtual Worlds: Embodiment as Foundation of Spatial Conception in Virtual Environments  
+18:00 Thursday 19 April 2018  
+IAM Media Lab, Kronesgasse 5/III
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2018/03/OL20_Fetzer.pdf
+
+Original post: https://iam.tugraz.at/2018/03/ol_fetzer/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

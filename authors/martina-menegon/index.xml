@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martina Menegon | studio any</title>
+    <link>https://example.com/authors/martina-menegon/</link>
+      <atom:link href="https://example.com/authors/martina-menegon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martina Menegon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 May 2018 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Martina Menegon</title>
+      <link>https://example.com/authors/martina-menegon/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture &amp; VR Experience 24: Synthetic corporeality in Contemporary Digital Art Practice: Artist Talk</title>
+      <link>https://example.com/curation/ol/ol-24/</link>
+      <pubDate>Thu, 17 May 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-24/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/299012305&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;strong&gt;Martina Menegon&lt;/strong&gt; is a multimedia artist and lecturer of Virtual Reality and Interactive Arts at the University of Applied Arts in Vienna. She also regularly collaborates with Klaus Obermaier teaching multimedia tools for interactive arts and creating interactive performances and installations. Martina Menegon lives and works in Vienna, Austria.
+Martina&amp;rsquo;s work is at &lt;a href=&#34;https://martinamenegon.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://martinamenegon.xyz/&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+IAM Open Lecture # 24  
+Martina Menegon  
+Synthetic corporeality in Contemporary Digital : Artist Practice Talk &amp; VR Experience  
+18:00 Thursday May 17 2018
+IAM Media Lab, Kronesgasse 5 / III
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2018/05/OL24_Menegon.pdf
+Original post: https://iam.tugraz.at/2018/05/ol_menegon/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

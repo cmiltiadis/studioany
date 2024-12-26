@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>urban analysis | studio any</title>
+    <link>https://example.com/tag/urban-analysis/</link>
+      <atom:link href="https://example.com/tag/urban-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>urban analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2015 12:56:02 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>urban analysis</title>
+      <link>https://example.com/tag/urban-analysis/</link>
+    </image>
+    
+    <item>
+      <title>ESUM: Anthropocentric Urban Sensing Unit</title>
+      <link>https://example.com/project/esum/</link>
+      <pubDate>Fri, 06 Mar 2015 12:56:02 +0300</pubDate>
+      <guid>https://example.com/project/esum/</guid>
+      <description>&lt;!-- FIND 
+award at Falling Wall competition Paris esum
+--&gt;
+&lt;p&gt;Design, development, and documentation of the ESUM backpack, a standalone mobile prototype for an &amp;lsquo;Anthropocentric Urban Sensing Unit&amp;rsquo; at the &lt;a href=&#34;http://www.ia.arch.ethz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair of Information Architecture&lt;/a&gt; ETH Zurich.&lt;/p&gt;
+&lt;p&gt;The ESUM project was initiated by  &lt;a href=&#34;../../authors/reinhard-konig&#34;&gt;Reinhard König&lt;/a&gt; at ETH Zurich. The concept behind the backpack sensor prototype was to develop a mobile sensor unit to measure, analyse and correlate both ambient and biometric data from a subject’s itinerary in an urban context, and eventually correlate environmental qualities with psychosomatic effects.&lt;/p&gt;
+&lt;p&gt;The ESUM backpack sensor prototype was developed and documented with the intention to be easily replicated by the different research labs associated with the project. It includes several off the shelf electronics components, a custom housing that can fit in a small backpack, and custom software for logging sensor values.
+The software was developed as a Visual Studio C# console application, and is responsible for synchronous data logging from the different sensor units with varying frequencies and temporal dependencies &amp;ndash; sensor fusion and analysis was implemented via machine learning at a later stage of the project (see Ojha et al. 2019).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+The ESUM case is made from plywood and plexiglas, and can be laser cut and assembled in less than 1 hour.&lt;/p&gt;
+&lt;p&gt;This work is part of &lt;em&gt;&lt;a href=&#34;https://archive.arch.ethz.ch/esum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESUM­-Analysing trade­offs between the energy and social performance of urban morphologies&lt;/a&gt;&lt;/em&gt;, a joint project between the Chair of Information Architecture, ETH Zurich, Zurich, Switzerland and the Chair of Computer Science for Architecture, Bauhaus ­University Weimar; supported by the Swiss SNF and the German DFG funding programs.&lt;/p&gt;
+&lt;h2 id=&#34;esum-backpack-prototype&#34;&gt;ESUM backpack prototype&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-1-Assembly-diagram.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-1-Assembly-diagram_hu95f02b9271e3aae7dd83a7c5c743a416_26139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-1-Assembly-diagram.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-2-sf_img_3747_800.PNG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-2-sf_img_3747_800_hued852d73d76c1551ccdd5b7e7203956f_330358_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-2-sf_img_3747_800.PNG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-3-IMG_3646-w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-3-IMG_3646-w_hu9e733d373b4a8999faad40990483dd0c_21775_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-3-IMG_3646-w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-4-sf_img_3642_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-4-sf_img_3642_800_hu27f8e824c089a9f6ef65e1a88fdff233_166947_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-4-sf_img_3642_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-5-sf_img_3648_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-5-sf_img_3648_800_hu1d20588b06b062edfcfd372c0ae3b13f_190175_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-5-sf_img_3648_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-6-IMG_3622_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-6-IMG_3622_800_huffd2f7972b1d771be787de989e0fd64b_23846_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-6-IMG_3622_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-7-sf_IMG_3667_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-7-sf_IMG_3667_800_hu4b1d7ee142473ccb201a25f47ad7f806_19851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-7-sf_IMG_3667_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-8-sf_img_3657_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-8-sf_img_3657_800_hub71362fa4aaf47ddad6b06d3b924a662_154389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-8-sf_img_3657_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;prototype-parts&#34;&gt;Prototype parts&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Barebone PC&lt;/li&gt;
+&lt;li&gt;Battery unit&lt;/li&gt;
+&lt;li&gt;Emotiv Epoc+ 16 point wireless EEG&lt;/li&gt;
+&lt;li&gt;Libelium Meshlium WiFi sniffer&lt;/li&gt;
+&lt;li&gt;Empatica E4 biometric watch (electrodermal activity, photoplethysmography, peripheral temperature, motion)&lt;/li&gt;
+&lt;li&gt;GPS unit&lt;/li&gt;
+&lt;li&gt;Atmospheric pressure sensor&lt;/li&gt;
+&lt;li&gt;Temperature sensor&lt;/li&gt;
+&lt;li&gt;Humidity sensor&lt;/li&gt;
+&lt;li&gt;O3 sensor&lt;/li&gt;
+&lt;li&gt;Air pollutants sensor I (C4H10, CH3CH2OH, H2, CO, CH4)&lt;/li&gt;
+&lt;li&gt;Air pollutants sensor II (C6H5CH3, H2S, CH3CH2OH, NH3, H2)&lt;/li&gt;
+&lt;li&gt;CO2 sensor&lt;/li&gt;
+&lt;li&gt;NO2 sensor&lt;/li&gt;
+&lt;li&gt;Sound pressure sensor&lt;/li&gt;
+&lt;li&gt;Luminosity sensor&lt;/li&gt;
+&lt;li&gt;Dust sensor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;esum-project-descriptionref&#34;&gt;ESUM project description&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;In this research project, we investigate the impacts of urban morphology (UM) on citizen&amp;rsquo;s social potential as a function of accessibility and perception and compare it with the impacts of UM on building energy consumption for parallel case studies in Zürich Switzerland and Weimar Germany. This is of particular interest since urban planning decisions of urban morphology have long–term implications that affect not only the energy performance of the building stock but also on people&amp;rsquo;s experiential quality of the city environment.&lt;/p&gt;
+&lt;p&gt;In order to understand, measure and predict the impacts of UM on the perception of citizens we developed a three-tiered empirical study, which draws upon the participants&amp;rsquo; experiences in a real-world experiment, along with two controlled experiments using a 360­degree video and a gray-scaled 3D virtual reality (VR) model of the city. All three experiments are conducted using the same pre­defined path in each of the two cities, for a total of six participant based experiments. In each experiment, the participants subjectively rate the urban environment through surveys for an understanding of their explicit perception.&lt;/p&gt;
+&lt;p&gt;We also go beyond subjective impression ratings to gain further insight into the implicit perception of the participants by simultaneously measuring electro-dermal activity (EDA) data collected via wearable devices. The EDA data is processed to quantify the frequency, duration, and location of arousals along the experimental path to show a measure of excitation. The explicit perception data provides the sentiment of the experience such as spacious/narrow, beautiful/ugly, or private/public (among others) while the implicit perception provides the “raw” arousal-based perception from participants.&lt;/p&gt;
+&lt;p&gt;We also consider the impacts of urban environment features on perception, including temperature, illuminance, sound, and dust using data collected via a “sensor-backpack,” specifically designed for the use in the real-world participant studies. The data produced from this experiment is highly complex; the seven sensors have varying frequencies and varying temporal dependencies. We, therefore, developed an information fusion mechanism to combine the spatial-temporal data to produce a structured dataset, which is analyzed using four state-of-the-art Machine Learning algorithms. The quantified physiological responses or “human perception” data are paired with the sensor-based environmental measurements using Machine Learning based knowledge discovery approaches. These include classification, fuzzy rule-based inference, feature selection, and clustering to derive underlying relationships between participants’ physiological response and environmental conditions. The results indicate that the participant’s implicit responses are affected by both urban morphological features measured as participant field-of-view and street width as well as the dynamic environmental features temperature, noise levels, illuminance and traffic speed.&lt;/p&gt;
+&lt;!--
+ESUM is currently a joint research project between The Chair of Information Architecture ETH Zurich and Bauhaus-University of Weimar, with ties to other interdisciplinary research groups at ETH Zurich and the [Future Cities Lab ETH](http://www.fcl.ethz.ch) in Singapore.
+--&gt;
+&lt;!--
+ESUM Project repository: [https://github.com/vojha-code/ESUM-project](https://github.com/vojha-code/ESUM-project)
+--&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Ojha, Varun Kumar, Danielle Griego, Saskia Kuliga, Martin Bielik, Peter Buš, Charlotte Schaeben, Lukas Treyer, et al. ‘Machine Learning Approaches to Understand the Influence of Urban Environments on Human’s Physiological Response’. Information Sciences 474 (1 February 2019): 154–69. &lt;a href=&#34;https://doi.org/10.1016/j.ins.2018.09.061&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ins.2018.09.061&lt;/a&gt;. Project repository: &lt;a href=&#34;https://github.com/vojha-code/ESUM-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESUM-project&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.arch.ethz.ch/esum/about.html#esum&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://archive.arch.ethz.ch/esum/about.html#esum&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

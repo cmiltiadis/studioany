@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial audio | studio any</title>
+    <link>https://example.com/category/spatial-audio/</link>
+      <atom:link href="https://example.com/category/spatial-audio/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial audio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:00:32 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>spatial audio</title>
+      <link>https://example.com/category/spatial-audio/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Acoustic Ecologies</title>
+      <link>https://example.com/course/virtual-acoustic-ecologies-2024/</link>
+      <pubDate>Wed, 28 Aug 2024 09:00:32 +0300</pubDate>
+      <guid>https://example.com/course/virtual-acoustic-ecologies-2024/</guid>
+      <description>&lt;p&gt;Week-long workshop focusing the exploration of architectural acoustics through experimental game design.
+The course was developed and taught together with Achilleas Xydis (AA Lab, ETH Zurich).&lt;/p&gt;
+&lt;p&gt;Seminar week; Winter semester 2024&lt;br&gt;
+&lt;a href=&#34;https://aa.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Architectural Acoustics Lab&lt;/a&gt;; &lt;a href=&#34;https://gramaziokohler.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gramazio Kohler Research&lt;/a&gt;&lt;br&gt;
+Department of Architecture, ETH Zurich.&lt;/p&gt;
+&lt;h1 id=&#34;workshop-brief&#34;&gt;Workshop brief&lt;/h1&gt;
+&lt;p&gt;This seminar uses experimental game design to explore acoustic qualities of architectural space, which are often neglected in visual-based design processes however, are irreducible counterparts of spatial experience. The course begins with a practical exploration of architectural acoustic through playful exercises to cultivate auditory sensibilities of architectural environments. It then introduces the Unity game engine through design experiments focusing on the acoustics of virtual environments. Throughout the week, participants develop their own playable experience using acoustics as a design driver to express different qualities of architectural space. The week closes with a public exhibition of all projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond the Visual</title>
+      <link>https://example.com/course/beyond-the-visual/</link>
+      <pubDate>Sat, 13 Oct 2018 09:00:32 +0300</pubDate>
+      <guid>https://example.com/course/beyond-the-visual/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/297305474&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+pictures (from FB by)
+
+1. Ada Trybuchowicz
+2. Anna Zagrodzka
+3. Aleksander Brylski See less
+--&gt;
+&lt;!--
+
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#outline--documentation&#34;&gt;Outline &amp;amp; documentation&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#documentation&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#workshop-information&#34;&gt;Workshop information&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-brief&#34;&gt;Workshop brief&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-process&#34;&gt;Workshop process&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#lectures&#34;&gt;Lectures&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#presentation--exhibition&#34;&gt;Presentation &amp;amp; exhibition&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#workshop-credits&#34;&gt;Workshop credits&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-participants&#34;&gt;Workshop participants&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#hardware-sponsorship&#34;&gt;Hardware sponsorship&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#teaching-assistants&#34;&gt;Teaching assistants&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#spatial-audio-piece&#34;&gt;Spatial audio piece&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#teachers&#34;&gt;Teachers&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-process--exhibition&#34;&gt;Workshop process &amp;amp; exhibition&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#vr-scenes&#34;&gt;VR scenes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+--&gt;
+&lt;h2 id=&#34;outline--documentation&#34;&gt;Outline &amp;amp; documentation&lt;/h2&gt;
+&lt;p&gt;Full-week workshop in the context of the 2018 Architectural Festival &lt;em&gt;Vision&lt;/em&gt;, upon invitation from the Polish Association of Architecture Students (OSSA). October 13-21 2018, Łodz, Poland.
+The workshop was designed to focus on auditory aspects of spatial cognition, and included the participation of spatial audio composer and sound artist Gerriet K. Sharma in the first half. The workshop resulted in a collectively-developed 10-minute VR experience of spaces &amp;lsquo;heard&amp;rsquo; in blindfolded listening sessions of the spatial audio piece &amp;lsquo;grrawe&amp;rsquo; (Gerriet K. Sharma 2010).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Type&lt;/td&gt;
+&lt;td&gt;Workshop; extra-academic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Context&lt;/td&gt;
+&lt;td&gt;OSSA Architecture Festival 2018 &amp;lsquo;Vision&amp;rsquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;Full week (13-20.10.2018)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participants&lt;/td&gt;
+&lt;td&gt;7 (architecture students)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Output&lt;/td&gt;
+&lt;td&gt;Collective VR application (HTC Vive)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Presentation &amp;amp; exhibition&lt;/td&gt;
+&lt;td&gt;Art Inkubator, Łodz, 20.10.2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A Research Catalogue exposition that provides an extensive documentation and discussion of the workshop&amp;rsquo;s curriculum, process, aims and outcomes was published in:
+&lt;ul&gt;
+&lt;li&gt;Miltiadis, Constantinos, and Gerriet K. Sharma. ‘&lt;a href=&#34;../../../publication/21-jar&#34;&gt;Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments&lt;/a&gt;’. &lt;em&gt;Journal for Artistic Research&lt;/em&gt;, no. 24 (27 September 2021). &lt;a href=&#34;https://www.researchcatalogue.net/view/815001/815002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchcatalogue.net/view/815001/815002&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A conventional, non-VR version of the experience for Windows and OSX is archived on &lt;a href=&#34;https://studioany.itch.io/beyond-the-visual&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshop-information&#34;&gt;Workshop information&lt;/h2&gt;
+&lt;h3 id=&#34;workshop-brief&#34;&gt;Workshop brief&lt;/h3&gt;
+&lt;p&gt;This workshop intends to explore architectural sensibilities beyond the “Visual” that the event title suggests. Starting from acoustic field experiments, participants will be called to analyze the -emergent- sonic dimension of the built environment. Developing an awareness of the essential role that sound plays in our perception and cognition of space, we will experiment with an architectural composition that uses sound objects as building material. Contrary to the conceptual sphere of architecture which excludes such phenomena, we propose an approach intended to deepen the understanding of the non-visual aesthetics embedded in architecture. Introducing readings from various disciplines and working with both temporal and spatial digital media, the workshop intends to experiment with the spatiotemporal production of our lived environments, and eventually develop such prototypes in the virtual reality medium.&lt;/p&gt;
+&lt;h3 id=&#34;workshop-process&#34;&gt;Workshop process&lt;/h3&gt;
+&lt;p&gt;The workshop began with readings and listening exercises for developing sensibilities and vocabularies on aural aspects of spatial cognition.
+The second half of the workshop started with blindfolded listening sessions of  the spatial audio piece ‘&lt;em&gt;grrawe&lt;/em&gt;‘ (Gerriet K. Sharma), where participants were asked to visualize the spaces and environments they heard into sketches. Eventually the sketches were transposed to individual Unity scenes and assembled into a 10-minute VR experience of 8 different spatiotemporal environments that follow the piece.&lt;/p&gt;
+&lt;h3 id=&#34;lectures&#34;&gt;Lectures&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;The Aesthetics of Presence in Inconstructible Spaces I &amp;amp; II&lt;/em&gt; &amp;ndash; public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łodz.&lt;/p&gt;
+&lt;h3 id=&#34;presentation--exhibition&#34;&gt;Presentation &amp;amp; exhibition&lt;/h3&gt;
+&lt;p&gt;The workshop participants held a presentation and exhibition of the workshop outcomes on Saturday, October 21, at the Art Inkubator, in Łodz.&lt;/p&gt;
+&lt;h2 id=&#34;workshop-credits&#34;&gt;Workshop credits&lt;/h2&gt;
+&lt;h3 id=&#34;workshop-participants&#34;&gt;Workshop participants&lt;/h3&gt;
+&lt;p&gt;Kelly Babbar&lt;br&gt;
+Aleksandra Bartczak&lt;br&gt;
+Rafał Golczyk&lt;br&gt;
+Jakub Gondorowicz&lt;br&gt;
+Joanna Lipnicka&lt;br&gt;
+Karol Wawrzkiewicz&lt;br&gt;
+Maja Wrzeszcz&lt;/p&gt;
+&lt;h3 id=&#34;hardware-sponsorship&#34;&gt;Hardware sponsorship&lt;/h3&gt;
+&lt;p&gt;HTC Vive system and PC workstation courtesy of HP for OSSA 2018&lt;/p&gt;
+&lt;h3 id=&#34;teaching-assistants&#34;&gt;Teaching assistants&lt;/h3&gt;
+&lt;p&gt;Maja Piechowiak&lt;br&gt;
+Ihor Savchenko&lt;/p&gt;
+&lt;h3 id=&#34;spatial-audio-piece&#34;&gt;Spatial audio piece&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gksh.net/portfolio/grrawe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grrawe&lt;/a&gt; (spatial audio composition for an 8-channel loudspeaker ring; 2009-2010) by Gerriet K. Sharma&lt;/p&gt;
+&lt;h3 id=&#34;teachers&#34;&gt;Teachers&lt;/h3&gt;
+&lt;p&gt;Constantinos Miltiadis&lt;br&gt;
+Gerriet K. Sharma&lt;/p&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
+&lt;h3 id=&#34;workshop-process--exhibition&#34;&gt;Workshop process &amp;amp; exhibition&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600_hube6bb4ed874a916fde1fb2c64d291aea_114363_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-blindfolded-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600_hu51e9fb1066ac67e625ebea43e34d0b37_142480_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition_1600.jpg&#34; width=&#34;750&#34; height=&#34;421&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600_hu313d495d4d5ee7e31a1d393a45655b37_91163_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600_hu55c22af62a70e5ae80aa19112db30103_103129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600_hu016726fc0ba059df39e9aaeec42d2226_171463_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600_hu4f3f6f4783d4cfed8d361ec656384698_221995_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600_huf60464d257dbb9814963a25881727e63_92402_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-presentation_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600_hu494306931d7ed85cab50892e83d5bb4e_90111_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-testing_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600_hu7eeeec678c2f4eee6365f2f4572badcf_120823_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-text-reading_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600_hucc4f218eecad616dec105c7edd9c06b5_82294_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-timeline_1600.jpg&#34; width=&#34;421&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;vr-scenes&#34;&gt;VR scenes&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600_hu6c884ba0727840a40001dde293477b38_30914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600_hu8018b5678e1cfe3edc47b99c1e1f9c2f_69219_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600_hu6228bf9d442057a94c03dfd04a3914e1_41850_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-3_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600_hud55ea90cded625f0657f227658b34697_18394_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-4_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600_huc73657eef5fcc7a344f0a02a7c4c249b_46616_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-5_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600_hu081d04adc2ea2c762e0e42edc73bd27d_16426_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-6_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600_hu8a09cfb85ff4eeb3c91a111839b4720d_82886_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-7_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600_hu9f31cc87afa9fe5e70bcf75990b2def7_15977_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-8_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>reset.discover</title>
+      <link>https://example.com/project/reset-discover/</link>
+      <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
+      <guid>https://example.com/project/reset-discover/</guid>
+      <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
+The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.
+These are correlated to physical-visual objects in the spatial simulation of the 3D virtual environment, sequenced to follow the behavior of their sonic doubles.
+Participants &lt;em&gt;enter&lt;/em&gt; the piece using a VR headset which allows to experience the piece interactively by exploring different perspectives into its spatial-visual (interactive stereoscopic VR) and spatial-aural (interactive binaural audio) dimensions.&lt;/p&gt;
+&lt;p&gt;The piece is discussed further in the thesis of Antonia Manhartsberger titled “&lt;em&gt;Das soziopolitische Potential von Raummusik im Angesicht zeitgenössischer Gestaltungsmöglichkeiten&lt;/em&gt;”,  presented at IEM in June 2018.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/298533739&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;First presented at the CUBE Concert, Institute of Electronic Music (IEM), University of Music and Performing Arts Graz. January 31 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elevate.at/websites/2019/en/arts/programme/e19resetdiscover/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exhibited at the Orpheum Extra, part of the Arts Programme, at Elevate 2019 festival&lt;/a&gt;. March 2 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antonia Manhartsberger: Concept and spatial audio composition&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis: Concept and virtual environment programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Fraser | studio any</title>
+    <link>https://example.com/authors/emma-fraser/</link>
+      <atom:link href="https://example.com/authors/emma-fraser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emma Fraser</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Emma Fraser</title>
+      <link>https://example.com/authors/emma-fraser/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 8: Ruined cities, video games, and digital space: virtual-material feedback</title>
+      <link>https://example.com/curation/ol/ol-8/</link>
+      <pubDate>Wed, 24 May 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-8/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/219969675&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Emma Fraser&lt;/strong&gt; is a final year PhD candidate at the University of Manchester, researching video games, virtual architecture, and urban decay. Emma’s work is focused on 3D and digital space in terms of meaning production, urban play, and design. In particular, Emma considers the depiction and navigation of ruined cities in games in relation to urban experience and the writings of Walter Benjamin, Caillois, Lefebvre, and others, and her research has been published in games studies, urban studies, geography, sociology, and art media. Emma’s work broadly considers regeneration, urban exploration, and modern ruins, and has focused on fieldwork and embodied experience in Detroit, Chernobyl, Berlin, Paris, New York, Sydney, Christchurch (NZ), and elsewhere. Emma has been invited to work collaboratively with Practising Place and The Arca Project, and is a member of the Playful Mapping Collective. Emma is currently a research assistant on The Craft of Play at Manchester Metropolitan University, and a key investigator on the Urban Planning through Playful Participation (UPPP) PoC, in progress at the University of Warwick.&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #8  
+Emma Fraser „Ruined cities, video games, and digital space: virtual-material feedback“  
+18:00 Wednesday 24 May 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/05/Fraser_OL8.pdf
+Original post: https://iam.tugraz.at/2017/05/open-lecture-8-emma-fraser-ruined-cities-video-games-and-digital-space-virtual-material-feedback/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asya Ilgun | studio any</title>
+    <link>https://example.com/authors/asya-ilgun/</link>
+      <atom:link href="https://example.com/authors/asya-ilgun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asya Ilgun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Asya Ilgun</title>
+      <link>https://example.com/authors/asya-ilgun/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 15: The Designed and Self-organized. Coupling distinct paradigms of deposition-based construction</title>
+      <link>https://example.com/curation/ol/ol-15/</link>
+      <pubDate>Wed, 22 Nov 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-15/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/253029359&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Asya Ilgun&lt;/strong&gt; is an architect, computational designer and researcher. Her main territory of “design research” is framed as smart ways of using the additive manufacturing (in particular deposition based) technologies to make new types of structures that breed the questioning of architectural boundaries, supporting the dual occupancy of humans and bees. Asya was trained as an architect, acquiring her Masters in Architecture within the programme CITAstudio: “Computation in Architecture,” at KADK in June 2016. Currently, she is doing her pre-doctoral research at the interdisciplinary environment of the Artificial Life Lab of the Karl Franzens Uinversity of Graz.&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #15
+Asya Ilgun  
+The Designed and Self-organized. Coupling distinct paradigms of deposition-based construction  
+18:00 Wednesday 22 November 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/11/OL_15_Ilgun.pdf
+
+Original post: https://iam.tugraz.at/2017/11/ol16-ilgun/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

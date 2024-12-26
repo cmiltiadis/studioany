@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ricardo de Ostos | studio any</title>
+    <link>https://example.com/authors/ricardo-de-ostos/</link>
+      <atom:link href="https://example.com/authors/ricardo-de-ostos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ricardo de Ostos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2019 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Ricardo de Ostos</title>
+      <link>https://example.com/authors/ricardo-de-ostos/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 28: Scavengers and Other Creatures</title>
+      <link>https://example.com/curation/ol/ol-28/</link>
+      <pubDate>Fri, 17 May 2019 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-28/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/340734144&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Ricardo de Ostos&lt;/strong&gt; creates speculative fictions that envision architectural projects in shifting environmental and cultural contexts. He lives, works and teaches in London at both, the Architectural Association and The Bartlett School of Architecture. He is the co-director of NaJa &amp;amp; deOstos studio and co-author of ‘The Hanging Cemetery of Baghdad’ (Springer Wien/New York, 2006) ‘Ambiguous Spaces’ (Princeton Press, 2007) and ‘Scavengers and Other Creatures in Promised Lands’ (AA, 2017).&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #28  
+Ricardo de Ostos  
+Scavengers and Other Creatures  
+18:00 Friday May 17 2019  
+IAM Media Lab, Kronesgasse 5/III
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2019/05/OL28_deOstos.pdf
+Original post: https://iam.tugraz.at/2019/05/ol_deostos/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

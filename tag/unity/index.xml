@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity | studio any</title>
+    <link>https://example.com/tag/unity/</link>
+      <atom:link href="https://example.com/tag/unity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:00:32 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Unity</title>
+      <link>https://example.com/tag/unity/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Acoustic Ecologies</title>
+      <link>https://example.com/course/virtual-acoustic-ecologies-2024/</link>
+      <pubDate>Wed, 28 Aug 2024 09:00:32 +0300</pubDate>
+      <guid>https://example.com/course/virtual-acoustic-ecologies-2024/</guid>
+      <description>&lt;p&gt;Week-long workshop focusing the exploration of architectural acoustics through experimental game design.
+The course was developed and taught together with Achilleas Xydis (AA Lab, ETH Zurich).&lt;/p&gt;
+&lt;p&gt;Seminar week; Winter semester 2024&lt;br&gt;
+&lt;a href=&#34;https://aa.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Architectural Acoustics Lab&lt;/a&gt;; &lt;a href=&#34;https://gramaziokohler.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gramazio Kohler Research&lt;/a&gt;&lt;br&gt;
+Department of Architecture, ETH Zurich.&lt;/p&gt;
+&lt;h1 id=&#34;workshop-brief&#34;&gt;Workshop brief&lt;/h1&gt;
+&lt;p&gt;This seminar uses experimental game design to explore acoustic qualities of architectural space, which are often neglected in visual-based design processes however, are irreducible counterparts of spatial experience. The course begins with a practical exploration of architectural acoustic through playful exercises to cultivate auditory sensibilities of architectural environments. It then introduces the Unity game engine through design experiments focusing on the acoustics of virtual environments. Throughout the week, participants develop their own playable experience using acoustics as a design driver to express different qualities of architectural space. The week closes with a public exhibition of all projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond the Visual</title>
+      <link>https://example.com/course/beyond-the-visual/</link>
+      <pubDate>Sat, 13 Oct 2018 09:00:32 +0300</pubDate>
+      <guid>https://example.com/course/beyond-the-visual/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/297305474&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+pictures (from FB by)
+
+1. Ada Trybuchowicz
+2. Anna Zagrodzka
+3. Aleksander Brylski See less
+--&gt;
+&lt;!--
+
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#outline--documentation&#34;&gt;Outline &amp;amp; documentation&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#documentation&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#workshop-information&#34;&gt;Workshop information&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-brief&#34;&gt;Workshop brief&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-process&#34;&gt;Workshop process&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#lectures&#34;&gt;Lectures&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#presentation--exhibition&#34;&gt;Presentation &amp;amp; exhibition&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#workshop-credits&#34;&gt;Workshop credits&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-participants&#34;&gt;Workshop participants&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#hardware-sponsorship&#34;&gt;Hardware sponsorship&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#teaching-assistants&#34;&gt;Teaching assistants&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#spatial-audio-piece&#34;&gt;Spatial audio piece&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#teachers&#34;&gt;Teachers&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#workshop-process--exhibition&#34;&gt;Workshop process &amp;amp; exhibition&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#vr-scenes&#34;&gt;VR scenes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+--&gt;
+&lt;h2 id=&#34;outline--documentation&#34;&gt;Outline &amp;amp; documentation&lt;/h2&gt;
+&lt;p&gt;Full-week workshop in the context of the 2018 Architectural Festival &lt;em&gt;Vision&lt;/em&gt;, upon invitation from the Polish Association of Architecture Students (OSSA). October 13-21 2018, Łodz, Poland.
+The workshop was designed to focus on auditory aspects of spatial cognition, and included the participation of spatial audio composer and sound artist Gerriet K. Sharma in the first half. The workshop resulted in a collectively-developed 10-minute VR experience of spaces &amp;lsquo;heard&amp;rsquo; in blindfolded listening sessions of the spatial audio piece &amp;lsquo;grrawe&amp;rsquo; (Gerriet K. Sharma 2010).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Type&lt;/td&gt;
+&lt;td&gt;Workshop; extra-academic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Context&lt;/td&gt;
+&lt;td&gt;OSSA Architecture Festival 2018 &amp;lsquo;Vision&amp;rsquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;Full week (13-20.10.2018)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participants&lt;/td&gt;
+&lt;td&gt;7 (architecture students)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Output&lt;/td&gt;
+&lt;td&gt;Collective VR application (HTC Vive)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Presentation &amp;amp; exhibition&lt;/td&gt;
+&lt;td&gt;Art Inkubator, Łodz, 20.10.2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A Research Catalogue exposition that provides an extensive documentation and discussion of the workshop&amp;rsquo;s curriculum, process, aims and outcomes was published in:
+&lt;ul&gt;
+&lt;li&gt;Miltiadis, Constantinos, and Gerriet K. Sharma. ‘&lt;a href=&#34;../../../publication/21-jar&#34;&gt;Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments&lt;/a&gt;’. &lt;em&gt;Journal for Artistic Research&lt;/em&gt;, no. 24 (27 September 2021). &lt;a href=&#34;https://www.researchcatalogue.net/view/815001/815002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchcatalogue.net/view/815001/815002&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A conventional, non-VR version of the experience for Windows and OSX is archived on &lt;a href=&#34;https://studioany.itch.io/beyond-the-visual&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itch.io&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshop-information&#34;&gt;Workshop information&lt;/h2&gt;
+&lt;h3 id=&#34;workshop-brief&#34;&gt;Workshop brief&lt;/h3&gt;
+&lt;p&gt;This workshop intends to explore architectural sensibilities beyond the “Visual” that the event title suggests. Starting from acoustic field experiments, participants will be called to analyze the -emergent- sonic dimension of the built environment. Developing an awareness of the essential role that sound plays in our perception and cognition of space, we will experiment with an architectural composition that uses sound objects as building material. Contrary to the conceptual sphere of architecture which excludes such phenomena, we propose an approach intended to deepen the understanding of the non-visual aesthetics embedded in architecture. Introducing readings from various disciplines and working with both temporal and spatial digital media, the workshop intends to experiment with the spatiotemporal production of our lived environments, and eventually develop such prototypes in the virtual reality medium.&lt;/p&gt;
+&lt;h3 id=&#34;workshop-process&#34;&gt;Workshop process&lt;/h3&gt;
+&lt;p&gt;The workshop began with readings and listening exercises for developing sensibilities and vocabularies on aural aspects of spatial cognition.
+The second half of the workshop started with blindfolded listening sessions of  the spatial audio piece ‘&lt;em&gt;grrawe&lt;/em&gt;‘ (Gerriet K. Sharma), where participants were asked to visualize the spaces and environments they heard into sketches. Eventually the sketches were transposed to individual Unity scenes and assembled into a 10-minute VR experience of 8 different spatiotemporal environments that follow the piece.&lt;/p&gt;
+&lt;h3 id=&#34;lectures&#34;&gt;Lectures&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;The Aesthetics of Presence in Inconstructible Spaces I &amp;amp; II&lt;/em&gt; &amp;ndash; public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łodz.&lt;/p&gt;
+&lt;h3 id=&#34;presentation--exhibition&#34;&gt;Presentation &amp;amp; exhibition&lt;/h3&gt;
+&lt;p&gt;The workshop participants held a presentation and exhibition of the workshop outcomes on Saturday, October 21, at the Art Inkubator, in Łodz.&lt;/p&gt;
+&lt;h2 id=&#34;workshop-credits&#34;&gt;Workshop credits&lt;/h2&gt;
+&lt;h3 id=&#34;workshop-participants&#34;&gt;Workshop participants&lt;/h3&gt;
+&lt;p&gt;Kelly Babbar&lt;br&gt;
+Aleksandra Bartczak&lt;br&gt;
+Rafał Golczyk&lt;br&gt;
+Jakub Gondorowicz&lt;br&gt;
+Joanna Lipnicka&lt;br&gt;
+Karol Wawrzkiewicz&lt;br&gt;
+Maja Wrzeszcz&lt;/p&gt;
+&lt;h3 id=&#34;hardware-sponsorship&#34;&gt;Hardware sponsorship&lt;/h3&gt;
+&lt;p&gt;HTC Vive system and PC workstation courtesy of HP for OSSA 2018&lt;/p&gt;
+&lt;h3 id=&#34;teaching-assistants&#34;&gt;Teaching assistants&lt;/h3&gt;
+&lt;p&gt;Maja Piechowiak&lt;br&gt;
+Ihor Savchenko&lt;/p&gt;
+&lt;h3 id=&#34;spatial-audio-piece&#34;&gt;Spatial audio piece&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gksh.net/portfolio/grrawe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grrawe&lt;/a&gt; (spatial audio composition for an 8-channel loudspeaker ring; 2009-2010) by Gerriet K. Sharma&lt;/p&gt;
+&lt;h3 id=&#34;teachers&#34;&gt;Teachers&lt;/h3&gt;
+&lt;p&gt;Constantinos Miltiadis&lt;br&gt;
+Gerriet K. Sharma&lt;/p&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
+&lt;h3 id=&#34;workshop-process--exhibition&#34;&gt;Workshop process &amp;amp; exhibition&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600_hube6bb4ed874a916fde1fb2c64d291aea_114363_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-blindfolded-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600_hu51e9fb1066ac67e625ebea43e34d0b37_142480_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition_1600.jpg&#34; width=&#34;750&#34; height=&#34;421&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600_hu313d495d4d5ee7e31a1d393a45655b37_91163_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600_hu55c22af62a70e5ae80aa19112db30103_103129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600_hu016726fc0ba059df39e9aaeec42d2226_171463_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600_hu4f3f6f4783d4cfed8d361ec656384698_221995_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600_huf60464d257dbb9814963a25881727e63_92402_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-presentation_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600_hu494306931d7ed85cab50892e83d5bb4e_90111_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-testing_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600_hu7eeeec678c2f4eee6365f2f4572badcf_120823_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-text-reading_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600_hucc4f218eecad616dec105c7edd9c06b5_82294_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-timeline_1600.jpg&#34; width=&#34;421&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;vr-scenes&#34;&gt;VR scenes&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600_hu6c884ba0727840a40001dde293477b38_30914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600_hu8018b5678e1cfe3edc47b99c1e1f9c2f_69219_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600_hu6228bf9d442057a94c03dfd04a3914e1_41850_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-3_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600_hud55ea90cded625f0657f227658b34697_18394_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-4_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600_huc73657eef5fcc7a344f0a02a7c4c249b_46616_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-5_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600_hu081d04adc2ea2c762e0e42edc73bd27d_16426_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-6_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600_hu8a09cfb85ff4eeb3c91a111839b4720d_82886_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-7_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600_hu9f31cc87afa9fe5e70bcf75990b2def7_15977_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-8_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>reset.discover</title>
+      <link>https://example.com/project/reset-discover/</link>
+      <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
+      <guid>https://example.com/project/reset-discover/</guid>
+      <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
+The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.
+These are correlated to physical-visual objects in the spatial simulation of the 3D virtual environment, sequenced to follow the behavior of their sonic doubles.
+Participants &lt;em&gt;enter&lt;/em&gt; the piece using a VR headset which allows to experience the piece interactively by exploring different perspectives into its spatial-visual (interactive stereoscopic VR) and spatial-aural (interactive binaural audio) dimensions.&lt;/p&gt;
+&lt;p&gt;The piece is discussed further in the thesis of Antonia Manhartsberger titled “&lt;em&gt;Das soziopolitische Potential von Raummusik im Angesicht zeitgenössischer Gestaltungsmöglichkeiten&lt;/em&gt;”,  presented at IEM in June 2018.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/298533739&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;First presented at the CUBE Concert, Institute of Electronic Music (IEM), University of Music and Performing Arts Graz. January 31 2018.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elevate.at/websites/2019/en/arts/programme/e19resetdiscover/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exhibited at the Orpheum Extra, part of the Arts Programme, at Elevate 2019 festival&lt;/a&gt;. March 2 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antonia Manhartsberger: Concept and spatial audio composition&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis: Concept and virtual environment programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Spaces Master Studio: 16m2  labyrinths</title>
+      <link>https://example.com/course/vsms-2017/</link>
+      <pubDate>Tue, 07 Feb 2017 16:13:17 +0300</pubDate>
+      <guid>https://example.com/course/vsms-2017/</guid>
+      <description>
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#outline&#34;&gt;Outline&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#course-information&#34;&gt;Course information&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#student-projects&#34;&gt;Student projects&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#auxiliary-events&#34;&gt;Auxiliary events&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#studio-excursion&#34;&gt;Studio excursion&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#guest-lectures&#34;&gt;Guest lectures&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#exhibitions&#34;&gt;Exhibitions&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#teaching-team&#34;&gt;Teaching team&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#project-posters&#34;&gt;Project posters&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#graz-open-architecture-day-2017&#34;&gt;Graz Open Architecture Day 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;
+&lt;p&gt;Course designer and lead teacher for the &lt;em&gt;Virtual Spaces Master Studio&lt;/em&gt; module (16 ECTS) at the Institute of Architecture and Media, TU Graz, during the summer semester of 2017.  The objective of the studio was to introduce virtual reality as a medium for experimental design, and to explore designing virtual environments in both space and time. At the end of the semester each student produced, presented, and exhibited a VR experience for the HTV Vive.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Course outline&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Type&lt;/td&gt;
+&lt;td&gt;Master studio module; academic; master level&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Module courses&lt;/td&gt;
+&lt;td&gt;Master design studio &lt;br&gt; Digital Form and Motion elective&lt;br&gt; Interdisciplinary Media elective&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Context&lt;/td&gt;
+&lt;td&gt;Institute of Architecture and Media, TU Graz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Module credits&lt;/td&gt;
+&lt;td&gt;16 ECTS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;Full semester (summer semester 2017)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participants&lt;/td&gt;
+&lt;td&gt;13 architecture students&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deliverables&lt;/td&gt;
+&lt;td&gt;Individual VR application (HTC Vive); video presentation; documentation booklet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exhibitions&lt;/td&gt;
+&lt;td&gt;Graz Open Architecture Day; VR Playful Art at Kunsthaus Graz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;course-information&#34;&gt;Course information&lt;/h2&gt;
+&lt;h4 id=&#34;course-description&#34;&gt;Course Description&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Virtual Spaces Master Studio: 16m2 Labyrinths&lt;/em&gt; is an intensive and experimental master design studio module offered by the &lt;a href=&#34;https://iam.tugraz.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Architecture and Media&lt;/a&gt;, Faculty of Architecture, TU Graz. As with &lt;a href=&#34;http://studioany.com/teaching/vsms-2016/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSMS 2016&lt;/a&gt;, the course developed as final output interactive Virtual Reality applications in the format of videogames, focusing on perceptible and immaterial spatial concepts and experiences. The 2017 VSMS is titled “16m2 Labyrinths” given the physical space constraints (4x4m tracking space) of the HTC Vive VR system.&lt;/p&gt;
+&lt;p&gt;The aim of the studio is to approach Virtual Reality as a choropoietic medium, instead of a representational one, and explore from an architectural perspective, the possibility of designing spatial experiences that don’t rely on physical materiality but are however sensible. Our focus of exploring the architectural aesthetic potential of this medium was pursued by a wide variety of methods implemented in the student projects, ranging from the design of spatial narratives to navigable non-euclidean spaces and more abstract experiences.&lt;/p&gt;
+&lt;p&gt;Starting from the concept of the Labyrinth the studio investigated the geometrical, formal, and organizational aspects of labyrinths and mazes, and through key readings from both architecture and game studies, how such concepts can be applied to spatio-temporal interactive environments, as an intention of approaching the videogame medium with an architectural sensibility, for developing novel architectural experiences.&lt;/p&gt;
+&lt;h4 id=&#34;course-details&#34;&gt;Course details&lt;/h4&gt;
+&lt;p&gt;The course is going to work primarily with Unity 3D, 3D Max, and Premiere Pro. All course assignments and outputs are in digital form. No previous programming experience is necessary. Fluency with conventional 3D modelling, raster, and vector graphics software though is required.&lt;br&gt;
+The course includes the electives Digital Form and Motion taught by Oliver Reischl, and Interdisciplinary Media taught by Constantinos Miltiadis.
+The course is coordinated through a Slack group, collective readings performed through &lt;a href=&#34;https://hypothes.is/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hypothes.is&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;course-language&#34;&gt;Course language&lt;/h4&gt;
+&lt;p&gt;The studio as well as the electives are taught in English and are open to exchange students.&lt;/p&gt;
+&lt;h4 id=&#34;reading-assignments&#34;&gt;Reading assignments&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Ernest Adams – The role of architecture in videogames (2002)&lt;/li&gt;
+&lt;li&gt;Espen J. Aarseth – Computer Game Studies Year One (2001)&lt;/li&gt;
+&lt;li&gt;Bernard Tschumi – Architecture Paradox (1975)&lt;/li&gt;
+&lt;li&gt;Espen J. Aarseth – Allegories of space (2007)&lt;/li&gt;
+&lt;li&gt;Espen J. Aarseth – The narrative theory of games (video lecture 2009)&lt;/li&gt;
+&lt;li&gt;Umberto Eco – Function and sign, the semiotics of architecture (1980)&lt;/li&gt;
+&lt;li&gt;Penelope Reed Doob – The idea of the labyrinth from classical antiquity through the Middle Ages (1992)&lt;/li&gt;
+&lt;li&gt;Henry Jenkins  – Game design as narrative architecture (2004)&lt;/li&gt;
+&lt;li&gt;Italo Calvino – Invisible Cities (1972)&lt;/li&gt;
+&lt;li&gt;Raph Koster – Theory of fun for game design (2013)&lt;/li&gt;
+&lt;li&gt;Jorge Luis – The garden of forking paths (1941)&lt;/li&gt;
+&lt;li&gt;Alex McDowell – Prejudicial Narratives: Building Tomorrow’s World Today (2015)&lt;/li&gt;
+&lt;li&gt;Tzvetan Todorov – The two principles of narrative (1971)&lt;/li&gt;
+&lt;li&gt;Lev Manovich – Navigable Space (1998)&lt;/li&gt;
+&lt;li&gt;Ian Bogost – The rhetoric of videogames (2008)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;review-jury&#34;&gt;Review jury&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Midterm review: Johannes Mücke (Wideshot Entertainment) and Pierre Cutellic (CAAD ETHz)&lt;/li&gt;
+&lt;li&gt;Final review: Prof. Milica Tomic (IZK TU Graz), Dejan Markovic (IZK TU Graz) Lorenz Jäger (ICG TU Graz), Volker Settgast (CGV TU Graz), and Gerriet K. Sharma (IEM KU Graz)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;student-projects&#34;&gt;Student projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Xaver Burkat – #o (&lt;a href=&#34;https://vimeo.com/223755500&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/booklet__o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Philipp Sattler – Library of the Absurd (&lt;a href=&#34;https://vimeo.com/223701104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/vsms_booklet_philippsattler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Valentin Moser – Chronicles (&lt;a href=&#34;https://vimeo.com/223775946&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/vsms_export_valentinmoser_singlepag&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Lukas Gosch – Awakening (&lt;a href=&#34;https://vimeo.com/223753651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/awakening_webtversion_singlesheets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Lukas Meindl – Moving (&lt;a href=&#34;https://vimeo.com/223665339&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;http://issuu.com/iamtugraz/docs/moving_booklet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Vesa Bunjaku – Noseum (&lt;a href=&#34;https://vimeo.com/225542503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/nonseum_booklet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Daniel Seiwald – In-between (&lt;a href=&#34;https://vimeo.com/224286499&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/vsms_seiwald_in_between&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dinko Jelecevic – The Game of the Goose (&lt;a href=&#34;https://vimeo.com/224286402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/vsms_jelecevic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Emina Lozzo – Ghost Talk (&lt;a href=&#34;https://vimeo.com/224286247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/booklet_emina&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Robert Aumayr – Solitude (&lt;a href=&#34;https://vimeo.com/224286189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/solitude_booklet_aumayr_robert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Petrit Vesjeli – Escape from the Unknown (&lt;a href=&#34;https://vimeo.com/224286613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/petritvejseli_booklet_vsms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sabrina Kullmaier &amp;amp; Julian Lebitsch – Continuity (&lt;a href=&#34;https://vimeo.com/224286029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;, &lt;a href=&#34;https://issuu.com/iamtugraz/docs/booklet_kullmaier_lebitsch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;booklet&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;auxiliary-events&#34;&gt;Auxiliary events&lt;/h2&gt;
+&lt;h3 id=&#34;studio-excursion&#34;&gt;Studio excursion&lt;/h3&gt;
+&lt;p&gt;Travel to Linz on the 23rd-24th of March, organized by Julian Jauk. The first day starts with a visit to the University of Arts in Linz, and a presentation of the work of Johannes Braumann, followed by a visit to the Ars Electronica Center with a tour by AEC Director Andreas Bauer, and participation to the event “Human bodies – the universe in itself” at the Deep Space 8K. The second day includes a tour of the city and a visit to the Lentos Museum, Schloss Museum, Höhen Rausch, and Museums Quartier.&lt;/p&gt;
+&lt;h3 id=&#34;guest-lectures&#34;&gt;Guest lectures&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Screening of the documentary “Gaming the real world” (Eklund, 2016)&lt;/li&gt;
+&lt;li&gt;Diagonale Film Festival visit&lt;/li&gt;
+&lt;li&gt;Button Festival visit&lt;/li&gt;
+&lt;li&gt;Gaming nights at IAM for exploring narrative and mechanic-driven games&lt;/li&gt;
+&lt;li&gt;Workshop with Emma Fraser – Thinking through ruins: Digital design practice, allegory, and the visual&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../event/ol-8&#34;&gt;Open Lecture #8 Emma Fraser – Ruined cities, video games, and digital space: virtual-material feedback&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../event/ol-9&#34;&gt;Open Lecture #9 Marco Ciciliani – CPPG Composition, Performance and Perception of Gamified Audiovisual Works&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../ol-10&#34;&gt;Open Lecture #10 Johannes Mücke – Independence Day : Resurgence. Designing the Alien Invasion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../event/ol-11&#34;&gt;Open Lecture #11 Nicole Stoecklmayr – Projection &amp;amp; Production: Scenes of Architecture in Movies and Games&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Public exhibition at the Graz Open Architecture Day on June 30, and July 1, 2017.&lt;/li&gt;
+&lt;li&gt;Public exhibition at the event &lt;a href=&#34;../../../event/vr-playful-art&#34;&gt;VR Playful Art&lt;/a&gt; at Kunsthaus Graz, September 1, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-team&#34;&gt;Teaching team&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Teaching assistants&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ludwig Grimm&lt;/li&gt;
+&lt;li&gt;Julian Jauk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Teachers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis (course leader;  design studio; Interdisciplinary Media elective)&lt;/li&gt;
+&lt;li&gt;Prof. Urs Hirschberg (design studio team)&lt;/li&gt;
+&lt;li&gt;Oliver Reischl (Digital Form &amp;amp; Motion elective)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-posters&#34;&gt;Project posters&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/bunjaku_nonseum_poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/bunjaku_nonseum_poster_1000_hu2d832e07a3e9586f4f29db4372b4aaca_381649_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;bunjaku_nonseum_poster_1000.jpg&#34; width=&#34;535&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/gosch_awakening_web_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/gosch_awakening_web_1000_huadb11b3cfc995f39d8b47d28f8678c36_160974_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;gosch_awakening_web_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/kullmaier_lebitsch_continuity_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/kullmaier_lebitsch_continuity_w_1000_hu52bccf5c80f4eb8baf0c1c3174540a4b_131563_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kullmaier_lebitsch_continuity_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/lozo_ghosttalk_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/lozo_ghosttalk_w_1000_hu2e493c2b7803c6fd99f9b15be7156302_243510_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;lozo_ghosttalk_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/meindl_moving_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/meindl_moving_w_1000_hu4bc5fc8d379ef168a06286e1e5a20a9a_118182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;meindl_moving_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/moser_chronicles_poster_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/moser_chronicles_poster_w_1000_hu9a9d5128de2d50ab9917ec65de07d079_170196_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;moser_chronicles_poster_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/sattler_lota_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/sattler_lota_w_1000_hu776b3e6f8cdde4d0a71050dea0b7ee52_136957_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sattler_lota_w_1000.jpg&#34; width=&#34;533&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/seiwald_inbetween_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/seiwald_inbetween_w_1000_hu065798493b6aa49e384d7e5536aacb34_142085_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;seiwald_inbetween_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/the-game-of-the-goose_poster_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/the-game-of-the-goose_poster_w_1000_hu46ab8ea29f438ce278f9dbd032b04444_144128_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;the-game-of-the-goose_poster_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/vijseli_escape_ftu_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/vijseli_escape_ftu_w_1000_hu9f658cc41388a894c50c94c87434d569_121028_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vijseli_escape_ftu_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/vsms-17-burkat-poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/vsms-17-burkat-poster_1000_huedc1b4eaf04db576f88f0be5fb370898_229088_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms-17-burkat-poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/zhang_haixia_mirror_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/zhang_haixia_mirror_w_1000_hu5ecc0553242e94f41fb62a20c7ffde20_196725_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;zhang_haixia_mirror_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;graz-open-architecture-day-2017&#34;&gt;Graz Open Architecture Day 2017&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1261w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1261w_hud6b4f37894148dcd001083aa752df6ad_180964_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1261w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1266W.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1266W_hu4384a0431524c307473ee039dff2a2c4_172586_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1266W.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1271w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1271w_hu7af2093bd0eb6814f0190bcbfcf78379_101059_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1271w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1354w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1354w_hu370a6586ed96ee609b4ab741a30e8d7d_190141_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1354w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1375w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1375w_hu1c7a036e437c5c0707e467b3e70cc33e_99998_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1375w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1420w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1420w_hu9bb6c13ceb6928e7679a14234f383cea_119409_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1420w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1426w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1426w_hu6484ceeea300e522ad360e30eb5bf2e8_91314_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1426w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1439w.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1439w_hu0caf4a53e3cf6574248478f8fcc53e7a_84012_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1439w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sound Spatialisation in Immersive VR Environments</title>
+      <link>https://example.com/course/16-mapping-fest/</link>
+      <pubDate>Fri, 06 May 2016 16:30:42 +0300</pubDate>
+      <guid>https://example.com/course/16-mapping-fest/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;  May 4-6, 2016.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exhibition:&lt;/strong&gt; 16:00 May 6 2016, Le Commun, Geneva.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop brief&lt;/strong&gt;&lt;br&gt;
+Translating sound from the auditory to the spatial domain, and shifting between perceptive forms and media, we intend to explore the manifestation of sound in space. The workshop will focus on the spatialisation of sound in a Virtual Reality setting. The setup includes head-mounted displays to create the -illusory- perception of presence in a virtual space, and Kinect sensors to scan and correlate one’s position from the real to the virtual space. The workshop aims in creating  spatial duals of sound as distinct perceptual perspectives or modalities of the same object. We intend to challenge participants to think of how sound could be transferred and experienced in a different medium, as a modulating or formative force on space. &lt;!-- Requirements: Laptop (PC or Mac) with Unity3D installation, Android SDK or Xcode, smartphone, headphones.  --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Participants&lt;/strong&gt;&lt;br&gt;
+Mark Melnykowycz, Pablo Bellon, Roberto Carrion Valladares, Chris Lunney, Antoine Induni, Benoît Renaudin, Jose Reyna&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3488_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3488_800_hu41f179d66621bb512a340a1fcf38b0c9_123812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3488_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3510_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3510_800_hu7ea16c2f800b44b703c6c1263a0b5cf6_106288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3510_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3520_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3520_800_hu009e14a40eafac49313fc0eff14df033_217193_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3520_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3524_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3524_800_hu38b54e3cd34a4e5ff90a48cc4feb617e_91811_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3524_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3532_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3532_800_hu9443ee0cd4c8df94903c5ab1068d04ba_126069_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3532_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/img_5726_1200.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/img_5726_1200_hub222bd81cdb54c0005dcdee04dcb5d69_84231_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5726_1200.jpg&#34; width=&#34;750&#34; height=&#34;387&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/R0010820.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/R0010820_hu88741109b9b2ab1afcd443409a9fd833_163287_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;R0010820.jpg&#34; width=&#34;750&#34; height=&#34;375&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Spaces Master Studio</title>
+      <link>https://example.com/course/vsms-2016/</link>
+      <pubDate>Sun, 07 Feb 2016 16:21:47 +0300</pubDate>
+      <guid>https://example.com/course/vsms-2016/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/803818267&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#outline&#34;&gt;Outline&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#course-information&#34;&gt;Course information&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#student-projects&#34;&gt;Student projects&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#auxiliary-events&#34;&gt;Auxiliary events&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#studio-excursion&#34;&gt;Studio excursion&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#guest-lectures&#34;&gt;Guest lectures&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#exhibitions&#34;&gt;Exhibitions&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#teaching-team&#34;&gt;Teaching team&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;outline&#34;&gt;Outline&lt;/h2&gt;
+&lt;p&gt;Course designer and lead teacher for the &lt;em&gt;Virtual Spaces Master Studio&lt;/em&gt; module (16 ECTS) at the Institute of Architecture and Media, TU Graz, during the summer semester of 2016.  The objective of the studio was to introduce virtual reality as a medium for experimental design, and to explore designing virtual environments in both space and time. At the end of the semester each student produced, presented, and exhibited a VR experience (for Gear VR and Kinect v2).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Type&lt;/td&gt;
+&lt;td&gt;Master studio module; academic; master level&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Module courses&lt;/td&gt;
+&lt;td&gt;Master design studio; Interdisciplinary Media elective; Architecture &amp;amp; Film elective&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Context&lt;/td&gt;
+&lt;td&gt;Institute of Architecture and Media, TU Graz&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Module credits&lt;/td&gt;
+&lt;td&gt;16 ECTS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;Full semester (summer semester 2016)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Participants&lt;/td&gt;
+&lt;td&gt;13 (architecture students)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deliverables&lt;/td&gt;
+&lt;td&gt;Individual VR application (Samsung Gear VR); video presentation; documentation booklet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exhibitions&lt;/td&gt;
+&lt;td&gt;Graz Open Architecture Day; TU Graz VR Night&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;course-information&#34;&gt;Course information&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Course description&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Virtual Spaces Master Studio&lt;/em&gt; (VSMS) was an experimental VR game design course (16 ECTS master design studio module) taught during the summer semester of 2016 to a group of 13 architecture master students, at the Institute of Architecture and Media, Faculty of Architecture, TU Graz. The aim of the studio was to introduce architects to VR as a platform for experimental architectural design that doesn’t need to result in building form. The VSMS module included the electives &amp;ldquo;Interdisciplinary Media: Space to Sound&amp;rdquo; and &amp;ldquo;Architecture &amp;amp; Film&amp;rdquo;.
+The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&gt;
+&lt;p&gt;Working essentially in the videogame medium, the design approach of the studio is a fusion of disciplines, techniques, and skills that require the parallel development of both technical and conceptual tools such as concept design and narrative development, storyboarding, interaction design, UI design, 3d modeling, sound design, video editing, scripting, app development, etc. The course introduced theoretical discussions of culture and space, analyzing and drawing inspiration from diverse discourses including video games, films, novels, architecture, and critical theory. In addition to VR the students were asked to experiment with spatial evocations in other creative media such as text, sound, video, and 2D graphics.&lt;/p&gt;
+&lt;p&gt;The breadth of the 13 works developed by individual students demonstrates that VR and the videogame medium hold significant potential for architectural explorations of many different kinds, including the design of experienceable spatiotemporal environments that are impossible to come across in physical reality. Furthermore, the course showed that many aspects of designerly and tacit knowledges as well as technical design skills are well transferable between architecture and game design and development.&lt;/p&gt;
+&lt;h4 id=&#34;course-language&#34;&gt;Course language&lt;/h4&gt;
+&lt;p&gt;The studio as well as the electives are taught in English.&lt;/p&gt;
+&lt;h4 id=&#34;setup&#34;&gt;Setup&lt;/h4&gt;
+&lt;p&gt;The VR setup is wireless and full-body immersive, was based on &lt;a href=&#34;../../project/project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; (2014) and made use of GearVR headsets (courtesy of Drei Austria) deployed in a space tracked by Kinect V2 sensors which can follow 25 points of a user’s skeleton, synchronized with the android app through a web cloud in real-time.&lt;/p&gt;
+&lt;h4 id=&#34;output&#34;&gt;Output&lt;/h4&gt;
+&lt;p&gt;All projects were made with Unity3D for Android/GearVR. All module output is digital.&lt;/p&gt;
+&lt;h4 id=&#34;review-jury&#34;&gt;Review jury&lt;/h4&gt;
+&lt;p&gt;Final review (30.06.2016) : Jan Markus Ludwig (&lt;a href=&#34;https://www.wideshot.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wideshot&lt;/a&gt;), Lewis Scott (VizConnected), and Florian Fend (IAM).&lt;/p&gt;
+&lt;h4 id=&#34;hardware&#34;&gt;Hardware&lt;/h4&gt;
+&lt;p&gt;The studio was sponsored by &lt;a href=&#34;http://drei.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drei Austria&lt;/a&gt; with four sets of GearVR headsets and Samsung Galaxy S6 smartphones.&lt;/p&gt;
+&lt;p&gt;Note: The projects trailer video is a collage of video trailers of students’ projects. It is a reupload of the original first published in 07.2016, which was archived due to the university&amp;rsquo;s privacy policy, along with the course websites (&lt;a href=&#34;https://iam.tugraz.at/studio16s/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;course website (IAM TU Graz)&lt;/a&gt; and &lt;a href=&#34;https://vimeo.com/channels/vsms2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project videos collection&lt;/a&gt;).&lt;/p&gt;
+&lt;h2 id=&#34;student-projects&#34;&gt;Student projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Edna Basanovic - The Island&lt;/li&gt;
+&lt;li&gt;Björn Gerd Seidl -  Beyond Space&lt;/li&gt;
+&lt;li&gt;David Seiwald - basic needs&lt;/li&gt;
+&lt;li&gt;Felix Obermair - dream XYZ&lt;/li&gt;
+&lt;li&gt;Ines Zajkic - Museum&lt;/li&gt;
+&lt;li&gt;Kathrin Wutte - Room Dilemma&lt;/li&gt;
+&lt;li&gt;Kelly Man - Architecture of I&lt;/li&gt;
+&lt;li&gt;Ludwig Grimm - ΜΕΘΕΞΙΣ&lt;/li&gt;
+&lt;li&gt;Michael Deutsch - RISEvr&lt;/li&gt;
+&lt;li&gt;Philipp Glanzner - volunteer&lt;/li&gt;
+&lt;li&gt;Philipp Schnitzhofer - Future Visions&lt;/li&gt;
+&lt;li&gt;Primoz Brglez - GYRO&lt;/li&gt;
+&lt;li&gt;Xin Guo - The Labyrinth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;auxiliary-events&#34;&gt;Auxiliary events&lt;/h2&gt;
+&lt;h3 id=&#34;studio-excursion&#34;&gt;Studio excursion&lt;/h3&gt;
+&lt;p&gt;2-day excursion to Linz, including a tour of &lt;a href=&#34;http://www.aec.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ars Electronica&lt;/a&gt; and Deep Space 8K by AEC managing director  Andreas Bauer; &lt;a href=&#34;http://www.hoehenrausch.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hohen Rausch&lt;/a&gt;; Lentos Museum, &lt;a href=&#34;http://www.landesmuseum.at/de/standorte/schlossmuseum-linz.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schlossmueum&lt;/a&gt;; Tabak Fabrik.&lt;/p&gt;
+&lt;h3 id=&#34;guest-lectures&#34;&gt;Guest lectures&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tube.tugraz.at/paella/ui/watch.html?id=25937cf3-66c2-4f5c-a58e-45377190c7bc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Hansmeyer (Academy of Fine Arts, Vienna) – Tools of Imagination&lt;/a&gt; (IAM guest for the Graz Architecture Lectures 2016)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../event/ol-2&#34;&gt;Prof. Werner Jauk (Musicology Institute, KFU-Graz) – Sound to space&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IOhannes zmölnig (Institute of Electronic Music, Kunst Uni Graz) – Introduction to granular synthesis with Pure Data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;exhibitions&#34;&gt;Exhibitions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TU Graz VR Night, public exhibition, 28.06.2016, organized by the TU Graz Institutes CGV, ICG and IICM, in cooperation with Fraunhofer Austria.&lt;/li&gt;
+&lt;li&gt;Graz Open Architecture Day, public exhibition, 01.07.2016&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-team&#34;&gt;Teaching team&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Teaching assistants&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ludwig Grimm&lt;/li&gt;
+&lt;li&gt;Julian Jauk&lt;/li&gt;
+&lt;li&gt;Martin Schrotz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Teachers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis  (course leader; design studio; Interdisciplinary Media elective)&lt;/li&gt;
+&lt;li&gt;Prof. Urs Hirschberg (Architecture &amp;amp; Film elective, design studio)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;gallery&#34;&gt;Gallery&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/dreisponsorship-1_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/dreisponsorship-1_1000_hu29c3742cdbf00388b5a8ced004a5af18_93598_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dreisponsorship-1_1000.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/fIMG_3325%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/fIMG_3325%20copy_hucf3697c2cde89313d85aa7aa38eadb54_80556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_3325 copy.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/fIMG_4818%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/fIMG_4818%20copy_huf64cfb0f7f094f777f2e821b5626712e_136864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_4818 copy.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy_huf7d58741422e4e15cfaf5970e52783c0_95457_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;IAM_VirtualSpacesModule copy.jpg&#34; width=&#34;750&#34; height=&#34;392&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/iamgearvr_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/iamgearvr_1000_hu046435a76512d534c84b48d6fc821404_151864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;iamgearvr_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3415_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3415_1000_hu9eaf1a9fb82843288436c3d00ba7be12_89129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3415_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3513_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3513_1000_hu2f9038922a20e0a149f2e408a4e8213f_91978_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3513_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3556_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3556_1000_hu1ee06eabec6f0a58b8b17080771e7ebb_125625_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3556_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3566_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3566_1000_hu0275647aaaabc1d6b3baef0c4b96a793_79256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3566_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3578_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3578_1000_huca634c2e1402f4b64fc922ef91f63ac5_94164_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3578_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3586_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3586_1000_hu93d705676a94f7a524695349354304d5_70031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3586_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3587_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3587_1000_hu2754e3a12034839ad42bebabe28288e0_73851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3587_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3601_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3601_1000_hu86679741f46976ac716479124f3a5cd2_100711_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3601_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_4781_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_4781_1000_hu449a1f14abbce81d0edf065efbe7ae66_150569_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_4781_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_5018_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_5018_1000_hu0f85351a362f4226122288fec32e6e28_200999_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5018_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_5040_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_5040_1000_hube22ee0f93eb4b3e98b0197c032ca840_130221_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5040_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/open-architecture-day-2016_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/open-architecture-day-2016_1000_huc8c47854333841d5c00a7efe3af33f31_246404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;open-architecture-day-2016_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_aec_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_aec_1000_hu6322c872c51c14c1879dda13a8b36417_91596_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_aec_1000.jpg&#34; width=&#34;750&#34; height=&#34;270&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_gamingnight_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_gamingnight_1000_hu27c9fca841055c762b6816564d0a2924_135969_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_gamingnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_poster_1000_hudde3bcdf478177e9b9fdc7b162f91eca_275205_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_posters_landscape_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_posters_landscape_1000_hu567f18eac0af6db2ac9b845b42148914_185475_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_posters_landscape_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_review_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_review_1000_hu0dd3f49ba607f456f6f7e48fff49ed57_135182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_review_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_vrnight_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_vrnight_1000_hube3a932cd219529488eba0ebbc05bcd9_124092_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_vrnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>John Paul George &amp; Me</title>
+      <link>https://example.com/project/john-paul-george-me/</link>
+      <pubDate>Mon, 06 Apr 2015 18:11:20 +0300</pubDate>
+      <guid>https://example.com/project/john-paul-george-me/</guid>
+      <description>&lt;p&gt;&lt;em&gt;John Paul George &amp;amp; Me&lt;/em&gt; is a collection of interactive wearable musical instruments for kids.
+Each T-shirt represents a specific instrument and all together form a rock ensemble. Through the seemingly magical clothes that produce sound by touch, the project brings to children an interactive musical game, encouraging and stimulating their musical interest as well as collaboration with each other to perform music.
+The project was developed by textile designer Selina Reiterer and computational designer Constantinos Miltiadis for exploring playful applications of smart materials and interactive wearable technology.&lt;/p&gt;
+&lt;p&gt;The project includes three T-shirts, a microcontroller with a Bluetooth Low Energy (BLE) module, and a mobile app.&lt;br&gt;
+The three individual T-shirts were inspired by and designed after the standard rock trio representing a guitar, a bass, and a drum set.
+Each shirt has a distinct pattern, based on the attributes of the instrument it represents, which each shape forming a uniform conductive region sensitive to touch.
+The patterns were silk-screen printed on plain T-shirts with electrically conductive paint, a flexible, washable and non-toxic chemical mixture.&lt;br&gt;
+In the back of each garment is a removable pocket with an Arduino microcontroller that receives touch signals from each shape through conductive thread.&lt;br&gt;
+The touch signals are then sent wirelessly via BLE to a mobile application which triggers different audio samples corresponding to each garment-instrument.
+Multiple T-shirts can be connected to a single mobile device, or each band member can use their own. The device can be connected with headphones and external speakers to amplify the sound output.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/132808247&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;additional-information&#34;&gt;Additional information&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;“John Paul George &amp;amp; Me” was exhibited at the 2015 Maker Faire in Rome.&lt;/li&gt;
+&lt;li&gt;The project received the 2&lt;sup&gt;nd&lt;/sup&gt; prize in the &lt;a href=&#34;https://web.archive.org/web/20160323144253/http://www.youreshape.com/entries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouReshape wearable technology competition (archived)&lt;/a&gt; in August 2015.&lt;/li&gt;
+&lt;li&gt;It was featured at the Materiability Research Network at &lt;a href=&#34;http://materiability.com/john-paul-george-me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Paul George &amp;amp; Me (Materiability Research Network)&lt;/a&gt;, and the Bare Conductive Blog at &lt;a href=&#34;https://web.archive.org/web/20160312133650/https://www.bareconductive.com/make/bluetooth-connected-musical-t-shirts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Connected Musical T-shirts (archived)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- defunct 
+- [“Miltiadis + Reiterer desarrollan un sistema de camisetas musicales interactivas” – Article on Catalogo Diseno [ES].](http://www.catalogodiseno.com/2016/01/10/john-paul-george-me/)[  
+](http://www.catalogodiseno.com/2016/01/10/john-paul-george-me/)
+--&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Video credits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kids: Beda &amp;amp; Vasco&lt;/li&gt;
+&lt;li&gt;Filming: Anna Maragoudaki &amp;amp; Achilleas Xydis&lt;/li&gt;
+&lt;li&gt;Editing: Anna Maragoudaki&lt;/li&gt;
+&lt;li&gt;Music: Constantinos Miltiadis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project credits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selina Reiterer (textile design &amp;amp; material research)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (electronics &amp;amp; app development).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developed in 2015 at the &lt;a href=&#34;http://caad.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair for Digital Architectonics (née Chair for CAAD)&lt;/a&gt;, ETH Zurich.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/all-tshirts.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/all-tshirts_hu14b6018d5451e98317c694c9bbc3400b_181697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;all-tshirts.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/electronics_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/electronics_1000_hu438537a689e07416a7e40e471f8d8057_45172_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;electronics_1000.jpg&#34; width=&#34;750&#34; height=&#34;317&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids01.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids01_hu3f4cd1e3c5c761abb76e72ae011dc0fe_236842_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids01.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids02_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids02_1000_hu66f3ba1fc906e58e281e57352dd18760_73389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids02_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids03.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids03_hu978c9236487038caf5eee4d46aec4b01_227186_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids03.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/make01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/make01_800_hu5f374ab7b182b05816a5f5dfd17c8dae_274057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;make01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/paint_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/paint_800_hu21b54a9c48f370cfdd9e2cbf0262ce7f_213652_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;paint_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tools01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tools01_800_hube00a71990e50915561fbe6c132dfa2b_236954_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tools01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000_hu070597ecc7cbcebd8445c1a846ae9861_75398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-bass_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000_hu6f24cb63d18eb05680e10c214a3bbbcc_71269_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-drums_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000_hua9ff83c04998e5d5720dd499cb44ffb6_83131_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-guitar_1000.jpg&#34; width=&#34;750&#34; height=&#34;486&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800_hufdc8d2ec9817880a7ea46fb5cfdf77b5_20139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-02_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800_hucb084eb62f17524cb2ec2b7d26508b13_21338_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-03_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800_hucb084eb62f17524cb2ec2b7d26508b13_19259_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-04_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Shifting perspectives</title>
+      <link>https://example.com/project/shifting-perspectives/</link>
+      <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
+      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
+&lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
+The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.
+The movement of the structure is controlled by stepper motors that pull the structure from 2 external points.
+The three custom software developed for the installation were: a Processing-Java program for real-time sound analysis (FFT); an Arduino-based software for controlling the stepper motors; and a Unity program for projection mapping, all synchronized with each other via OSC.
+Using real-time sound analysis the installation projected audio-responsive graphics mapped on the continuous movements of the grid structure.&lt;/p&gt;
+&lt;!--
+Three custom pieces of software were developed for the installation. 
+A Unity application for projection mapping; a Java software for live sound analysis (FFT); and a custom Arduino-based hardware  for controlling the movement of the structure. 
+The two were synchronized with OSC messages. 
+The first allowed projecting video and graphics on the structure.
+
+Combined with the real-time synchronization with the movement of the structure, it could project portions of the video that would follow each of the panels. Furthermore, the application could perform real-time sound analysis, and produce interactive graphics based on audio spectrum data of the music played at the event.
+
+The installation was developed with PUNCH collective, an interdisciplinary synergy between upcoming researchers, based in Zurich and Delft. It was exhibited at the 7 Sins event, November 2014 in Delft.
+--&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/116073674&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; was developed in Zurich, fabricated and assembled in Delft for the event 7 Sins, in November 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>project Anywhere</title>
+      <link>https://example.com/project/project-anywhere/</link>
+      <pubDate>Fri, 07 Nov 2014 18:04:19 +0300</pubDate>
+      <guid>https://example.com/project/project-anywhere/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;The ultimate display would, of course, be a room within which the computer can control the existence of matter.&lt;br&gt;
+(Ivan E. Sutherland, The Ultimate Display 1965)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;project Anywhere&lt;/em&gt; is a framework and proof-of-concept prototype for full-body interactive wireless VR, developed at the Chair for CAAD, ETH Zurich in 2014, to investigate notions of virtual space and time, and to explore designing synthetic spatiotemporal sensory experiences.
+The project was initiated in mid-2014, following the release of the first commercial VR devices that featured limited bodily involvement and capacity for movement.
+Addressing these limitations, this project developed a VR framework consisting of a mobile application, custom wireless VR HMDs and data glove prototypes as well as skeleton tracking, to produce a vivid real-time interactive presence in a virtual reality environment
+In that, project Anywhere demonstrates the potential of virtual space as a valid architectural medium in itself (instead of its use as an intermediary form for design or visualization), that allows experimenting with synthetic kinaesthetic, visual and auditory sensory experiences.
+Concurrently it explores the capacity of designing spatiotemporal environments with an embedded dimension of time. The project’s title, “Anywhere”, refers to the generic nature of the digital-virtual environment that can be made to simulate any physical context: real or imaginary.&lt;/p&gt;
+&lt;!-- 
+this project was initiated as a proof-of-concept for full-body wireless interactive VR. 
+
+Blending aspects of both actuality and virtuality, the project creates a vivid presence in an augmented reality environment. The ubiquity of processors and the advent of cloud computing has made possible the decentralised aggregation of independent node systems in a common network, bringing together people from the most remote places to coexist in the same virtual space. 
+--&gt;
+&lt;h1 id=&#34;video-demo&#34;&gt;Video demo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/113398928&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;project-description&#34;&gt;Project description&lt;/h1&gt;
+&lt;p&gt;The project consists of the following bespoke software and hardware prototypes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;a mobile multiplayer VR app,&lt;/li&gt;
+&lt;li&gt;Omnimask: &lt;a href=&#34;#gallery-14-project-anywhere-7&#34;&gt;a 3D printed mobile VR head-mount&lt;/a&gt; ,&lt;/li&gt;
+&lt;li&gt;Inteligloves: &lt;a href=&#34;#gallery-14-project-anywhere-5&#34;&gt;a pair of custom wireless data gloves&lt;/a&gt;, and&lt;/li&gt;
+&lt;li&gt;Omnitracker: a sensor fusion software.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The main component of the project is a custom mobile application (1) developed in Unity as a multiplayer VR videogame.
+Mounted on a VR mask (2), the app provides a stereoscopic viewport for each individual user, through the point of view of their avatar in the shared virtual environment.&lt;/p&gt;
+&lt;!-- TRACKER  --&gt;
+&lt;p&gt;Each user&amp;rsquo;s spatial presence is tracked in real-time by their head-mount, data gloves, and a Kinect skeleton tracking sensor.
+Cumulatively, head, gesture and skeleton tracking provide 86 degrees of freedom, fused together by the Omnitracker (4), a software written in Java/Processing.
+These data are synchronized with a web cloud and are use to animate the user&amp;rsquo;s avatar in real-time (see &lt;a href=&#34;#gallery-14-project-anywhere-13&#34;&gt;image13&lt;/a&gt;).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+Thus, any movement of the subject in physical space, such as walking, or even head tilting and finger movement correlates 1:1 to movements of their avatar.&lt;/p&gt;
+&lt;!-- DATA GLOVES  --&gt;
+&lt;p&gt;Hardware prototypes developed for this project include a 3D printed VR head-mount (2) and a pair of data gloves (3).
+The VR head-mount was designed for an iPhone 5, and featured adjustable inter-pupillary distance, and focal length.&lt;br&gt;
+The data gloves (3) were developed using Arduino microcontrollers. Each glove features an XBEE transceiver module, a 9 DoF sensor, and up to 6 flex sensors (for tracking individual finger movement). These were mounted on a lightweight elastic 3D printed glove base, easily adjustable for different hand sizes.
+The framework was programmed to recognize hand gestures, used for performing various contextual virtual actions (see for example &lt;a href=&#34;#gallery-14-project-anywhere-8&#34;&gt;image 8&lt;/a&gt;), proving that a virtual presence can also be an active one.&lt;/p&gt;
+&lt;!--
+and synchronizing and formalizing an array of data from a web cloud in real time. Subjects can join from any device connected to the internet.
+
+The project was developed in Unity3D and Java, and its using a range of tools developed or prototyped for this purpose, such as the [omnimask](#gallery-14-project-anywhere-7) (3D printed VR head mount), the [inteliglove interface](#gallery-14-project-anywhere-5) (Arduino-based wireless data gloves) and the omnitracker (Java software for sensor fusion).
+--&gt;
+&lt;h1 id=&#34;related-publications&#34;&gt;Related publications&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/16-ijac&#34;&gt;Constantinos Miltiadis (2016). Project Anywhere: An Interface for Virtual Architecture&lt;/a&gt;. IJAC 14 (4).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/15-ecaade&#34;&gt;Constantinos Miltiadis (2015). Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual&lt;/a&gt;. eCAADe 2015. TU Delft.&lt;/li&gt;
+&lt;li&gt;Photon Engine Dev Story (2015). &lt;a href=&#34;https://blog.photonengine.com/dev-story-project-anywhere/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere – Digital Route to an Out-of-Body Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ivan Petrovic Prize for the “best presentation by a young researcher” for the paper “&lt;a href=&#34;../../publication/15-ecaade&#34;&gt;Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment&lt;/a&gt;”.  eCAADe 2015, TU Vienna, September 2015.&lt;/li&gt;
+&lt;li&gt;Second place &lt;a href=&#34;../../event/zeiss-vr-one&#34;&gt;Zeiss VR One Contest for Mobile VR Apps&lt;/a&gt;, 2015.&lt;/li&gt;
+&lt;li&gt;Arthur C. Clarke prize for “the most creative and unorthodox approach”. &lt;a href=&#34;https://www.museumofsciencefiction.org/winners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Museum of Science Fiction international architectural competition&lt;/a&gt;, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;press&#34;&gt;Press&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The Guardian &amp;amp; The Observer Tech Monthly (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.theguardian.com/technology/2015/jan/07/project-anywhere-digital-route-to-an-out-of-body-experience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere: digital route to an out-of-body experience : Constantinos Miltiadis’s project combines inteligloves and Kinect sensors to an Oculus Rift-style headset to provide the ultimate in impressive digital experiences&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Euronews High Tech; Euronews Next (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LfIDuVGGlts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euronews Next. Project Anywhere: an out-of-body experience of a new kind&lt;/a&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=R4M0IE6_WPo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proyecto Anywhere, una nueva forma de jugar en línea - hi-tech&lt;/a&gt; [Spanish]&lt;/li&gt;
+&lt;li&gt;Reuters (2015)&lt;br&gt;
+&lt;a href=&#34;https://www.yahoo.com/news/project-anywhere-takes-virtual-reality-152034973.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere takes virtual reality gaming to new level&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DesignBoom  (2014)&lt;br&gt;
+&lt;a href=&#34;https://www.designboom.com/technology/studio-any-project-anywhere-virtual-universe-real-time-12-10-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Subjects manipulate project anywhere’s virtual universe in real-time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Museum of Science Fiction (2014)&lt;br&gt;
+&lt;a href=&#34;https://www.museumofsciencefiction.org/preview-museum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The preview museum: A departure from museums as usual…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fubiz.net/2014/12/16/virtual-universe-in-real-time/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fubiz (2014) Virtual Universe in Real-time&lt;/a&gt; [French]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;exhibitions--installations&#34;&gt;Exhibitions &amp;amp; installations&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstration at the Carl Zeiss Headquarters, in the context of the &lt;a href=&#34;../../event/zeiss-vr-one&#34;&gt;Zeiss VR One App Contest&lt;/a&gt;. Oberkochen, Germany, June 2015&lt;/li&gt;
+&lt;li&gt;Public installation at TEDxNTUA. Athens, 17.01.2015&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;project-information&#34;&gt;Project information&lt;/h1&gt;
+&lt;p&gt;project Anywhere was developed as a postgraduate master thesis in 2014 at the Chair for CAAD, ETH Zurich, Prof. Ludger Hovestadt.
+It was first demonstrated at the Chair for CAAD in November 2014.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Concept and development&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Prototyping support&lt;/strong&gt;&lt;br&gt;
+Demetris Shammas &amp;amp; Achilleas Xydis&lt;/p&gt;
+&lt;h2 id=&#34;video-credits&#34;&gt;Video credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Filming &amp;amp; Editing&lt;/strong&gt;&lt;br&gt;
+Demetris Shammas&lt;br&gt;
+&lt;strong&gt;Photo documentation&lt;/strong&gt;&lt;br&gt;
+Achilleas Xydis&lt;br&gt;
+&lt;strong&gt;Music&lt;/strong&gt;&lt;br&gt;
+Michalis Shammas
+&lt;strong&gt;Subject&lt;/strong&gt;&lt;br&gt;
+Anna Maragkoudaki&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;For a discussion of the networking topology of this project see the 2015 Photon Engine Dev story: &lt;a href=&#34;https://blog.photonengine.com/dev-story-project-anywhere/#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Anywhere – Digital Route to an Out-of-Body Experience&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visuality | studio any</title>
+    <link>https://example.com/tag/visuality/</link>
+      <atom:link href="https://example.com/tag/visuality/index.xml" rel="self" type="application/rss+xml" />
+    <description>visuality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2019 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>visuality</title>
+      <link>https://example.com/tag/visuality/</link>
+    </image>
+    
+    <item>
+      <title>Choropoietic media: Against the cultural bias of the visual</title>
+      <link>https://example.com/event/school-of-images/</link>
+      <pubDate>Wed, 10 Apr 2019 10:00:00 +0000</pubDate>
+      <guid>https://example.com/event/school-of-images/</guid>
+      <description>&lt;p&gt;Organized by James Bridle and Onassis Stegi in the context of the event &lt;em&gt;For Ever More Images? Designing a cybermachine for the 21st century&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;James Bridle, writer and artist, &lt;a href=&#34;http://jamesbridle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jamesbridle.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Alexis Katsaros, Mediterranean Institute for Nature and Anthropos, &lt;a href=&#34;http://med-ina.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://med-ina.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stephanos Levidis, artist and researcher, Forensic Architecture and personal practice&lt;/li&gt;
+&lt;li&gt;Katerina Gkoutziouli, curator, &lt;a href=&#34;https://therestis.art/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://therestis.art/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andrew Spyrou, sound artist and producer, &lt;a href=&#34;http://www.kiroku.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.kiroku.co.uk/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yiannis Hadjiaslanis, photographer, &lt;a href=&#34;https://www.hadjiaslanis.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hadjiaslanis.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Anastasia Miliou, Scientific Director, Archipelagos Institurte of Marine Conservation, &lt;a href=&#34;http://archipelago.gr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://archipelago.gr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mariana Bisti, artist, &lt;a href=&#34;https://www.marianabisti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marianabisti.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kyriaki Goni, artist, &lt;a href=&#34;http://kyriakigoni.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://kyriakigoni.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Constantinos Militiadis, artist, &lt;a href=&#34;http://studioany.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://studioany.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kika Kyriakakou, curator, Polyeco Contemporary Art Initiative, &lt;a href=&#34;https://www.pcai.gr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.pcai.gr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bryony Dunne May, artist, &lt;a href=&#34;http://bryonymay.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bryonymay.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chris Vrettos, biologist and co-founder, &lt;a href=&#34;http://theclimatecollective.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://theclimatecollective.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

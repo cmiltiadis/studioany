@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihye An | studio any</title>
+    <link>https://example.com/authors/mihye-an/</link>
+      <atom:link href="https://example.com/authors/mihye-an/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mihye An</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2016 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Mihye An</title>
+      <link>https://example.com/authors/mihye-an/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 3: Affair on a Fantastic Planet</title>
+      <link>https://example.com/curation/ol/ol-3/</link>
+      <pubDate>Thu, 10 Nov 2016 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-3/</guid>
+      <description>&lt;p&gt;IAM Open Lectures #3&lt;br&gt;
+Mihye An „Affair on a Fantastic Planet“&lt;br&gt;
+18:00 Thursday 10 Nov 2016&lt;br&gt;
+IAM Media Lab, Kronesgasse 5/3&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mihye An&lt;/strong&gt; is a postdoctoral researcher at CAAD (Computer Aided Architectural Design), Department of Architecture in ETH Zurich. Her interests are in developing inhabitable theories that offer a rich perspectivity on our world from the fundamental technological aspect – “inhabitable” not only for humans, but potentially for any thing. Mihye has backgrounds in design, media arts, culture technology, and architecture.&lt;/p&gt;
+&lt;!--
+Event poster https://iam.tugraz.at/wp-content/uploads/2016/11/Mihye_AOAFP_LecturePoster.pdf
+
+Original post: https://iam.tugraz.at/2016/10/open-lecture-mihye/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

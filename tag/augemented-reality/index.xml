@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>augemented reality | studio any</title>
+    <link>https://example.com/tag/augemented-reality/</link>
+      <atom:link href="https://example.com/tag/augemented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>augemented reality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2015 16:41:06 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>augemented reality</title>
+      <link>https://example.com/tag/augemented-reality/</link>
+    </image>
+    
+    <item>
+      <title>VR &amp; AR in Architectural Visualisation</title>
+      <link>https://example.com/course/15-ecaade/</link>
+      <pubDate>Mon, 14 Sep 2015 16:41:06 +0300</pubDate>
+      <guid>https://example.com/course/15-ecaade/</guid>
+      <description>&lt;h2 id=&#34;workshop-information&#34;&gt;Workshop information&lt;/h2&gt;
+&lt;p&gt;2-day workshop on AR and VR application development for architectural visualization at the eCAADe 2015 conference titled &amp;lsquo;Real-Time.&amp;rsquo; TU Vienna, September 14-15, 2015.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop brief&lt;/strong&gt;&lt;br&gt;
+The workshop aims to get participants familiar with using Virtual and Augmented Reality for architectural visualization. The workshop will offer a brief introduction of the Unity 3D game engine, demonstrate workflows for developing VR and AR applications, and support participants to create their own applications.  The first day of the workshop will cover creating navigable VR applications for the Oculus DK2 HMD, also using the Leap Motion controller. The second day will cover mobile AR application development for iOS and Android using the Vuforia SDK.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop schedule&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Day 1&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Software installation&lt;/li&gt;
+&lt;li&gt;Introduction of tutors and participants&lt;/li&gt;
+&lt;li&gt;Introduction to Unity and familiarisation with its interface and main features&lt;/li&gt;
+&lt;li&gt;Creation of a basic scene with a 3D model, and in-world navigation&lt;/li&gt;
+&lt;li&gt;Oculus Rift HMD demonstration and implementation in Unity&lt;/li&gt;
+&lt;li&gt;Exercise: Design a VR scene with your own 3D models and content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Day 2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentation of participant&amp;rsquo;s projects from Day 1&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A&lt;/li&gt;
+&lt;li&gt;Further development focusing on interaction / implementation of the Leap Motion controller with the Oculus Rift HMD&lt;/li&gt;
+&lt;li&gt;Introduction to mobile app development&lt;/li&gt;
+&lt;li&gt;Implementation of mobile AR SDK&lt;/li&gt;
+&lt;li&gt;Application development and testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Laptop&lt;/li&gt;
+&lt;li&gt;Installation of the latest Unity3D&lt;/li&gt;
+&lt;li&gt;Smart phone (optional)&lt;/li&gt;
+&lt;li&gt;Basic knowledge of C# or Java programming is an advantage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tutors&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis &lt;br&gt;
+Achilleas Xydis&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster_hue7de9c10263cb024b8e6f64d723c48ea_54869_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-1-ARVR-workshop-poster.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-ecaade-workshop/_hud08be11826c4c0d27691e3cd0643e1cf_73652_91ccee9cdf4f0390ed184c05246db10f.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg_huc91d9306bba0078e9a207a282bb17a53_50579_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-3-AR-collage_bg.png&#34; width=&#34;750&#34; height=&#34;625&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

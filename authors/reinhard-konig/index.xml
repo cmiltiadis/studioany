@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinhard König | studio any</title>
+    <link>https://example.com/authors/reinhard-konig/</link>
+      <atom:link href="https://example.com/authors/reinhard-konig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinhard König</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Reinhard König</title>
+      <link>https://example.com/authors/reinhard-konig/</link>
+    </image>
+    
+    <item>
+      <title>ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp; 360 Videos</title>
+      <link>https://example.com/publication/17-esum/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/17-esum/</guid>
+      <description>&lt;p&gt;Responsible for the design, development, programming, and documentation of the &lt;a href=&#34;../../project/esum&#34;&gt;ESUM backpack sensor module&lt;/a&gt;, presented in sections 2.1, 2.2, and the source code annex of the report.&lt;/p&gt;
+&lt;p&gt;Griego, Danielle, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven Schneider, Reinhard König, et al. ‘ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp;amp; 360° Videos’. Application/pdf. ETH Zurich, 13 September 2017. &lt;a href=&#34;https://doi.org/10.3929/ETHZ-B-000184587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3929/ETHZ-B-000184587&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IAM Open Lecture 5: Cognitive Urban Design Computing</title>
+      <link>https://example.com/curation/ol/ol-5/</link>
+      <pubDate>Thu, 12 Jan 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-5/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/199324858&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Reinhard König&lt;/strong&gt; is Senior Scientist at the AIT Austrian Institute of Technology, Junior-Professor at the Bauhaus-University Weimar, and Co-PI in the Big Data Informed Urban Design group at the Future Cities Lab (FCL) at the Singapore ETH Centre. He has a background in digital architecture and urban planning.&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #5  
+Reinhard König „Cognitive Urban Design Computing“  
+18:30 Thursday 12 Jan 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+
+Original post: https://iam.tugraz.at/2016/12/iam-open-lecture-5-reinhard-koenig/
+Event poster https://iam.tugraz.at/wp-content/uploads/2016/12/ol5_RKonig.pdf
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

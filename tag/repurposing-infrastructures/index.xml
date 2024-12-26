@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repurposing Infrastructures | studio any</title>
+    <link>https://example.com/tag/repurposing-infrastructures/</link>
+      <atom:link href="https://example.com/tag/repurposing-infrastructures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Repurposing Infrastructures</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Repurposing Infrastructures</title>
+      <link>https://example.com/tag/repurposing-infrastructures/</link>
+    </image>
+    
+    <item>
+      <title>Cybersyn 1973/2022</title>
+      <link>https://example.com/publication/22-isea/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-isea/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/573055092&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Peer reviewed artwork part of the ISEA 2022 screening programme, in collaboration with  Sónar Festival: June 11-16 2016, Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Grupo Synco&lt;/strong&gt; is a collaboration between curator and researcher Bassam El Baroni (Aalto University, Finland) transdisciplinary architect Constantinos Miltiadis (Aalto University, Finland), multidisciplinary artist and animator Georgios Cherouvim (New York), and composer and sound artist Gerriet K. Sharma (Berlin). The group’s first co-creation is the CGI video work Cybersyn 1973/2023.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

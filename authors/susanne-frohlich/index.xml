@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susanne Fröhlich | studio any</title>
+    <link>https://example.com/authors/susanne-frohlich/</link>
+      <atom:link href="https://example.com/authors/susanne-frohlich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susanne Fröhlich</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Susanne Fröhlich</title>
+      <link>https://example.com/authors/susanne-frohlich/</link>
+    </image>
+    
+    <item>
+      <title>Timescales of Architecture</title>
+      <link>https://example.com/event/timescales-of-architecture/</link>
+      <pubDate>Mon, 29 May 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/timescales-of-architecture/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Event organizer&lt;/strong&gt;&lt;br&gt;
+Marko Ciciliani&lt;/p&gt;
+&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
+&lt;!--Signale graz Soirée mit Susanne Fröhlich und Constantinos Miltiadis, Montag, 29.05.2017, 18:00 CUBE, IEM, Inffeldgasse 10/3--&gt;
+&lt;p&gt;Die signale graz Soirées bilden seit dem Sommersemester 2012/13 ein Forum, in dem der Dialog zwischen den Instituten der KUG und anderen Grazer Universitäten gefördert wird, um so einen intensiveren Austausch der künstlerischen und wissenschaftlichen Projekte zu ermöglichen. Bei der Veranstaltung werden von den Gästen kurze Vorträge gehalten, in denen ihre aktuellen Interessen und künstlerischen oder wissenschaftlichen Forschungen dargestellt werden, was dann Anstoß zu gemeinsamen Diskussionen bietet.&lt;/p&gt;
+&lt;p&gt;Wir freuen uns, am kommenden Montag in diesem Rahmen Susanne Fröhlich (künstl.-wiss. Doktoratsschule, KUG) und MAS ETH AI Dipl. Constantinos Miltiadis (Institute of Architecture and Media, TU Graz) begrüßen zu dürfen.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Susanne Fröhlich (künstl.-wiss. Doktoratsschule, KUG)&lt;br&gt;
+&amp;ldquo;The recorder in the 21st century&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;From the Middle Ages on, the recorder had many different forms of appearance and was always adapted to the sound worlds and music aesthetics of its particular time. Therefore, recorder players from today can choose from a big variety of instruments to perform in different styles and performance practises. So, it seems quite logic to perform music from today on instruments from today. But, reality looks different and in terms of method, extended techniques and performance practise on modern recorder models we are still at the starting point and there is a lot to develop, to explore, to fathom and to document. This fact marks the actual starting point of my artistic research and leads me the question: How much will new recorder models enrich repertoire, playing techniques and performance practise of recorder players?&lt;/p&gt;
+&lt;p&gt;Susanne studied the recorder with P. Leenhouts at Amsterdam Conservatory, with G. Lünenbürger at the Berlin University of Arts and with J. Fischer at the Akademie für Tonkunst in Darmstadt. Since October 2015 she is doing an artistic-academic research on the Helder Tenor at the Kunstuniversität Graz. Susanne regularly performs recitals and teaches workshops in Europe and overseas. As founding member of the former recorder quartet QNG – Quartet New Generation, she appears both as soloist and different formations as well as music theatre productions. She has participated in numerous world premieres at renowned venues and festivals worldwide with e.g. Ensemble Adapter, Collegium Novum Zürich, Figura Ensemble, Ensemble ICTUS and Neue Vokalsolisten. Susanne has won several scholarships and international competitions in Berlin, Bonn, Cracow, Darmstadt, Göttingen, Graz, New York, and Rotterdam. She is living and teaching in Berlin and won a lectureship at the University of Arts in April 2010.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;MAS ETH AI Dipl. Constantinos Miltiadis (Institute of Architecture and Media, TU Graz)&lt;br&gt;
+&amp;ldquo;Timescales of architecture”&lt;/p&gt;
+&lt;p&gt;In contrast to sound and music, architecture, understood primarily as the discipline of materialization of spatial designs, is traditionally thought of as an event of presence outside of the time dimension. The talk aims to examine different notions of a timeline in architecture history; from the timeless, to the periodic, metabolic and temporary, and eventually, through personal works and current research dealing with procedural design, interactive structures, virtual reality and game studies, present a conjecture of an immaterial but sensible architecture, of narrative events and interactive agency in contingent and subjective spatiotemporal environments.&lt;/p&gt;
+&lt;p&gt;Constantinos Miltiadis is an architect, computational designer and researcher, currently a University Assistant at the Institute of Architecture and Media of TU Graz. His work is interdisciplinary and experimental, and focuses on real-time, interactive, virtual and augmented reality design as a means of expanding the scope of architecture. He holds an MAS in Architecture and Information from the Chair for CAAD of ETH Zurich and a Diploma in Architecture Engineering from the NTU-Athens. Constantinos has taught programming classes in academic environments, conferences and festivals, and has worked for various academic and research oriented practices. His work has been awarded in international competitions, presented in exhibitions and conferences, and published by between others The Guardian and Reuters.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

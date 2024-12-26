@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Mücke | studio any</title>
+    <link>https://example.com/authors/johannes-mucke/</link>
+      <atom:link href="https://example.com/authors/johannes-mucke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Mücke</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jun 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Johannes Mücke</title>
+      <link>https://example.com/authors/johannes-mucke/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 10: Independence Day : Resurgence. Designing the Alien Invasion</title>
+      <link>https://example.com/curation/ol/ol-10/</link>
+      <pubDate>Fri, 02 Jun 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-10/</guid>
+      <description>&lt;p&gt;[no video]&lt;/p&gt;
+&lt;p&gt;The architect and entertainment designer &lt;strong&gt;Johannes Mücke&lt;/strong&gt; is one of the two founding partners of the Viennese design studio WIDESHOT established in 2010. Together with his partner Oliver Bertram and his team, Johannes works for various Hollywood blockbusters especially Roland Emmerich productions. What started with a raw animated cartoon for the apocalypse prophet Charly Frost in the movie „2012“ reached its most recent climax with the blockbuster „Independence Day: Resurgence“. For „Independence Day: Resurgence“ Johannes with WIDESHOT took on the leading role for the design of all the spaceships, the illustrations for greenlight-presenations at Fox, the construction of the sets at the Studios of Albuquerque and the production of the title sequence in Los Angeles. In his lecture Johannes will give a close insight into his work and will present his approach on unconventional and innovative design for film, by his Vienna based design company.&lt;/p&gt;
+&lt;!--
+
+IAM Open Lecture #10  
+Johannes Mücke „Independence Day : Resurgence. Designing the Alien Invasion“  
+18:30 Friday 2 June 2017  
+IAM Media Lab, Kronesgasse 5/3
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/05/ol10_Mucke.pdf
+Original post: https://iam.tugraz.at/2017/05/ol10/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

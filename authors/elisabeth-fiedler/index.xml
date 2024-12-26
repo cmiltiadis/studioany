@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisabeth Fiedler | studio any</title>
+    <link>https://example.com/authors/elisabeth-fiedler/</link>
+      <atom:link href="https://example.com/authors/elisabeth-fiedler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elisabeth Fiedler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Nov 2018 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Elisabeth Fiedler</title>
+      <link>https://example.com/authors/elisabeth-fiedler/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Paradise? Immersion in Space and Time</title>
+      <link>https://example.com/event/artificial-paradise-immersion-in-space-and-time/</link>
+      <pubDate>Thu, 08 Nov 2018 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/artificial-paradise-immersion-in-space-and-time/</guid>
+      <description>&lt;p&gt;Round table discussion on the topic of Immersion in the Arts, in the context of the exhibition &amp;ldquo;Artificial Paradise? Immersion in Space and Time&amp;rdquo; curated by Jürgen Dehm, at the &lt;a href=&#34;https://www.km-k.at/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graz Kunstlerhaus&lt;/a&gt;, part of the &lt;a href=&#34;https://www.steirischerherbst.at/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steirischer Herbst 2018 Festival&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Gerriet K. Sharma&lt;/em&gt; (*1974 Bonn, lives in Graz and Berlin) is a sound artist and composer. He studied media art at the Art College for Media at Cologne and composition/computer music at the Institute for Electronic Music and Acoustics (IEM) at the University for the Arts in Graz. Moreover, he completed a doctorate at the artistic-scientific doctorate school at the University for the Arts in Graz. In the winter semester 17/18, he was appointed for the renowned “Edgard Varèse Professorship” in Berlin. His works include numerous space-sound-compositions, sound-installations and performances. Moreover, he teaches and curates. He has received many international awards and grants.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Constantinos Miltiadis&lt;/em&gt; (*1986, lives in Graz) is an architect and computational designer, currently an assistant professor at the Institute of Architecture and Media of TU Graz. He studied architecture at NTU-Athens (2012) and at the Chair for Computer Aided Architectural Design of ETH Zurich (2014). Miltiadis’ work is interdisciplinary and experimental, focused on real-time, interactive, virtual and augmented reality design, aiming the expansion of the scope of architecture. At the Institute of Architecture and Media, he teaches experimental VR game design to architecture students, while also researching the function and properties of space in virtual navigable environments, as a novel spatial platform for architectural experimentation. His work and contributions have been awarded in international competitions and academic conferences and have been published by the Guardian and Reuters.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Elisabeth Fiedler&lt;/em&gt; (*1960 Graz, lives in Graz) is head and chief curator at the Institute for Art in Public Space Styria and the Austrian Sculpture Park. She studied art history, history and philosophy at the Karl-Franzens-University Graz. After that she worked as assistant producer at the Austrian Broadcasting Corporation, as arts editor at Neue Zeit and at Grazer Kunstverein. From 1992 to 1996, she was responsible for the fine arts section at Forum Stadtpark and organized solo and group exhibitions by international as well as regional artists, symposia, concerts and other events, she wrote and published texts and books. After her time as referent for art at the Styrian council, sine 2001, she has been working as curator and alternate director of the Neue Galerie, as head of the department of arts and culture and as head of the department for Art in Public Space at the Universalmuseum Joanneum. Fiedler is the editor and author of numerous publications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

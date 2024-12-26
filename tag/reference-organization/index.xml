@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reference organization | studio any</title>
+    <link>https://example.com/tag/reference-organization/</link>
+      <atom:link href="https://example.com/tag/reference-organization/index.xml" rel="self" type="application/rss+xml" />
+    <description>reference organization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>reference organization</title>
+      <link>https://example.com/tag/reference-organization/</link>
+    </image>
+    
+    <item>
+      <title>Open tools &amp; workflows for digital writing, notetaking, publishing, reference &amp; library management</title>
+      <link>https://example.com/event/kaymakkin-workshop/</link>
+      <pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
+      <guid>https://example.com/event/kaymakkin-workshop/</guid>
+      <description>&lt;p&gt;Workshop on open tools and workflows for writing, notetaking, publishing, reference and library management at &lt;em&gt;Social Space Kaymakkin&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop program&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital writing tools and workflows
+&lt;ol&gt;
+&lt;li&gt;Why word processors suck.&lt;/li&gt;
+&lt;li&gt;Writing in Markdown.&lt;/li&gt;
+&lt;li&gt;Introduction to Obsidian for personal knowledge management.&lt;/li&gt;
+&lt;li&gt;Brief introduction to Logseq, a FOSS alternative to Obsidian.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Library and reference management.
+&lt;ol&gt;
+&lt;li&gt;What is and what is not a library.&lt;/li&gt;
+&lt;li&gt;Calibre for ebook management.&lt;/li&gt;
+&lt;li&gt;Zotero for bibliographic reference management.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Publishing
+&lt;ol&gt;
+&lt;li&gt;Pandoc for document conversion.&lt;/li&gt;
+&lt;li&gt;Hugo for static website building.&lt;/li&gt;
+&lt;li&gt;Sandpoints Hugo framework&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Tools &amp;amp; software&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt; (open standard, lightweight markup plain-text language)&lt;/li&gt;
+&lt;li&gt;Software for Markdown &lt;a href=&#34;https://en.wikipedia.org/wiki/Zettelkasten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zettelkasten&lt;/a&gt; workflows:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian&lt;/a&gt; (Free software for writing and knowledge management)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://logseq.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logseq&lt;/a&gt; (FOSS for &lt;a href=&#34;https://en.wikipedia.org/wiki/Bullet_journal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bullet journaling&lt;/a&gt;, knowledge and task management, PDF annotation, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://panwriter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PanWriter&lt;/a&gt; Markdown text editor with Pandoc integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt; (FOSS, universal document converter)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calibre-ebook.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibre&lt;/a&gt; (FOSS for ebook management)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; (FOSS for bibliographic reference managment)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; (FOSS for building static websites)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.sandpoints.org/sandpoints/simplesandpoints-de47f813/_preview/draft/portfolio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sanpoints&lt;/a&gt; (FOSS Hugo theme; open infrastructure of experimental digital publishing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;br&gt;
+The workshop is free and open&lt;br&gt;
+Languages: Greek &amp;amp; English&lt;br&gt;
+Bring your own laptop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metadata Punks</title>
+      <link>https://example.com/event/metadata-punks/</link>
+      <pubDate>Tue, 21 Mar 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/metadata-punks/</guid>
+      <description>&lt;p&gt;#000000&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“In the past we were acting like data-punks. Not so much “here’s three chords, now form your band.” More like: “Here’s three gigs, now go form your autonomous art collective.” The new tactic might be more question of being metadata-punks.” (McKenzie Wark - Metadata Punk, 2015)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Constantinos Miltiadis, Dubravka Sekulić, and Marcell Mars are amateur librarians sharing and maintaining their collections at &lt;a href=&#34;https://library.memoryoftheworld.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://library.memoryoftheworld.org/&lt;/a&gt;. Like other amateur librarians they run away, on daily bases, from interesting, exciting professional duties into the boring acts of searching for new books available on the internet, meticulously editing their metadata, running optical character recognition against badly scanned books, slicing double-paged books into single-paged ready for screen. If an important author and her books are not already available on internet then they scan and make it available. Sometimes, not always, they also read, annotate, cite, and discuss with others.&lt;/p&gt;
+&lt;p&gt;In this tabletalk the three speakers will present different aspects of the inevitable role of a researcher as librarian. From the definition of a library, to the act of creating a public library and of making sense of one’s reading corpus. The talk will be followed by a workshop on Wednesday, to introduce book scanning methods, and software for annotating, citing and organizing libraries.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Marcell Mars&lt;/strong&gt; started his research “Ruling Class Studies” at Jan van Eyck (2011-12), continued at Akademie Schloss Solitude (2013) and since spring 2015, he is a PhD student at Leuphana University in DCRL (Digital Cultures Research Lab). Public Library/Memory of the World was established in 2012 to develop sociotechnical infrastructure and invigorate (again) historical argument for universal access to knowledge. He develops software: [let’s share books] Calibre plugin and related server infrastructure. Public Library/Memory of the World was heard and exhibited at Museo Reina Sofía, 98weeks, Impakt Festival, Transmediale, The New School, Kunstverein Stuttgart…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constantinos Miltiadis&lt;/strong&gt; is an architect and computational designer, currently an assistant professor at the Institute of Architecture and Media of TU Graz. His work is interdisciplinary and experimental, and focuses on real-time, interactive, virtual and augmented reality design as a means of expanding the scope of architecture. Constantinos has studied architecture at NTU-Athens and at the Chair for CAAD ETH Zurich, and his current research intends to bridge Game Studies and architecture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dubravka Sekulić&lt;/strong&gt; is an amateur librarian researching transformations of contemporary city. In September she joined the Institute for Contemporary Art, Department of Architecture, TU Graz as an assistant professor. She is PhD fellow at the Institute for History and Theory of Architecture, Department of Architecture, ETH Zürich. She is an author of “Glotzt Nicht so Romatnisch! On Extralegal Space in Belgrade” (Jan van Eyck Academie, Maastricht, 2012) and co-editor of “Zoran Bojovic: Three Points of Support” (Museum of Contemporary Art Belgrade, 2013), Surfing the Black (Jan van Eyck Academie, Maastricht, 2012) and Peti Park, Struggle for Everyday (Kontekst, Belgrade, 2012).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Wark, McKenzie. &amp;lsquo;Metadata Punk&amp;rsquo;. In &lt;em&gt;&lt;a href=&#34;https://library.memoryoftheworld.org/#/book/4779b288-9ea0-415a-bc93-faf03065538c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Javna Knjižnica / Public Library&lt;/a&gt;&lt;/em&gt;, edited by Tomislav Medak and Marcell Mars. WHW Multimedia Institute, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

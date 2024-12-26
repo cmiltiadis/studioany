@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collective | studio any</title>
+    <link>https://example.com/tag/collective/</link>
+      <atom:link href="https://example.com/tag/collective/index.xml" rel="self" type="application/rss+xml" />
+    <description>collective</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 21:54:44 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>collective</title>
+      <link>https://example.com/tag/collective/</link>
+    </image>
+    
+    <item>
+      <title>Lumbung Radio</title>
+      <link>https://example.com/project/lumbung-radio/</link>
+      <pubDate>Fri, 08 Apr 2022 21:54:44 +0300</pubDate>
+      <guid>https://example.com/project/lumbung-radio/</guid>
+      <description>&lt;h2 id=&#34;lumbung-radio-description-at-d15d15d&#34;&gt;Lumbung radio description at d15&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; the result of the radio working group (consisting of the initial members &lt;strong&gt;Grégoire Rousseau&lt;/strong&gt;, &lt;strong&gt;Malene Saalmann&lt;/strong&gt;, &lt;strong&gt;Gözde Filinta&lt;/strong&gt;, &lt;strong&gt;Ayşe Güleç&lt;/strong&gt;, and &lt;strong&gt;Reza Afisina&lt;/strong&gt;) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen &lt;a href=&#34;https://documenta-fifteen.de/en/glossary/?entry=ekosistem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ekosistem&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; was launched in April 2022, broadcasting 24/7 during the 100 days of d15, from and to the whole planet. With the end of d15, the participants of the network, with the support of &lt;a href=&#34;https://ruangrupa.id/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ruangrupa&lt;/a&gt; voted to continue the project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is coordinated by &lt;em&gt;&lt;a href=&#34;https://stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;&lt;/em&gt;—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.&lt;/p&gt;
+&lt;p&gt;Since 2022 &lt;em&gt;Station of Commons&lt;/em&gt; is coordinating collective of lumbung radio, supported by the &lt;a href=&#34;https://koneensaatio.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KONE foundation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jGqzHTjExho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;h2 id=&#34;participating-networks&#34;&gt;Participating networks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rururadio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RURUradio&lt;/a&gt;, Jakarta, Indonesia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://thenifty.radio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Nifty Radio&lt;/a&gt;, Bogor, Indonesia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radiotropiezo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arts Collaboratory Radio&lt;/a&gt;, coordinated by Radio Tropiezo, Mexico-City, Mexico, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wazaradio.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre d’art Waza&lt;/a&gt;, Lubumbashi, Democratic Republic of the Congo, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.radioalhara.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio AlHara&lt;/a&gt;, Bethlehem, Palestine&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/le-18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LE 18&lt;/a&gt;, Marrakech, Marocco, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/amol-k-patil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amol K Patil&lt;/a&gt;, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/party-office-b2b-fadescha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Party Office b2b Fadescha&lt;/a&gt; , hosted by artist-curator Vidisha-Fadescha, New Delhi, India, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://obn.org/obn/faq/fs_faq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Old Boys Network (OBN)&lt;/a&gt; Archive, Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radio-rasclat.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Rasclat&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freies-radio-kassel.de/startseite.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freies Radio Kassel&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kollektiv-eigenklang.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kollektiv Eigenklang&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cashmereradio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cashmere Radio&lt;/a&gt;, Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedfrequencies.live/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shared Frequencies Radio&lt;/a&gt;, Austin, Texas, USA&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://force-inc.org/en/c/music/mille-plateaux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc. / mille plateaux , NON / ‘O’ /&lt;/a&gt;, Graz, Austria&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radioart.zone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Art Zone&lt;/a&gt;, Esch/Alzette, Luxembourg&lt;/li&gt;
+&lt;li&gt;ook_visitorZentrum, podcast, hosted by lumbung artist &lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/ook_/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ook_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consonni.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consonni&lt;/a&gt;, Bilbao, Spain&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fugitive-radio.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fugitive Radio&lt;/a&gt;, Helsinki, Finland and Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radionopal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Nopal&lt;/a&gt;, Mexico-City, Mexico&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radioensayo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Ensayo&lt;/a&gt;, Yucatan, Mexico&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.colaboratorykitchen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Cocina Colaboratorio&lt;/a&gt;, Mexico-City / Oaxaca / Chiapas, Mexico&lt;/li&gt;
+&lt;li&gt;Good Morning, I Love You, Nicosia, Cyprus  (Now &lt;em&gt;Affects &amp;amp; Dreams&lt;/em&gt;, Berlin)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;station-of-commons-team&#34;&gt;Station of Commons team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Grégoire Rousseau (LR coordination; d15 on-site team; d15 and post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Alain Ryckelynck (open infrastructure development, maintenance, and support)&lt;/li&gt;
+&lt;li&gt;Eddie Choo Wen Yi (d15 on-site team; LR coordination; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Juan Gomez (graphic design; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Essi Pellikka (LR publication coordinator 2023-2024; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Minerva Ruolahti (coordination and content production for SoC; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (initial coordination contributor 2021-2022; d15 &amp;amp; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Mathilde Palenius (producer since 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-radio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://documenta-fifteen.de/en/lumbung-radio/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Station of Commons</title>
+      <link>https://example.com/project/station-of-commons/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/station-of-commons/</guid>
+      <description>&lt;p&gt;Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
+SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.&lt;/p&gt;
+&lt;p&gt;Among the flagship initiatives of SoC is the interlocal online radio &lt;a href=&#34;https://lumbungradio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lumbung radio&lt;/a&gt;, first established with ruangrupa for documeneta fifteen in 2022.
+The radio comprises more than 20 radio and audio practice collective from around the world, and is broadcasting since April 2022 on open infrastructure developed by SoC. Since the end of documenta, SoC is the coordinating collective of lumbung radio, supported by the Kone Foundation.&lt;/p&gt;
+&lt;!--
+## Selected projects by SoC
+- [Miss Read Berlin Art Book Fair](../../event/miss-read). Invited participation as lumbung radio, and co-organization of the pre-fair week programme. HKW, Berlin, 17-24.09.2023. 
+- [Digital Commoning Practices](../../event/digital-commoning-practices) - exhibition including discourse, performance, and workshop sections at Oksasenkatu 11, Helsinki, March 2021. 
+- In mid-2021 Station of Commons in collaboration with [rugangrupa](https://ruangrupa.id/en/) initiated the multi-collective interlocal [lumbung radio](../lumbung-radio). The online radio is based on open infrastructure developed by SoC, and was launched in April 2022, broadcasting content from participating radio collectives from across the world. Following Documenta, the project&#39;s contributing collectives and networks elected to continue with the project. Station of Commons serves as coordinator of the project supported by the Kone foundation. 
+- [FORUM PIXELACHE x LUMBUNG RADIO](https://www.pixelache.ac/posts/forum-pixelache-x-lumbung-radio). Event co-production with Pixelache. MUU, Cable Factory, Helsinki, 2-3.09.2023.
+
+## SoC history
+
+Station of Commons was originally founded in 2020 by Gregoire Rousseau and Juan Gomez. 
+Alain Ryckelynck develops and maintains the open infrastructure by Station of Commons. 
+Performance artist Minerva Juolahti and researcher Constantinos Miltiadis joined later to assist with coordination and production. 
+Visual artists Eddie Choo Wen Yi joined during Documenta fifteen in 2022 and serves as lumbung radio coordinator, and Essi Pellikka joined in 2023 as coordinator for the lumbung radio publication.  
+
+--&gt;
+&lt;h1 id=&#34;station-of-commons&#34;&gt;Station of Commons&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Description from &lt;a href=&#34;https://site.stationofcommons.org/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StationOfCommons.org&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!--
+[^about]
+[^about]: https://site.stationofcommons.org/about
+--&gt;
+&lt;p&gt;An ongoing collaborative initiative on &lt;strong&gt;digital commoning practices&lt;/strong&gt; by Grégoire Rousseau (Helsinki), Juan Gomez (Geneva), Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, and Eddie Choo Wen Yi.&lt;/p&gt;
+&lt;p&gt;Initiated in February 2020, Station of Commons investigates &lt;strong&gt;the possibilities of re-appropriating technology within public space&lt;/strong&gt;. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?&lt;/p&gt;
+&lt;p&gt;Station of Commons stands for radical alternative strategies to the neo-liberal system in terms of digital means of production, communication and distribution. Station of Commons operates as an easily integrable &lt;strong&gt;on-line platform&lt;/strong&gt; for sharing local resources. Resources as commons integrate the ideas of shared data, &lt;strong&gt;Open Source&lt;/strong&gt; practices, artefacts and real time broadcast. The sustainability of exchange, the ways they interoperate, the ecologies of interaction between the Stations of Commons produce provocations for a better collective understanding on how the Commons are in constant flux and also at risk.&lt;/p&gt;
+&lt;p&gt;Each Station depends on its own means of production, way of thinking, learning and sharing. This position of autonomy reflects on the original concept of Internet: the equality in the relation client to server and the openness of the algorithmic process. The Station of Commons operates as a vibrant thinking space dedicated for tutorials, live performances and critical discussions around the practice of commoning and open technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>◯  (2019)</title>
+      <link>https://example.com/project/o-graz/</link>
+      <pubDate>Sat, 04 May 2019 11:30:12 +0300</pubDate>
+      <guid>https://example.com/project/o-graz/</guid>
+      <description>&lt;p&gt;◯ was an experimental event series and collective based in Graz, active from 2019 to 2022. Founded in early 2019 by a group of eight individuals associated with the computer music program at the Institute of Electronic Music, University of Music and Performing Arts Graz, the collective aimed to curate and produce experimental post-genre events that blended contemporary bass and dance music with experimental electronics, live arts, and discourse.&lt;/p&gt;
+&lt;p&gt;◯ was launched on May 5, 2019, at Forum Stadtpark. Following that and throughout 2019, the collective was highly active, organizing its own events while also participating in a variety of festivals and events. However, as the pandemic took hold in 2020 and several members relocated from Graz, sustaining the series became increasingly challenging.
+Eventually, ◯  held its closing event at Forum Stadtpark on November 25, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;h2 id=&#34;founding-members&#34;&gt;Founding members&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lain Iwakura / Bill B. Wintermute&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis&lt;/li&gt;
+&lt;li&gt;Korin Rizzo&lt;/li&gt;
+&lt;li&gt;Nico Mohammadi / &lt;a href=&#34;https://www.instagram.com/dj_durbin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Durbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Peter Stiegler / Echnatron&lt;/li&gt;
+&lt;li&gt;John-Robin Bold&lt;/li&gt;
+&lt;li&gt;Florian Fend / Klaus Masuda&lt;/li&gt;
+&lt;li&gt;Gianluca Iadema&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As the only non-performing-arist of the group my main contribution involved production and co-curation as well as visual design.&lt;/p&gt;
+&lt;h2 id=&#34;invited-guests&#34;&gt;Invited guests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jungantagen.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jung An Tagen&lt;/a&gt; (AT)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bienoise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bienoise&lt;/a&gt; (IT)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ra.co/dj/sunpeople&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sun People&lt;/a&gt; (AT)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ibi-alfa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ibrahim Alfa Jnr&lt;/a&gt; (UK)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emiddiovasquez.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emiddio Vasquez / Joralsky&lt;/a&gt; (CY/US)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isabella.klingt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Isabella Forciniti&lt;/a&gt; (IT/AT)&lt;/li&gt;
+&lt;li&gt;Teonas Borsetto (IT/AT)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators--contributors&#34;&gt;Collaborators &amp;amp; contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simon Hafner: sound engineer at Forum Stadtpark events&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nataliefend.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Natalie Fend&lt;/a&gt;: Dance performance for #2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.katharinawraubek.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katharina Wraubek&lt;/a&gt;: Set design for #2&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.greynote.art/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grey note&lt;/a&gt; (collective): co-producer of #2&lt;/li&gt;
+&lt;li&gt;Ypatios Gregoriadis: Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- Lain Iwakura and Korin Rizzo: sound engineering. --&gt;
+&lt;h2 id=&#34;collaborating-events-venues-festivals&#34;&gt;Collaborating events, venues, festivals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Forum Stadtpark&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elevate.at/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elevate Festival&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://subsubsub.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUb&lt;/a&gt; (live, DJ sets, discourse)&lt;/li&gt;
+&lt;li&gt;Triple Hüttler (event series)&lt;/li&gt;
+&lt;li&gt;Rostfest 2019&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kulturverein-oag.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OAG Kulturverein&lt;/a&gt; (&amp;lsquo;beach party&amp;rsquo; 2019)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+- Fridays for the Future (demonstrations: Lain Iwakura; DJ Durbin)
+
+# History &amp; list of events 
+In early 2019 ◯  approached [Forum Stadtpark](https://forumstadtpark.at/en) to propose a series of experimental events. The first even took place on 04.05.2019 at Forum Stadtpark with guests [Jung An Tagen](https://jungantagen.xyz/) (AT) and [Bienoise](www.bienoise.com) (IT).
+Following the launch event ◯  was invited to participate, co-curate, or provide showcase pereformances at multiple other events and festivals including:  
+- Fridays for the Future (demonstrations: Lain Iwakura; DJ Durbin)
+- Triple Hüttler (event series)
+- Rostfest 2019 Festival (showcase: Lain Iwakura; DJ Durbin; Klaus Masuda)
+- [Elevate Festival](https://elevate.at/en/)
+- [SUb](https://subsubsub.at/) (live, DJ sets, discourse)
+- [OAG Kulturverein](https://www.kulturverein-oag.org/) (&#39;beach party&#39; 2019) 
+
+◯  was terminated in late 2022, with a closing event taking place on 21.11.2022 with guests [Sun People](https://campsite.bio/sunpeople) and Ibrahim Alfa Jnr. 
+--&gt;
+&lt;h1 id=&#34;selected-events&#34;&gt;Selected events&lt;/h1&gt;
+&lt;h2 id=&#34;--inaugural-event-at-forum-stadtpark-04052019&#34;&gt;◯  inaugural event at Forum Stadtpark 04.05.2019&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/278099826240252/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;18:00 WORKSHOP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of no-input-mixing by &lt;a href=&#34;https://www.facebook.com/wntrmt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bill B. Wintermute&lt;/a&gt; ◯/ &lt;a href=&#34;https://www.facebook.com/forceincmusicworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc.&lt;/a&gt;/ mille plateaux/ &lt;a href=&#34;https://www.facebook.com/SacredConspiracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acéphale&lt;/a&gt;&lt;br&gt;
+no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;22:00 CONCERT&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Echnatron ◯&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/jungantagen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jung An Tagen&lt;/a&gt; (&lt;a href=&#34;https://www.facebook.com/editionsmego&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Editions Mego&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;John-Robin Bold ◯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;24:00 CLUB&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/iademamusic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gianluca Iadema&lt;/a&gt; -live A/V- ◯ / mille plateaux/ Force inc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bienoise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bienoise&lt;/a&gt; -live- Floating Forest / mille plateaux/ Force inc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/durbindj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Durbin&lt;/a&gt; ◯ / Row Records&lt;/li&gt;
+&lt;li&gt;Klaus Masuda ◯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lecture-performance-concert-club-at-subhttpssubsubsubat-31052019&#34;&gt;Lecture, performance, concert, club at &lt;a href=&#34;https://subsubsub.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SUb&lt;/a&gt; 31.05.2019&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/321481301875265/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lecture &amp;amp; performance&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emiddio Vasquez &amp;ldquo;Materialist synthesis&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Live concert&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teonas Borsetto, live electronics (dynamic feedback system).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://isabella.klingt.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Isabella Forciniti&lt;/a&gt;, live electronics (modular feedback improv)&lt;/li&gt;
+&lt;li&gt;Joined live improvisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DJ sets&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;John-Robin Bold&lt;/li&gt;
+&lt;li&gt;Bill B. Wintermute&lt;/li&gt;
+&lt;li&gt;Joralsky&lt;/li&gt;
+&lt;li&gt;DJ Durbin&lt;/li&gt;
+&lt;li&gt;Klaus Masuda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grey-note-x---at-forum-stadtpark-07062019&#34;&gt;Grey Note x ◯  at Forum Stadtpark 07.06.2019&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/events/906533703010884/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB Event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Event produced by &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.facebook.com/thisisograz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;◯ &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Design &amp;amp; animation: studio any (animation) and &lt;a href=&#34;https://www.facebook.com/allloneofficial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alllone&lt;/a&gt; (sound design)&lt;/p&gt;
+&lt;p&gt;GreyNote guests&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/ileflottantebeats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILe Flottante&lt;/a&gt; [UK]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/dervinylizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Vinylizer&lt;/a&gt; [DE],&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://deafblindmedia.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deafblind&lt;/a&gt; (live visuals)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Event introduction by ◯&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dance performance by Natalie Fend&lt;/li&gt;
+&lt;li&gt;Ezili-i Sabbah (live); set design by Katharina Wraubek&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music program&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/ileflottantebeats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILe Flottante&lt;/a&gt; Live Beat Set [UK]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/dervinylizer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Der Vinylizer&lt;/a&gt; aka Marcus Maack II &lt;a href=&#34;https://www.facebook.com/wobwobdubstep&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WobWob&lt;/a&gt;! / &lt;a href=&#34;https://www.facebook.com/bttbradio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BTTB - Back To The Basics&lt;/a&gt; - &lt;a href=&#34;https://www.facebook.com/bytefm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ByteFM&lt;/a&gt; [DE]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/allloneofficial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alllone&lt;/a&gt; II &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/noisecollage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Noise Collage&lt;/a&gt; &lt;a href=&#34;https://soundcloud.com/alllone&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/alllone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/OmeBeats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OME Dubs&lt;/a&gt; II &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt;  &lt;a href=&#34;https://soundcloud.com/ome_dubs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/ome_dubs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dotworks II &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/basstrace?__cft__[0]=AZWvEmCYCy1Q4JhllbkJhgz6xsJFsX30V6lx-MJFQDPVgSkzs4HRWalkb2n8-OlG5j_BUWOLYAU17PdQ8E9kNFGIk-76-tkDYuyzjvoiJpEbbSrX-L7U-3ov5bYrQ-oA6I4&amp;amp;__tn__=q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basstrace&lt;/a&gt;  &lt;a href=&#34;https://soundcloud.com/dotworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/dotworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/wntrmt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bill B. Wintermute&lt;/a&gt; (live) II ◯ / &lt;a href=&#34;https://www.facebook.com/forceincmusicworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc.&lt;/a&gt; / &lt;a href=&#34;https://www.facebook.com/SacredConspiracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acéphale&lt;/a&gt; / Mille Plateaux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/durbindj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Durbin&lt;/a&gt; II ◯ / &lt;a href=&#34;https://www.facebook.com/rowrec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Row Records&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://soundcloud.com/djdurbin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/djdurbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/EziliiSabbah&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ezili-i Sabbah&lt;/a&gt; II ◯ / &lt;a href=&#34;https://www.facebook.com/forceincmusicworks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc.&lt;/a&gt; / &lt;a href=&#34;https://www.facebook.com/SacredConspiracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acéphale&lt;/a&gt; / Mille Plateaux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+## SPRING BRK 2019 - SUb 19-22.06.2019 [FB](https://www.facebook.com/events/367747014091879/)
+--&gt;
+&lt;!-- 
+## Post-2019 events 
+
+#### ◯ presents Book, Film, Concert &amp; Club - Forum Stadtpark 02.02.2020 [FB](https://www.facebook.com/events/453329305336465/?ref=newsfeed)
+- 8pm Book &amp; Compilation presentation: mille plateaux’s „Ultrablackness of Music“  
+- 9pm Movie &amp; Talk: demystification committee’s short film &#34;[Interface Chaos](https://interfacechaos.com/)&#34;  
+- 10.30pm Album Release Concert &amp; Reading: John-Robin Bold &amp; Harald Nicolas Stazol  
+- 23.30pm Club. [Klaus Masuda](https://soundcloud.com/klausmasuda), [DJ Durbin](https://soundcloud.com/djdurbin), [DJ Auto](https://soundcloud.com/aseulenspiegel)
+
+
+#### ◯  x Elevate Festival 2021 - Parkhaus 06.08.2021 [FB](https://www.facebook.com/events/615706472734537/)
+- EMA  
+- DJ Durbin  
+- Klaus Masuda  
+- Bill B. Wintermute
+
+--&gt;
+&lt;h2 id=&#34;-closing-event-at-forum-stadtpark-25112022&#34;&gt;◯ closing event at Forum Stadtpark 25.11.2022&lt;/h2&gt;
+&lt;p&gt;Organized by Lain Iwakura&lt;br&gt;
+&lt;a href=&#34;https://www.facebook.com/events/847371356306348/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FB event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Program&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Peter Stiegler (Live-Set)  &lt;a href=&#34;https://soundcloud.com/peterstiegler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/peterstiegler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;John-Robin Bold (Live-Set) &lt;a href=&#34;http://johnrobinbold.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://johnrobinbold.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DJ Durbin  &lt;a href=&#34;https://soundcloud.com/djdurbin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/djdurbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lain Iwakura (Live-Set) &lt;a href=&#34;https://derayling.copyriot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://derayling.copyriot.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sun People &lt;a href=&#34;https://soundcloud.com/simon-off&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/simon-off&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ibrahim Alfa Jnr (Live- &amp;amp; DJ-Set) &lt;a href=&#34;https://soundcloud.com/ibi-alfa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soundcloud.com/ibi-alfa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

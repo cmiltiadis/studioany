@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minerva Ruolahti | studio any</title>
+    <link>https://example.com/authors/minerva-ruolahti/</link>
+      <atom:link href="https://example.com/authors/minerva-ruolahti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minerva Ruolahti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 21:54:44 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Minerva Ruolahti</title>
+      <link>https://example.com/authors/minerva-ruolahti/</link>
+    </image>
+    
+    <item>
+      <title>Lumbung Radio</title>
+      <link>https://example.com/project/lumbung-radio/</link>
+      <pubDate>Fri, 08 Apr 2022 21:54:44 +0300</pubDate>
+      <guid>https://example.com/project/lumbung-radio/</guid>
+      <description>&lt;h2 id=&#34;lumbung-radio-description-at-d15d15d&#34;&gt;Lumbung radio description at d15&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; the result of the radio working group (consisting of the initial members &lt;strong&gt;Grégoire Rousseau&lt;/strong&gt;, &lt;strong&gt;Malene Saalmann&lt;/strong&gt;, &lt;strong&gt;Gözde Filinta&lt;/strong&gt;, &lt;strong&gt;Ayşe Güleç&lt;/strong&gt;, and &lt;strong&gt;Reza Afisina&lt;/strong&gt;) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen &lt;a href=&#34;https://documenta-fifteen.de/en/glossary/?entry=ekosistem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ekosistem&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; was launched in April 2022, broadcasting 24/7 during the 100 days of d15, from and to the whole planet. With the end of d15, the participants of the network, with the support of &lt;a href=&#34;https://ruangrupa.id/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ruangrupa&lt;/a&gt; voted to continue the project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is coordinated by &lt;em&gt;&lt;a href=&#34;https://stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;&lt;/em&gt;—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.&lt;/p&gt;
+&lt;p&gt;Since 2022 &lt;em&gt;Station of Commons&lt;/em&gt; is coordinating collective of lumbung radio, supported by the &lt;a href=&#34;https://koneensaatio.fi/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KONE foundation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jGqzHTjExho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;h2 id=&#34;participating-networks&#34;&gt;Participating networks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rururadio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RURUradio&lt;/a&gt;, Jakarta, Indonesia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://thenifty.radio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Nifty Radio&lt;/a&gt;, Bogor, Indonesia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radiotropiezo.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arts Collaboratory Radio&lt;/a&gt;, coordinated by Radio Tropiezo, Mexico-City, Mexico, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wazaradio.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre d’art Waza&lt;/a&gt;, Lubumbashi, Democratic Republic of the Congo, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.radioalhara.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio AlHara&lt;/a&gt;, Bethlehem, Palestine&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/le-18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LE 18&lt;/a&gt;, Marrakech, Marocco, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/amol-k-patil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amol K Patil&lt;/a&gt;, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/party-office-b2b-fadescha/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Party Office b2b Fadescha&lt;/a&gt; , hosted by artist-curator Vidisha-Fadescha, New Delhi, India, lumbung artist&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://obn.org/obn/faq/fs_faq.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Old Boys Network (OBN)&lt;/a&gt; Archive, Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radio-rasclat.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Rasclat&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freies-radio-kassel.de/startseite.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freies Radio Kassel&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kollektiv-eigenklang.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kollektiv Eigenklang&lt;/a&gt;, Kassel, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cashmereradio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cashmere Radio&lt;/a&gt;, Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sharedfrequencies.live/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shared Frequencies Radio&lt;/a&gt;, Austin, Texas, USA&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://force-inc.org/en/c/music/mille-plateaux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Force inc. / mille plateaux , NON / ‘O’ /&lt;/a&gt;, Graz, Austria&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radioart.zone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Art Zone&lt;/a&gt;, Esch/Alzette, Luxembourg&lt;/li&gt;
+&lt;li&gt;ook_visitorZentrum, podcast, hosted by lumbung artist &lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-members-artists/ook_/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ook_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consonni.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consonni&lt;/a&gt;, Bilbao, Spain&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fugitive-radio.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fugitive Radio&lt;/a&gt;, Helsinki, Finland and Berlin, Germany&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radionopal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Nopal&lt;/a&gt;, Mexico-City, Mexico&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://radioensayo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Ensayo&lt;/a&gt;, Yucatan, Mexico&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.colaboratorykitchen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Radio Cocina Colaboratorio&lt;/a&gt;, Mexico-City / Oaxaca / Chiapas, Mexico&lt;/li&gt;
+&lt;li&gt;Good Morning, I Love You, Nicosia, Cyprus  (Now &lt;em&gt;Affects &amp;amp; Dreams&lt;/em&gt;, Berlin)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;station-of-commons-team&#34;&gt;Station of Commons team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Grégoire Rousseau (LR coordination; d15 on-site team; d15 and post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Alain Ryckelynck (open infrastructure development, maintenance, and support)&lt;/li&gt;
+&lt;li&gt;Eddie Choo Wen Yi (d15 on-site team; LR coordination; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Juan Gomez (graphic design; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Essi Pellikka (LR publication coordinator 2023-2024; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Minerva Ruolahti (coordination and content production for SoC; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (initial coordination contributor 2021-2022; d15 &amp;amp; post-d15 event production)&lt;/li&gt;
+&lt;li&gt;Mathilde Palenius (producer since 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://documenta-fifteen.de/en/lumbung-radio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://documenta-fifteen.de/en/lumbung-radio/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational design | studio any</title>
+    <link>https://example.com/tag/computational-design/</link>
+      <atom:link href="https://example.com/tag/computational-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>computational design</title>
+      <link>https://example.com/tag/computational-design/</link>
+    </image>
+    
+    <item>
+      <title>Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections</title>
+      <link>https://example.com/publication/20-archidoct/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/20-archidoct/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections’. Archidoct, Variability, 8, no. 1 (2020): 24–37.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sound to Space</title>
+      <link>https://example.com/course/16-dm2/</link>
+      <pubDate>Thu, 07 Jan 2016 16:34:00 +0300</pubDate>
+      <guid>https://example.com/course/16-dm2/</guid>
+      <description>&lt;p&gt;Digital design 2 (dm2) is a week-long course taught to third-semester architecture students at the Institute of Architecture with the aim of introducing computational design thinking and related practices.
+The course was originally taught using MEL scripting in Maya.&lt;/p&gt;
+&lt;p&gt;The course theme for 2016 was &amp;ldquo;Sound to Space&amp;rdquo; and aimed at using sound input to generate geometry.
+In January 2016 I ran an iteration of the course using the programming language &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;. For this purpose I also wrote a short booklet introducing basic programming concepts in Processing (see &lt;a href=&#34;https://example.com/uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf&#34;&gt;Processing Booklet&lt;/a&gt;).
+This workshop iteration used FFT over a live sound input to generate interactive graphics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teacher&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teaching assistants&lt;/strong&gt;&lt;br&gt;
+Markus Bartaky, Ludwig Grimm, Martin Schrotz&lt;/p&gt;
+&lt;!--
+Workshop challenge: Program or explain how to generate the above vector image. [[solution posted here](http://studioany.com/2015/12/14/async/)]
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>7x Cabin</title>
+      <link>https://example.com/project/14-7x-cabin/</link>
+      <pubDate>Mon, 10 Feb 2014 19:22:31 +0300</pubDate>
+      <guid>https://example.com/project/14-7x-cabin/</guid>
+      <description>&lt;p&gt;The 7xCabin is the result of a workshop focusing on the implementation of a robotic fabrication process on the architectural scale. Instead of inventing a new architectural language based on shifts in technology, this projects searches for an integrative approach towards traditional crafts and archetypal forms. Using digital design tools, traditional timber joints were adapted to be usable with raw, irregular logs. These joints have subsequently been produced using a chainsaw mounted on an industrial robot. All movements for the robot were planned digitally, with students preparing the exact toolpaths for each log type.&lt;/p&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/88490760&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+The project was realized by students of MAS CAAD prostgraduate program at ETH Zurich, under the supervision of Tom Pawlofsky.  Tom Pawlofksi’s &lt;em&gt;Rhino2KRL&lt;/em&gt; plugin was used to export Kuka source code.&lt;br&gt;
+The cabin was reassembled and displayed at the ETHz Campus at Honggerberg during February 2014.&lt;/p&gt;
+&lt;p&gt;The project video was accepted as project participation to &lt;a href=&#34;http://www.robarch2014.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob|Arch 2014&lt;/a&gt; - the international conference on robotic fabrication in architecture, art, and design.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Workshop instructor&lt;/strong&gt;&lt;br&gt;
+Tom Pawlofski&lt;br&gt;
+&lt;strong&gt;Project authors&lt;/strong&gt;   &lt;br&gt;
+Adel Albloushi, Georgios Anagnostopoulos, Christian Braun, Kaihong Chen, Grigorios Grigoriadis, Abel Groenewolt, Periklis Kyriakidis, Valle Medina, Constantinos Miltiadis, Regina Mirzoyants, Yu-ting Sheng, Togo Takamura and Tom Pawlofski&lt;br&gt;
+&lt;strong&gt;Documentation&lt;/strong&gt;&lt;br&gt;
+Periklis Kyriakidis, Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Renderings&lt;/strong&gt;&lt;br&gt;
+Abel Groenewolt&lt;br&gt;
+&lt;strong&gt;Video&lt;/strong&gt; &lt;br&gt;
+Constantinos Miltiadis&lt;/p&gt;
+&lt;h1 id=&#34;image-documentation&#34;&gt;Image documentation&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Porocity</title>
+      <link>https://example.com/project/porocity/</link>
+      <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
+      <guid>https://example.com/project/porocity/</guid>
+      <description>&lt;!-- 
+- on Choi&#39;s Vimeo account 
+https://vimeo.com/78187584
+- on My youtube account, variation 
+  - name: Project trailer 
+    url: &#39;https://www.youtube.com/watch?v=5RtswWw7Z-g&#39;
+    icon: youtube
+    icon_pack: fab 
+--&gt;
+&lt;p&gt;&lt;em&gt;Porocity&lt;/em&gt; is a collaborative procedural design project implementing shape grammars in Processing.
+Produced by the 2013 MAS CAAD class at the &lt;a href=&#34;https://www.caad.arch.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair for Digital Architectonics (née Chair for CAAD)&lt;/a&gt;, during a programming course taught by Benjamin Dillenburger.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/78469790&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Kinetic Structures</title>
+      <link>https://example.com/project/iks/</link>
+      <pubDate>Wed, 10 Oct 2012 11:13:53 +0300</pubDate>
+      <guid>https://example.com/project/iks/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Interactive Kinetic Structures&lt;/strong&gt;&lt;/em&gt; is a prototype for an interactive architectural structure developed in 2012 as a diploma thesis project at NTU-Athens.
+The aim of the project was the production of a proof-of-concept for an architectural structure able to interact and reconfigure itself according to parameters of its immediate environment and different use scenarios.
+The concept for this work departed from the design flexibility of parametric design methods, and the intention of maintaining such flexibility as responsiveness even after the course of the design process:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;center&gt;What if we could transform the object of architecture from the design of the defined to the design of the unpredictable?&lt;/center&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;demo&#34;&gt;Video demo&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/XZqgqt0Jc28&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;project-description&#34;&gt;Project description&lt;/h1&gt;
+&lt;!-- COMPONENTS  --&gt;
+&lt;p&gt;The main component of the project is a custom software written in the &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt; programming language.
+The software was responsible for the computational modeling of the structure, real-time interaction, and visualization (see &lt;a href=&#34;#demo&#34;&gt;video demo&lt;/a&gt;).
+The project also includes a functional physical modeling prototype with stepper motors and custom extendable beams developed with Arduino-based electronics, and controlled in real-time by the Processing software (see &lt;a href=&#34;#gallery-12-iks-9&#34;&gt;image 9&lt;/a&gt;).
+Moreover, a parametric CAD model developed in Rhino and Grasshopper was responsible for generating 3D models of instances of the structure using data forwarded by the Processing software via OSC.
+These were used to generate 3D renderings and &lt;a href=&#34;#gallery-12-iks-8&#34;&gt;3D prints&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- STRUCTURE --&gt;
+&lt;p&gt;The structure itself consists of two parallel grids: a triangular grid at the bottom and a hexagonal grid at the top.
+The two grids comprise of extendable beams. These are connected to each other with fixed-length beams, while all joints allow for free rotation.
+The structure is supported by vertical extendable beams at the outline of the lower grid.
+This configuration makes up a rigid spaceframe which can be deformed while maintaining structural integrity by altering the beam lengths of the two parallel grids (see &lt;a href=&#34;#gallery-12-iks-3&#34;&gt;image 3&lt;/a&gt;).
+The structural deformation solver was modeled using a mathematical equation based on triple-sphere intersection.
+The structural detailing of the project provisioned for pneumatic extendable beams, and explored three types of joints using antiprism nodes with universal mechanical joints, ball joints, and solid elastic polymers (see project booklet).&lt;/p&gt;
+&lt;!-- 
+The project comprises four main components: 
+1. a custom software developed in the Processing programming language; 
+2. functional physical modelling prototypes using Arduino-based custom electronics;
+3. fabrication and structural detailing to demonstrate the feasibility of the proposal; 
+
+The main component of the project was the Processing software (1). This was was responsible for the functional modelling of the structure,  
+Moreover, 
+
+The project had to rely on developing custom software using the Processing programming language, as well as functional physical modelling prototypes using custom electronics based on Arduino micro controllers.  
+
+which was triggered by the Processing software, in order to produce transformations. Traditional CAD software were used only for representational reasons (physics modelling, rendering, 3d-printing) by sending data from Processing to Grasshopper and Rhino via OSC.
+
+--&gt;
+&lt;p&gt;The project investigated two distinct use scenarios: playful interaction with people and adaptation to environmental conditions.&lt;br&gt;
+The first scenario produced continuous animations and transformations the structure according to the movements and densities of people under it in real-time, thus in a way encourage playful interaction between people in public space (see &lt;a href=&#34;#gallery-12-iks-5&#34;&gt;image 5&lt;/a&gt;).
+This was modeled virtually using a boid system, and was demonstrated live using a Kinect (spatial scanning) sensor.&lt;br&gt;
+The second made use of a solar radiation model that would calculate the position of the sun for a particular geolocation so that the structure would adapt accordingly to generate the maximum possible area of shade at any given moment of time (see &lt;a href=&#34;#gallery-12-iks-6&#34;&gt;image 6&lt;/a&gt;).&lt;br&gt;
+Moreover, the project explored a range of possible configurations of the structure based on various mathematical equations such as &lt;a href=&#34;#gallery-12-iks-19&#34;&gt;hyperbolic paraboloid&lt;/a&gt; and &lt;a href=&#34;#gallery-12-iks-17&#34;&gt;monkey&lt;/a&gt; saddle surfaces as well as various trigonometric equations (see &lt;a href=&#34;#images&#34;&gt;3D renderings below&lt;/a&gt;).&lt;/p&gt;
+&lt;h1 id=&#34;project-information&#34;&gt;Project information&lt;/h1&gt;
+&lt;p&gt;Interactive Kinetic Structures was developed in 2012 as a diploma thesis project at NTU-Athens, under the supervision of Prof. Dimitris Papalexopoulos.
+It was presented to a four-memeber jury in October 2012 and graded 10/10.&lt;/p&gt;
+&lt;p&gt;The project was one of the finalists of the international competition &lt;em&gt;ALGODeQ: Algorithmic Design Quest&lt;/em&gt; in 2013.&lt;/p&gt;
+&lt;p&gt;A paper based on this project was presented at the &lt;a href=&#34;../../publication/13-ecaade/&#34;&gt;2013 eCAADE conference&lt;/a&gt; at TU Delft, in September 2013.&lt;/p&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Concept &amp;amp; development&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Supervision&lt;/strong&gt;&lt;br&gt;
+Dimitris Papalexopoulos&lt;br&gt;
+&lt;strong&gt;Additional support&lt;/strong&gt;&lt;br&gt;
+Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Antonis Tzortzis, Serafeim Matzoufas, Antreas Alygizos&lt;/p&gt;
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/a-closeup_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/a-closeup_1600_huc203bed8544035669fba41582aa4fcad_137742_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-closeup_1600.jpg&#34; width=&#34;750&#34; height=&#34;381&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/a-iks_poster-a3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/a-iks_poster-a3_1600_hu10b176ecfba98abd9f5db21c10965ae1_193561_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-iks_poster-a3_1600.jpg&#34; width=&#34;750&#34; height=&#34;519&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/d-flexGrid-side.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/d-flexGrid-side_hu31dc81b8ca484cffa859bc0117583e50_46256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-side.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/d-flexGrid-top.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/d-flexGrid-top_hu4b60077173abdd48a7ed4e0979f5ae6b_57619_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-top.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/f-agents.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/f-agents_hu5ff3a087e27f86727ed085569f5a54a9_158344_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-agents.png&#34; width=&#34;750&#34; height=&#34;360&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/f-light.png&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/f-light_hueb08e31b99f854c7bc836cb1347cce8a_131694_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-light.png&#34; width=&#34;750&#34; height=&#34;359&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/logo_1080.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/logo_1080_huc48e42036342832f3c91ffa710435f90_58904_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;logo_1080.jpg&#34; width=&#34;744&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/model-3D-print-model_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/model-3D-print-model_1600_hu446a96511a9d78499a82f1e7b5c4aa40_61469_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-3D-print-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;325&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/model-arduino-model_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/model-arduino-model_1600_huf79d84fe65a63182b5b8067e0a7115e0_105827_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-arduino-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;562&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/model-pyramid_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/model-pyramid_1600_hu54bd63e6031e13b272e6572b533781f9_79399_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-pyramid_1600.jpg&#34; width=&#34;750&#34; height=&#34;531&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-antiprism-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-antiprism-1_huf5e794251a2835061e6f96eaca550a74_25840_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-1.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-antiprism-3.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-antiprism-3_hud0388fd6ce3cd89d14ca9017449484f8_47770_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-3.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-polymer-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-polymer-1_huf9c5ccebc10e9b76c6ee4f8406e9ef97_37097_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-1.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/node-polymer-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/node-polymer-2_hu2b5a63908f3314f18b66d7a3df0a240a_39680_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-2.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-cylinder-perspective_1500.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-cylinder-perspective_1500_hu57fdb62cff74e637272f06ce3025e33b_100574_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-cylinder-perspective_1500.jpg&#34; width=&#34;750&#34; height=&#34;475&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-light-perspective_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-light-perspective_1000_hua04fc370ef39bcb0c9680eca160b88b7_59924_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-light-perspective_1000.jpg&#34; width=&#34;750&#34; height=&#34;469&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-monkey-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-monkey-perspective_1600_hu6341567a4824a868c58f9dc2aeac4e14_94539_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-monkey-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;458&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-normal-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-normal-perspective_1600_hu066c4362a32a397ae8561f441f0cc07d_101478_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-normal-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;450&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-paraboloid-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-paraboloid-perspective_1600_hub48f5ab2d2553a02599c88a103d8859a_104628_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-paraboloid-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;472&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-sine-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-sine-perspective_1600_hu62ad5fa31922e9c8aae9eda1f5820011_57334_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sine-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;428&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-sinecos-pespective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-sinecos-pespective_1600_hu54bd63e6031e13b272e6572b533781f9_104931_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sinecos-pespective_1600.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-sphere-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-sphere-perspective_1600_hueb4c213ca594cb8159ed8744e64b7db3_103248_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sphere-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;466&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/r-tan-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/r-tan-perspective_1600_hu54bd63e6031e13b272e6572b533781f9_98603_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-tan-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://example.com/media/albums/12-iks/x-iphone_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/12-iks/x-iphone_1600_hu54bd63e6031e13b272e6572b533781f9_149524_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;x-iphone_1600.jpg&#34; width=&#34;695&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

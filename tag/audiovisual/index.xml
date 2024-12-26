@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audiovisual | studio any</title>
+    <link>https://example.com/tag/audiovisual/</link>
+      <atom:link href="https://example.com/tag/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <description>audiovisual</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2013 18:13:41 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>audiovisual</title>
+      <link>https://example.com/tag/audiovisual/</link>
+    </image>
+    
+    <item>
+      <title>The geology of the Geology of Morals</title>
+      <link>https://example.com/project/geology-of-morals/</link>
+      <pubDate>Sun, 06 Oct 2013 18:13:41 +0300</pubDate>
+      <guid>https://example.com/project/geology-of-morals/</guid>
+      <description>&lt;p&gt;The project is an abstract constructive take on the concept of &lt;em&gt;double articulation&lt;/em&gt; introduced in the chapter &amp;ldquo;The Geology of Morals&amp;rdquo; from the book &amp;ldquo;A Thousand Plateaus&amp;rdquo; by Gilles Deleuze and Félix Guattari (2013 [1984]), which describes the interplay between form and substance of expression on one hand, and form and substance of content on the other.
+Here, the notion of double articulation is applied to the book chapter itself by exploring computationally the correlations between its linguistic expression and the stratification of its textual substance.
+As a video essay on the &amp;lsquo;quantification of writing&amp;rsquo;, the text of the chapter was analyzed computationally to infer abstract relations and densities between text atoms, and was then rendered into indexes, dimensions, colors, and shapes.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MZRo7heBZHE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;All numbers, colors, and shapes were generated through computational processing of the text in the chapter “Geology of Morals” (Deleuze and Guattari 2013 [1984]).
+The sound was produced with the modular synthesizer software &lt;a href=&#34;https://madronalabs.com/products/aalto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aalto by Madrona Labs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project was developed in 2013 for a philosophy course taught by Vera Bühlmann at the Chair for CAAD ETH Zurich.&lt;/p&gt;
+&lt;!-- 
+is seen as the interaction, on a meta-level, between the lecture of Professor Challenger as expression and the actual concept of strata and stratification as substance. As an essay on the “quantification of writing” therefore, the corpus of the chapter was abstracted to text and analyzed in abstract relations and densities of occurrences from which each word would receive dimensions, which can eventually be rendered or transposed to numbers, colors and shapes.
+
+“The geology of The Geology of Morals” is an abstract constructive take on the concept of *double articulation* introduced in the chapter “The Geology of Morals” from the book “One thousand Plateaus” of Gilles Deleuze and Felix Guattari (2013 [1984)].
+Double articulation, the interplay between form and substance of expression on one hand, and form and substance of content on the other, here is applied to the book chapter itself as the interaction between the linguistic content of the lecture of Professor Challenger (expression), and actual concept of stratification (substance). 
+The body o
+  --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

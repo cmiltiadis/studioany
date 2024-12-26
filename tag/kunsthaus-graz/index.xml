@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunsthaus Graz | studio any</title>
+    <link>https://example.com/tag/kunsthaus-graz/</link>
+      <atom:link href="https://example.com/tag/kunsthaus-graz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kunsthaus Graz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Kunsthaus Graz</title>
+      <link>https://example.com/tag/kunsthaus-graz/</link>
+    </image>
+    
+    <item>
+      <title>VR exhibition at VR Playful Art</title>
+      <link>https://example.com/event/vr-playful-art/</link>
+      <pubDate>Fri, 01 Sep 2017 15:00:00 +0000</pubDate>
+      <guid>https://example.com/event/vr-playful-art/</guid>
+      <description>&lt;p&gt;Exhibition of 12 original VR projects  developed by the students of the &lt;a href=&#34;../../course/vsms-2017&#34;&gt;Virtual Spaces Master Studio 2017&lt;/a&gt;, at the event &lt;em&gt;VR Playful Art&lt;/em&gt;, at Kunsthaus Graz.
+The event was organized  by the &lt;a href=&#34;https://www.facebook.com/gamedevgraz/?fref=mentions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game Development Graz&lt;/a&gt; community in collaboration with TU Graz, in the context of &lt;a href=&#34;https://www.facebook.com/events/838046996342513/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game Dev Days 2017&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;virtual-spaces-master-studio-vr-projects&#34;&gt;Virtual Spaces Master Studio VR projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Xaver Burkat – #o&lt;/li&gt;
+&lt;li&gt;Philipp Sattler – Library of the Absurd&lt;/li&gt;
+&lt;li&gt;Valentin Moser – Chronicles&lt;/li&gt;
+&lt;li&gt;Lukas Gosch – Awakening&lt;/li&gt;
+&lt;li&gt;Lukas Meindl – Moving&lt;/li&gt;
+&lt;li&gt;Vesa Bunjaku – Noseum&lt;/li&gt;
+&lt;li&gt;Daniel Seiwald – In-between&lt;/li&gt;
+&lt;li&gt;Dinko Jelecevic – The Game of the Goose&lt;/li&gt;
+&lt;li&gt;Emina Lozzo – Ghost Talk&lt;/li&gt;
+&lt;li&gt;Robert Aumayr – Solitude&lt;/li&gt;
+&lt;li&gt;Petrit Vesjeli – Escape from the Unknown&lt;/li&gt;
+&lt;li&gt;Sabrina Kullmaier &amp;amp; Julian Lebitsch – Continuity&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

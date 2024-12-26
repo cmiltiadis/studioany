@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supercollider | studio any</title>
+    <link>https://example.com/tag/supercollider/</link>
+      <atom:link href="https://example.com/tag/supercollider/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supercollider</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jan 2019 18:18:58 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Supercollider</title>
+      <link>https://example.com/tag/supercollider/</link>
+    </image>
+    
+    <item>
+      <title>Decoded Language</title>
+      <link>https://example.com/project/decoded-language/</link>
+      <pubDate>Thu, 24 Jan 2019 18:18:58 +0300</pubDate>
+      <guid>https://example.com/project/decoded-language/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Decoded language&lt;/strong&gt;&lt;/em&gt; is a multi-user interactive sound installation for Supercollider and Kinect V2.
+The installation uses real-time body (skeleton) tracking as interface for controlling a virtual granular synthesis instrument.
+This way, the installation produces an entanglement of the spatial domain of bodily movement with the temporal domain of sound.
+Therefore, the installation invites the audience to create spatiotemporal choreographies and experiece how spatial movement correlates to temporal manipulations of the originally linear dimension of listening.&lt;br&gt;
+The interaction interface was designed to be intrinsic and relative to one&amp;rsquo;s body rather than absolute. Therefore absolute positions are irrelevant, only body configurations, relative displacements and rotations matter.
+Finally, all interaction data are recorded and are visualized geometrically at the end of each session, offering a visual-spatial representation of the temporal manipulations of the listening timeline (see &lt;a href=&#34;#renderings&#34;&gt;images below&lt;/a&gt;).&lt;br&gt;
+The installation uses audio sampled from Saul Williams&amp;rsquo; spoken word performance of &lt;a href=&#34;https://www.youtube.com/watch?v=jzY2-GRDiPM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;coded language&lt;/em&gt;&lt;/a&gt; at Def Poetry Jam (2004).&lt;/p&gt;
+&lt;!-- 
+
+The audience is invited to create their own choreographies and temporal articulations in space through bodily . After each interactive session, the audible temporal manipulations of the user[s]’ performance are rendered to a digital geometry.
+Using the body as control interface the installation offers a spatial interface to  
+
+
+The installation records 
++ fine control 
++ rendering end 
+The installation “**decoded language**” uses granular synthesis as a means of folding a given sound, and a transposition from the time domain to the space domain, through a play of manipulation operators that introduce curvature to the original dimension of listening time. 
+
+It employs real-time body tracking as a spatial engagement interface, which the audience can excite and manipulate while exploring the resolution of granular folding. 
+
+The space of interaction is treated as intrinsic to the body instead of absolute, where positions are irrelevant, and only configurations, displacements and orientations of the body matter. 
+The audience, through their body, is invited to create their own choreographies of temporal articulations in space. After each interactive session, the audible temporal manipulations of the user[s]’ performance are rendered to a digital geometry.
+--&gt;
+&lt;h1 id=&#34;project-information&#34;&gt;Project information&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;decoded language&lt;/strong&gt; was developed between late-2018 and early-2019 at the Institute of Electronic Music (IEM), University of Music and Performing Arts, Graz, with the support of Prof. Marko Ciciliani and Prof. Daniel Mayer.&lt;/p&gt;
+&lt;!-- 
+is a multi-user interactive sound installation for Supercollider and Kinect V2. 
+--&gt;
+&lt;p&gt;The installation consists of an algorithmic synthesizer developed in &lt;a href=&#34;https://supercollider.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supercollider&lt;/a&gt;, and a 3D tracking and visualization software written in &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;, synchronized with each other via OSC.&lt;/p&gt;
+&lt;p&gt;The work was first presented at the IEM CUBE Concert on January 24, 2019.&lt;br&gt;
+A previous version of the installation, developed with &lt;a href=&#34;https://puredata.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pure Data&lt;/a&gt; and Kinect V1, was presented in December 2017 at the Institute of Architecture and Media, TU Graz.&lt;/p&gt;
+&lt;!-- 
+Multi-user interactive sound installation for Supercollider, Java, Kinect V2 and projector. 
+Institute of Electronic Music, University of Music and Performing Arts, Graz, 2019
+--&gt;
+&lt;h1 id=&#34;renderings&#34;&gt;3D visualizations of audience performances&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.15c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.15c_hu99fb30f51b9f5ad752e163a27ef395ca_310358_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.15c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.16c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.16c_hu08ef40bed01506c22ea7c20c20c9fd3c_240089_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.16c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.17c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.17c_huc723eafb3b9edd3e7c14492f88e316e4_273171_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.17c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.26c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.26c_hu4cb9503109dd3d3d325585aeb4816a3b_297325_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.26c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.28c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.28c_hubea5fa9acac14e737bb5b173e8075124_285127_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.28c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.29c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.29c_huc026be961dca397f57998e761ca43b67_304621_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.29c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.32c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.32c_hud2601e68080c843c7fd26a7cc25646c6_235914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.32c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.36c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.36c_hu3f6dfad0e5e23169b2b14c677bc9c4fb_310057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.36c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.5c.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.5c_hu41b34183dad3b31ce1e3786eb7b4fd3e_238398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.5c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

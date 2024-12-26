@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projection mapping | studio any</title>
+    <link>https://example.com/tag/projection-mapping/</link>
+      <atom:link href="https://example.com/tag/projection-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>projection mapping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Nov 2014 11:03:03 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>projection mapping</title>
+      <link>https://example.com/tag/projection-mapping/</link>
+    </image>
+    
+    <item>
+      <title>Shifting perspectives</title>
+      <link>https://example.com/project/shifting-perspectives/</link>
+      <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
+      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
+&lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
+The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.
+The movement of the structure is controlled by stepper motors that pull the structure from 2 external points.
+The three custom software developed for the installation were: a Processing-Java program for real-time sound analysis (FFT); an Arduino-based software for controlling the stepper motors; and a Unity program for projection mapping, all synchronized with each other via OSC.
+Using real-time sound analysis the installation projected audio-responsive graphics mapped on the continuous movements of the grid structure.&lt;/p&gt;
+&lt;!--
+Three custom pieces of software were developed for the installation. 
+A Unity application for projection mapping; a Java software for live sound analysis (FFT); and a custom Arduino-based hardware  for controlling the movement of the structure. 
+The two were synchronized with OSC messages. 
+The first allowed projecting video and graphics on the structure.
+
+Combined with the real-time synchronization with the movement of the structure, it could project portions of the video that would follow each of the panels. Furthermore, the application could perform real-time sound analysis, and produce interactive graphics based on audio spectrum data of the music played at the event.
+
+The installation was developed with PUNCH collective, an interdisciplinary synergy between upcoming researchers, based in Zurich and Delft. It was exhibited at the 7 Sins event, November 2014 in Delft.
+--&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/116073674&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; was developed in Zurich, fabricated and assembled in Delft for the event 7 Sins, in November 2014.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

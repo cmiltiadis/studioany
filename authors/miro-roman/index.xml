@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miro Roman | studio any</title>
+    <link>https://example.com/authors/miro-roman/</link>
+      <atom:link href="https://example.com/authors/miro-roman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miro Roman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Miro Roman</title>
+      <link>https://example.com/authors/miro-roman/</link>
+    </image>
+    
+    <item>
+      <title>Groundlessness</title>
+      <link>https://example.com/publication/22-groundlessness/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-groundlessness/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos, and Miro Roman. ‘Groundlessness’. In &lt;em&gt;Chimeras: Inventory of Synthetic Cognition&lt;/em&gt;, edited by Ilan Manuach and Anna Engelhardt, 310–12. Athens: Onassis Foundation, 2022. &lt;a href=&#34;https://www.onassis.org/culture/publications/chimeras-inventory-of-synthetic-cognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.onassis.org/culture/publications/chimeras-inventory-of-synthetic-cognition&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IAM Open Lecture 14: VOID, BRANDS, CHARACTERS  and how to Deal with a LOTs</title>
+      <link>https://example.com/curation/ol/14/</link>
+      <pubDate>Mon, 20 Nov 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/14/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/253642887&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Miro Roman&lt;/strong&gt; is an architect, a researcher, an artist, a designer, and none from the stated. His main focus is at the overlap of information technologies and architectural articulations. Miro holds a Master of Advanced Studies degree in Computer Aided Architectural Design from ETH Zurich, and a Master in Architecture degree from the University of Zagreb. Since 2004 he is collaborating with Luka Vlahović on project romanvlahovic. From 2013 to 2015 he was a part of the Future Cities Laboratory, interdisciplinary research programme of the Singapore ETH Centre for Global Environmental Sustainability (SEC). Currently he is a PHD researcher at the Chair of CAAD at ETH Zürich.&lt;/p&gt;
+&lt;p&gt;Miro’s work can be found at:
+&lt;a href=&#34;https://www.miro.romanvlahovic.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.miro.romanvlahovic.com&lt;/a&gt;
+&lt;a href=&#34;https://www.romanvlahovic.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.romanvlahovic.com&lt;/a&gt;
+&lt;a href=&#34;https://www.caad.arch.ethz.ch/blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.caad.arch.ethz.ch/blog&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #14  
+Miro Roman  
+VOID, BRANDS, CHARACTERS  and how to Deal with a LOTs  
+18:00 Monday 20 November 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/10/OL_14_Miro_Roman.pdf
+Original post: https://iam.tugraz.at/2017/10/ol14_miro_roman/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

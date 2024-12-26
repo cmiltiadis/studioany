@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | studio any</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Interconnected Agencies For Sustainable Futures: A Discourse on the Notion of Adaptation and Space</title>
+      <link>https://example.com/publication/23-jpbl/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/23-jpbl/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond the Visual - A research curriculum for explorations in spatiotemporal environments</title>
+      <link>https://example.com/publication/beyond-the-visual/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/beyond-the-visual/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos, and Gerriet K. Sharma. ‘Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments’. &lt;em&gt;Journal for Artistic Research&lt;/em&gt;, no. 24 (27 September 2021). &lt;a href=&#34;https://www.researchcatalogue.net/view/815001/815002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchcatalogue.net/view/815001/815002&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections</title>
+      <link>https://example.com/publication/20-archidoct/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/20-archidoct/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections’. Archidoct, Variability, 8, no. 1 (2020): 24–37.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Anywhere: An Interface for Virtual Architecture</title>
+      <link>https://example.com/publication/16-ijac/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/16-ijac/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘Project Anywhere: An Interface for Virtual Architecture’. &lt;em&gt;International Journal of Architectural Computing&lt;/em&gt; 14, no. 4 (7 October 2016): 386–97. &lt;a href=&#34;https://doi.org/10.1177/1478077116670746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1177/1478077116670746&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

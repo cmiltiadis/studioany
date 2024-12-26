@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marko Ciciliani | studio any</title>
+    <link>https://example.com/authors/marko-ciciliani/</link>
+      <atom:link href="https://example.com/authors/marko-ciciliani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marko Ciciliani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Marko Ciciliani</title>
+      <link>https://example.com/authors/marko-ciciliani/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture &amp; Performance 9: CPPG Composition, Performance and Perception of Gamified Audiovisual Works</title>
+      <link>https://example.com/curation/ol/ol-9/</link>
+      <pubDate>Wed, 24 May 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-9/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/236586871&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Marko Ciciliani&lt;/strong&gt; is a composer, performer, researcher and audiovisual artist based in Austria. The focus of his work lies in the composition of performative electronic music, mostly in audiovisual contexts. His music has been performed in more than 35 countries across Europe, Asia, Oceania and the Americas. Ciciliani is full Professor for Computer Music Composition at the Institute for Electronic Music and Acoustics (IEM) of the University of Music and Performing Arts Graz. His primary fields of research are audiovisuality and performance practice of electronic music. Ciciliani has been invited as coach to the multidisciplinary course LabO in Antwerp in 2013 and 2015, and – as artistic director – in 2017. In 2014 and 2016 he has taught at the “Summer Courses for Contemporary Music Darmstadt”. He released 5 full length CDs and a trans-media project in the form of a book. He also appeared on more than a dozen compilation CDs.&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #9  
+Marko Ciciliani „CPPG Composition, Performance and Perception of Gamified Audiovisual Works“  
+18:00 Tuesday 1 June 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/05/OL9_Ciciliani.pdf
+
+Original post: https://iam.tugraz.at/2017/05/open-lecture-9-marko-ciciliani-cppg-composition-performance-and-perception-of-gamified-audiovisual-works/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

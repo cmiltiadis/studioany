@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Bartaky | studio any</title>
+    <link>https://example.com/authors/markus-bartaky/</link>
+      <atom:link href="https://example.com/authors/markus-bartaky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Bartaky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2016 16:34:00 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Markus Bartaky</title>
+      <link>https://example.com/authors/markus-bartaky/</link>
+    </image>
+    
+    <item>
+      <title>Sound to Space</title>
+      <link>https://example.com/course/16-dm2/</link>
+      <pubDate>Thu, 07 Jan 2016 16:34:00 +0300</pubDate>
+      <guid>https://example.com/course/16-dm2/</guid>
+      <description>&lt;p&gt;Digital design 2 (dm2) is a week-long course taught to third-semester architecture students at the Institute of Architecture with the aim of introducing computational design thinking and related practices.
+The course was originally taught using MEL scripting in Maya.&lt;/p&gt;
+&lt;p&gt;The course theme for 2016 was &amp;ldquo;Sound to Space&amp;rdquo; and aimed at using sound input to generate geometry.
+In January 2016 I ran an iteration of the course using the programming language &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;. For this purpose I also wrote a short booklet introducing basic programming concepts in Processing (see &lt;a href=&#34;https://example.com/uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf&#34;&gt;Processing Booklet&lt;/a&gt;).
+This workshop iteration used FFT over a live sound input to generate interactive graphics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teacher&lt;/strong&gt;&lt;br&gt;
+Constantinos Miltiadis&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teaching assistants&lt;/strong&gt;&lt;br&gt;
+Markus Bartaky, Ludwig Grimm, Martin Schrotz&lt;/p&gt;
+&lt;!--
+Workshop challenge: Program or explain how to generate the above vector image. [[solution posted here](http://studioany.com/2015/12/14/async/)]
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

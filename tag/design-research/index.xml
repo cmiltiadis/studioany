@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design research | studio any</title>
+    <link>https://example.com/tag/design-research/</link>
+      <atom:link href="https://example.com/tag/design-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>design research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>design research</title>
+      <link>https://example.com/tag/design-research/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Architecture and SpaceTimeCraft</title>
+      <link>https://example.com/project/spacetimecraft/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/spacetimecraft/</guid>
+      <description>&lt;p&gt;Long-term transdisciplinary research project on virtual architecture.
+The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research.
+It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research.&lt;/p&gt;
+&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://example.com/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://example.com/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
+In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: &lt;em&gt;SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a catalog of related publications and presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other than Text: Media Used in Game Studies Publications</title>
+      <link>https://example.com/publication/23-digra/</link>
+      <pubDate>Mon, 05 Jun 2023 14:23:09 +0300</pubDate>
+      <guid>https://example.com/publication/23-digra/</guid>
+      <description>&lt;h1 id=&#34;publication-history&#34;&gt;Publication history&lt;/h1&gt;
+&lt;p&gt;I originally wrote this paper in late 2021.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It was submitted in January 2022 for the conference &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design research thesis course</title>
+      <link>https://example.com/course/22-design-ba/</link>
+      <pubDate>Mon, 07 Feb 2022 16:43:14 +0300</pubDate>
+      <guid>https://example.com/course/22-design-ba/</guid>
+      <description>&lt;p&gt;Bachelor thesis course tutor and thesis advisor for the English-language &lt;a href=&#34;https://www.aalto.fi/en/study-options/design-bachelor-of-arts-master-of-arts-art-and-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design BA&lt;/a&gt; program taught by Oscar Person and Namkyu Chun. Department of Design, Aalto University, School of ARTS, 2022.&lt;/p&gt;
+&lt;p&gt;Advisor for the theses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pakarinen, Ilona. ‘Community Driven Anti-Harassment Strategies for MMOGs’. Bachelor Thesis, Aalto University, School of Art and Design, 2022. Aalto ARTS. &lt;a href=&#34;https://urn.fi/URN:NBN:fi:aalto-202207034373&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://urn.fi/URN:NBN:fi:aalto-202207034373&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Reti Kilvet. ‘Nudging for Sustainable Fashion Consumption: A Concept Design Based on Expert and Consumer Analysis’. Bachelor Thesis, Aalto University, School of Art and Design, 2022. Aalto ARTS. &lt;a href=&#34;https://urn.fi/URN:NBN:fi:aalto-202301221368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://urn.fi/URN:NBN:fi:aalto-202301221368&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

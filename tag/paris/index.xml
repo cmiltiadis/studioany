@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paris | studio any</title>
+    <link>https://example.com/tag/paris/</link>
+      <atom:link href="https://example.com/tag/paris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paris</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2016 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Paris</title>
+      <link>https://example.com/tag/paris/</link>
+    </image>
+    
+    <item>
+      <title>Architecture as a Complex Number</title>
+      <link>https://example.com/event/architecture-as-a-complex-number/</link>
+      <pubDate>Wed, 16 Nov 2016 18:00:00 +0000</pubDate>
+      <guid>https://example.com/event/architecture-as-a-complex-number/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/images/16-plexus-paris.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Event organized by Pierre Cutellic in collaboration with AA n+1.&lt;br&gt;
+AA n+1 gallery, Paris, November 16, 2016&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;br&gt;
+The Plexus Project is an initiative to bring together the creative talent of different disciplines to share techniques, solve problems and build networks of collaboration. The events take place every month inviting young designers, architects, engineers, programmers, game designers and visual artists. This initiative is open to anyone in London that is looking for an informal place to network and learn about new methodologies and workflows.&lt;br&gt;
+The event was initially called Bartlett Nexus and was created by Jose Sanchez, currently he co-curates it together with Manuel Jimenez Garcia, who joined the event organization in September of 2013.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Frederic Migayrou (UCL),&lt;/li&gt;
+&lt;li&gt;Manuel Jimenez Garcia (UCL),&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (TU Graz), and&lt;/li&gt;
+&lt;li&gt;Corneel Cannaerts (KU Leuven).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

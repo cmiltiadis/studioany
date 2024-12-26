@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giacomo Pala | studio any</title>
+    <link>https://example.com/authors/giacomo-pala/</link>
+      <atom:link href="https://example.com/authors/giacomo-pala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giacomo Pala</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2019 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Giacomo Pala</title>
+      <link>https://example.com/authors/giacomo-pala/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 29: Fiction[-]Time: The Design of Time</title>
+      <link>https://example.com/curation/ol/ol-29/</link>
+      <pubDate>Mon, 20 May 2019 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-29/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/338746746&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Giacomo Pala&lt;/strong&gt; is an architect and researcher based in Innsbruck, Austria, where he works at the department of architecture theory as an assistant researcher – collaborating in research activities and in teaching the “ArchiFIcture” studios. He conducts his PhD at the same university under the guidance of Peter Trummer. More specifically, his research is focused on the relationship between historical time – intended as a form of fiction and architectural design in the attempt of developing a more complex relationship between the two, by looking at specific cases including Giovanni Battista Piranesi’s work. Basically, his interest lies in the possibility of testing the mutual limits between design, history and theory.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.giacomopala.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.giacomopala.com/&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #29  
+Giacomo Pala  
+Fiction[-]Time: The Design of Time  
+18:00 Monday May 20 2019  
+IAM Media Lab, Kronesgasse 5/III
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2019/05/OL29_Pala.pdf
+Original post: https://iam.tugraz.at/2019/05/ol_pala/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Person | studio any</title>
+    <link>https://example.com/authors/oscar-person/</link>
+      <atom:link href="https://example.com/authors/oscar-person/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscar Person</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2022 16:43:14 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Oscar Person</title>
+      <link>https://example.com/authors/oscar-person/</link>
+    </image>
+    
+    <item>
+      <title>Design research thesis course</title>
+      <link>https://example.com/course/22-design-ba/</link>
+      <pubDate>Mon, 07 Feb 2022 16:43:14 +0300</pubDate>
+      <guid>https://example.com/course/22-design-ba/</guid>
+      <description>&lt;p&gt;Bachelor thesis course tutor and thesis advisor for the English-language &lt;a href=&#34;https://www.aalto.fi/en/study-options/design-bachelor-of-arts-master-of-arts-art-and-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design BA&lt;/a&gt; program taught by Oscar Person and Namkyu Chun. Department of Design, Aalto University, School of ARTS, 2022.&lt;/p&gt;
+&lt;p&gt;Advisor for the theses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pakarinen, Ilona. ‘Community Driven Anti-Harassment Strategies for MMOGs’. Bachelor Thesis, Aalto University, School of Art and Design, 2022. Aalto ARTS. &lt;a href=&#34;https://urn.fi/URN:NBN:fi:aalto-202207034373&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://urn.fi/URN:NBN:fi:aalto-202207034373&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Reti Kilvet. ‘Nudging for Sustainable Fashion Consumption: A Concept Design Based on Expert and Consumer Analysis’. Bachelor Thesis, Aalto University, School of Art and Design, 2022. Aalto ARTS. &lt;a href=&#34;https://urn.fi/URN:NBN:fi:aalto-202301221368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://urn.fi/URN:NBN:fi:aalto-202301221368&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

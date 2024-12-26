@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angelos Chronis | studio any</title>
+    <link>https://example.com/authors/angelos-chronis/</link>
+      <atom:link href="https://example.com/authors/angelos-chronis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angelos Chronis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Nov 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Angelos Chronis</title>
+      <link>https://example.com/authors/angelos-chronis/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 13: Simulation as a driver for form-found architecture</title>
+      <link>https://example.com/curation/ol/ol-13/</link>
+      <pubDate>Thu, 09 Nov 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-13/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/253027419&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Angelos Chronis&lt;/strong&gt; is a Marie Curie Fellow of the Innochain network at the Institute for Advanced Architecture of Catalonia in Barcelona. He teaches at IaaC and the Bartlett School of Architecture. Previously he has been working as an Associate for the Applied Research + Development group at Foster + Partners. His main research interest lies in the integration of simulation, optimization and performance drive in the design and fabrication process and he is actively involved in scientific committees as an author, reviewer and organizer as well as participating in lectures, workshops and architecture crits internationally.&lt;/p&gt;
+&lt;!--
+
+IAM Open Lecture #13  
+Angelos Chronis  
+Simulation as a driver for form-found architecture  
+18:00 Thursday 09 November 2017  
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/10/OL_13_Chronis.pdf
+
+Original post: https://iam.tugraz.at/2017/10/ol13_angelos_chronis/
+
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

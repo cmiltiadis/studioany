@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electronics prototyping | studio any</title>
+    <link>https://example.com/tag/electronics-prototyping/</link>
+      <atom:link href="https://example.com/tag/electronics-prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <description>electronics prototyping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2015 18:11:20 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>electronics prototyping</title>
+      <link>https://example.com/tag/electronics-prototyping/</link>
+    </image>
+    
+    <item>
+      <title>John Paul George &amp; Me</title>
+      <link>https://example.com/project/john-paul-george-me/</link>
+      <pubDate>Mon, 06 Apr 2015 18:11:20 +0300</pubDate>
+      <guid>https://example.com/project/john-paul-george-me/</guid>
+      <description>&lt;p&gt;&lt;em&gt;John Paul George &amp;amp; Me&lt;/em&gt; is a collection of interactive wearable musical instruments for kids.
+Each T-shirt represents a specific instrument and all together form a rock ensemble. Through the seemingly magical clothes that produce sound by touch, the project brings to children an interactive musical game, encouraging and stimulating their musical interest as well as collaboration with each other to perform music.
+The project was developed by textile designer Selina Reiterer and computational designer Constantinos Miltiadis for exploring playful applications of smart materials and interactive wearable technology.&lt;/p&gt;
+&lt;p&gt;The project includes three T-shirts, a microcontroller with a Bluetooth Low Energy (BLE) module, and a mobile app.&lt;br&gt;
+The three individual T-shirts were inspired by and designed after the standard rock trio representing a guitar, a bass, and a drum set.
+Each shirt has a distinct pattern, based on the attributes of the instrument it represents, which each shape forming a uniform conductive region sensitive to touch.
+The patterns were silk-screen printed on plain T-shirts with electrically conductive paint, a flexible, washable and non-toxic chemical mixture.&lt;br&gt;
+In the back of each garment is a removable pocket with an Arduino microcontroller that receives touch signals from each shape through conductive thread.&lt;br&gt;
+The touch signals are then sent wirelessly via BLE to a mobile application which triggers different audio samples corresponding to each garment-instrument.
+Multiple T-shirts can be connected to a single mobile device, or each band member can use their own. The device can be connected with headphones and external speakers to amplify the sound output.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/132808247&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;additional-information&#34;&gt;Additional information&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;“John Paul George &amp;amp; Me” was exhibited at the 2015 Maker Faire in Rome.&lt;/li&gt;
+&lt;li&gt;The project received the 2&lt;sup&gt;nd&lt;/sup&gt; prize in the &lt;a href=&#34;https://web.archive.org/web/20160323144253/http://www.youreshape.com/entries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouReshape wearable technology competition (archived)&lt;/a&gt; in August 2015.&lt;/li&gt;
+&lt;li&gt;It was featured at the Materiability Research Network at &lt;a href=&#34;http://materiability.com/john-paul-george-me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John Paul George &amp;amp; Me (Materiability Research Network)&lt;/a&gt;, and the Bare Conductive Blog at &lt;a href=&#34;https://web.archive.org/web/20160312133650/https://www.bareconductive.com/make/bluetooth-connected-musical-t-shirts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth Connected Musical T-shirts (archived)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- defunct 
+- [“Miltiadis + Reiterer desarrollan un sistema de camisetas musicales interactivas” – Article on Catalogo Diseno [ES].](http://www.catalogodiseno.com/2016/01/10/john-paul-george-me/)[  
+](http://www.catalogodiseno.com/2016/01/10/john-paul-george-me/)
+--&gt;
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Video credits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kids: Beda &amp;amp; Vasco&lt;/li&gt;
+&lt;li&gt;Filming: Anna Maragoudaki &amp;amp; Achilleas Xydis&lt;/li&gt;
+&lt;li&gt;Editing: Anna Maragoudaki&lt;/li&gt;
+&lt;li&gt;Music: Constantinos Miltiadis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project credits&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selina Reiterer (textile design &amp;amp; material research)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (electronics &amp;amp; app development).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Developed in 2015 at the &lt;a href=&#34;http://caad.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chair for Digital Architectonics (née Chair for CAAD)&lt;/a&gt;, ETH Zurich.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/all-tshirts.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/all-tshirts_hu14b6018d5451e98317c694c9bbc3400b_181697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;all-tshirts.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/electronics_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/electronics_1000_hu438537a689e07416a7e40e471f8d8057_45172_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;electronics_1000.jpg&#34; width=&#34;750&#34; height=&#34;317&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids01.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids01_hu3f4cd1e3c5c761abb76e72ae011dc0fe_236842_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids01.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids02_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids02_1000_hu66f3ba1fc906e58e281e57352dd18760_73389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids02_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids03.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids03_hu978c9236487038caf5eee4d46aec4b01_227186_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids03.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/make01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/make01_800_hu5f374ab7b182b05816a5f5dfd17c8dae_274057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;make01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/paint_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/paint_800_hu21b54a9c48f370cfdd9e2cbf0262ce7f_213652_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;paint_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tools01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tools01_800_hube00a71990e50915561fbe6c132dfa2b_236954_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tools01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000_hu070597ecc7cbcebd8445c1a846ae9861_75398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-bass_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000_hu6f24cb63d18eb05680e10c214a3bbbcc_71269_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-drums_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000_hua9ff83c04998e5d5720dd499cb44ffb6_83131_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-guitar_1000.jpg&#34; width=&#34;750&#34; height=&#34;486&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800_hufdc8d2ec9817880a7ea46fb5cfdf77b5_20139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-02_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800_hucb084eb62f17524cb2ec2b7d26508b13_21338_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-03_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800_hucb084eb62f17524cb2ec2b7d26508b13_19259_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-04_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

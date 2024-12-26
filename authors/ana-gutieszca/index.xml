@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana Gutieszca | studio any</title>
+    <link>https://example.com/authors/ana-gutieszca/</link>
+      <atom:link href="https://example.com/authors/ana-gutieszca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ana Gutieszca</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Ana Gutieszca</title>
+      <link>https://example.com/authors/ana-gutieszca/</link>
+    </image>
+    
+    <item>
+      <title>Noise Traffic</title>
+      <link>https://example.com/curation/23-noisetraffic/</link>
+      <pubDate>Sat, 14 Jan 2023 14:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/23-noisetraffic/</guid>
+      <description>&lt;p&gt;Experimental live art event curated by Nicolina Stylianou (sensorium space), and produced in collaboration with &lt;a href=&#34;../../project/soc&#34;&gt;Station of Commons&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;event-program&#34;&gt;Event program&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://totstellen-grmmsk.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRM&lt;/a&gt; (FI/DE)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.minervajuolahti.com/bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minerva Juolahti&lt;/a&gt; (FI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gregoire.persona.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grégoire Rousseau&lt;/a&gt; (FI/FR)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joonassiren.fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Forces&lt;/a&gt; (FI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tyttiarola.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tytti Arola&lt;/a&gt; (FI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emiddiovasquez.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emiddio Vasquez&lt;/a&gt; (CY/US)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.androula.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Androula Kafa&lt;/a&gt; (CY)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jukkakaariainen.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jukka Kääriäinen&lt;/a&gt; (FI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.anagutieszca.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ana Gutieszca&lt;/a&gt; (FI/MX)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pop-up stands by &lt;a href=&#34;https://www.rabrab.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rab-Rab Press&lt;/a&gt; and &lt;a href=&#34;https://monedas.bandcamp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Moneda&lt;/a&gt; records.&lt;/p&gt;
+&lt;h1 id=&#34;production-team&#34;&gt;Production team&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Nicolina Stylianou (curation, production)&lt;/li&gt;
+&lt;li&gt;Constantinos Miltiadis (production, post-production)&lt;/li&gt;
+&lt;li&gt;Emiddio Vasquez (sound engineering)&lt;/li&gt;
+&lt;li&gt;Gregoire Roussau (live audio streaming)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

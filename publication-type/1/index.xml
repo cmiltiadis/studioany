@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | studio any</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jun 2023 14:23:09 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Other than Text: Media Used in Game Studies Publications</title>
+      <link>https://example.com/publication/23-digra/</link>
+      <pubDate>Mon, 05 Jun 2023 14:23:09 +0300</pubDate>
+      <guid>https://example.com/publication/23-digra/</guid>
+      <description>&lt;h1 id=&#34;publication-history&#34;&gt;Publication history&lt;/h1&gt;
+&lt;p&gt;I originally wrote this paper in late 2021.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It was submitted in January 2022 for the conference &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cybersyn 1973/2022</title>
+      <link>https://example.com/publication/22-isea/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/22-isea/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/573055092&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Peer reviewed artwork part of the ISEA 2022 screening programme, in collaboration with  Sónar Festival: June 11-16 2016, Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Grupo Synco&lt;/strong&gt; is a collaboration between curator and researcher Bassam El Baroni (Aalto University, Finland) transdisciplinary architect Constantinos Miltiadis (Aalto University, Finland), multidisciplinary artist and animator Georgios Cherouvim (New York), and composer and sound artist Gerriet K. Sharma (Berlin). The group’s first co-creation is the CGI video work Cybersyn 1973/2023.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality, Videogames, Architecture and Education - From utopian drawings to inconstructible navigable environments</title>
+      <link>https://example.com/publication/18-ecaade/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-ecaade/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In &lt;em&gt;Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference&lt;/em&gt;, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual</title>
+      <link>https://example.com/publication/15-ecaade/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/15-ecaade/</guid>
+      <description>&lt;p&gt;The contribution was awarded the &lt;em&gt;Ivan Petrovic Award&lt;/em&gt; for the best presentation by a young researcher.&lt;/p&gt;
+&lt;p&gt;Miltiadis, Constantinos. ‘Virtual Architecture in a Real-Time, Interactive, Augmented Reality Environment - Project Anywhere and the Potential of Architecture in the Age of the Virtual’. In &lt;em&gt;Real Time - Proceedings of the 33rd ECAADe Conference&lt;/em&gt;, edited by Bob Martens, Gabriel Wurzer, T Grasl, WE Lorenz, and R Schaffranek, 1:61–68. Vienna: Vienna University of Technology, 2015. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From the Univocal to the Dissipative: Computation and performance methodology in real-time architecture</title>
+      <link>https://example.com/publication/13-ecaade/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/13-ecaade/</guid>
+      <description>&lt;p&gt;Miltiadis, Constantinos. ‘From the Univocal to the Dissipative. Computation and Performance Methodology in Real-Time Architecture’. In &lt;em&gt;Computation and Performance – Proceedings of the 31st ECAADe Conference&lt;/em&gt;, 1:517–25. Delft: Delft University of Technology, 2013. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2013_206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2013_206&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyprus | studio any</title>
+    <link>https://example.com/tag/cyprus/</link>
+      <atom:link href="https://example.com/tag/cyprus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cyprus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Cyprus</title>
+      <link>https://example.com/tag/cyprus/</link>
+    </image>
+    
+    <item>
+      <title>Open tools &amp; workflows for digital writing, notetaking, publishing, reference &amp; library management</title>
+      <link>https://example.com/event/kaymakkin-workshop/</link>
+      <pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
+      <guid>https://example.com/event/kaymakkin-workshop/</guid>
+      <description>&lt;p&gt;Workshop on open tools and workflows for writing, notetaking, publishing, reference and library management at &lt;em&gt;Social Space Kaymakkin&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshop program&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Digital writing tools and workflows
+&lt;ol&gt;
+&lt;li&gt;Why word processors suck.&lt;/li&gt;
+&lt;li&gt;Writing in Markdown.&lt;/li&gt;
+&lt;li&gt;Introduction to Obsidian for personal knowledge management.&lt;/li&gt;
+&lt;li&gt;Brief introduction to Logseq, a FOSS alternative to Obsidian.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Library and reference management.
+&lt;ol&gt;
+&lt;li&gt;What is and what is not a library.&lt;/li&gt;
+&lt;li&gt;Calibre for ebook management.&lt;/li&gt;
+&lt;li&gt;Zotero for bibliographic reference management.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Publishing
+&lt;ol&gt;
+&lt;li&gt;Pandoc for document conversion.&lt;/li&gt;
+&lt;li&gt;Hugo for static website building.&lt;/li&gt;
+&lt;li&gt;Sandpoints Hugo framework&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Tools &amp;amp; software&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt; (open standard, lightweight markup plain-text language)&lt;/li&gt;
+&lt;li&gt;Software for Markdown &lt;a href=&#34;https://en.wikipedia.org/wiki/Zettelkasten&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zettelkasten&lt;/a&gt; workflows:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian&lt;/a&gt; (Free software for writing and knowledge management)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://logseq.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logseq&lt;/a&gt; (FOSS for &lt;a href=&#34;https://en.wikipedia.org/wiki/Bullet_journal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bullet journaling&lt;/a&gt;, knowledge and task management, PDF annotation, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://panwriter.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PanWriter&lt;/a&gt; Markdown text editor with Pandoc integration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc&lt;/a&gt; (FOSS, universal document converter)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calibre-ebook.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calibre&lt;/a&gt; (FOSS for ebook management)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; (FOSS for bibliographic reference managment)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; (FOSS for building static websites)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.sandpoints.org/sandpoints/simplesandpoints-de47f813/_preview/draft/portfolio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sanpoints&lt;/a&gt; (FOSS Hugo theme; open infrastructure of experimental digital publishing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;br&gt;
+The workshop is free and open&lt;br&gt;
+Languages: Greek &amp;amp; English&lt;br&gt;
+Bring your own laptop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WADS ↑ ← → ↓</title>
+      <link>https://example.com/project/wads/</link>
+      <pubDate>Sun, 06 Sep 2020 12:56:56 +0300</pubDate>
+      <guid>https://example.com/project/wads/</guid>
+      <description>&lt;p&gt;Co-curation of virtual exhibition at Ars Electronica Festival 2020 &lt;em&gt;In Kepler&amp;rsquo;s Gardens&lt;/em&gt; (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs.&lt;/p&gt;
+&lt;h2 id=&#34;exhibition-text&#34;&gt;Exhibition text&lt;/h2&gt;
+&lt;p&gt;WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.&lt;/p&gt;
+&lt;p&gt;In this spirit and following its own mission, RISE invites local artists to pollinate the digital by employing a technique derived from gardening: namely, grafting. WADS, a digital garden of commoning formed by 21 local artists, sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. The digital exhibition is created and experienced in the online environment of Mozilla Hubs and will be accessible through the Ars Electronica Digital Platform.&lt;/p&gt;
+&lt;h2 id=&#34;project-presentation&#34;&gt;Project presentation&lt;/h2&gt;
+&lt;p&gt;WADS was exhibited at the Thinker Maker Space in Nicosia, on October 15-16, 2020.&lt;/p&gt;
+&lt;h2 id=&#34;exhibition-credits&#34;&gt;Exhibition credits&lt;/h2&gt;
+&lt;h3 id=&#34;participating-artists&#34;&gt;Participating Artists&lt;/h3&gt;
+&lt;p&gt;Raissa Angeli, Maria Andreou, Marina Ashioti, Pandelis Diamantides, Anastasia Dolitsay, Peter Eramian, Ibrahim Latif Ince, Stelios Ilchouk, Marina Kassianidou, Irini Khenkin, Angeliki Koutsodimitropoulou, Marinos Koutsomichalis, Marietta Mavrokordatou, Panagiotis Mina, Faysal Mroueh, Lina Protopapa, Doros Polydorou, Despina Rangou, Kleanthis Rousos, Elena Savvidou, Nico Stephou&lt;/p&gt;
+&lt;h3 id=&#34;graphic-design&#34;&gt;Graphic design&lt;/h3&gt;
+&lt;p&gt;Nico Stephou&lt;/p&gt;
+&lt;h3 id=&#34;curatorial-team&#34;&gt;Curatorial team&lt;/h3&gt;
+&lt;p&gt;Demetris Shammas, Constantinos Miltiadis, Emiddio Vasquez, Myrto Aristidou&lt;/p&gt;
+&lt;p&gt;With the support of &lt;a href=&#34;https://www.cyens.org.cy/en-gb/media/news/ars-electronica-garden-nicosia-by-rise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RISE CY (now CYENS)&lt;/a&gt; and the &lt;a href=&#34;https://www.bmeia.gv.at/en/austrian-embassy-nicosia/news/events/detail/article/ars-electronica-2020-in-keplers-gardens-cyprus-wads-garden-digital-exhibition-by-itica-rise-cy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Austrian Embassy in Nicosia, Cyprus&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery-grid&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--06.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--07.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+    
+    
+    
+    
+    
+  
+  
+  &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid Heritagescapes as Urban Commons in Mediterranean Cities: Accessing the Deep-Rooted Spatial Interfaces of Cities</title>
+      <link>https://example.com/publication/18-hybrid-heritage/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/18-hybrid-heritage/</guid>
+      <description>&lt;p&gt;Artopoulos, Georgios, Constantinos Miltiadis, and Francesco Bagni. ‘Hybrid Heritagescapes as Urban Commons in Mediterranean Cities: Accessing the Deep-Rooted Spatial Interfaces of Cities’. In &lt;em&gt;Neighbourhood &amp;amp; City -Analogue and Digital Perspectives&lt;/em&gt;, edited by Marluci Menezes and Carlos Smaniotto Costa, 81–96. Lisbon: Edições Lusófona, 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daphne&#39;s Diary</title>
+      <link>https://example.com/project/daphnes-diary/</link>
+      <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
+      <guid>https://example.com/project/daphnes-diary/</guid>
+      <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
+&lt;!--
+Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
+--&gt;
+&lt;p&gt;On February 2018, the Cyberparks COST Action awarded the project a &lt;a href=&#34;https://www.cyi.ac.cy/index.php/cyi-news/cyberparks-cost-action-awards-grants-to-starc-trainees-for-short-term-scientific-missions-on-mediated-landscapes-in-nicosia.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short-term scientific mission (STSM) grant&lt;/a&gt;, for further development of the project with local cultural institutions in both sides of Nicosia, in collaboration with the Cyprus Institute. The STSM was conducted between March 22 and April 4, 2018.&lt;/p&gt;
+&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;
+&lt;h3 id=&#34;team-members&#34;&gt;Team members&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Constantinos Miltiadis, Institute of Architecture and Media, TU Graz&lt;/li&gt;
+&lt;li&gt;Paul Schmidt, Media &amp;amp; Culture, Utrecht University&lt;/li&gt;
+&lt;li&gt;Aurimas Žemaitaitis, Kaunas University of Applied Sciences&lt;/li&gt;
+&lt;li&gt;Tamás Tóth, Széchenyi István University, Győr&lt;/li&gt;
+&lt;li&gt;Simonas Skarzauskas, Mykolas Romeris University, Vilnius&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Text, story &amp;amp; documentation&lt;/strong&gt;: Constantinos Miltiadis&lt;br&gt;
+&lt;strong&gt;Voice acting &amp;amp; audio recordings&lt;/strong&gt;: Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Website design&lt;/strong&gt;: Tamás Tóth&lt;br&gt;
+&lt;strong&gt;Videos &amp;amp; editing&lt;/strong&gt;: Aurimas Žemaitaitis &amp;amp; Paul Schmidt&lt;br&gt;
+&lt;strong&gt;Location scouting&lt;/strong&gt;: Aurimas Žemaitaitis, Paul Schmidt &amp;amp; Simonas Skarzauskas&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;The team would like to thank George Artopoulos of The Cyprus Institute for organising the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

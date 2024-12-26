@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Efilena Baseta | studio any</title>
+    <link>https://example.com/authors/efilena-baseta/</link>
+      <atom:link href="https://example.com/authors/efilena-baseta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Efilena Baseta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2017 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>Efilena Baseta</title>
+      <link>https://example.com/authors/efilena-baseta/</link>
+    </image>
+    
+    <item>
+      <title>IAM Open Lecture 16: Adaptive structures and material performance</title>
+      <link>https://example.com/curation/ol/ol-16/</link>
+      <pubDate>Tue, 28 Nov 2017 18:00:00 +0000</pubDate>
+      <guid>https://example.com/curation/ol/ol-16/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/253763577&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Efilena Baseta&lt;/strong&gt; is an architect engineer who studied in the National Technical University of Athens (NTUA), with a Master degree in Advanced Architecture from the Institute for Advanced Architecture of Catalonia (IAAC). Her interest lies in exploring material behaviors, physically and digitally, in order to create adaptive structures. Since 2014 Efilena is a partner of Noumena, an experimental architectural practice based in Barcelona. Moreover Efilena is part of “Reshape – Digital Craft Community” which focuses on Wearable Technology. During 2015-2016 she collaborated with IAAC as the coordinator of the Visiting Programs and tutor of the Global Summer School. She is currently a Marie Curie PhD candidate in the University of Applied Arts Vienna on the topic of „Dynamic Active Bending Structures.“&lt;/p&gt;
+&lt;!--
+IAM Open Lecture #16
+Efilena Baseta
+Adaptive structures and material performance
+18:00 Tuesday 28 November 2017
+IAM Media Lab, Kronesgasse 5/3
+
+Event poster https://iam.tugraz.at/wp-content/uploads/2017/11/OL_16_Baseta.pdf
+
+Original post: https://iam.tugraz.at/2017/11/ol15-baseta/
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

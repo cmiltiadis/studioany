@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital spatiality | studio any</title>
+    <link>https://example.com/tag/digital-spatiality/</link>
+      <atom:link href="https://example.com/tag/digital-spatiality/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital spatiality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Dec 2020 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <title>digital spatiality</title>
+      <link>https://example.com/tag/digital-spatiality/</link>
+    </image>
+    
+    <item>
+      <title>On the matter and matters of space in novel media</title>
+      <link>https://example.com/event/on-the-matter-and-matters-of-space-in-novel-media/</link>
+      <pubDate>Fri, 11 Dec 2020 16:00:00 +0000</pubDate>
+      <guid>https://example.com/event/on-the-matter-and-matters-of-space-in-novel-media/</guid>
+      <description>&lt;!--
+ founding members of the [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449) special interest group (SIG) sponsored by the Sociey for Artistic Research (SAR).
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
