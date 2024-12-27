@@ -5,9 +5,10 @@
 + Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes
   + gallery shortcode doesn't work
 * Github deploy
-+ Per[[https://theplaybook.dev/docs/deploy-hugo-to-github-pages/][theplaybook tutorial]]
++ Per [[https://theplaybook.dev/docs/deploy-hugo-to-github-pages/][theplaybook tutorial]]
   + made a new brunch titled gh-pages
   + added new deploy workflow
+  + Added github.io url at config as =base_url=
 
 * HUGO Academic website
 
