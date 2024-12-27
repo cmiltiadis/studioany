@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: studio any # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic'
+# 'https://studioany.com/' # Website URL
 
 ############################
 ## LANGUAGE
