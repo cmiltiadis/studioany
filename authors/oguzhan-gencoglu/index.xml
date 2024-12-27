@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oguzhan Gencoglu | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/oguzhan-gencoglu/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/oguzhan-gencoglu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/authors/oguzhan-gencoglu/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/authors/oguzhan-gencoglu/index.xml" rel="self" type="application/rss+xml" />
     <description>Oguzhan Gencoglu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Apr 2021 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Oguzhan Gencoglu</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/oguzhan-gencoglu/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/authors/oguzhan-gencoglu/</link>
     </image>
     
     <item>
       <title>Aalto Laser Talks: Adaptation and Space</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/aalto-laser-talks-adaptation-and-space/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/event/aalto-laser-talks-adaptation-and-space/</link>
       <pubDate>Thu, 29 Apr 2021 18:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/aalto-laser-talks-adaptation-and-space/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/event/aalto-laser-talks-adaptation-and-space/</guid>
       <description>&lt;p&gt;Event organized by Laura Beloff, Pia Fricker, Ksenia Kaverina, Kirsi Peltonen, Nitin Sawhney and Koray Tahiroğlu.&lt;/p&gt;
 </description>
     </item>

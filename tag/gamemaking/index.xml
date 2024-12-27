@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gamemaking | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/gamemaking/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/gamemaking/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/gamemaking/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/gamemaking/index.xml" rel="self" type="application/rss+xml" />
     <description>gamemaking</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>gamemaking</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/gamemaking/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/gamemaking/</link>
     </image>
     
     <item>
       <title>Virtual Architecture and SpaceTimeCraft</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/spacetimecraft/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/spacetimecraft/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/spacetimecraft/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/spacetimecraft/</guid>
       <description>&lt;p&gt;Long-term transdisciplinary research project on virtual architecture.
 The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research.
 It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research.&lt;/p&gt;
-&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
+&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://cmiltiadis.github.io/website-hugo-academic/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://cmiltiadis.github.io/website-hugo-academic/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
 In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: &lt;em&gt;SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Below is a catalog of related publications and presentations.&lt;/p&gt;
 </description>
@@ -28,9 +28,9 @@ In late 2019 the project developed into a doctoral research project at Aalto Uni
     
     <item>
       <title>Virtual Acoustic Ecologies</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</link>
       <pubDate>Wed, 28 Aug 2024 09:00:32 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</guid>
       <description>&lt;p&gt;Week-long workshop focusing the exploration of architectural acoustics through experimental game design.
 The course was developed and taught together with Achilleas Xydis (AA Lab, ETH Zurich).&lt;/p&gt;
 &lt;p&gt;Seminar week; Winter semester 2024&lt;br&gt;
@@ -43,9 +43,9 @@ Department of Architecture, ETH Zurich.&lt;/p&gt;
     
     <item>
       <title>Virtual Spaces Master Studio</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/vsms-2016/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/course/vsms-2016/</link>
       <pubDate>Sun, 07 Feb 2016 16:21:47 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/vsms-2016/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/course/vsms-2016/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/803818267&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -212,8 +212,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/dreisponsorship-1_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/dreisponsorship-1_1000_hu29c3742cdbf00388b5a8ced004a5af18_93598_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dreisponsorship-1_1000.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/dreisponsorship-1_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/dreisponsorship-1_1000_hu29c3742cdbf00388b5a8ced004a5af18_93598_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dreisponsorship-1_1000.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -225,8 +225,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_3325%20copy.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_3325%20copy_hucf3697c2cde89313d85aa7aa38eadb54_80556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_3325 copy.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/fIMG_3325%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/fIMG_3325%20copy_hucf3697c2cde89313d85aa7aa38eadb54_80556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_3325 copy.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -238,8 +238,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_4818%20copy.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_4818%20copy_huf64cfb0f7f094f777f2e821b5626712e_136864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_4818 copy.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/fIMG_4818%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/fIMG_4818%20copy_huf64cfb0f7f094f777f2e821b5626712e_136864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_4818 copy.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -251,8 +251,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy_huf7d58741422e4e15cfaf5970e52783c0_95457_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;IAM_VirtualSpacesModule copy.jpg&#34; width=&#34;750&#34; height=&#34;392&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy_huf7d58741422e4e15cfaf5970e52783c0_95457_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;IAM_VirtualSpacesModule copy.jpg&#34; width=&#34;750&#34; height=&#34;392&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -264,8 +264,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/iamgearvr_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/iamgearvr_1000_hu046435a76512d534c84b48d6fc821404_151864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;iamgearvr_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/iamgearvr_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/iamgearvr_1000_hu046435a76512d534c84b48d6fc821404_151864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;iamgearvr_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -277,8 +277,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3415_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3415_1000_hu9eaf1a9fb82843288436c3d00ba7be12_89129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3415_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3415_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3415_1000_hu9eaf1a9fb82843288436c3d00ba7be12_89129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3415_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -290,8 +290,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3513_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3513_1000_hu2f9038922a20e0a149f2e408a4e8213f_91978_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3513_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3513_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3513_1000_hu2f9038922a20e0a149f2e408a4e8213f_91978_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3513_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -303,8 +303,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3556_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3556_1000_hu1ee06eabec6f0a58b8b17080771e7ebb_125625_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3556_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3556_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3556_1000_hu1ee06eabec6f0a58b8b17080771e7ebb_125625_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3556_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -316,8 +316,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3566_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3566_1000_hu0275647aaaabc1d6b3baef0c4b96a793_79256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3566_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3566_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3566_1000_hu0275647aaaabc1d6b3baef0c4b96a793_79256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3566_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -329,8 +329,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3578_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3578_1000_huca634c2e1402f4b64fc922ef91f63ac5_94164_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3578_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3578_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3578_1000_huca634c2e1402f4b64fc922ef91f63ac5_94164_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3578_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -342,8 +342,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3586_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3586_1000_hu93d705676a94f7a524695349354304d5_70031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3586_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3586_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3586_1000_hu93d705676a94f7a524695349354304d5_70031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3586_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -355,8 +355,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3587_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3587_1000_hu2754e3a12034839ad42bebabe28288e0_73851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3587_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3587_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3587_1000_hu2754e3a12034839ad42bebabe28288e0_73851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3587_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -368,8 +368,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3601_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3601_1000_hu86679741f46976ac716479124f3a5cd2_100711_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3601_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3601_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_3601_1000_hu86679741f46976ac716479124f3a5cd2_100711_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3601_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -381,8 +381,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_4781_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_4781_1000_hu449a1f14abbce81d0edf065efbe7ae66_150569_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_4781_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_4781_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_4781_1000_hu449a1f14abbce81d0edf065efbe7ae66_150569_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_4781_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -394,8 +394,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5018_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5018_1000_hu0f85351a362f4226122288fec32e6e28_200999_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5018_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_5018_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_5018_1000_hu0f85351a362f4226122288fec32e6e28_200999_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5018_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -407,8 +407,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5040_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5040_1000_hube22ee0f93eb4b3e98b0197c032ca840_130221_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5040_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_5040_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/img_5040_1000_hube22ee0f93eb4b3e98b0197c032ca840_130221_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5040_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -420,8 +420,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/open-architecture-day-2016_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/open-architecture-day-2016_1000_huc8c47854333841d5c00a7efe3af33f31_246404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;open-architecture-day-2016_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/open-architecture-day-2016_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/open-architecture-day-2016_1000_huc8c47854333841d5c00a7efe3af33f31_246404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;open-architecture-day-2016_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -433,8 +433,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_aec_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_aec_1000_hu6322c872c51c14c1879dda13a8b36417_91596_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_aec_1000.jpg&#34; width=&#34;750&#34; height=&#34;270&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_aec_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_aec_1000_hu6322c872c51c14c1879dda13a8b36417_91596_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_aec_1000.jpg&#34; width=&#34;750&#34; height=&#34;270&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -446,8 +446,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_gamingnight_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_gamingnight_1000_hu27c9fca841055c762b6816564d0a2924_135969_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_gamingnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_gamingnight_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_gamingnight_1000_hu27c9fca841055c762b6816564d0a2924_135969_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_gamingnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -459,8 +459,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_poster_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_poster_1000_hudde3bcdf478177e9b9fdc7b162f91eca_275205_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_poster_1000_hudde3bcdf478177e9b9fdc7b162f91eca_275205_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -472,8 +472,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_posters_landscape_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_posters_landscape_1000_hu567f18eac0af6db2ac9b845b42148914_185475_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_posters_landscape_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_posters_landscape_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_posters_landscape_1000_hu567f18eac0af6db2ac9b845b42148914_185475_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_posters_landscape_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -485,8 +485,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_review_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_review_1000_hu0dd3f49ba607f456f6f7e48fff49ed57_135182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_review_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_review_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_review_1000_hu0dd3f49ba607f456f6f7e48fff49ed57_135182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_review_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -498,8 +498,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_vrnight_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_vrnight_1000_hube3a932cd219529488eba0ebbc05bcd9_124092_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_vrnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_vrnight_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/16-vsms/vsms_vrnight_1000_hube3a932cd219529488eba0ebbc05bcd9_124092_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_vrnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -511,9 +511,9 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
     
     <item>
       <title>project Anywhere</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/project-anywhere/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/project-anywhere/</link>
       <pubDate>Fri, 07 Nov 2014 18:04:19 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/project-anywhere/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/project-anywhere/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The ultimate display would, of course, be a room within which the computer can control the existence of matter.&lt;br&gt;
 (Ivan E. Sutherland, The Ultimate Display 1965)&lt;/p&gt;
@@ -639,8 +639,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -652,8 +652,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -665,8 +665,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -678,8 +678,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -691,8 +691,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -704,8 +704,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -717,8 +717,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -730,8 +730,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -743,8 +743,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -756,8 +756,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -769,8 +769,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -782,8 +782,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

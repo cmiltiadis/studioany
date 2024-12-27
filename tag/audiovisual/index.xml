@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>audiovisual | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/audiovisual/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/audiovisual/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/audiovisual/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/audiovisual/index.xml" rel="self" type="application/rss+xml" />
     <description>audiovisual</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2013 18:13:41 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>audiovisual</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/audiovisual/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/audiovisual/</link>
     </image>
     
     <item>
       <title>The geology of the Geology of Morals</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/geology-of-morals/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/geology-of-morals/</link>
       <pubDate>Sun, 06 Oct 2013 18:13:41 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/geology-of-morals/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/geology-of-morals/</guid>
       <description>&lt;p&gt;The project is an abstract constructive take on the concept of &lt;em&gt;double articulation&lt;/em&gt; introduced in the chapter &amp;ldquo;The Geology of Morals&amp;rdquo; from the book &amp;ldquo;A Thousand Plateaus&amp;rdquo; by Gilles Deleuze and Félix Guattari (2013 [1984]), which describes the interplay between form and substance of expression on one hand, and form and substance of content on the other.
 Here, the notion of double articulation is applied to the book chapter itself by exploring computationally the correlations between its linguistic expression and the stratification of its textual substance.
 As a video essay on the &amp;lsquo;quantification of writing&amp;rsquo;, the text of the chapter was analyzed computationally to infer abstract relations and densities between text atoms, and was then rendered into indexes, dimensions, colors, and shapes.&lt;/p&gt;

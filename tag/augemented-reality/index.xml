@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>augemented reality | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/augemented-reality/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/augemented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/augemented-reality/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/augemented-reality/index.xml" rel="self" type="application/rss+xml" />
     <description>augemented reality</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2015 16:41:06 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>augemented reality</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/augemented-reality/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/augemented-reality/</link>
     </image>
     
     <item>
       <title>VR &amp; AR in Architectural Visualisation</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/15-ecaade/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/course/15-ecaade/</link>
       <pubDate>Mon, 14 Sep 2015 16:41:06 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/15-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/course/15-ecaade/</guid>
       <description>&lt;h2 id=&#34;workshop-information&#34;&gt;Workshop information&lt;/h2&gt;
 &lt;p&gt;2-day workshop on AR and VR application development for architectural visualization at the eCAADe 2015 conference titled &amp;lsquo;Real-Time.&amp;rsquo; TU Vienna, September 14-15, 2015.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Workshop brief&lt;/strong&gt;&lt;br&gt;
@@ -81,8 +81,8 @@ Achilleas Xydis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster_hue7de9c10263cb024b8e6f64d723c48ea_54869_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-1-ARVR-workshop-poster.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster_hue7de9c10263cb024b8e6f64d723c48ea_54869_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-1-ARVR-workshop-poster.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -94,8 +94,8 @@ Achilleas Xydis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/_hud08be11826c4c0d27691e3cd0643e1cf_73652_91ccee9cdf4f0390ed184c05246db10f.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/15-ecaade-workshop/_hud08be11826c4c0d27691e3cd0643e1cf_73652_91ccee9cdf4f0390ed184c05246db10f.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -107,8 +107,8 @@ Achilleas Xydis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg.png&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg_huc91d9306bba0078e9a207a282bb17a53_50579_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-3-AR-collage_bg.png&#34; width=&#34;750&#34; height=&#34;625&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg_huc91d9306bba0078e9a207a282bb17a53_50579_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-3-AR-collage_bg.png&#34; width=&#34;750&#34; height=&#34;625&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projection mapping | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/projection-mapping/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/projection-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/projection-mapping/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/projection-mapping/index.xml" rel="self" type="application/rss+xml" />
     <description>projection mapping</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Nov 2014 11:03:03 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>projection mapping</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/projection-mapping/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/projection-mapping/</link>
     </image>
     
     <item>
       <title>Shifting perspectives</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/shifting-perspectives/</link>
       <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/shifting-perspectives/</guid>
       <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
 &lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
 The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.

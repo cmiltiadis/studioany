@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>education | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/education/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/education/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>education</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>education</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/education/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/education/</link>
     </image>
     
     <item>
       <title>Virtual Reality, Videogames, Architecture and Education - From utopian drawings to inconstructible navigable environments</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-ecaade/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/publication/18-ecaade/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/publication/18-ecaade/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In &lt;em&gt;Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference&lt;/em&gt;, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

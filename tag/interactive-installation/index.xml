@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>interactive installation | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/interactive-installation/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/interactive-installation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/interactive-installation/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/interactive-installation/index.xml" rel="self" type="application/rss+xml" />
     <description>interactive installation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jan 2019 18:18:58 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>interactive installation</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/interactive-installation/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/interactive-installation/</link>
     </image>
     
     <item>
       <title>Decoded Language</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/decoded-language/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/decoded-language/</link>
       <pubDate>Thu, 24 Jan 2019 18:18:58 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/decoded-language/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/decoded-language/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Decoded language&lt;/strong&gt;&lt;/em&gt; is a multi-user interactive sound installation for Supercollider and Kinect V2.
 The installation uses real-time body (skeleton) tracking as interface for controlling a virtual granular synthesis instrument.
 This way, the installation produces an entanglement of the spatial domain of bodily movement with the temporal domain of sound.
@@ -83,8 +83,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.15c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.15c_hu99fb30f51b9f5ad752e163a27ef395ca_310358_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.15c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.15c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.15c_hu99fb30f51b9f5ad752e163a27ef395ca_310358_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.15c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -96,8 +96,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.16c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.16c_hu08ef40bed01506c22ea7c20c20c9fd3c_240089_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.16c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.16c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.16c_hu08ef40bed01506c22ea7c20c20c9fd3c_240089_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.16c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -109,8 +109,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.17c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.17c_huc723eafb3b9edd3e7c14492f88e316e4_273171_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.17c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.17c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.17c_huc723eafb3b9edd3e7c14492f88e316e4_273171_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.17c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -122,8 +122,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.26c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.26c_hu4cb9503109dd3d3d325585aeb4816a3b_297325_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.26c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.26c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.26c_hu4cb9503109dd3d3d325585aeb4816a3b_297325_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.26c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -135,8 +135,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.28c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.28c_hubea5fa9acac14e737bb5b173e8075124_285127_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.28c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.28c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.28c_hubea5fa9acac14e737bb5b173e8075124_285127_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.28c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -148,8 +148,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.29c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.29c_huc026be961dca397f57998e761ca43b67_304621_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.29c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.29c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.29c_huc026be961dca397f57998e761ca43b67_304621_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.29c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -161,8 +161,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.32c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.32c_hud2601e68080c843c7fd26a7cc25646c6_235914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.32c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.32c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.32c_hud2601e68080c843c7fd26a7cc25646c6_235914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.32c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -174,8 +174,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.36c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.36c_hu3f6dfad0e5e23169b2b14c677bc9c4fb_310057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.36c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.36c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.36c_hu3f6dfad0e5e23169b2b14c677bc9c4fb_310057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.36c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -187,8 +187,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.5c.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.5c_hu41b34183dad3b31ce1e3786eb7b4fd3e_238398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.5c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.5c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/decoded-language/untitled.5c_hu41b34183dad3b31ce1e3786eb7b4fd3e_238398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.5c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -200,9 +200,9 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
     
     <item>
       <title>Sonic Rug Hackathon - Vienna Design Week 2017</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/sonic-rug/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/event/sonic-rug/</link>
       <pubDate>Wed, 04 Oct 2017 18:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/sonic-rug/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/event/sonic-rug/</guid>
       <description>&lt;p&gt;Invited single-day hackathon project with Antonia Manhatsberger, for the production of an interactive audiovisual installation for the &lt;em&gt;Sonic Rug&lt;/em&gt;, developed by Selina Reiterer and Oliver Maklott.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch. [&amp;hellip;] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media.&amp;rdquo;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -247,8 +247,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -260,8 +260,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -273,8 +273,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -286,8 +286,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -299,8 +299,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -312,8 +312,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -325,8 +325,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -338,8 +338,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -351,8 +351,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -364,8 +364,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -377,8 +377,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -390,8 +390,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -403,8 +403,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -416,8 +416,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -429,8 +429,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -442,8 +442,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -455,8 +455,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -468,8 +468,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -481,8 +481,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -494,8 +494,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -507,8 +507,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -520,8 +520,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

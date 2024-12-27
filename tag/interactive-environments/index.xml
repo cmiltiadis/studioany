@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>interactive environments | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/interactive-environments/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/interactive-environments/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/interactive-environments/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/interactive-environments/index.xml" rel="self" type="application/rss+xml" />
     <description>interactive environments</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>interactive environments</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/interactive-environments/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/interactive-environments/</link>
     </image>
     
     <item>
       <title>Project Anywhere: An Interface for Virtual Architecture</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/16-ijac/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/publication/16-ijac/</link>
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/16-ijac/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/publication/16-ijac/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘Project Anywhere: An Interface for Virtual Architecture’. &lt;em&gt;International Journal of Architectural Computing&lt;/em&gt; 14, no. 4 (7 October 2016): 386–97. &lt;a href=&#34;https://doi.org/10.1177/1478077116670746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1177/1478077116670746&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

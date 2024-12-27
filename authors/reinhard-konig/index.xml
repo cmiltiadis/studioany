@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reinhard König | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/reinhard-konig/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/reinhard-konig/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/authors/reinhard-konig/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/authors/reinhard-konig/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinhard König</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Reinhard König</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/reinhard-konig/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/authors/reinhard-konig/</link>
     </image>
     
     <item>
       <title>ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp; 360 Videos</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/17-esum/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/publication/17-esum/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/17-esum/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/publication/17-esum/</guid>
       <description>&lt;p&gt;Responsible for the design, development, programming, and documentation of the &lt;a href=&#34;../../project/esum&#34;&gt;ESUM backpack sensor module&lt;/a&gt;, presented in sections 2.1, 2.2, and the source code annex of the report.&lt;/p&gt;
 &lt;p&gt;Griego, Danielle, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven Schneider, Reinhard König, et al. ‘ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp;amp; 360° Videos’. Application/pdf. ETH Zurich, 13 September 2017. &lt;a href=&#34;https://doi.org/10.3929/ETHZ-B-000184587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3929/ETHZ-B-000184587&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>IAM Open Lecture 5: Cognitive Urban Design Computing</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-5/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/curation/ol/ol-5/</link>
       <pubDate>Thu, 12 Jan 2017 18:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-5/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/curation/ol/ol-5/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/199324858&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;

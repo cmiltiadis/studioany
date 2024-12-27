@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>acoustics | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/acoustics/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/acoustics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/acoustics/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/acoustics/index.xml" rel="self" type="application/rss+xml" />
     <description>acoustics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:00:32 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>acoustics</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/acoustics/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/acoustics/</link>
     </image>
     
     <item>
       <title>Virtual Acoustic Ecologies</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</link>
       <pubDate>Wed, 28 Aug 2024 09:00:32 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</guid>
       <description>&lt;p&gt;Week-long workshop focusing the exploration of architectural acoustics through experimental game design.
 The course was developed and taught together with Achilleas Xydis (AA Lab, ETH Zurich).&lt;/p&gt;
 &lt;p&gt;Seminar week; Winter semester 2024&lt;br&gt;

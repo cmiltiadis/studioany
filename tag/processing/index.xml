@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Processing | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/processing/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/processing/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Processing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2016 16:34:00 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Processing</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/processing/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/processing/</link>
     </image>
     
     <item>
       <title>Sound to Space</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/16-dm2/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/course/16-dm2/</link>
       <pubDate>Thu, 07 Jan 2016 16:34:00 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/16-dm2/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/course/16-dm2/</guid>
       <description>&lt;p&gt;Digital design 2 (dm2) is a week-long course taught to third-semester architecture students at the Institute of Architecture with the aim of introducing computational design thinking and related practices.
 The course was originally taught using MEL scripting in Maya.&lt;/p&gt;
 &lt;p&gt;The course theme for 2016 was &amp;ldquo;Sound to Space&amp;rdquo; and aimed at using sound input to generate geometry.
-In January 2016 I ran an iteration of the course using the programming language &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;. For this purpose I also wrote a short booklet introducing basic programming concepts in Processing (see &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf&#34;&gt;Processing Booklet&lt;/a&gt;).
+In January 2016 I ran an iteration of the course using the programming language &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;. For this purpose I also wrote a short booklet introducing basic programming concepts in Processing (see &lt;a href=&#34;https://cmiltiadis.github.io/website-hugo-academic/uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf&#34;&gt;Processing Booklet&lt;/a&gt;).
 This workshop iteration used FFT over a live sound input to generate interactive graphics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Teacher&lt;/strong&gt;&lt;br&gt;
 Constantinos Miltiadis&lt;/p&gt;
@@ -34,9 +34,9 @@ Workshop challenge: Program or explain how to generate the above vector image. [
     
     <item>
       <title>Porocity</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/porocity/</link>
       <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/porocity/</guid>
       <description>&lt;!-- 
 - on Choi&#39;s Vimeo account 
 https://vimeo.com/78187584
@@ -58,9 +58,9 @@ Produced by the 2013 MAS CAAD class at the &lt;a href=&#34;https://www.caad.arch
     
     <item>
       <title>Interactive Kinetic Structures</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/iks/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/iks/</link>
       <pubDate>Wed, 10 Oct 2012 11:13:53 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/iks/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/iks/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Interactive Kinetic Structures&lt;/strong&gt;&lt;/em&gt; is a prototype for an interactive architectural structure developed in 2012 as a diploma thesis project at NTU-Athens.
 The aim of the project was the production of a proof-of-concept for an architectural structure able to interact and reconfigure itself according to parameters of its immediate environment and different use scenarios.
 The concept for this work departed from the design flexibility of parametric design methods, and the intention of maintaining such flexibility as responsiveness even after the course of the design process:&lt;/p&gt;
@@ -149,8 +149,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/a-closeup_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/a-closeup_1600_huc203bed8544035669fba41582aa4fcad_137742_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-closeup_1600.jpg&#34; width=&#34;750&#34; height=&#34;381&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/a-closeup_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/a-closeup_1600_huc203bed8544035669fba41582aa4fcad_137742_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-closeup_1600.jpg&#34; width=&#34;750&#34; height=&#34;381&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -162,8 +162,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/a-iks_poster-a3_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/a-iks_poster-a3_1600_hu10b176ecfba98abd9f5db21c10965ae1_193561_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-iks_poster-a3_1600.jpg&#34; width=&#34;750&#34; height=&#34;519&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/a-iks_poster-a3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/a-iks_poster-a3_1600_hu10b176ecfba98abd9f5db21c10965ae1_193561_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;a-iks_poster-a3_1600.jpg&#34; width=&#34;750&#34; height=&#34;519&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -175,8 +175,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/d-flexGrid-side.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/d-flexGrid-side_hu31dc81b8ca484cffa859bc0117583e50_46256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-side.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/d-flexGrid-side.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/d-flexGrid-side_hu31dc81b8ca484cffa859bc0117583e50_46256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-side.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -188,8 +188,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/d-flexGrid-top.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/d-flexGrid-top_hu4b60077173abdd48a7ed4e0979f5ae6b_57619_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-top.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/d-flexGrid-top.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/d-flexGrid-top_hu4b60077173abdd48a7ed4e0979f5ae6b_57619_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;d-flexGrid-top.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -201,8 +201,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/f-agents.png&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/f-agents_hu5ff3a087e27f86727ed085569f5a54a9_158344_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-agents.png&#34; width=&#34;750&#34; height=&#34;360&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/f-agents.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/f-agents_hu5ff3a087e27f86727ed085569f5a54a9_158344_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-agents.png&#34; width=&#34;750&#34; height=&#34;360&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -214,8 +214,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/f-light.png&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/f-light_hueb08e31b99f854c7bc836cb1347cce8a_131694_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-light.png&#34; width=&#34;750&#34; height=&#34;359&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/f-light.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/f-light_hueb08e31b99f854c7bc836cb1347cce8a_131694_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;f-light.png&#34; width=&#34;750&#34; height=&#34;359&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -227,8 +227,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/logo_1080.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/logo_1080_huc48e42036342832f3c91ffa710435f90_58904_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;logo_1080.jpg&#34; width=&#34;744&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/logo_1080.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/logo_1080_huc48e42036342832f3c91ffa710435f90_58904_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;logo_1080.jpg&#34; width=&#34;744&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -240,8 +240,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/model-3D-print-model_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/model-3D-print-model_1600_hu446a96511a9d78499a82f1e7b5c4aa40_61469_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-3D-print-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;325&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/model-3D-print-model_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/model-3D-print-model_1600_hu446a96511a9d78499a82f1e7b5c4aa40_61469_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-3D-print-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;325&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -253,8 +253,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/model-arduino-model_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/model-arduino-model_1600_huf79d84fe65a63182b5b8067e0a7115e0_105827_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-arduino-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;562&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/model-arduino-model_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/model-arduino-model_1600_huf79d84fe65a63182b5b8067e0a7115e0_105827_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-arduino-model_1600.jpg&#34; width=&#34;750&#34; height=&#34;562&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -266,8 +266,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/model-pyramid_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/model-pyramid_1600_hu54bd63e6031e13b272e6572b533781f9_79399_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-pyramid_1600.jpg&#34; width=&#34;750&#34; height=&#34;531&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/model-pyramid_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/model-pyramid_1600_hu54bd63e6031e13b272e6572b533781f9_79399_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;model-pyramid_1600.jpg&#34; width=&#34;750&#34; height=&#34;531&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -279,8 +279,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-antiprism-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-antiprism-1_huf5e794251a2835061e6f96eaca550a74_25840_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-1.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-antiprism-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-antiprism-1_huf5e794251a2835061e6f96eaca550a74_25840_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-1.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -292,8 +292,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-antiprism-3.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-antiprism-3_hud0388fd6ce3cd89d14ca9017449484f8_47770_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-3.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-antiprism-3.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-antiprism-3_hud0388fd6ce3cd89d14ca9017449484f8_47770_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-antiprism-3.jpg&#34; width=&#34;750&#34; height=&#34;551&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -305,8 +305,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-polymer-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-polymer-1_huf9c5ccebc10e9b76c6ee4f8406e9ef97_37097_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-1.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-polymer-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-polymer-1_huf9c5ccebc10e9b76c6ee4f8406e9ef97_37097_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-1.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -318,8 +318,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-polymer-2.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/node-polymer-2_hu2b5a63908f3314f18b66d7a3df0a240a_39680_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-2.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-polymer-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/node-polymer-2_hu2b5a63908f3314f18b66d7a3df0a240a_39680_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;node-polymer-2.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -331,8 +331,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-cylinder-perspective_1500.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-cylinder-perspective_1500_hu57fdb62cff74e637272f06ce3025e33b_100574_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-cylinder-perspective_1500.jpg&#34; width=&#34;750&#34; height=&#34;475&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-cylinder-perspective_1500.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-cylinder-perspective_1500_hu57fdb62cff74e637272f06ce3025e33b_100574_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-cylinder-perspective_1500.jpg&#34; width=&#34;750&#34; height=&#34;475&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -344,8 +344,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-light-perspective_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-light-perspective_1000_hua04fc370ef39bcb0c9680eca160b88b7_59924_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-light-perspective_1000.jpg&#34; width=&#34;750&#34; height=&#34;469&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-light-perspective_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-light-perspective_1000_hua04fc370ef39bcb0c9680eca160b88b7_59924_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-light-perspective_1000.jpg&#34; width=&#34;750&#34; height=&#34;469&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -357,8 +357,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-monkey-perspective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-monkey-perspective_1600_hu6341567a4824a868c58f9dc2aeac4e14_94539_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-monkey-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;458&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-monkey-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-monkey-perspective_1600_hu6341567a4824a868c58f9dc2aeac4e14_94539_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-monkey-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;458&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -370,8 +370,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-normal-perspective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-normal-perspective_1600_hu066c4362a32a397ae8561f441f0cc07d_101478_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-normal-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;450&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-normal-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-normal-perspective_1600_hu066c4362a32a397ae8561f441f0cc07d_101478_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-normal-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;450&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -383,8 +383,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-paraboloid-perspective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-paraboloid-perspective_1600_hub48f5ab2d2553a02599c88a103d8859a_104628_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-paraboloid-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;472&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-paraboloid-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-paraboloid-perspective_1600_hub48f5ab2d2553a02599c88a103d8859a_104628_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-paraboloid-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;472&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -396,8 +396,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-sine-perspective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-sine-perspective_1600_hu62ad5fa31922e9c8aae9eda1f5820011_57334_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sine-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;428&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-sine-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-sine-perspective_1600_hu62ad5fa31922e9c8aae9eda1f5820011_57334_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sine-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;428&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -409,8 +409,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-sinecos-pespective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-sinecos-pespective_1600_hu54bd63e6031e13b272e6572b533781f9_104931_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sinecos-pespective_1600.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-sinecos-pespective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-sinecos-pespective_1600_hu54bd63e6031e13b272e6572b533781f9_104931_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sinecos-pespective_1600.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -422,8 +422,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-sphere-perspective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-sphere-perspective_1600_hueb4c213ca594cb8159ed8744e64b7db3_103248_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sphere-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;466&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-sphere-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-sphere-perspective_1600_hueb4c213ca594cb8159ed8744e64b7db3_103248_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-sphere-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;466&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -435,8 +435,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-tan-perspective_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/r-tan-perspective_1600_hu54bd63e6031e13b272e6572b533781f9_98603_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-tan-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-tan-perspective_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/r-tan-perspective_1600_hu54bd63e6031e13b272e6572b533781f9_98603_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;r-tan-perspective_1600.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -448,8 +448,8 @@ Petros Koutsolambros, Ero Papavasiliou, Spyros Efthymiou, Eliza Neophytou, Anton
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/x-iphone_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/12-iks/x-iphone_1600_hu54bd63e6031e13b272e6572b533781f9_149524_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;x-iphone_1600.jpg&#34; width=&#34;695&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-12-iks&#34; href=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/x-iphone_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/media/albums/12-iks/x-iphone_1600_hu54bd63e6031e13b272e6572b533781f9_149524_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;x-iphone_1600.jpg&#34; width=&#34;695&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

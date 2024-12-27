@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/ai/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/ai/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2015 19:00:04 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>AI</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/ai/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/ai/</link>
     </image>
     
     <item>
       <title>Open Lecture Series (2015-2019)</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/iam-open-lectures/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/iam-open-lectures/</link>
       <pubDate>Fri, 06 Nov 2015 19:00:04 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/iam-open-lectures/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/iam-open-lectures/</guid>
       <description>&lt;p&gt;The &lt;em&gt;IAM Open Lecture Series&lt;/em&gt; was founded in late 2015 at the Institute of Architecture and Media (IAM), TU Graz. The project slowly formalised as a mapping of the research ecology concerning computation and related discourse in the wider field of architecture and media.
 The series hosts talks by younger academic researchers and practitioners aiming to present and promote experimental, interdisciplinary and ongoing research.
 All sessions are hosted at the New Media Lab of IAM, Kronesgasse 5/III, Graz.&lt;/p&gt;
 &lt;h1 id=&#34;open-lectures-archive&#34;&gt;Open lectures archive&lt;/h1&gt;
-&lt;p&gt;For the documentation of sessions 1-30 see the &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/iam-open-lectures&#34;&gt;IAM Open Lectures Archive&lt;/a&gt; on this website.
+&lt;p&gt;For the documentation of sessions 1-30 see the &lt;a href=&#34;https://cmiltiadis.github.io/website-hugo-academic/tag/iam-open-lectures&#34;&gt;IAM Open Lectures Archive&lt;/a&gt; on this website.
 For the complete catalog of the series see &lt;a href=&#34;https://iam.tugraz.at/main-website/category/openlecture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IAM Open lectures at iam.tugraz.at&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Video documentation of the &lt;em&gt;IAM Open Lectures&lt;/em&gt; is archived at:
 &lt;a href=&#34;https://tube.tugraz.at/paella/ui/browse.html?series=9866b725-a6f2-41ca-8e5c-00879478b22f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TU Graz Tube&lt;/a&gt; and on &lt;a href=&#34;https://vimeo.com/channels/iamlectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;

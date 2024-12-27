@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conference | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/conference/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/conference/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>conference</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 14:21:30 +0300</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>conference</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/conference/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/conference/</link>
     </image>
     
     <item>
       <title>ACADIA Conference Archive</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/acadia-archive/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/acadia-archive/</link>
       <pubDate>Thu, 20 Jul 2023 14:21:30 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/acadia-archive/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/acadia-archive/</guid>
       <description>&lt;p&gt;In May 2023, I was awarded the inaugural &lt;a href=&#34;http://acadia.org/news/69P4TY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACADIA Cultural History Project Fellowship&lt;/a&gt; together with Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;The fellowship entailed production of work related to the &amp;lsquo;archive&amp;rsquo; of ACADIA, which at the time was an Excel sheet listing all papers published between 1985 and 2020, and a cloud drive with PDFs of conference proceedings volumes and other publications of ACADIA (e.g. quarterlies, membership lists, etc.).&lt;/p&gt;
 &lt;p&gt;My proposal was to create an open-access archive to host all content published by ACADIA. Using the data available, I wrote a Python program to parse this information and generate entries for an archive implementing &lt;em&gt;Sandpoints&lt;/em&gt;, an open-source open-infrastructure framework for experimental publishing.
@@ -79,9 +79,9 @@ Marcell Mars: Technical support and web hosting&lt;/p&gt;
     
     <item>
       <title>Cybersyn 1973/2022</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/22-isea/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/publication/22-isea/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/22-isea/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/publication/22-isea/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/573055092&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -97,9 +97,9 @@ Marcell Mars: Technical support and web hosting&lt;/p&gt;
     
     <item>
       <title>CAAD Futures 2021: Design Imperatives - The future is Now</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/caad-futures-2021/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/project/caad-futures-2021/</link>
       <pubDate>Thu, 09 Jul 2020 13:12:53 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/caad-futures-2021/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/project/caad-futures-2021/</guid>
       <description>&lt;p&gt;Co-chair and co-organizer for the 2021 iteration of the CAAD Futures international biannual conference, hosted remotely by the University of Southern California (USC).
 Contributed to authoring the open call, reviewing contributions, curating and hosting the keynote panel sessions, and co-editing the proceedings volume of the conference published in 2022 by &lt;em&gt;Springer&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Conference co-chairs:&lt;/p&gt;
@@ -118,9 +118,9 @@ Conference co-chair, co-organizer, and host; co-curator of the keynote panel ses
     
     <item>
       <title>The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/visual-imaginary-intangible-heritage/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/event/visual-imaginary-intangible-heritage/</link>
       <pubDate>Wed, 14 Nov 2018 19:40:57 +0300</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/visual-imaginary-intangible-heritage/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/event/visual-imaginary-intangible-heritage/</guid>
       <description>&lt;p&gt;Contribution to CHNT 2018 on intangible cultural heritage based on the project &lt;a href=&#34;../../project/daphnes-diary&#34;&gt;Daphne&amp;rsquo;s Diary&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This paper presents theoretical and practical considerations regarding the role of moat of the medieval walls of historic Nicosia. It introduces the history of Nicosia, the last divided capital of Europe, through the development of its Venetian fortifications. The moat acquired an important role for Nicosia when the city started expanding beyond the medieval footprint of the labyrinthine urban fabric of the historic core during the late period of British rule on the island. Since the beginning of the 20th century numerous activities and uses were hosted into the moat, from sporting events, livestock trade and markets to parades and leisure spaces, waste disposal and farming. &lt;/p&gt;
@@ -142,9 +142,9 @@ CHNT Website [[x](https://www.chnt.at/)]
     
     <item>
       <title>Beyond the Implied Player: Transgression and Contingency in Digital Games</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
       <pubDate>Thu, 11 Oct 2018 09:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
       <description>&lt;!--
 abstract 
 https://www.researchgate.net/publication/328174581_Beyond_the_Implied_Player_Transgression_and_Contingency_in_Digital_Games
@@ -157,9 +157,9 @@ https://gespielt.hypotheses.org/2009
     
     <item>
       <title>7xCabin</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/14-7x-cabin-robarch/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/publication/14-7x-cabin-robarch/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/14-7x-cabin-robarch/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/publication/14-7x-cabin-robarch/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/94076862&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>app | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/app/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/tag/app/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/tag/app/index.xml" rel="self" type="application/rss+xml" />
     <description>app</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2015 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>app</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/app/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/tag/app/</link>
     </image>
     
     <item>
       <title>Second Prize in the Zeiss VR One App Contest</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/zeiss-vr-one/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/event/zeiss-vr-one/</link>
       <pubDate>Thu, 19 Mar 2015 18:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/zeiss-vr-one/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/event/zeiss-vr-one/</guid>
       <description>&lt;p&gt;
 
 
@@ -36,10 +36,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp 400w,
-               /cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_e8f989911037cdfe38513ab1f598075d.webp 760w,
-               /cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp&#34;
+               /website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp 400w,
+               /website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_e8f989911037cdfe38513ab1f598075d.webp 760w,
+               /website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cmiltiadis.github.io/website-hugo-academic/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

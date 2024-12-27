@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Werner Jauk | studio any</title>
-    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/werner-jauk/</link>
-      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/werner-jauk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/website-hugo-academic/authors/werner-jauk/</link>
+      <atom:link href="https://cmiltiadis.github.io/website-hugo-academic/authors/werner-jauk/index.xml" rel="self" type="application/rss+xml" />
     <description>Werner Jauk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2016 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Werner Jauk</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/werner-jauk/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/authors/werner-jauk/</link>
     </image>
     
     <item>
       <title>IAM Open Lecture 2: Sound to Space</title>
-      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-2/</link>
+      <link>https://cmiltiadis.github.io/website-hugo-academic/curation/ol/ol-2/</link>
       <pubDate>Tue, 10 May 2016 18:00:00 +0000</pubDate>
-      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-2/</guid>
+      <guid>https://cmiltiadis.github.io/website-hugo-academic/curation/ol/ol-2/</guid>
       <description>&lt;p&gt;In the scope of the Virtual Spaces Master Studio, and the Interdisciplinary Media: Space to Sound, we are pleased to announce the IAM Open Lecture #2 by Prof. Werner Jauk, titled „Sound to (auditory) space“.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Werner Jauk&lt;/strong&gt;
 Psychologist working on experimental aesthetics, the hedonic control of explorative behaviour
