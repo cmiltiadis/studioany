@@ -9,6 +9,7 @@
   + made a new brunch titled gh-pages
   + added new deploy workflow
   + Added github.io url at config as =base_url=
++ Try Hugo tutorial
 
 * HUGO Academic website
 
