@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyprus | studio any</title>
-    <link>https://example.com/tag/cyprus/</link>
-      <atom:link href="https://example.com/tag/cyprus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/cyprus/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/cyprus/index.xml" rel="self" type="application/rss+xml" />
     <description>Cyprus</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Cyprus</title>
-      <link>https://example.com/tag/cyprus/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/cyprus/</link>
     </image>
     
     <item>
       <title>Open tools &amp; workflows for digital writing, notetaking, publishing, reference &amp; library management</title>
-      <link>https://example.com/event/kaymakkin-workshop/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/kaymakkin-workshop/</link>
       <pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
-      <guid>https://example.com/event/kaymakkin-workshop/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/kaymakkin-workshop/</guid>
       <description>&lt;p&gt;Workshop on open tools and workflows for writing, notetaking, publishing, reference and library management at &lt;em&gt;Social Space Kaymakkin&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Workshop program&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -68,9 +68,9 @@ Bring your own laptop&lt;/p&gt;
     
     <item>
       <title>WADS ↑ ← → ↓</title>
-      <link>https://example.com/project/wads/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</link>
       <pubDate>Sun, 06 Sep 2020 12:56:56 +0300</pubDate>
-      <guid>https://example.com/project/wads/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</guid>
       <description>&lt;p&gt;Co-curation of virtual exhibition at Ars Electronica Festival 2020 &lt;em&gt;In Kepler&amp;rsquo;s Gardens&lt;/em&gt; (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs.&lt;/p&gt;
 &lt;h2 id=&#34;exhibition-text&#34;&gt;Exhibition text&lt;/h2&gt;
 &lt;p&gt;WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.&lt;/p&gt;
@@ -115,8 +115,8 @@ Bring your own laptop&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--06.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -128,8 +128,8 @@ Bring your own laptop&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--07.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -141,8 +141,8 @@ Bring your own laptop&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -154,8 +154,8 @@ Bring your own laptop&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -167,18 +167,18 @@ Bring your own laptop&lt;/p&gt;
     
     <item>
       <title>Hybrid Heritagescapes as Urban Commons in Mediterranean Cities: Accessing the Deep-Rooted Spatial Interfaces of Cities</title>
-      <link>https://example.com/publication/18-hybrid-heritage/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-hybrid-heritage/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-hybrid-heritage/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-hybrid-heritage/</guid>
       <description>&lt;p&gt;Artopoulos, Georgios, Constantinos Miltiadis, and Francesco Bagni. ‘Hybrid Heritagescapes as Urban Commons in Mediterranean Cities: Accessing the Deep-Rooted Spatial Interfaces of Cities’. In &lt;em&gt;Neighbourhood &amp;amp; City -Analogue and Digital Perspectives&lt;/em&gt;, edited by Marluci Menezes and Carlos Smaniotto Costa, 81–96. Lisbon: Edições Lusófona, 2018.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Daphne&#39;s Diary</title>
-      <link>https://example.com/project/daphnes-diary/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</link>
       <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
-      <guid>https://example.com/project/daphnes-diary/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</guid>
       <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
 &lt;!--
 Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.

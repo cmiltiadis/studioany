@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | studio any</title>
-    <link>https://example.com/course/</link>
-      <atom:link href="https://example.com/course/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:00:32 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
-      <link>https://example.com/course/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/</link>
     </image>
     
     <item>
       <title>Virtual Acoustic Ecologies</title>
-      <link>https://example.com/course/virtual-acoustic-ecologies-2024/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</link>
       <pubDate>Wed, 28 Aug 2024 09:00:32 +0300</pubDate>
-      <guid>https://example.com/course/virtual-acoustic-ecologies-2024/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</guid>
       <description>&lt;p&gt;Week-long workshop focusing the exploration of architectural acoustics through experimental game design.
 The course was developed and taught together with Achilleas Xydis (AA Lab, ETH Zurich).&lt;/p&gt;
 &lt;p&gt;Seminar week; Winter semester 2024&lt;br&gt;
@@ -29,9 +29,9 @@ Department of Architecture, ETH Zurich.&lt;/p&gt;
     
     <item>
       <title>Design research thesis course</title>
-      <link>https://example.com/course/22-design-ba/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/22-design-ba/</link>
       <pubDate>Mon, 07 Feb 2022 16:43:14 +0300</pubDate>
-      <guid>https://example.com/course/22-design-ba/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/22-design-ba/</guid>
       <description>&lt;p&gt;Bachelor thesis course tutor and thesis advisor for the English-language &lt;a href=&#34;https://www.aalto.fi/en/study-options/design-bachelor-of-arts-master-of-arts-art-and-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design BA&lt;/a&gt; program taught by Oscar Person and Namkyu Chun. Department of Design, Aalto University, School of ARTS, 2022.&lt;/p&gt;
 &lt;p&gt;Advisor for the theses:&lt;/p&gt;
 &lt;ul&gt;
@@ -43,9 +43,9 @@ Department of Architecture, ETH Zurich.&lt;/p&gt;
     
     <item>
       <title>ChampdAction.LAbO 2019: Disobedience</title>
-      <link>https://example.com/course/champdaction-labo-2019/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/champdaction-labo-2019/</link>
       <pubDate>Sat, 24 Aug 2019 16:39:47 +0300</pubDate>
-      <guid>https://example.com/course/champdaction-labo-2019/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/champdaction-labo-2019/</guid>
       <description>&lt;p&gt;Coach for &lt;em&gt;ChampdAction.LAbO 2019 - International Interdisciplinary Art Summer School&lt;/em&gt; titled &amp;ldquo;Disobedience&amp;rdquo;.
 deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
 &lt;hr&gt;
@@ -96,8 +96,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190109%20%2833%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190109%20%2833%29_1000_hucb47f6a6be1f144c51554a4a78fe030c_181839_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190109 (33)_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190109%20%2833%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190109%20%2833%29_1000_hucb47f6a6be1f144c51554a4a78fe030c_181839_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190109 (33)_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -109,8 +109,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190109%20%2835%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190109%20%2835%29_1000_hu277fa61ff2c6bdc5da9ac813f3cfdb7e_217851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190109 (35)_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190109%20%2835%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190109%20%2835%29_1000_hu277fa61ff2c6bdc5da9ac813f3cfdb7e_217851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190109 (35)_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -122,8 +122,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190824_154427_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190824_154427_1000_hu5aa71527216905cfd39d69b28ce2d1c1_179273_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190824_154427_1000.jpg&#34; width=&#34;422&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190824_154427_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190824_154427_1000_hu5aa71527216905cfd39d69b28ce2d1c1_179273_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190824_154427_1000.jpg&#34; width=&#34;422&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -135,8 +135,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190825_144638_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190825_144638_1000_hu9ae4e34b5409bb03d49b5d655645e282_263835_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190825_144638_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190825_144638_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190825_144638_1000_hu9ae4e34b5409bb03d49b5d655645e282_263835_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190825_144638_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -148,8 +148,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190825_175331~2_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190825_175331~2_1000_hu0b5c898ad2870fac171b53655b95643b_319742_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190825_175331~2_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190825_175331~2_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190825_175331~2_1000_hu0b5c898ad2870fac171b53655b95643b_319742_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190825_175331~2_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -161,8 +161,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190826%20%287%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190826%20%287%29_1000_huf3f3156c69697bf8e6966bad2e2bef28_156412_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190826 (7)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190826%20%287%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190826%20%287%29_1000_huf3f3156c69697bf8e6966bad2e2bef28_156412_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190826 (7)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -174,8 +174,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190827%20%2811%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190827%20%2811%29_1000_hu5a3b4b2265c548f1a7b72e754cec4460_121106_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190827 (11)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190827%20%2811%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190827%20%2811%29_1000_hu5a3b4b2265c548f1a7b72e754cec4460_121106_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190827 (11)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -187,8 +187,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190827%20%2825%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190827%20%2825%29_1000_hu63a367f7e90c152f6f1f64556a74ab3a_149917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190827 (25)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190827%20%2825%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190827%20%2825%29_1000_hu63a367f7e90c152f6f1f64556a74ab3a_149917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190827 (25)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -200,8 +200,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190827%20%288%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190827%20%288%29_1000_hu9a90e03819c8e148e8f2b91c9e8d05e1_95451_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190827 (8)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190827%20%288%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190827%20%288%29_1000_hu9a90e03819c8e148e8f2b91c9e8d05e1_95451_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190827 (8)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -213,8 +213,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190828%20%284%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190828%20%284%29_1000_hu06765edfeccabeb1eeca661599c8a27d_110012_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190828 (4)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190828%20%284%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190828%20%284%29_1000_hu06765edfeccabeb1eeca661599c8a27d_110012_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190828 (4)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -226,8 +226,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190828_191803_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190828_191803_1000_huab6952ecbb5869aaeee4f7fd05e496ae_72296_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190828_191803_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190828_191803_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190828_191803_1000_huab6952ecbb5869aaeee4f7fd05e496ae_72296_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190828_191803_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -239,8 +239,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190829_143940_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190829_143940_1000_hua4bc6f6d99bb002c6a719c88e1fc1ead_209587_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_143940_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_143940_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_143940_1000_hua4bc6f6d99bb002c6a719c88e1fc1ead_209587_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_143940_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -252,8 +252,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190829_155805_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190829_155805_1000_hud64cc426b61ab1eda7d15719a7ab83e7_93790_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_155805_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_155805_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_155805_1000_hud64cc426b61ab1eda7d15719a7ab83e7_93790_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_155805_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -265,8 +265,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190829_164617_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190829_164617_1000_hu805aa0a29071146eb0b95d3212865fd0_185741_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_164617_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_164617_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_164617_1000_hu805aa0a29071146eb0b95d3212865fd0_185741_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_164617_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -278,8 +278,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190829_165951_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190829_165951_1000_hud8e88a8f47730ae2293030537fd85f79_118370_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_165951_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_165951_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_165951_1000_hud8e88a8f47730ae2293030537fd85f79_118370_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_165951_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -291,8 +291,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190829_171256_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190829_171256_1000_hu58b111c1d799d9277f3da45ceb028a80_178795_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_171256_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_171256_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_171256_1000_hu58b111c1d799d9277f3da45ceb028a80_178795_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_171256_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -304,8 +304,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190829_171706_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190829_171706_1000_hu85660597a0dc1732b7956de4b30ae039_163157_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_171706_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_171706_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190829_171706_1000_hu85660597a0dc1732b7956de4b30ae039_163157_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190829_171706_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -317,8 +317,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%281%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%281%29_1000_hu59967015fc551947c4a12d52cd074f13_85027_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281%29_1000_hu59967015fc551947c4a12d52cd074f13_85027_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -330,8 +330,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%2813%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%2813%29_1000_hu45f093f9e7a1b72d207e9701c7d9037e_129789_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (13)_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%2813%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%2813%29_1000_hu45f093f9e7a1b72d207e9701c7d9037e_129789_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (13)_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -343,8 +343,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%281a%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%281a%29_1000_hud2b3bfe22a418a846f772b2baeec51d3_91861_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1a)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281a%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281a%29_1000_hud2b3bfe22a418a846f772b2baeec51d3_91861_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1a)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -356,8 +356,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%281b%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%281b%29_1000_hu3f43eba2fa86760822ae25e11899ddf4_122263_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1b)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281b%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281b%29_1000_hu3f43eba2fa86760822ae25e11899ddf4_122263_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1b)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -369,8 +369,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%281c%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%281c%29_1000_hue740bc23b11fe29c3f2fcba85427c040_235593_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1c)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281c%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281c%29_1000_hue740bc23b11fe29c3f2fcba85427c040_235593_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1c)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -382,8 +382,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%281d%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%281d%29_1000_hu7e16ce9ffe2a37ad7f7c4c120a747cbe_153800_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1d)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281d%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%281d%29_1000_hu7e16ce9ffe2a37ad7f7c4c120a747cbe_153800_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (1d)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -395,8 +395,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%282%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%282%29_1000_hu60ee83e90fcb32a3c23efa795f7ddbd0_125672_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (2)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%282%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%282%29_1000_hu60ee83e90fcb32a3c23efa795f7ddbd0_125672_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (2)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -408,8 +408,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%285%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%285%29_1000_hua63aeeaa7555eb4722f2033bd1814aa6_112937_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (5)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%285%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%285%29_1000_hua63aeeaa7555eb4722f2033bd1814aa6_112937_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (5)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -421,8 +421,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830%20%289%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830%20%289%29_1000_hu0b2dbb9180744609a9770f9f5b99cdec_164009_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (9)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%289%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830%20%289%29_1000_hu0b2dbb9180744609a9770f9f5b99cdec_164009_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830 (9)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -434,8 +434,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830_103607_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830_103607_1000_hu24c865de97f381c19ce30c16f821587c_126919_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_103607_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_103607_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_103607_1000_hu24c865de97f381c19ce30c16f821587c_126919_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_103607_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -447,8 +447,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830_103917_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830_103917_1000_hu0e6af16bcd9cbfbfe2fcae47e44a0fc0_110199_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_103917_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_103917_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_103917_1000_hu0e6af16bcd9cbfbfe2fcae47e44a0fc0_110199_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_103917_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -460,8 +460,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830_140008_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830_140008_1000_hub321ff8ef477d5ff61d78ca6caf7d9a9_199238_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_140008_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_140008_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_140008_1000_hub321ff8ef477d5ff61d78ca6caf7d9a9_199238_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_140008_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -473,8 +473,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190830_151722_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190830_151722_1000_hu1ed259d3567d2d6409e64134c9f73b94_110943_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_151722_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_151722_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190830_151722_1000_hu1ed259d3567d2d6409e64134c9f73b94_110943_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190830_151722_1000.jpg&#34; width=&#34;563&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -486,8 +486,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_115434_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_115434_1000_huaaf9d3793859c556241387c5f808e83b_91697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_115434_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_115434_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_115434_1000_huaaf9d3793859c556241387c5f808e83b_91697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_115434_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -499,8 +499,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_115854_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_115854_1000_hu75a292d33f1bf3c126ba01a9ecb44efc_117951_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_115854_1000.jpg&#34; width=&#34;750&#34; height=&#34;420&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_115854_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_115854_1000_hu75a292d33f1bf3c126ba01a9ecb44efc_117951_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_115854_1000.jpg&#34; width=&#34;750&#34; height=&#34;420&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -512,8 +512,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_120556_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_120556_1000_hu31deeedf87fbe748f7e5c37bbb89e00e_115614_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_120556_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_120556_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_120556_1000_hu31deeedf87fbe748f7e5c37bbb89e00e_115614_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_120556_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -525,8 +525,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_121053_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_121053_1000_hu96c1f813b2104cb677351768ff284c06_257783_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_121053_1000.jpg&#34; width=&#34;422&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_121053_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_121053_1000_hu96c1f813b2104cb677351768ff284c06_257783_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_121053_1000.jpg&#34; width=&#34;422&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -538,8 +538,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_175815_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_175815_1000_hu925eb9f3a72e3f053523955101089a31_69102_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_175815_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_175815_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_175815_1000_hu925eb9f3a72e3f053523955101089a31_69102_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_175815_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -551,8 +551,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_180057_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_180057_1000_huf623867d6c01a303e74c78f5f34dfdaf_86077_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_180057_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_180057_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_180057_1000_huf623867d6c01a303e74c78f5f34dfdaf_86077_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_180057_1000.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -564,8 +564,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190831_202224_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190831_202224_1000_hud34de4a267a43e92268a5be49892757d_229501_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_202224_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_202224_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190831_202224_1000_hud34de4a267a43e92268a5be49892757d_229501_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190831_202224_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -577,8 +577,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%281%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%281%29_1000_hu2bac0007ff87d361db710e24697279e5_105439_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (1)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%281%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%281%29_1000_hu2bac0007ff87d361db710e24697279e5_105439_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (1)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -590,8 +590,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2812%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2812%29_1000_hu85d66f88fea6c3700f5369115f15bb5e_156462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (12)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2812%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2812%29_1000_hu85d66f88fea6c3700f5369115f15bb5e_156462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (12)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -603,8 +603,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2813%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2813%29_1000_hu82d45e511ae565378281696b6554ce66_148292_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (13)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2813%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2813%29_1000_hu82d45e511ae565378281696b6554ce66_148292_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (13)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -616,8 +616,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2819%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2819%29_1000_hu7cc91f0bc0ce9872156c857fc3535531_142846_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (19)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2819%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2819%29_1000_hu7cc91f0bc0ce9872156c857fc3535531_142846_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (19)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -629,8 +629,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2822%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2822%29_1000_hufa64ac4f691fcc1a19e13d11762166d0_146352_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (22)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2822%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2822%29_1000_hufa64ac4f691fcc1a19e13d11762166d0_146352_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (22)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -642,8 +642,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2825%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2825%29_1000_hu8b72e4cd897d097ce03ff228c94e9410_161785_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (25)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2825%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2825%29_1000_hu8b72e4cd897d097ce03ff228c94e9410_161785_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (25)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -655,8 +655,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2829%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2829%29_1000_hu1a8bbaa8ed7b33f44888eecd5de6e8d1_153728_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (29)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2829%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2829%29_1000_hu1a8bbaa8ed7b33f44888eecd5de6e8d1_153728_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (29)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -668,8 +668,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%283%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%283%29_1000_hud8c2ddd66c4e05ec78e1b5ccd6d5df6f_98789_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (3)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%283%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%283%29_1000_hud8c2ddd66c4e05ec78e1b5ccd6d5df6f_98789_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (3)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -681,8 +681,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901%20%2831a%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901%20%2831a%29_1000_huc01f58863e04e2bfb53d471b6621098f_228152_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (31a)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2831a%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901%20%2831a%29_1000_huc01f58863e04e2bfb53d471b6621098f_228152_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901 (31a)_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -694,8 +694,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_112901_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_112901_1000_hub0fffdfc8d69d6d1e715f393e7012f5b_211497_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_112901_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_112901_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_112901_1000_hub0fffdfc8d69d6d1e715f393e7012f5b_211497_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_112901_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -707,8 +707,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_112955_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_112955_1000_hub338eec00713ad17edebea54b9b66982_275551_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_112955_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_112955_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_112955_1000_hub338eec00713ad17edebea54b9b66982_275551_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_112955_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -720,8 +720,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_114457_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_114457_1000_hu08c711c2092fe3adc9604b02265fce36_139705_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_114457_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_114457_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_114457_1000_hu08c711c2092fe3adc9604b02265fce36_139705_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_114457_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -733,8 +733,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_123953_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_123953_1000_hu4a793b75ea5932bfdbf135a3d3f0f9fe_91361_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_123953_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_123953_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_123953_1000_hu4a793b75ea5932bfdbf135a3d3f0f9fe_91361_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_123953_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -746,8 +746,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_151235_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_151235_1000_hu96dc72b01796a387f82d5a76a862f743_153199_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_151235_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_151235_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_151235_1000_hu96dc72b01796a387f82d5a76a862f743_153199_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_151235_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -759,8 +759,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_151358_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_151358_1000_hucc160903317638e8175bea765d298d18_128392_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_151358_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_151358_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_151358_1000_hucc160903317638e8175bea765d298d18_128392_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_151358_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -772,8 +772,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_155623_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_155623_1000_hufb2c9f3a955de3a3bcc01826023367df_146487_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_155623_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_155623_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_155623_1000_hufb2c9f3a955de3a3bcc01826023367df_146487_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_155623_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -785,8 +785,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_194730_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_194730_1000_hu9e287751068a1c5fd8982651fd1f7678_224900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_194730_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_194730_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_194730_1000_hu9e287751068a1c5fd8982651fd1f7678_224900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_194730_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -798,8 +798,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190901_202611_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190901_202611_1000_hu2a0e9098672678d7aeb048f07b64aebe_63428_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_202611_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_202611_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190901_202611_1000_hu2a0e9098672678d7aeb048f07b64aebe_63428_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190901_202611_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -811,8 +811,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190929%20%283%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190929%20%283%29_1000_hub242013a02665bb2f738fe1f8e054751_142177_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190929 (3)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190929%20%283%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190929%20%283%29_1000_hub242013a02665bb2f738fe1f8e054751_142177_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190929 (3)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -824,8 +824,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/20190929%20%286%29_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/20190929%20%286%29_1000_hu491daef59e4df6bd88cec0a9c4c5513b_144190_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190929 (6)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190929%20%286%29_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/20190929%20%286%29_1000_hu491daef59e4df6bd88cec0a9c4c5513b_144190_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20190929 (6)_1000.jpg&#34; width=&#34;750&#34; height=&#34;499&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -837,8 +837,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc_3481_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc_3481_1000_hu573100b86de548bee63c662a00d0c068_158120_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_3481_1000.jpg&#34; width=&#34;750&#34; height=&#34;497&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc_3481_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc_3481_1000_hu573100b86de548bee63c662a00d0c068_158120_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_3481_1000.jpg&#34; width=&#34;750&#34; height=&#34;497&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -850,8 +850,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03423_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03423_1000_hua33369c3f9feb9ec0a73d867c2b7894c_220121_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03423_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03423_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03423_1000_hua33369c3f9feb9ec0a73d867c2b7894c_220121_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03423_1000.jpg&#34; width=&#34;499&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -863,8 +863,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03429_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03429_1000_hu81700ce5dbd4c0112d4dc7eeaba56379_177086_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03429_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03429_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03429_1000_hu81700ce5dbd4c0112d4dc7eeaba56379_177086_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03429_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -876,8 +876,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03433_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03433_1000_hua93b33831b1bc5d7bd8ff9e017791f8c_67096_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03433_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03433_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03433_1000_hua93b33831b1bc5d7bd8ff9e017791f8c_67096_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03433_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -889,8 +889,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03466_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03466_1000_hua790faf1a5a455f800a9697503431674_147946_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03466_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03466_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03466_1000_hua790faf1a5a455f800a9697503431674_147946_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03466_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -902,8 +902,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03468_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03468_1000_hu0c3890e1bdda50694c2e26cfbda5c1a5_182889_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03468_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03468_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03468_1000_hu0c3890e1bdda50694c2e26cfbda5c1a5_182889_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03468_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -915,8 +915,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03471_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03471_1000_hu1e3e1ad90a3b58bea06a5883c814bb62_123912_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03471_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03471_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03471_1000_hu1e3e1ad90a3b58bea06a5883c814bb62_123912_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03471_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -928,8 +928,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03481_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03481_1000_hu6a987ed66e7dc27274239f54e5c5d5d9_153617_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03481_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03481_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03481_1000_hu6a987ed66e7dc27274239f54e5c5d5d9_153617_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03481_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -941,8 +941,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03483_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03483_1000_hufdc42ecc335e81a2362547d036857242_195580_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03483_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03483_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03483_1000_hufdc42ecc335e81a2362547d036857242_195580_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03483_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -954,8 +954,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03493_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03493_1000_hu4d1bca08ee341c33176925ac041cd207_122067_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03493_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03493_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03493_1000_hu4d1bca08ee341c33176925ac041cd207_122067_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03493_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -967,8 +967,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03495_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03495_1000_hud8ecefda867b836d21e963718d55563b_175234_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03495_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03495_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03495_1000_hud8ecefda867b836d21e963718d55563b_175234_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03495_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -980,8 +980,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/dsc03500_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/dsc03500_1000_hua19a7331053232fba690585afcec32e9_96714_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03500_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03500_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/dsc03500_1000_hua19a7331053232fba690585afcec32e9_96714_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc03500_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -993,8 +993,8 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://example.com/media/albums/19-labo/labo%202019_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/19-labo/labo%202019_1000_hudb6333a3db0108b7353595f36365e5bc_60031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;labo 2019_1000.jpg&#34; width=&#34;750&#34; height=&#34;498&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-19-labo&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/labo%202019_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/19-labo/labo%202019_1000_hudb6333a3db0108b7353595f36365e5bc_60031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;labo 2019_1000.jpg&#34; width=&#34;750&#34; height=&#34;498&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1014,9 +1014,9 @@ deSingel, Antwerp. August 24 – September 2 2019.&lt;/p&gt;
     
     <item>
       <title>Beyond the Visual</title>
-      <link>https://example.com/course/beyond-the-visual/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/beyond-the-visual/</link>
       <pubDate>Sat, 13 Oct 2018 09:00:32 +0300</pubDate>
-      <guid>https://example.com/course/beyond-the-visual/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/beyond-the-visual/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/297305474&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1176,8 +1176,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600_hube6bb4ed874a916fde1fb2c64d291aea_114363_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-blindfolded-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-blindfolded-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-blindfolded-listening_1600_hube6bb4ed874a916fde1fb2c64d291aea_114363_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-blindfolded-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1189,8 +1189,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600_hu51e9fb1066ac67e625ebea43e34d0b37_142480_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition_1600.jpg&#34; width=&#34;750&#34; height=&#34;421&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition_1600_hu51e9fb1066ac67e625ebea43e34d0b37_142480_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition_1600.jpg&#34; width=&#34;750&#34; height=&#34;421&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1202,8 +1202,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600_hu313d495d4d5ee7e31a1d393a45655b37_91163_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition-2_1600_hu313d495d4d5ee7e31a1d393a45655b37_91163_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1215,8 +1215,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600_hu55c22af62a70e5ae80aa19112db30103_103129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-listening_1600_hu55c22af62a70e5ae80aa19112db30103_103129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1228,8 +1228,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600_hu016726fc0ba059df39e9aaeec42d2226_171463_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-1_1600_hu016726fc0ba059df39e9aaeec42d2226_171463_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1241,8 +1241,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600_hu4f3f6f4783d4cfed8d361ec656384698_221995_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-2_1600_hu4f3f6f4783d4cfed8d361ec656384698_221995_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1254,8 +1254,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600_huf60464d257dbb9814963a25881727e63_92402_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-presentation_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-presentation_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-presentation_1600_huf60464d257dbb9814963a25881727e63_92402_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-presentation_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1267,8 +1267,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600_hu494306931d7ed85cab50892e83d5bb4e_90111_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-testing_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-testing_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-testing_1600_hu494306931d7ed85cab50892e83d5bb4e_90111_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-testing_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1280,8 +1280,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600_hu7eeeec678c2f4eee6365f2f4572badcf_120823_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-text-reading_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-text-reading_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-text-reading_1600_hu7eeeec678c2f4eee6365f2f4572badcf_120823_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-text-reading_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1293,8 +1293,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600_hucc4f218eecad616dec105c7edd9c06b5_82294_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-timeline_1600.jpg&#34; width=&#34;421&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-timeline_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-timeline_1600_hucc4f218eecad616dec105c7edd9c06b5_82294_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-timeline_1600.jpg&#34; width=&#34;421&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1332,8 +1332,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600_hu6c884ba0727840a40001dde293477b38_30914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-1_1600_hu6c884ba0727840a40001dde293477b38_30914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1345,8 +1345,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600_hu8018b5678e1cfe3edc47b99c1e1f9c2f_69219_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-2_1600_hu8018b5678e1cfe3edc47b99c1e1f9c2f_69219_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1358,8 +1358,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600_hu6228bf9d442057a94c03dfd04a3914e1_41850_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-3_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-3_1600_hu6228bf9d442057a94c03dfd04a3914e1_41850_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-3_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1371,8 +1371,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600_hud55ea90cded625f0657f227658b34697_18394_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-4_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-4_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-4_1600_hud55ea90cded625f0657f227658b34697_18394_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-4_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1384,8 +1384,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600_huc73657eef5fcc7a344f0a02a7c4c249b_46616_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-5_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-5_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-5_1600_huc73657eef5fcc7a344f0a02a7c4c249b_46616_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-5_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1397,8 +1397,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600_hu081d04adc2ea2c762e0e42edc73bd27d_16426_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-6_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-6_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-6_1600_hu081d04adc2ea2c762e0e42edc73bd27d_16426_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-6_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1410,8 +1410,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600_hu8a09cfb85ff4eeb3c91a111839b4720d_82886_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-7_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-7_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-7_1600_hu8a09cfb85ff4eeb3c91a111839b4720d_82886_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-7_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1423,8 +1423,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600_hu9f31cc87afa9fe5e70bcf75990b2def7_15977_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-8_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-8_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-8_1600_hu9f31cc87afa9fe5e70bcf75990b2def7_15977_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-8_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1436,9 +1436,9 @@ Gerriet K. Sharma&lt;/p&gt;
     
     <item>
       <title>Virtual Spaces Master Studio: 16m2  labyrinths</title>
-      <link>https://example.com/course/vsms-2017/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/vsms-2017/</link>
       <pubDate>Tue, 07 Feb 2017 16:13:17 +0300</pubDate>
-      <guid>https://example.com/course/vsms-2017/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/vsms-2017/</guid>
       <description>
 
 &lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
@@ -1622,8 +1622,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/bunjaku_nonseum_poster_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/bunjaku_nonseum_poster_1000_hu2d832e07a3e9586f4f29db4372b4aaca_381649_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;bunjaku_nonseum_poster_1000.jpg&#34; width=&#34;535&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/bunjaku_nonseum_poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/bunjaku_nonseum_poster_1000_hu2d832e07a3e9586f4f29db4372b4aaca_381649_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;bunjaku_nonseum_poster_1000.jpg&#34; width=&#34;535&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1635,8 +1635,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/gosch_awakening_web_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/gosch_awakening_web_1000_huadb11b3cfc995f39d8b47d28f8678c36_160974_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;gosch_awakening_web_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/gosch_awakening_web_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/gosch_awakening_web_1000_huadb11b3cfc995f39d8b47d28f8678c36_160974_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;gosch_awakening_web_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1648,8 +1648,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/kullmaier_lebitsch_continuity_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/kullmaier_lebitsch_continuity_w_1000_hu52bccf5c80f4eb8baf0c1c3174540a4b_131563_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kullmaier_lebitsch_continuity_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/kullmaier_lebitsch_continuity_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/kullmaier_lebitsch_continuity_w_1000_hu52bccf5c80f4eb8baf0c1c3174540a4b_131563_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kullmaier_lebitsch_continuity_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1661,8 +1661,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/lozo_ghosttalk_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/lozo_ghosttalk_w_1000_hu2e493c2b7803c6fd99f9b15be7156302_243510_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;lozo_ghosttalk_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/lozo_ghosttalk_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/lozo_ghosttalk_w_1000_hu2e493c2b7803c6fd99f9b15be7156302_243510_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;lozo_ghosttalk_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1674,8 +1674,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/meindl_moving_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/meindl_moving_w_1000_hu4bc5fc8d379ef168a06286e1e5a20a9a_118182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;meindl_moving_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/meindl_moving_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/meindl_moving_w_1000_hu4bc5fc8d379ef168a06286e1e5a20a9a_118182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;meindl_moving_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1687,8 +1687,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/moser_chronicles_poster_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/moser_chronicles_poster_w_1000_hu9a9d5128de2d50ab9917ec65de07d079_170196_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;moser_chronicles_poster_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/moser_chronicles_poster_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/moser_chronicles_poster_w_1000_hu9a9d5128de2d50ab9917ec65de07d079_170196_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;moser_chronicles_poster_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1700,8 +1700,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/sattler_lota_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/sattler_lota_w_1000_hu776b3e6f8cdde4d0a71050dea0b7ee52_136957_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sattler_lota_w_1000.jpg&#34; width=&#34;533&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/sattler_lota_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/sattler_lota_w_1000_hu776b3e6f8cdde4d0a71050dea0b7ee52_136957_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sattler_lota_w_1000.jpg&#34; width=&#34;533&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1713,8 +1713,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/seiwald_inbetween_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/seiwald_inbetween_w_1000_hu065798493b6aa49e384d7e5536aacb34_142085_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;seiwald_inbetween_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/seiwald_inbetween_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/seiwald_inbetween_w_1000_hu065798493b6aa49e384d7e5536aacb34_142085_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;seiwald_inbetween_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1726,8 +1726,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/the-game-of-the-goose_poster_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/the-game-of-the-goose_poster_w_1000_hu46ab8ea29f438ce278f9dbd032b04444_144128_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;the-game-of-the-goose_poster_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/the-game-of-the-goose_poster_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/the-game-of-the-goose_poster_w_1000_hu46ab8ea29f438ce278f9dbd032b04444_144128_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;the-game-of-the-goose_poster_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1739,8 +1739,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/vijseli_escape_ftu_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/vijseli_escape_ftu_w_1000_hu9f658cc41388a894c50c94c87434d569_121028_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vijseli_escape_ftu_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/vijseli_escape_ftu_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/vijseli_escape_ftu_w_1000_hu9f658cc41388a894c50c94c87434d569_121028_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vijseli_escape_ftu_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1752,8 +1752,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/vsms-17-burkat-poster_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/vsms-17-burkat-poster_1000_huedc1b4eaf04db576f88f0be5fb370898_229088_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms-17-burkat-poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/vsms-17-burkat-poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/vsms-17-burkat-poster_1000_huedc1b4eaf04db576f88f0be5fb370898_229088_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms-17-burkat-poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1765,8 +1765,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://example.com/media/albums/17-vsms/posters/zhang_haixia_mirror_w_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/posters/zhang_haixia_mirror_w_1000_hu5ecc0553242e94f41fb62a20c7ffde20_196725_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;zhang_haixia_mirror_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/posters&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/zhang_haixia_mirror_w_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/posters/zhang_haixia_mirror_w_1000_hu5ecc0553242e94f41fb62a20c7ffde20_196725_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;zhang_haixia_mirror_w_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1804,8 +1804,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1261w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1261w_hud6b4f37894148dcd001083aa752df6ad_180964_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1261w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1261w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1261w_hud6b4f37894148dcd001083aa752df6ad_180964_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1261w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1817,8 +1817,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1266W.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1266W_hu4384a0431524c307473ee039dff2a2c4_172586_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1266W.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1266W.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1266W_hu4384a0431524c307473ee039dff2a2c4_172586_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1266W.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1830,8 +1830,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1271w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1271w_hu7af2093bd0eb6814f0190bcbfcf78379_101059_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1271w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1271w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1271w_hu7af2093bd0eb6814f0190bcbfcf78379_101059_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1271w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1843,8 +1843,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1354w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1354w_hu370a6586ed96ee609b4ab741a30e8d7d_190141_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1354w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1354w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1354w_hu370a6586ed96ee609b4ab741a30e8d7d_190141_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1354w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1856,8 +1856,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1375w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1375w_hu1c7a036e437c5c0707e467b3e70cc33e_99998_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1375w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1375w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1375w_hu1c7a036e437c5c0707e467b3e70cc33e_99998_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1375w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1869,8 +1869,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1420w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1420w_hu9bb6c13ceb6928e7679a14234f383cea_119409_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1420w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1420w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1420w_hu9bb6c13ceb6928e7679a14234f383cea_119409_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1420w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1882,8 +1882,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1426w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1426w_hu6484ceeea300e522ad360e30eb5bf2e8_91314_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1426w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1426w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1426w_hu6484ceeea300e522ad360e30eb5bf2e8_91314_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1426w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1895,8 +1895,8 @@ The course is coordinated through a Slack group, collective readings performed t
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1439w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/17-vsms/exhibition/sIMG_1439w_hu0caf4a53e3cf6574248478f8fcc53e7a_84012_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1439w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-17-vsms/exhibition&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1439w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/17-vsms/exhibition/sIMG_1439w_hu0caf4a53e3cf6574248478f8fcc53e7a_84012_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;sIMG_1439w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1908,9 +1908,9 @@ The course is coordinated through a Slack group, collective readings performed t
     
     <item>
       <title>Sound Spatialisation in Immersive VR Environments</title>
-      <link>https://example.com/course/16-mapping-fest/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/16-mapping-fest/</link>
       <pubDate>Fri, 06 May 2016 16:30:42 +0300</pubDate>
-      <guid>https://example.com/course/16-mapping-fest/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/16-mapping-fest/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt;  May 4-6, 2016.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Exhibition:&lt;/strong&gt; 16:00 May 6 2016, Le Commun, Geneva.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Workshop brief&lt;/strong&gt;&lt;br&gt;
@@ -1949,8 +1949,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3488_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3488_800_hu41f179d66621bb512a340a1fcf38b0c9_123812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3488_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3488_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3488_800_hu41f179d66621bb512a340a1fcf38b0c9_123812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3488_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1962,8 +1962,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3510_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3510_800_hu7ea16c2f800b44b703c6c1263a0b5cf6_106288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3510_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3510_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3510_800_hu7ea16c2f800b44b703c6c1263a0b5cf6_106288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3510_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1975,8 +1975,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3520_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3520_800_hu009e14a40eafac49313fc0eff14df033_217193_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3520_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3520_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3520_800_hu009e14a40eafac49313fc0eff14df033_217193_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3520_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1988,8 +1988,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3524_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3524_800_hu38b54e3cd34a4e5ff90a48cc4feb617e_91811_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3524_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3524_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3524_800_hu38b54e3cd34a4e5ff90a48cc4feb617e_91811_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3524_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2001,8 +2001,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/_mg_3532_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/_mg_3532_800_hu9443ee0cd4c8df94903c5ab1068d04ba_126069_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3532_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3532_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/_mg_3532_800_hu9443ee0cd4c8df94903c5ab1068d04ba_126069_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;_mg_3532_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2014,8 +2014,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/img_5726_1200.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/img_5726_1200_hub222bd81cdb54c0005dcdee04dcb5d69_84231_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5726_1200.jpg&#34; width=&#34;750&#34; height=&#34;387&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/img_5726_1200.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/img_5726_1200_hub222bd81cdb54c0005dcdee04dcb5d69_84231_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5726_1200.jpg&#34; width=&#34;750&#34; height=&#34;387&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2027,8 +2027,8 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://example.com/media/albums/mapping-fest/R0010820.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/mapping-fest/R0010820_hu88741109b9b2ab1afcd443409a9fd833_163287_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;R0010820.jpg&#34; width=&#34;750&#34; height=&#34;375&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-mapping-fest&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/R0010820.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/mapping-fest/R0010820_hu88741109b9b2ab1afcd443409a9fd833_163287_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;R0010820.jpg&#34; width=&#34;750&#34; height=&#34;375&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2040,9 +2040,9 @@ Constantinos Miltiadis, Achilleas Xydis, Demetris Shammas&lt;/p&gt;
     
     <item>
       <title>Virtual Spaces Master Studio</title>
-      <link>https://example.com/course/vsms-2016/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/vsms-2016/</link>
       <pubDate>Sun, 07 Feb 2016 16:21:47 +0300</pubDate>
-      <guid>https://example.com/course/vsms-2016/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/vsms-2016/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/803818267&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -2209,8 +2209,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/dreisponsorship-1_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/dreisponsorship-1_1000_hu29c3742cdbf00388b5a8ced004a5af18_93598_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dreisponsorship-1_1000.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/dreisponsorship-1_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/dreisponsorship-1_1000_hu29c3742cdbf00388b5a8ced004a5af18_93598_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dreisponsorship-1_1000.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2222,8 +2222,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/fIMG_3325%20copy.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/fIMG_3325%20copy_hucf3697c2cde89313d85aa7aa38eadb54_80556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_3325 copy.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_3325%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_3325%20copy_hucf3697c2cde89313d85aa7aa38eadb54_80556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_3325 copy.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2235,8 +2235,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/fIMG_4818%20copy.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/fIMG_4818%20copy_huf64cfb0f7f094f777f2e821b5626712e_136864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_4818 copy.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_4818%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/fIMG_4818%20copy_huf64cfb0f7f094f777f2e821b5626712e_136864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;fIMG_4818 copy.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2248,8 +2248,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy_huf7d58741422e4e15cfaf5970e52783c0_95457_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;IAM_VirtualSpacesModule copy.jpg&#34; width=&#34;750&#34; height=&#34;392&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/IAM_VirtualSpacesModule%20copy_huf7d58741422e4e15cfaf5970e52783c0_95457_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;IAM_VirtualSpacesModule copy.jpg&#34; width=&#34;750&#34; height=&#34;392&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2261,8 +2261,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/iamgearvr_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/iamgearvr_1000_hu046435a76512d534c84b48d6fc821404_151864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;iamgearvr_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/iamgearvr_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/iamgearvr_1000_hu046435a76512d534c84b48d6fc821404_151864_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;iamgearvr_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2274,8 +2274,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3415_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3415_1000_hu9eaf1a9fb82843288436c3d00ba7be12_89129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3415_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3415_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3415_1000_hu9eaf1a9fb82843288436c3d00ba7be12_89129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3415_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2287,8 +2287,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3513_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3513_1000_hu2f9038922a20e0a149f2e408a4e8213f_91978_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3513_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3513_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3513_1000_hu2f9038922a20e0a149f2e408a4e8213f_91978_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3513_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2300,8 +2300,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3556_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3556_1000_hu1ee06eabec6f0a58b8b17080771e7ebb_125625_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3556_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3556_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3556_1000_hu1ee06eabec6f0a58b8b17080771e7ebb_125625_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3556_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2313,8 +2313,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3566_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3566_1000_hu0275647aaaabc1d6b3baef0c4b96a793_79256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3566_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3566_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3566_1000_hu0275647aaaabc1d6b3baef0c4b96a793_79256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3566_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2326,8 +2326,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3578_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3578_1000_huca634c2e1402f4b64fc922ef91f63ac5_94164_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3578_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3578_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3578_1000_huca634c2e1402f4b64fc922ef91f63ac5_94164_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3578_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2339,8 +2339,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3586_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3586_1000_hu93d705676a94f7a524695349354304d5_70031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3586_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3586_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3586_1000_hu93d705676a94f7a524695349354304d5_70031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3586_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2352,8 +2352,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3587_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3587_1000_hu2754e3a12034839ad42bebabe28288e0_73851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3587_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3587_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3587_1000_hu2754e3a12034839ad42bebabe28288e0_73851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3587_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2365,8 +2365,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_3601_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_3601_1000_hu86679741f46976ac716479124f3a5cd2_100711_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3601_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3601_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_3601_1000_hu86679741f46976ac716479124f3a5cd2_100711_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_3601_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2378,8 +2378,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_4781_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_4781_1000_hu449a1f14abbce81d0edf065efbe7ae66_150569_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_4781_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_4781_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_4781_1000_hu449a1f14abbce81d0edf065efbe7ae66_150569_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_4781_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2391,8 +2391,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_5018_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_5018_1000_hu0f85351a362f4226122288fec32e6e28_200999_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5018_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5018_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5018_1000_hu0f85351a362f4226122288fec32e6e28_200999_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5018_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2404,8 +2404,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/img_5040_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/img_5040_1000_hube22ee0f93eb4b3e98b0197c032ca840_130221_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5040_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5040_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/img_5040_1000_hube22ee0f93eb4b3e98b0197c032ca840_130221_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;img_5040_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2417,8 +2417,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/open-architecture-day-2016_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/open-architecture-day-2016_1000_huc8c47854333841d5c00a7efe3af33f31_246404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;open-architecture-day-2016_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/open-architecture-day-2016_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/open-architecture-day-2016_1000_huc8c47854333841d5c00a7efe3af33f31_246404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;open-architecture-day-2016_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2430,8 +2430,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_aec_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_aec_1000_hu6322c872c51c14c1879dda13a8b36417_91596_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_aec_1000.jpg&#34; width=&#34;750&#34; height=&#34;270&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_aec_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_aec_1000_hu6322c872c51c14c1879dda13a8b36417_91596_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_aec_1000.jpg&#34; width=&#34;750&#34; height=&#34;270&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2443,8 +2443,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_gamingnight_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_gamingnight_1000_hu27c9fca841055c762b6816564d0a2924_135969_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_gamingnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_gamingnight_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_gamingnight_1000_hu27c9fca841055c762b6816564d0a2924_135969_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_gamingnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2456,8 +2456,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_poster_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_poster_1000_hudde3bcdf478177e9b9fdc7b162f91eca_275205_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_poster_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_poster_1000_hudde3bcdf478177e9b9fdc7b162f91eca_275205_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_poster_1000.jpg&#34; width=&#34;530&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2469,8 +2469,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_posters_landscape_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_posters_landscape_1000_hu567f18eac0af6db2ac9b845b42148914_185475_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_posters_landscape_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_posters_landscape_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_posters_landscape_1000_hu567f18eac0af6db2ac9b845b42148914_185475_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_posters_landscape_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2482,8 +2482,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_review_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_review_1000_hu0dd3f49ba607f456f6f7e48fff49ed57_135182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_review_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_review_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_review_1000_hu0dd3f49ba607f456f6f7e48fff49ed57_135182_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_review_1000.jpg&#34; width=&#34;750&#34; height=&#34;563&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2495,8 +2495,8 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://example.com/media/albums/16-vsms/vsms_vrnight_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/16-vsms/vsms_vrnight_1000_hube3a932cd219529488eba0ebbc05bcd9_124092_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_vrnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-16-vsms&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_vrnight_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/16-vsms/vsms_vrnight_1000_hube3a932cd219529488eba0ebbc05bcd9_124092_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vsms_vrnight_1000.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2508,13 +2508,13 @@ The module was taught by Constantinos Miltiadis and Prof. Urs Hirschberg.&lt;/p&
     
     <item>
       <title>Sound to Space</title>
-      <link>https://example.com/course/16-dm2/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/16-dm2/</link>
       <pubDate>Thu, 07 Jan 2016 16:34:00 +0300</pubDate>
-      <guid>https://example.com/course/16-dm2/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/16-dm2/</guid>
       <description>&lt;p&gt;Digital design 2 (dm2) is a week-long course taught to third-semester architecture students at the Institute of Architecture with the aim of introducing computational design thinking and related practices.
 The course was originally taught using MEL scripting in Maya.&lt;/p&gt;
 &lt;p&gt;The course theme for 2016 was &amp;ldquo;Sound to Space&amp;rdquo; and aimed at using sound input to generate geometry.
-In January 2016 I ran an iteration of the course using the programming language &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;. For this purpose I also wrote a short booklet introducing basic programming concepts in Processing (see &lt;a href=&#34;https://example.com/uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf&#34;&gt;Processing Booklet&lt;/a&gt;).
+In January 2016 I ran an iteration of the course using the programming language &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing&lt;/a&gt;. For this purpose I also wrote a short booklet introducing basic programming concepts in Processing (see &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf&#34;&gt;Processing Booklet&lt;/a&gt;).
 This workshop iteration used FFT over a live sound input to generate interactive graphics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Teacher&lt;/strong&gt;&lt;br&gt;
 Constantinos Miltiadis&lt;/p&gt;
@@ -2528,9 +2528,9 @@ Workshop challenge: Program or explain how to generate the above vector image. [
     
     <item>
       <title>VR &amp; AR in Architectural Visualisation</title>
-      <link>https://example.com/course/15-ecaade/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/15-ecaade/</link>
       <pubDate>Mon, 14 Sep 2015 16:41:06 +0300</pubDate>
-      <guid>https://example.com/course/15-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/15-ecaade/</guid>
       <description>&lt;h2 id=&#34;workshop-information&#34;&gt;Workshop information&lt;/h2&gt;
 &lt;p&gt;2-day workshop on AR and VR application development for architectural visualization at the eCAADe 2015 conference titled &amp;lsquo;Real-Time.&amp;rsquo; TU Vienna, September 14-15, 2015.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Workshop brief&lt;/strong&gt;&lt;br&gt;
@@ -2595,8 +2595,8 @@ Achilleas Xydis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster_hue7de9c10263cb024b8e6f64d723c48ea_54869_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-1-ARVR-workshop-poster.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-1-ARVR-workshop-poster_hue7de9c10263cb024b8e6f64d723c48ea_54869_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-1-ARVR-workshop-poster.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2608,8 +2608,8 @@ Achilleas Xydis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-ecaade-workshop/_hud08be11826c4c0d27691e3cd0643e1cf_73652_91ccee9cdf4f0390ed184c05246db10f.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/_hud08be11826c4c0d27691e3cd0643e1cf_73652_91ccee9cdf4f0390ed184c05246db10f.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-2-barcelona-pavilion-oculus-Leap-screenshot_ws.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2621,8 +2621,8 @@ Achilleas Xydis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg_huc91d9306bba0078e9a207a282bb17a53_50579_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-3-AR-collage_bg.png&#34; width=&#34;750&#34; height=&#34;625&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-ecaade-workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-ecaade-workshop/ecaade-2015-3-AR-collage_bg_huc91d9306bba0078e9a207a282bb17a53_50579_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;ecaade-2015-3-AR-collage_bg.png&#34; width=&#34;750&#34; height=&#34;625&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2634,9 +2634,9 @@ Achilleas Xydis&lt;/p&gt;
     
     <item>
       <title>Extensile</title>
-      <link>https://example.com/course/extensile/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/extensile/</link>
       <pubDate>Thu, 07 May 2015 16:39:47 +0300</pubDate>
-      <guid>https://example.com/course/extensile/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/extensile/</guid>
       <description>&lt;!--  
 defunct
 [Extensile on CAAD Blog](http://www.caad.arch.ethz.ch/blog/extensile-robotic-workshop/)
@@ -2694,8 +2694,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2707,8 +2707,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-2.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-2.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2720,8 +2720,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2733,8 +2733,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2746,8 +2746,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2759,8 +2759,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2772,8 +2772,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -2785,8 +2785,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

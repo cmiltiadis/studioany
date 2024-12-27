@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mariana Popescu | studio any</title>
-    <link>https://example.com/authors/mariana-popescu/</link>
-      <atom:link href="https://example.com/authors/mariana-popescu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/mariana-popescu/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/mariana-popescu/index.xml" rel="self" type="application/rss+xml" />
     <description>Mariana Popescu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2015 16:39:47 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Mariana Popescu</title>
-      <link>https://example.com/authors/mariana-popescu/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/mariana-popescu/</link>
     </image>
     
     <item>
       <title>Extensile</title>
-      <link>https://example.com/course/extensile/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/extensile/</link>
       <pubDate>Thu, 07 May 2015 16:39:47 +0300</pubDate>
-      <guid>https://example.com/course/extensile/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/extensile/</guid>
       <description>&lt;!--  
 defunct
 [Extensile on CAAD Blog](http://www.caad.arch.ethz.ch/blog/extensile-robotic-workshop/)
@@ -74,8 +74,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -87,8 +87,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-2.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-2.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -100,8 +100,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -113,8 +113,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -126,8 +126,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -139,8 +139,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -152,8 +152,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -165,8 +165,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -189,9 +189,9 @@ Constantinos Miltiadis&lt;/p&gt;
     
     <item>
       <title>Shifting perspectives</title>
-      <link>https://example.com/project/shifting-perspectives/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</link>
       <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
-      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</guid>
       <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
 &lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
 The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.

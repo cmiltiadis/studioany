@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>videogames | studio any</title>
-    <link>https://example.com/tag/videogames/</link>
-      <atom:link href="https://example.com/tag/videogames/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/videogames/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/videogames/index.xml" rel="self" type="application/rss+xml" />
     <description>videogames</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2019 10:00:03 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>videogames</title>
-      <link>https://example.com/tag/videogames/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/videogames/</link>
     </image>
     
     <item>
       <title>The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics</title>
-      <link>https://example.com/event/continuum-cologne/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</link>
       <pubDate>Mon, 18 Mar 2019 10:00:03 +0300</pubDate>
-      <guid>https://example.com/event/continuum-cologne/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</guid>
       <description>&lt;p&gt;Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Event description&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.&lt;/p&gt;
@@ -59,18 +59,18 @@
     
     <item>
       <title>Virtual Reality, Videogames, Architecture and Education - From utopian drawings to inconstructible navigable environments</title>
-      <link>https://example.com/publication/18-ecaade/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-ecaade/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-ecaade/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In &lt;em&gt;Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference&lt;/em&gt;, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Architectural Continuum</title>
-      <link>https://example.com/event/continuum-architectonics/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-architectonics/</link>
       <pubDate>Sat, 09 Jun 2018 09:30:00 +0000</pubDate>
-      <guid>https://example.com/event/continuum-architectonics/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-architectonics/</guid>
       <description>&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
 &lt;p&gt;Space – in particular architectural and urban space – is always both real and virtual. For human beings, space is a construct of its perception via the body, but it is also culturally and socially determined as “relational space.” Architectural and urban spaces are inherently shaped by human beings: by their senses, by their perception, and by their cultural and social bonds. We experience these spaces as “real” and contingent, despite all possible false perceptions that might deceive us. They are an extension of our body – as well as related to the neurological, embodied mind – and are tied to its limitations.&lt;/p&gt;
 &lt;p&gt;While traditional forms of virtuality such as movies and literature can only partially overcome these ties and boundaries – bound as they are to sight, sound, or our sense of fantasy – new digital tools and forms of immersive virtuality can reveal new orders of experience, allowing an interaction with this space. This interaction even partially allows one to design this space. At least one is either asked to perform tasks – play – or can replicate reality via simulation.&lt;/p&gt;

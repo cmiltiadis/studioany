@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sensor logging | studio any</title>
-    <link>https://example.com/tag/sensor-logging/</link>
-      <atom:link href="https://example.com/tag/sensor-logging/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/sensor-logging/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/sensor-logging/index.xml" rel="self" type="application/rss+xml" />
     <description>sensor logging</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2015 12:56:02 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>sensor logging</title>
-      <link>https://example.com/tag/sensor-logging/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/sensor-logging/</link>
     </image>
     
     <item>
       <title>ESUM: Anthropocentric Urban Sensing Unit</title>
-      <link>https://example.com/project/esum/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/esum/</link>
       <pubDate>Fri, 06 Mar 2015 12:56:02 +0300</pubDate>
-      <guid>https://example.com/project/esum/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/esum/</guid>
       <description>&lt;!-- FIND 
 award at Falling Wall competition Paris esum
 --&gt;
@@ -57,8 +57,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-1-Assembly-diagram.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-1-Assembly-diagram_hu95f02b9271e3aae7dd83a7c5c743a416_26139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-1-Assembly-diagram.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-1-Assembly-diagram.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-1-Assembly-diagram_hu95f02b9271e3aae7dd83a7c5c743a416_26139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-1-Assembly-diagram.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -70,8 +70,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-2-sf_img_3747_800.PNG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-2-sf_img_3747_800_hued852d73d76c1551ccdd5b7e7203956f_330358_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-2-sf_img_3747_800.PNG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-2-sf_img_3747_800.PNG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-2-sf_img_3747_800_hued852d73d76c1551ccdd5b7e7203956f_330358_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-2-sf_img_3747_800.PNG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -83,8 +83,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-3-IMG_3646-w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-3-IMG_3646-w_hu9e733d373b4a8999faad40990483dd0c_21775_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-3-IMG_3646-w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-3-IMG_3646-w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-3-IMG_3646-w_hu9e733d373b4a8999faad40990483dd0c_21775_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-3-IMG_3646-w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -96,8 +96,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-4-sf_img_3642_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-4-sf_img_3642_800_hu27f8e824c089a9f6ef65e1a88fdff233_166947_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-4-sf_img_3642_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-4-sf_img_3642_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-4-sf_img_3642_800_hu27f8e824c089a9f6ef65e1a88fdff233_166947_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-4-sf_img_3642_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -109,8 +109,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-5-sf_img_3648_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-5-sf_img_3648_800_hu1d20588b06b062edfcfd372c0ae3b13f_190175_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-5-sf_img_3648_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-5-sf_img_3648_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-5-sf_img_3648_800_hu1d20588b06b062edfcfd372c0ae3b13f_190175_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-5-sf_img_3648_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -122,8 +122,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-6-IMG_3622_800.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-6-IMG_3622_800_huffd2f7972b1d771be787de989e0fd64b_23846_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-6-IMG_3622_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-6-IMG_3622_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-6-IMG_3622_800_huffd2f7972b1d771be787de989e0fd64b_23846_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-6-IMG_3622_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -135,8 +135,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-7-sf_IMG_3667_800.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-7-sf_IMG_3667_800_hu4b1d7ee142473ccb201a25f47ad7f806_19851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-7-sf_IMG_3667_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-7-sf_IMG_3667_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-7-sf_IMG_3667_800_hu4b1d7ee142473ccb201a25f47ad7f806_19851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-7-sf_IMG_3667_800.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -148,8 +148,8 @@ The ESUM case is made from plywood and plexiglas, and can be laser cut and asse
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://example.com/media/albums/15-esum/esum-8-sf_img_3657_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-esum/esum-8-sf_img_3657_800_hub71362fa4aaf47ddad6b06d3b924a662_154389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-8-sf_img_3657_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-esum&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-8-sf_img_3657_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-esum/esum-8-sf_img_3657_800_hub71362fa4aaf47ddad6b06d3b924a662_154389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;esum-8-sf_img_3657_800.JPG&#34; width=&#34;750&#34; height=&#34;501&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

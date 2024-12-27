@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digital commoning | studio any</title>
-    <link>https://example.com/tag/digital-commoning/</link>
-      <atom:link href="https://example.com/tag/digital-commoning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/digital-commoning/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/digital-commoning/index.xml" rel="self" type="application/rss+xml" />
     <description>digital commoning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>digital commoning</title>
-      <link>https://example.com/tag/digital-commoning/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/digital-commoning/</link>
     </image>
     
     <item>
       <title>Station of Commons</title>
-      <link>https://example.com/project/station-of-commons/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/station-of-commons/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/station-of-commons/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/station-of-commons/</guid>
       <description>&lt;p&gt;Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
 SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.&lt;/p&gt;
 &lt;p&gt;Among the flagship initiatives of SoC is the interlocal online radio &lt;a href=&#34;https://lumbungradio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lumbung radio&lt;/a&gt;, first established with ruangrupa for documeneta fifteen in 2022.

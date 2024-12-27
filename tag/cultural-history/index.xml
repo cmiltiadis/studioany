@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cultural history | studio any</title>
-    <link>https://example.com/tag/cultural-history/</link>
-      <atom:link href="https://example.com/tag/cultural-history/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/cultural-history/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/cultural-history/index.xml" rel="self" type="application/rss+xml" />
     <description>cultural history</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Nov 2023 14:23:09 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>cultural history</title>
-      <link>https://example.com/tag/cultural-history/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/cultural-history/</link>
     </image>
     
     <item>
       <title>An open living archive for ACADIA</title>
-      <link>https://example.com/publication/23-acadia/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/23-acadia/</link>
       <pubDate>Thu, 16 Nov 2023 14:23:09 +0300</pubDate>
-      <guid>https://example.com/publication/23-acadia/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/23-acadia/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Athens | studio any</title>
-    <link>https://example.com/tag/athens/</link>
-      <atom:link href="https://example.com/tag/athens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/athens/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/athens/index.xml" rel="self" type="application/rss+xml" />
     <description>Athens</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Apr 2019 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Athens</title>
-      <link>https://example.com/tag/athens/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/athens/</link>
     </image>
     
     <item>
       <title>Choropoietic media: Against the cultural bias of the visual</title>
-      <link>https://example.com/event/school-of-images/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/school-of-images/</link>
       <pubDate>Wed, 10 Apr 2019 10:00:00 +0000</pubDate>
-      <guid>https://example.com/event/school-of-images/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/school-of-images/</guid>
       <description>&lt;p&gt;Organized by James Bridle and Onassis Stegi in the context of the event &lt;em&gt;For Ever More Images? Designing a cybermachine for the 21st century&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
 &lt;ul&gt;

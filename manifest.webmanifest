@@ -5,11 +5,11 @@
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_192x192_fill_lanczos_center_3.png",
+    "src": "/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png",
+    "src": "/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

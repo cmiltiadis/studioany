@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>artificial intelligence | studio any</title>
-    <link>https://example.com/tag/artificial-intelligence/</link>
-      <atom:link href="https://example.com/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/artificial-intelligence/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>artificial intelligence</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>artificial intelligence</title>
-      <link>https://example.com/tag/artificial-intelligence/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>Groundlessness</title>
-      <link>https://example.com/publication/22-groundlessness/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/22-groundlessness/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/22-groundlessness/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/22-groundlessness/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos, and Miro Roman. ‘Groundlessness’. In &lt;em&gt;Chimeras: Inventory of Synthetic Cognition&lt;/em&gt;, edited by Ilan Manuach and Anna Engelhardt, 310–12. Athens: Onassis Foundation, 2022. &lt;a href=&#34;https://www.onassis.org/culture/publications/chimeras-inventory-of-synthetic-cognition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.onassis.org/culture/publications/chimeras-inventory-of-synthetic-cognition&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

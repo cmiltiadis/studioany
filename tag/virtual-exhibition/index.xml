@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>virtual exhibition | studio any</title>
-    <link>https://example.com/tag/virtual-exhibition/</link>
-      <atom:link href="https://example.com/tag/virtual-exhibition/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/virtual-exhibition/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/virtual-exhibition/index.xml" rel="self" type="application/rss+xml" />
     <description>virtual exhibition</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2020 12:56:56 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>virtual exhibition</title>
-      <link>https://example.com/tag/virtual-exhibition/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/virtual-exhibition/</link>
     </image>
     
     <item>
       <title>WADS ↑ ← → ↓</title>
-      <link>https://example.com/project/wads/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</link>
       <pubDate>Sun, 06 Sep 2020 12:56:56 +0300</pubDate>
-      <guid>https://example.com/project/wads/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</guid>
       <description>&lt;p&gt;Co-curation of virtual exhibition at Ars Electronica Festival 2020 &lt;em&gt;In Kepler&amp;rsquo;s Gardens&lt;/em&gt; (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs.&lt;/p&gt;
 &lt;h2 id=&#34;exhibition-text&#34;&gt;Exhibition text&lt;/h2&gt;
 &lt;p&gt;WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.&lt;/p&gt;
@@ -61,8 +61,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--06.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -74,8 +74,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--07.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -87,8 +87,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -100,8 +100,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

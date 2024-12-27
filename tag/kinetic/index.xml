@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kinetic | studio any</title>
-    <link>https://example.com/tag/kinetic/</link>
-      <atom:link href="https://example.com/tag/kinetic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/kinetic/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/kinetic/index.xml" rel="self" type="application/rss+xml" />
     <description>kinetic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Nov 2014 11:03:03 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>kinetic</title>
-      <link>https://example.com/tag/kinetic/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/kinetic/</link>
     </image>
     
     <item>
       <title>Shifting perspectives</title>
-      <link>https://example.com/project/shifting-perspectives/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</link>
       <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
-      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</guid>
       <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
 &lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
 The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.
@@ -45,9 +45,9 @@ The installation was developed with PUNCH collective, an interdisciplinary syner
     
     <item>
       <title>From the Univocal to the Dissipative: Computation and performance methodology in real-time architecture</title>
-      <link>https://example.com/publication/13-ecaade/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/13-ecaade/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/13-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/13-ecaade/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘From the Univocal to the Dissipative. Computation and Performance Methodology in Real-Time Architecture’. In &lt;em&gt;Computation and Performance – Proceedings of the 31st ECAADe Conference&lt;/em&gt;, 1:517–25. Delft: Delft University of Technology, 2013. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2013_206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2013_206&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

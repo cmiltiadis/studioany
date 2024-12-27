@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MAS CAAD | studio any</title>
-    <link>https://example.com/tag/mas-caad/</link>
-      <atom:link href="https://example.com/tag/mas-caad/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/mas-caad/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/mas-caad/index.xml" rel="self" type="application/rss+xml" />
     <description>MAS CAAD</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2015 16:39:47 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>MAS CAAD</title>
-      <link>https://example.com/tag/mas-caad/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/mas-caad/</link>
     </image>
     
     <item>
       <title>Extensile</title>
-      <link>https://example.com/course/extensile/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/extensile/</link>
       <pubDate>Thu, 07 May 2015 16:39:47 +0300</pubDate>
-      <guid>https://example.com/course/extensile/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/extensile/</guid>
       <description>&lt;!--  
 defunct
 [Extensile on CAAD Blog](http://www.caad.arch.ethz.ch/blog/extensile-robotic-workshop/)
@@ -74,8 +74,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-1_hu9d422f2a844b9a03b43fba5d93c1c1d3_35033_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-1.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -87,8 +87,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-2.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-2.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-2_hu2f7238ef73a4c8e5f64daa0cf7472cb5_324030_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-2.png&#34; width=&#34;750&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -100,8 +100,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-diagram.png&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-diagram_hu49dcc97af3cd757894b11dbf5cc0081c_143394_750x750_fit_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-diagram.png&#34; width=&#34;750&#34; height=&#34;465&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -113,8 +113,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-exhibition.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-exhibition_hu18c93e61d9c13da754fd1e67786f1ff2_116010_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-exhibition.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -126,8 +126,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-fabrication.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-fabrication_hu9955a9998e3b27bfe3ca933765944e53_190979_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-fabrication.jpg&#34; width=&#34;700&#34; height=&#34;467&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -139,8 +139,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-heating-values.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-heating-values_huea676042e265c0b7d74389945dda1efd_70767_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-heating-values.jpg&#34; width=&#34;700&#34; height=&#34;310&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -152,8 +152,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-height-diagram_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/extensile-height-diagram_700_hu84d819c8e123551e12e5d6b06c90fcbe_64955_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;extensile-height-diagram_700.jpg&#34; width=&#34;700&#34; height=&#34;406&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -165,8 +165,8 @@ Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://example.com/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-extensile&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/mas-team_700.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-extensile/mas-team_700_huce732b07d290c12df51847b8fae810d8_122101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;mas-team_700.jpg&#34; width=&#34;700&#34; height=&#34;462&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -189,9 +189,9 @@ Constantinos Miltiadis&lt;/p&gt;
     
     <item>
       <title>Vector Raster Bleep</title>
-      <link>https://example.com/project/vector-raster-bleep/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/vector-raster-bleep/</link>
       <pubDate>Fri, 07 Mar 2014 17:15:18 +0300</pubDate>
-      <guid>https://example.com/project/vector-raster-bleep/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/vector-raster-bleep/</guid>
       <description>&lt;p&gt;&lt;em&gt;VectorRasterBleep&lt;/em&gt; is an interactive installation developed as a playful interpretation of a baroque garden to the digital-virtual domain.
 The garden is conceived as the Queen&amp;rsquo;s antidote to boredom, a playground open to stimuli for subverting the normality of everyday life, and a gateway to the fantastic and phantasmic.
 Wearing an electronic suit, the Queen escapes to the garden to explore its wonders.
@@ -235,8 +235,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -248,8 +248,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -261,8 +261,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -274,8 +274,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -287,8 +287,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -300,8 +300,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -313,9 +313,9 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
     
     <item>
       <title>7x Cabin</title>
-      <link>https://example.com/project/14-7x-cabin/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/14-7x-cabin/</link>
       <pubDate>Mon, 10 Feb 2014 19:22:31 +0300</pubDate>
-      <guid>https://example.com/project/14-7x-cabin/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/14-7x-cabin/</guid>
       <description>&lt;p&gt;The 7xCabin is the result of a workshop focusing on the implementation of a robotic fabrication process on the architectural scale. Instead of inventing a new architectural language based on shifts in technology, this projects searches for an integrative approach towards traditional crafts and archetypal forms. Using digital design tools, traditional timber joints were adapted to be usable with raw, irregular logs. These joints have subsequently been produced using a chainsaw mounted on an industrial robot. All movements for the robot were planned digitally, with students preparing the exact toolpaths for each log type.&lt;/p&gt;
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -368,8 +368,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -381,8 +381,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -394,8 +394,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -407,8 +407,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -420,8 +420,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -433,8 +433,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -446,8 +446,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -459,8 +459,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -472,8 +472,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -485,8 +485,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -498,9 +498,9 @@ Constantinos Miltiadis&lt;/p&gt;
     
     <item>
       <title>The geology of the Geology of Morals</title>
-      <link>https://example.com/project/geology-of-morals/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/geology-of-morals/</link>
       <pubDate>Sun, 06 Oct 2013 18:13:41 +0300</pubDate>
-      <guid>https://example.com/project/geology-of-morals/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/geology-of-morals/</guid>
       <description>&lt;p&gt;The project is an abstract constructive take on the concept of &lt;em&gt;double articulation&lt;/em&gt; introduced in the chapter &amp;ldquo;The Geology of Morals&amp;rdquo; from the book &amp;ldquo;A Thousand Plateaus&amp;rdquo; by Gilles Deleuze and Félix Guattari (2013 [1984]), which describes the interplay between form and substance of expression on one hand, and form and substance of content on the other.
 Here, the notion of double articulation is applied to the book chapter itself by exploring computationally the correlations between its linguistic expression and the stratification of its textual substance.
 As a video essay on the &amp;lsquo;quantification of writing&amp;rsquo;, the text of the chapter was analyzed computationally to infer abstract relations and densities between text atoms, and was then rendered into indexes, dimensions, colors, and shapes.&lt;/p&gt;
@@ -525,9 +525,9 @@ The body o
     
     <item>
       <title>Porocity</title>
-      <link>https://example.com/project/porocity/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</link>
       <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
-      <guid>https://example.com/project/porocity/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</guid>
       <description>&lt;!-- 
 - on Choi&#39;s Vimeo account 
 https://vimeo.com/78187584

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>archive | studio any</title>
-    <link>https://example.com/tag/archive/</link>
-      <atom:link href="https://example.com/tag/archive/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/archive/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/archive/index.xml" rel="self" type="application/rss+xml" />
     <description>archive</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Nov 2023 14:23:09 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>archive</title>
-      <link>https://example.com/tag/archive/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/archive/</link>
     </image>
     
     <item>
       <title>An open living archive for ACADIA</title>
-      <link>https://example.com/publication/23-acadia/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/23-acadia/</link>
       <pubDate>Thu, 16 Nov 2023 14:23:09 +0300</pubDate>
-      <guid>https://example.com/publication/23-acadia/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/23-acadia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ACADIA Conference Archive</title>
-      <link>https://example.com/project/acadia-archive/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/acadia-archive/</link>
       <pubDate>Thu, 20 Jul 2023 14:21:30 +0300</pubDate>
-      <guid>https://example.com/project/acadia-archive/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/acadia-archive/</guid>
       <description>&lt;p&gt;In May 2023, I was awarded the inaugural &lt;a href=&#34;http://acadia.org/news/69P4TY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACADIA Cultural History Project Fellowship&lt;/a&gt; together with Hanan Kataw (Ph.D. Candidate, Harvard University), and Hayri Dortdivanlioglu (Ph.D. Candidate, Georgia Institute of Technology).&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;The fellowship entailed production of work related to the &amp;lsquo;archive&amp;rsquo; of ACADIA, which at the time was an Excel sheet listing all papers published between 1985 and 2020, and a cloud drive with PDFs of conference proceedings volumes and other publications of ACADIA (e.g. quarterlies, membership lists, etc.).&lt;/p&gt;
 &lt;p&gt;My proposal was to create an open-access archive to host all content published by ACADIA. Using the data available, I wrote a Python program to parse this information and generate entries for an archive implementing &lt;em&gt;Sandpoints&lt;/em&gt;, an open-source open-infrastructure framework for experimental publishing.

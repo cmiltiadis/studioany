@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chapter | studio any</title>
-    <link>https://example.com/tag/chapter/</link>
-      <atom:link href="https://example.com/tag/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/chapter/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>chapter</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>chapter</title>
-      <link>https://example.com/tag/chapter/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/chapter/</link>
     </image>
     
     <item>
       <title>The Architectural Continuum: Choropoietic Media and Post-Physical-World Environments</title>
-      <link>https://example.com/publication/19-architectonics/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/19-architectonics/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/19-architectonics/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/19-architectonics/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘The Architectural Continuum: Choropoietic Media and Post-Physical-World Environments’. In &lt;em&gt;Architectonics of Game Spaces. The Spatial Logic of the Virtual and Its Meaning for the Real&lt;/em&gt;, edited by Andri Gerber and Ulrich Götz, 183–99. Bielefeld, Germany: Transcript, 2019. &lt;a href=&#34;https://www.transcript-verlag.de/978-3-8376-4802-7/architectonics-of-game-spaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.transcript-verlag.de/978-3-8376-4802-7/architectonics-of-game-spaces/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anna Maragkoudaki | studio any</title>
-    <link>https://example.com/authors/anna-maragkoudaki/</link>
-      <atom:link href="https://example.com/authors/anna-maragkoudaki/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/anna-maragkoudaki/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/anna-maragkoudaki/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna Maragkoudaki</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2015 18:11:20 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Anna Maragkoudaki</title>
-      <link>https://example.com/authors/anna-maragkoudaki/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/anna-maragkoudaki/</link>
     </image>
     
     <item>
       <title>John Paul George &amp; Me</title>
-      <link>https://example.com/project/john-paul-george-me/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/john-paul-george-me/</link>
       <pubDate>Mon, 06 Apr 2015 18:11:20 +0300</pubDate>
-      <guid>https://example.com/project/john-paul-george-me/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/john-paul-george-me/</guid>
       <description>&lt;p&gt;&lt;em&gt;John Paul George &amp;amp; Me&lt;/em&gt; is a collection of interactive wearable musical instruments for kids.
 Each T-shirt represents a specific instrument and all together form a rock ensemble. Through the seemingly magical clothes that produce sound by touch, the project brings to children an interactive musical game, encouraging and stimulating their musical interest as well as collaboration with each other to perform music.
 The project was developed by textile designer Selina Reiterer and computational designer Constantinos Miltiadis for exploring playful applications of smart materials and interactive wearable technology.&lt;/p&gt;
@@ -86,8 +86,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/all-tshirts.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/all-tshirts_hu14b6018d5451e98317c694c9bbc3400b_181697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;all-tshirts.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/all-tshirts.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/all-tshirts_hu14b6018d5451e98317c694c9bbc3400b_181697_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;all-tshirts.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -99,8 +99,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/electronics_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/electronics_1000_hu438537a689e07416a7e40e471f8d8057_45172_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;electronics_1000.jpg&#34; width=&#34;750&#34; height=&#34;317&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/electronics_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/electronics_1000_hu438537a689e07416a7e40e471f8d8057_45172_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;electronics_1000.jpg&#34; width=&#34;750&#34; height=&#34;317&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -112,8 +112,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids01.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids01_hu3f4cd1e3c5c761abb76e72ae011dc0fe_236842_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids01.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/kids01.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/kids01_hu3f4cd1e3c5c761abb76e72ae011dc0fe_236842_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids01.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -125,8 +125,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids02_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids02_1000_hu66f3ba1fc906e58e281e57352dd18760_73389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids02_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/kids02_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/kids02_1000_hu66f3ba1fc906e58e281e57352dd18760_73389_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids02_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -138,8 +138,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/kids03.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/kids03_hu978c9236487038caf5eee4d46aec4b01_227186_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids03.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/kids03.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/kids03_hu978c9236487038caf5eee4d46aec4b01_227186_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;kids03.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -151,8 +151,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/make01_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/make01_800_hu5f374ab7b182b05816a5f5dfd17c8dae_274057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;make01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/make01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/make01_800_hu5f374ab7b182b05816a5f5dfd17c8dae_274057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;make01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -164,8 +164,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/paint_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/paint_800_hu21b54a9c48f370cfdd9e2cbf0262ce7f_213652_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;paint_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/paint_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/paint_800_hu21b54a9c48f370cfdd9e2cbf0262ce7f_213652_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;paint_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -177,8 +177,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tools01_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tools01_800_hube00a71990e50915561fbe6c132dfa2b_236954_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tools01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tools01_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tools01_800_hube00a71990e50915561fbe6c132dfa2b_236954_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tools01_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -190,8 +190,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-bass_1000_hu070597ecc7cbcebd8445c1a846ae9861_75398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-bass_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-bass_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-bass_1000_hu070597ecc7cbcebd8445c1a846ae9861_75398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-bass_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -203,8 +203,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-drums_1000_hu6f24cb63d18eb05680e10c214a3bbbcc_71269_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-drums_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-drums_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-drums_1000_hu6f24cb63d18eb05680e10c214a3bbbcc_71269_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-drums_1000.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -216,8 +216,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-guitar_1000_hua9ff83c04998e5d5720dd499cb44ffb6_83131_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-guitar_1000.jpg&#34; width=&#34;750&#34; height=&#34;486&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-guitar_1000.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-guitar_1000_hua9ff83c04998e5d5720dd499cb44ffb6_83131_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-guitar_1000.jpg&#34; width=&#34;750&#34; height=&#34;486&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -229,8 +229,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-02_800_hufdc8d2ec9817880a7ea46fb5cfdf77b5_20139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-02_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-icons-02_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-icons-02_800_hufdc8d2ec9817880a7ea46fb5cfdf77b5_20139_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-02_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -242,8 +242,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-03_800_hucb084eb62f17524cb2ec2b7d26508b13_21338_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-03_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-icons-03_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-icons-03_800_hucb084eb62f17524cb2ec2b7d26508b13_21338_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-03_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -255,8 +255,8 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/15-jpgm/tshirt-icons-04_800_hucb084eb62f17524cb2ec2b7d26508b13_19259_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-04_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-15-jpgm&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-icons-04_800.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/15-jpgm/tshirt-icons-04_800_hucb084eb62f17524cb2ec2b7d26508b13_19259_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;tshirt-icons-04_800.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -268,9 +268,9 @@ Multiple T-shirts can be connected to a single mobile device, or each band membe
     
     <item>
       <title>project Anywhere</title>
-      <link>https://example.com/project/project-anywhere/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/project-anywhere/</link>
       <pubDate>Fri, 07 Nov 2014 18:04:19 +0300</pubDate>
-      <guid>https://example.com/project/project-anywhere/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/project-anywhere/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The ultimate display would, of course, be a room within which the computer can control the existence of matter.&lt;br&gt;
 (Ivan E. Sutherland, The Ultimate Display 1965)&lt;/p&gt;
@@ -396,8 +396,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-app.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-app_huf3aa4575468f0511e17ad9f47ca9adca_66101_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-app.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -409,8 +409,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-case.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-case_huc7210052a4a74b66cc27c80f9a7d24aa_135765_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-case.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -422,8 +422,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-closeUp-Glove-electronics_hud84610d0a9a399427954a6bce1e85427_92145_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-closeUp-Glove-electronics.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -435,8 +435,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Gloves-scrn.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Gloves-scrn_hu5718fa4f23f0601da7ad331fe44d6227_43357_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Gloves-scrn.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -448,8 +448,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloves.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloves_hu6b8b15a389232f347d6e15b3a90a2dcf_101159_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloves.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -461,8 +461,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloveSwitch.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-gloveSwitch_hu4e8dc78144fe3df2ea92dc1c9a8dfddb_85031_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-gloveSwitch.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -474,8 +474,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-mask.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-mask_hu2a28f3f028fc7b348e99e1d42c078ee3_39176_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-mask.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -487,8 +487,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Rotate.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-Rotate_hu0d7320a9d6530fe9e1be14ac8dc5c10b_60233_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-Rotate.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -500,8 +500,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-test-3dprints.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-test-3dprints_hu330670f931f8a686dd2f258b2c79cb0c_70187_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-test-3dprints.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -513,8 +513,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-vHands2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pa-vHands2_hue469aa5ccd149326f2fc9a5e54360b45_86025_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pa-vHands2.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -526,8 +526,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pA-virtual-box.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/pA-virtual-box_hu5a20013cbb3e558359c4328456275068_87339_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;pA-virtual-box.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -539,8 +539,8 @@ Anna Maragkoudaki&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-project-anywhere&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/project-Anywhere.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-project-anywhere/project-Anywhere_huc402f6aa47ce961a0df898e985488859_71321_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;project-Anywhere.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

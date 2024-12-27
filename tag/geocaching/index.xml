@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geocaching | studio any</title>
-    <link>https://example.com/tag/geocaching/</link>
-      <atom:link href="https://example.com/tag/geocaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/geocaching/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/geocaching/index.xml" rel="self" type="application/rss+xml" />
     <description>geocaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Nov 2017 12:56:19 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>geocaching</title>
-      <link>https://example.com/tag/geocaching/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/geocaching/</link>
     </image>
     
     <item>
       <title>Daphne&#39;s Diary</title>
-      <link>https://example.com/project/daphnes-diary/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</link>
       <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
-      <guid>https://example.com/project/daphnes-diary/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</guid>
       <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
 &lt;!--
 Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.

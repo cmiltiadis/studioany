@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ambisonics | studio any</title>
-    <link>https://example.com/tag/ambisonics/</link>
-      <atom:link href="https://example.com/tag/ambisonics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/ambisonics/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/ambisonics/index.xml" rel="self" type="application/rss+xml" />
     <description>ambisonics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Mar 2019 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>ambisonics</title>
-      <link>https://example.com/tag/ambisonics/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/ambisonics/</link>
     </image>
     
     <item>
       <title>reset.discover VR exhibition</title>
-      <link>https://example.com/event/reset.discover-vr-exhibition/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/reset.discover-vr-exhibition/</link>
       <pubDate>Sat, 02 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>https://example.com/event/reset.discover-vr-exhibition/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/reset.discover-vr-exhibition/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The piece reset.discover is the result of a collaboration between composer Antonia Manhartsberger and the VR artist Constantinos Miltiadis, investigating the possibilities of uniting spatial-visual and spatial-sonic elements into one abstract spatio-temporal virtual environment. The piece develops over notions of proximity and distance, thus consisting of two layers of experience. An individual point of view controlled by a VR HMD and headphones, and a correlated surrounding spatial audio loudspeaker setup. The audience is called upon to discover and experience this synthetic surrounding.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>reset.discover</title>
-      <link>https://example.com/project/reset-discover/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/reset-discover/</link>
       <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
-      <guid>https://example.com/project/reset-discover/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/reset-discover/</guid>
       <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
 The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.

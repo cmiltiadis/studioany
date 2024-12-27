@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>documentation | studio any</title>
-    <link>https://example.com/tag/documentation/</link>
-      <atom:link href="https://example.com/tag/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/documentation/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/documentation/index.xml" rel="self" type="application/rss+xml" />
     <description>documentation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>documentation</title>
-      <link>https://example.com/tag/documentation/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/documentation/</link>
     </image>
     
     <item>
       <title>ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp; 360 Videos</title>
-      <link>https://example.com/publication/17-esum/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/17-esum/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/17-esum/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/17-esum/</guid>
       <description>&lt;p&gt;Responsible for the design, development, programming, and documentation of the &lt;a href=&#34;../../project/esum&#34;&gt;ESUM backpack sensor module&lt;/a&gt;, presented in sections 2.1, 2.2, and the source code annex of the report.&lt;/p&gt;
 &lt;p&gt;Griego, Danielle, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven Schneider, Reinhard König, et al. ‘ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack &amp;amp; 360° Videos’. Application/pdf. ETH Zurich, 13 September 2017. &lt;a href=&#34;https://doi.org/10.3929/ETHZ-B-000184587&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3929/ETHZ-B-000184587&lt;/a&gt;.&lt;/p&gt;
 </description>

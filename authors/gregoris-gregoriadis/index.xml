@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregoris Gregoriadis | studio any</title>
-    <link>https://example.com/authors/gregoris-gregoriadis/</link>
-      <atom:link href="https://example.com/authors/gregoris-gregoriadis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/gregoris-gregoriadis/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/gregoris-gregoriadis/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregoris Gregoriadis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Mar 2014 17:15:18 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Gregoris Gregoriadis</title>
-      <link>https://example.com/authors/gregoris-gregoriadis/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/gregoris-gregoriadis/</link>
     </image>
     
     <item>
       <title>Vector Raster Bleep</title>
-      <link>https://example.com/project/vector-raster-bleep/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/vector-raster-bleep/</link>
       <pubDate>Fri, 07 Mar 2014 17:15:18 +0300</pubDate>
-      <guid>https://example.com/project/vector-raster-bleep/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/vector-raster-bleep/</guid>
       <description>&lt;p&gt;&lt;em&gt;VectorRasterBleep&lt;/em&gt; is an interactive installation developed as a playful interpretation of a baroque garden to the digital-virtual domain.
 The garden is conceived as the Queen&amp;rsquo;s antidote to boredom, a playground open to stimuli for subverting the normality of everyday life, and a gateway to the fantastic and phantasmic.
 Wearing an electronic suit, the Queen escapes to the garden to explore its wonders.
@@ -60,8 +60,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -73,8 +73,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -86,8 +86,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -99,8 +99,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -112,8 +112,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -125,8 +125,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

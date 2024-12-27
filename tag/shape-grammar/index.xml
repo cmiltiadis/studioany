@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shape grammar | studio any</title>
-    <link>https://example.com/tag/shape-grammar/</link>
-      <atom:link href="https://example.com/tag/shape-grammar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/shape-grammar/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/shape-grammar/index.xml" rel="self" type="application/rss+xml" />
     <description>shape grammar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2013 12:26:43 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>shape grammar</title>
-      <link>https://example.com/tag/shape-grammar/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/shape-grammar/</link>
     </image>
     
     <item>
       <title>Porocity</title>
-      <link>https://example.com/project/porocity/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</link>
       <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
-      <guid>https://example.com/project/porocity/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</guid>
       <description>&lt;!-- 
 - on Choi&#39;s Vimeo account 
 https://vimeo.com/78187584

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations &amp; exhibitions | studio any</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations &amp; exhibitions</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2024 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Presentations &amp; exhibitions</title>
-      <link>https://example.com/event/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/</link>
     </image>
     
     <item>
       <title>Open tools &amp; workflows for digital writing, notetaking, publishing, reference &amp; library management</title>
-      <link>https://example.com/event/kaymakkin-workshop/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/kaymakkin-workshop/</link>
       <pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
-      <guid>https://example.com/event/kaymakkin-workshop/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/kaymakkin-workshop/</guid>
       <description>&lt;p&gt;Workshop on open tools and workflows for writing, notetaking, publishing, reference and library management at &lt;em&gt;Social Space Kaymakkin&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Workshop program&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -68,9 +68,9 @@ Bring your own laptop&lt;/p&gt;
     
     <item>
       <title>Space-Time-Craft: Notions of digital craft and design practice in contemporary research</title>
-      <link>https://example.com/event/space-time-craft/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/space-time-craft/</link>
       <pubDate>Tue, 03 Oct 2023 09:00:00 +0000</pubDate>
-      <guid>https://example.com/event/space-time-craft/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/space-time-craft/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Presenters&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Benedict Singleton  (&lt;a href=&#34;https://www.rivalstrategy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIVAL STRATEGY&lt;/a&gt; &amp;ndash; keynote)&lt;/li&gt;
@@ -115,9 +115,9 @@ Personal website: [www⁄studioany.com](http://studioany.com/)
     
     <item>
       <title>From player representation to enactive presence: The case of &#34;boomer shooters&#34;</title>
-      <link>https://example.com/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</link>
       <pubDate>Tue, 29 Aug 2023 09:00:00 +0000</pubDate>
-      <guid>https://example.com/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</guid>
       <description>&lt;h2 id=&#34;presentation-abstract&#34;&gt;Presentation abstract&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Just forget it. You know they are demons; we know they are demons; we both want to shoot them in the face. Let&amp;rsquo;s just go (&lt;a href=&#34;https://www.youtube.com/watch?v=vsoVQWnSOfM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Martin 2016&lt;/a&gt;).&lt;/p&gt;
@@ -171,9 +171,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>Virtual Infrastructures</title>
-      <link>https://example.com/event/virtual-infrastructures/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/virtual-infrastructures/</link>
       <pubDate>Thu, 09 Jun 2022 10:00:00 +0000</pubDate>
-      <guid>https://example.com/event/virtual-infrastructures/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/virtual-infrastructures/</guid>
       <description>&lt;h1 id=&#34;event-description--programme&#34;&gt;Event description &amp;amp; programme&lt;/h1&gt;
 &lt;p&gt;The &lt;em&gt;Open Up and Shape Helsinki&lt;/em&gt; Symposium discusses how equity, labour, money and structures of power are configured globally, while reflecting these questions back onto Helsinki’s cultural scene, inviting three position papers and three Helsinki-based respondents:&lt;/p&gt;
 &lt;p&gt;Carolina Rito, co-editor of Institution as &lt;a href=&#34;https://www.sternberg-press.com/product/institution-as-praxis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Praxis – New Curatorial Directions for Collaborative Research&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; (Sternberg Press, 2020); followed by Joasia Krysia, Curator of Helsinki Biennial 2023&lt;/p&gt;
@@ -203,27 +203,27 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>Manifestations of Radical Technology; Collective Digital Tools</title>
-      <link>https://example.com/event/manifestations-of-radical-technology-collective-digital-tools/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/manifestations-of-radical-technology-collective-digital-tools/</link>
       <pubDate>Sun, 08 Aug 2021 14:00:00 +0000</pubDate>
-      <guid>https://example.com/event/manifestations-of-radical-technology-collective-digital-tools/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/manifestations-of-radical-technology-collective-digital-tools/</guid>
       <description>&lt;p&gt;Presentation of the work and practices of the Helsinki-based collective &lt;a href=&#34;https://site.stationofcommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Station of Commons&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Aalto Laser Talks: Adaptation and Space</title>
-      <link>https://example.com/event/aalto-laser-talks-adaptation-and-space/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/aalto-laser-talks-adaptation-and-space/</link>
       <pubDate>Thu, 29 Apr 2021 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/aalto-laser-talks-adaptation-and-space/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/aalto-laser-talks-adaptation-and-space/</guid>
       <description>&lt;p&gt;Event organized by Laura Beloff, Pia Fricker, Ksenia Kaverina, Kirsi Peltonen, Nitin Sawhney and Koray Tahiroğlu.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the matter and matters of space in novel media</title>
-      <link>https://example.com/event/on-the-matter-and-matters-of-space-in-novel-media/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/on-the-matter-and-matters-of-space-in-novel-media/</link>
       <pubDate>Fri, 11 Dec 2020 16:00:00 +0000</pubDate>
-      <guid>https://example.com/event/on-the-matter-and-matters-of-space-in-novel-media/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/on-the-matter-and-matters-of-space-in-novel-media/</guid>
       <description>&lt;!--
  founding members of the [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449) special interest group (SIG) sponsored by the Sociey for Artistic Research (SAR).
 --&gt;
@@ -232,9 +232,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>The situation of space in contemporary media environments</title>
-      <link>https://example.com/event/the-situation-of-space-in-contemporary-media-environments/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-situation-of-space-in-contemporary-media-environments/</link>
       <pubDate>Thu, 19 Mar 2020 16:25:00 +0000</pubDate>
-      <guid>https://example.com/event/the-situation-of-space-in-contemporary-media-environments/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-situation-of-space-in-contemporary-media-environments/</guid>
       <description>&lt;h2 id=&#34;space-writing-within-architectures-expanded-field&#34;&gt;Space-Writing Within Architecture’s Expanded Field &lt;/h2&gt;
 &lt;p&gt;Space, as the substrate that conditions design and architecture is often taken for granted. Through a brief archeology of the evolution of spatial concepts from Greek mathematics through Renaissance perspective and 20th century physics, this talk intends to present how design-space is a culturally embedded “ideology” that adheres more to tradition rather than to any current scientific theory. Contemporary space-making media however can allow for us to experiment with and explore perceivable spaces beyond the traditions of design, as well as of what is constructible in physical reality, requiring thus a new set of conventions for engagement with space. Akin to writing spaces rather than designing in space, “choropoietic media” from drawing to videogames, VR and spatial audio, challenge us in considering an “expanded field” of architecture and spatial praxis, while providing vehicles for uncovering latent spectra of aesthetic experience.&lt;/p&gt;
 &lt;p&gt;Constantinos Miltiadis (&lt;a href=&#34;http://studioany.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;studioany.com/&lt;/a&gt;)&lt;/p&gt;
@@ -251,25 +251,25 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>The Inconstructible: space writing within architecture’s expanded field</title>
-      <link>https://example.com/event/the-inconstructible-space-writing-within-architectures-expanded-field/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-inconstructible-space-writing-within-architectures-expanded-field/</link>
       <pubDate>Sat, 16 Nov 2019 20:00:00 +0000</pubDate>
-      <guid>https://example.com/event/the-inconstructible-space-writing-within-architectures-expanded-field/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-inconstructible-space-writing-within-architectures-expanded-field/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inconstructible Architectures</title>
-      <link>https://example.com/event/inconstructible-architectures/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/inconstructible-architectures/</link>
       <pubDate>Sat, 16 Nov 2019 12:30:00 +0000</pubDate>
-      <guid>https://example.com/event/inconstructible-architectures/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/inconstructible-architectures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choropoietic media: Against the cultural bias of the visual</title>
-      <link>https://example.com/event/school-of-images/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/school-of-images/</link>
       <pubDate>Wed, 10 Apr 2019 10:00:00 +0000</pubDate>
-      <guid>https://example.com/event/school-of-images/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/school-of-images/</guid>
       <description>&lt;p&gt;Organized by James Bridle and Onassis Stegi in the context of the event &lt;em&gt;For Ever More Images? Designing a cybermachine for the 21st century&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
 &lt;ul&gt;
@@ -292,9 +292,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics</title>
-      <link>https://example.com/event/continuum-cologne/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</link>
       <pubDate>Mon, 18 Mar 2019 10:00:03 +0300</pubDate>
-      <guid>https://example.com/event/continuum-cologne/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</guid>
       <description>&lt;p&gt;Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Event description&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.&lt;/p&gt;
@@ -337,9 +337,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>reset.discover VR exhibition</title>
-      <link>https://example.com/event/reset.discover-vr-exhibition/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/reset.discover-vr-exhibition/</link>
       <pubDate>Sat, 02 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>https://example.com/event/reset.discover-vr-exhibition/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/reset.discover-vr-exhibition/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;The piece reset.discover is the result of a collaboration between composer Antonia Manhartsberger and the VR artist Constantinos Miltiadis, investigating the possibilities of uniting spatial-visual and spatial-sonic elements into one abstract spatio-temporal virtual environment. The piece develops over notions of proximity and distance, thus consisting of two layers of experience. An individual point of view controlled by a VR HMD and headphones, and a correlated surrounding spatial audio loudspeaker setup. The audience is called upon to discover and experience this synthetic surrounding.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -348,9 +348,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>Space as Ideology: Choropoietic media and new paradigms of spatiality</title>
-      <link>https://example.com/event/space-as-ideology-choropoietic-media-and-new-paradigms-of-spatiality/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/space-as-ideology-choropoietic-media-and-new-paradigms-of-spatiality/</link>
       <pubDate>Thu, 24 Jan 2019 12:00:00 +0000</pubDate>
-      <guid>https://example.com/event/space-as-ideology-choropoietic-media-and-new-paradigms-of-spatiality/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/space-as-ideology-choropoietic-media-and-new-paradigms-of-spatiality/</guid>
       <description>&lt;p&gt;The program includes lectures by Timor Kardum, Markus Wintersberger and Irmfried Wöber.&lt;/p&gt;
 &lt;!--
 Symposium Spatial Turn [[x](https://www.facebook.com/events/553650948484862/)]  
@@ -361,17 +361,17 @@ Gib mir Raum [[x](https://www.gibmirraum.at/)]
     
     <item>
       <title>On the hypotheses which lie at the bases of game design: flat earthers and post-physical navigable environments</title>
-      <link>https://example.com/event/hypotheses-krakow/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/hypotheses-krakow/</link>
       <pubDate>Sat, 24 Nov 2018 10:30:00 +0000</pubDate>
-      <guid>https://example.com/event/hypotheses-krakow/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/hypotheses-krakow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes</title>
-      <link>https://example.com/event/visual-imaginary-intangible-heritage/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/visual-imaginary-intangible-heritage/</link>
       <pubDate>Wed, 14 Nov 2018 19:40:57 +0300</pubDate>
-      <guid>https://example.com/event/visual-imaginary-intangible-heritage/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/visual-imaginary-intangible-heritage/</guid>
       <description>&lt;p&gt;Contribution to CHNT 2018 on intangible cultural heritage based on the project &lt;a href=&#34;../../project/daphnes-diary&#34;&gt;Daphne&amp;rsquo;s Diary&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This paper presents theoretical and practical considerations regarding the role of moat of the medieval walls of historic Nicosia. It introduces the history of Nicosia, the last divided capital of Europe, through the development of its Venetian fortifications. The moat acquired an important role for Nicosia when the city started expanding beyond the medieval footprint of the labyrinthine urban fabric of the historic core during the late period of British rule on the island. Since the beginning of the 20th century numerous activities and uses were hosted into the moat, from sporting events, livestock trade and markets to parades and leisure spaces, waste disposal and farming. &lt;/p&gt;
@@ -393,9 +393,9 @@ CHNT Website [[x](https://www.chnt.at/)]
     
     <item>
       <title>Artificial Paradise? Immersion in Space and Time</title>
-      <link>https://example.com/event/artificial-paradise-immersion-in-space-and-time/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/artificial-paradise-immersion-in-space-and-time/</link>
       <pubDate>Thu, 08 Nov 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/artificial-paradise-immersion-in-space-and-time/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/artificial-paradise-immersion-in-space-and-time/</guid>
       <description>&lt;p&gt;Round table discussion on the topic of Immersion in the Arts, in the context of the exhibition &amp;ldquo;Artificial Paradise? Immersion in Space and Time&amp;rdquo; curated by Jürgen Dehm, at the &lt;a href=&#34;https://www.km-k.at/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graz Kunstlerhaus&lt;/a&gt;, part of the &lt;a href=&#34;https://www.steirischerherbst.at/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steirischer Herbst 2018 Festival&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Gerriet K. Sharma&lt;/em&gt; (*1974 Bonn, lives in Graz and Berlin) is a sound artist and composer. He studied media art at the Art College for Media at Cologne and composition/computer music at the Institute for Electronic Music and Acoustics (IEM) at the University for the Arts in Graz. Moreover, he completed a doctorate at the artistic-scientific doctorate school at the University for the Arts in Graz. In the winter semester 17/18, he was appointed for the renowned “Edgard Varèse Professorship” in Berlin. His works include numerous space-sound-compositions, sound-installations and performances. Moreover, he teaches and curates. He has received many international awards and grants.&lt;/p&gt;
@@ -406,17 +406,17 @@ CHNT Website [[x](https://www.chnt.at/)]
     
     <item>
       <title>The Aesthetics of Presence in Inconstructible Spaces I &amp; II</title>
-      <link>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</link>
       <pubDate>Mon, 15 Oct 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond the Implied Player: Transgression and Contingency in Digital Games</title>
-      <link>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
       <pubDate>Thu, 11 Oct 2018 09:00:00 +0000</pubDate>
-      <guid>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
       <description>&lt;!--
 abstract 
 https://www.researchgate.net/publication/328174581_Beyond_the_Implied_Player_Transgression_and_Contingency_in_Digital_Games
@@ -429,9 +429,9 @@ https://gespielt.hypotheses.org/2009
     
     <item>
       <title>The Architectural Continuum</title>
-      <link>https://example.com/event/continuum-digital-cultures/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-digital-cultures/</link>
       <pubDate>Wed, 19 Sep 2018 10:00:00 +0000</pubDate>
-      <guid>https://example.com/event/continuum-digital-cultures/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-digital-cultures/</guid>
       <description>&lt;!-- 
 1.12.2024: digital cultures website doesnt work: available to buy 
 paper titled “The architectural continuum” will be presented at the [Digital Cultures 2018 Conference](https://digitalculturesconference.org/) at the Leuphana University of Lüneburg, 19-22 of September 2018.  
@@ -445,9 +445,9 @@ Download abstract from researchgate [[x](https://www.researchgate.net/publicatio
     
     <item>
       <title>The Architectural Continuum</title>
-      <link>https://example.com/event/continuum-architectonics/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-architectonics/</link>
       <pubDate>Sat, 09 Jun 2018 09:30:00 +0000</pubDate>
-      <guid>https://example.com/event/continuum-architectonics/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-architectonics/</guid>
       <description>&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
 &lt;p&gt;Space – in particular architectural and urban space – is always both real and virtual. For human beings, space is a construct of its perception via the body, but it is also culturally and socially determined as “relational space.” Architectural and urban spaces are inherently shaped by human beings: by their senses, by their perception, and by their cultural and social bonds. We experience these spaces as “real” and contingent, despite all possible false perceptions that might deceive us. They are an extension of our body – as well as related to the neurological, embodied mind – and are tied to its limitations.&lt;/p&gt;
 &lt;p&gt;While traditional forms of virtuality such as movies and literature can only partially overcome these ties and boundaries – bound as they are to sight, sound, or our sense of fantasy – new digital tools and forms of immersive virtuality can reveal new orders of experience, allowing an interaction with this space. This interaction even partially allows one to design this space. At least one is either asked to perform tasks – play – or can replicate reality via simulation.&lt;/p&gt;
@@ -491,9 +491,9 @@ Guided visit through the library&lt;/p&gt;
     
     <item>
       <title>Sonic Rug Hackathon - Vienna Design Week 2017</title>
-      <link>https://example.com/event/sonic-rug/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/sonic-rug/</link>
       <pubDate>Wed, 04 Oct 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/sonic-rug/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/sonic-rug/</guid>
       <description>&lt;p&gt;Invited single-day hackathon project with Antonia Manhatsberger, for the production of an interactive audiovisual installation for the &lt;em&gt;Sonic Rug&lt;/em&gt;, developed by Selina Reiterer and Oliver Maklott.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch. [&amp;hellip;] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media.&amp;rdquo;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -538,8 +538,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -551,8 +551,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -564,8 +564,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -577,8 +577,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -590,8 +590,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -603,8 +603,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -616,8 +616,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -629,8 +629,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -642,8 +642,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -655,8 +655,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -668,8 +668,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -681,8 +681,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -694,8 +694,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -707,8 +707,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -720,8 +720,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -733,8 +733,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -746,8 +746,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -759,8 +759,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -772,8 +772,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -785,8 +785,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -798,8 +798,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -811,8 +811,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -832,9 +832,9 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
     
     <item>
       <title>VR exhibition at VR Playful Art</title>
-      <link>https://example.com/event/vr-playful-art/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/vr-playful-art/</link>
       <pubDate>Fri, 01 Sep 2017 15:00:00 +0000</pubDate>
-      <guid>https://example.com/event/vr-playful-art/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/vr-playful-art/</guid>
       <description>&lt;p&gt;Exhibition of 12 original VR projects  developed by the students of the &lt;a href=&#34;../../course/vsms-2017&#34;&gt;Virtual Spaces Master Studio 2017&lt;/a&gt;, at the event &lt;em&gt;VR Playful Art&lt;/em&gt;, at Kunsthaus Graz.
 The event was organized  by the &lt;a href=&#34;https://www.facebook.com/gamedevgraz/?fref=mentions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game Development Graz&lt;/a&gt; community in collaboration with TU Graz, in the context of &lt;a href=&#34;https://www.facebook.com/events/838046996342513/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Game Dev Days 2017&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;virtual-spaces-master-studio-vr-projects&#34;&gt;Virtual Spaces Master Studio VR projects&lt;/h3&gt;
@@ -857,9 +857,9 @@ The event was organized  by the &lt;a href=&#34;https://www.facebook.com/gamede
     
     <item>
       <title>Timescales of Architecture</title>
-      <link>https://example.com/event/timescales-of-architecture/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/timescales-of-architecture/</link>
       <pubDate>Mon, 29 May 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/timescales-of-architecture/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/timescales-of-architecture/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Event organizer&lt;/strong&gt;&lt;br&gt;
 Marko Ciciliani&lt;/p&gt;
 &lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
@@ -881,9 +881,9 @@ Marko Ciciliani&lt;/p&gt;
     
     <item>
       <title>Metadata Punks</title>
-      <link>https://example.com/event/metadata-punks/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/metadata-punks/</link>
       <pubDate>Tue, 21 Mar 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/metadata-punks/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/metadata-punks/</guid>
       <description>&lt;p&gt;#000000&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -908,9 +908,9 @@ Marko Ciciliani&lt;/p&gt;
     
     <item>
       <title>Architecture as a Complex Number</title>
-      <link>https://example.com/event/architecture-as-a-complex-number/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/architecture-as-a-complex-number/</link>
       <pubDate>Wed, 16 Nov 2016 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/architecture-as-a-complex-number/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/architecture-as-a-complex-number/</guid>
       <description>&lt;p&gt;
 
 
@@ -929,7 +929,7 @@ Marko Ciciliani&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/images/16-plexus-paris.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/images/16-plexus-paris.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Event organized by Pierre Cutellic in collaboration with AA n+1.&lt;br&gt;
@@ -949,9 +949,9 @@ The event was initially called Bartlett Nexus and was created by Jose Sanchez, c
     
     <item>
       <title>Second Prize in the Zeiss VR One App Contest</title>
-      <link>https://example.com/event/zeiss-vr-one/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/zeiss-vr-one/</link>
       <pubDate>Thu, 19 Mar 2015 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/zeiss-vr-one/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/zeiss-vr-one/</guid>
       <description>&lt;p&gt;
 
 
@@ -971,10 +971,10 @@ The event was initially called Bartlett Nexus and was created by Jose Sanchez, c
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp 400w,
-               /event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_e8f989911037cdfe38513ab1f598075d.webp 760w,
-               /event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp&#34;
+               /cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp 400w,
+               /cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_e8f989911037cdfe38513ab1f598075d.webp 760w,
+               /cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/event/zeiss-vr-one/not-featured_hu7934997b6ac0c141d188c4701b9ce81c_37229_327646e84e6489cd06334af856f613e2.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -985,9 +985,9 @@ The event was initially called Bartlett Nexus and was created by Jose Sanchez, c
     
     <item>
       <title>Project Anywhere installation at TEDx NTUA</title>
-      <link>https://example.com/event/project-anywhere-ted/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/project-anywhere-ted/</link>
       <pubDate>Sat, 17 Jan 2015 15:00:00 +0000</pubDate>
-      <guid>https://example.com/event/project-anywhere-ted/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/project-anywhere-ted/</guid>
       <description>&lt;p&gt;Public installation of &lt;a href=&#34;../../project/project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at TEDx NTUA, Athens 2015.&lt;/p&gt;
 </description>
     </item>

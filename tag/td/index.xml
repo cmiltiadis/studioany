@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TD | studio any</title>
-    <link>https://example.com/tag/td/</link>
-      <atom:link href="https://example.com/tag/td/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/td/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/td/index.xml" rel="self" type="application/rss+xml" />
     <description>TD</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>TD</title>
-      <link>https://example.com/tag/td/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/td/</link>
     </image>
     
     <item>
       <title>Noise Traffic</title>
-      <link>https://example.com/curation/23-noisetraffic/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/23-noisetraffic/</link>
       <pubDate>Sat, 14 Jan 2023 14:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/23-noisetraffic/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/23-noisetraffic/</guid>
       <description>&lt;p&gt;Experimental live art event curated by Nicolina Stylianou (sensorium space), and produced in collaboration with &lt;a href=&#34;../../project/soc&#34;&gt;Station of Commons&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;event-program&#34;&gt;Event program&lt;/h1&gt;
 &lt;ul&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>◯  (2019)</title>
-      <link>https://example.com/project/o-graz/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/o-graz/</link>
       <pubDate>Sat, 04 May 2019 11:30:12 +0300</pubDate>
-      <guid>https://example.com/project/o-graz/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/o-graz/</guid>
       <description>&lt;p&gt;◯ was an experimental event series and collective based in Graz, active from 2019 to 2022. Founded in early 2019 by a group of eight individuals associated with the computer music program at the Institute of Electronic Music, University of Music and Performing Arts Graz, the collective aimed to curate and produce experimental post-genre events that blended contemporary bass and dance music with experimental electronics, live arts, and discourse.&lt;/p&gt;
 &lt;p&gt;◯ was launched on May 5, 2019, at Forum Stadtpark. Following that and throughout 2019, the collective was highly active, organizing its own events while also participating in a variety of festivals and events. However, as the pandemic took hold in 2020 and several members relocated from Graz, sustaining the series became increasingly challenging.
 Eventually, ◯  held its closing event at Forum Stadtpark on November 25, 2022.&lt;/p&gt;
@@ -126,7 +126,7 @@ Following the launch event ◯  was invited to participate, co-curate, or provid
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;18:00 WORKSHOP&lt;/p&gt;
@@ -187,7 +187,7 @@ no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Event produced by &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.facebook.com/thisisograz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;◯ &lt;/a&gt;.&lt;/p&gt;
@@ -252,9 +252,9 @@ no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
     
     <item>
       <title>Decoded Language</title>
-      <link>https://example.com/project/decoded-language/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/decoded-language/</link>
       <pubDate>Thu, 24 Jan 2019 18:18:58 +0300</pubDate>
-      <guid>https://example.com/project/decoded-language/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/decoded-language/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Decoded language&lt;/strong&gt;&lt;/em&gt; is a multi-user interactive sound installation for Supercollider and Kinect V2.
 The installation uses real-time body (skeleton) tracking as interface for controlling a virtual granular synthesis instrument.
 This way, the installation produces an entanglement of the spatial domain of bodily movement with the temporal domain of sound.
@@ -321,8 +321,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.15c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.15c_hu99fb30f51b9f5ad752e163a27ef395ca_310358_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.15c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.15c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.15c_hu99fb30f51b9f5ad752e163a27ef395ca_310358_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.15c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -334,8 +334,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.16c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.16c_hu08ef40bed01506c22ea7c20c20c9fd3c_240089_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.16c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.16c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.16c_hu08ef40bed01506c22ea7c20c20c9fd3c_240089_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.16c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -347,8 +347,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.17c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.17c_huc723eafb3b9edd3e7c14492f88e316e4_273171_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.17c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.17c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.17c_huc723eafb3b9edd3e7c14492f88e316e4_273171_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.17c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -360,8 +360,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.26c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.26c_hu4cb9503109dd3d3d325585aeb4816a3b_297325_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.26c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.26c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.26c_hu4cb9503109dd3d3d325585aeb4816a3b_297325_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.26c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -373,8 +373,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.28c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.28c_hubea5fa9acac14e737bb5b173e8075124_285127_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.28c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.28c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.28c_hubea5fa9acac14e737bb5b173e8075124_285127_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.28c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -386,8 +386,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.29c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.29c_huc026be961dca397f57998e761ca43b67_304621_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.29c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.29c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.29c_huc026be961dca397f57998e761ca43b67_304621_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.29c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -399,8 +399,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.32c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.32c_hud2601e68080c843c7fd26a7cc25646c6_235914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.32c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.32c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.32c_hud2601e68080c843c7fd26a7cc25646c6_235914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.32c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -412,8 +412,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.36c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.36c_hu3f6dfad0e5e23169b2b14c677bc9c4fb_310057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.36c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.36c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.36c_hu3f6dfad0e5e23169b2b14c677bc9c4fb_310057_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.36c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -425,8 +425,8 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://example.com/media/albums/decoded-language/untitled.5c.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/decoded-language/untitled.5c_hu41b34183dad3b31ce1e3786eb7b4fd3e_238398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.5c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-decoded-language&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.5c.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/decoded-language/untitled.5c_hu41b34183dad3b31ce1e3786eb7b4fd3e_238398_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;untitled.5c.jpg&#34; width=&#34;750&#34; height=&#34;407&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -438,17 +438,17 @@ Institute of Electronic Music, University of Music and Performing Arts, Graz, 20
     
     <item>
       <title>The Aesthetics of Presence in Inconstructible Spaces I &amp; II</title>
-      <link>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</link>
       <pubDate>Mon, 15 Oct 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-aesthetics-of-presence-in-inconstructible-spaces-i-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Anywhere installation at TEDx NTUA</title>
-      <link>https://example.com/event/project-anywhere-ted/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/project-anywhere-ted/</link>
       <pubDate>Sat, 17 Jan 2015 15:00:00 +0000</pubDate>
-      <guid>https://example.com/event/project-anywhere-ted/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/project-anywhere-ted/</guid>
       <description>&lt;p&gt;Public installation of &lt;a href=&#34;../../project/project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at TEDx NTUA, Athens 2015.&lt;/p&gt;
 </description>
     </item>

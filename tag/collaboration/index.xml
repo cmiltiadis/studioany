@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>collaboration | studio any</title>
-    <link>https://example.com/tag/collaboration/</link>
-      <atom:link href="https://example.com/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/collaboration/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <description>collaboration</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2022 21:54:44 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>collaboration</title>
-      <link>https://example.com/tag/collaboration/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/collaboration/</link>
     </image>
     
     <item>
       <title>Lumbung Radio</title>
-      <link>https://example.com/project/lumbung-radio/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/lumbung-radio/</link>
       <pubDate>Fri, 08 Apr 2022 21:54:44 +0300</pubDate>
-      <guid>https://example.com/project/lumbung-radio/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/lumbung-radio/</guid>
       <description>&lt;h2 id=&#34;lumbung-radio-description-at-d15d15d&#34;&gt;Lumbung radio description at d15&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;lumbung Radio&lt;/em&gt; the result of the radio working group (consisting of the initial members &lt;strong&gt;Grégoire Rousseau&lt;/strong&gt;, &lt;strong&gt;Malene Saalmann&lt;/strong&gt;, &lt;strong&gt;Gözde Filinta&lt;/strong&gt;, &lt;strong&gt;Ayşe Güleç&lt;/strong&gt;, and &lt;strong&gt;Reza Afisina&lt;/strong&gt;) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen &lt;a href=&#34;https://documenta-fifteen.de/en/glossary/?entry=ekosistem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;ekosistem&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Cybersyn 1973/2023</title>
-      <link>https://example.com/project/cybersyn-1973-2023/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/cybersyn-1973-2023/</link>
       <pubDate>Wed, 07 Jul 2021 12:55:44 +0300</pubDate>
-      <guid>https://example.com/project/cybersyn-1973-2023/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/cybersyn-1973-2023/</guid>
       <description>&lt;p&gt;Project Cybersyn was an experiment in instituting a socialist networked economy embraced by the short-lived Salvador Allende government of Chile (1970 – 1973) and developed together with the British cybernetician Stafford Beer. For the past decade, Project Cybersyn has been a recurrent reference – a best practice from the past – in discussions around the repurposing of hegemonic technological infrastructures and their redirection towards more equitable economic and social practices. The iconic image of Project Cybersyn’s control room – with its sci-fi appearance – represents a technical and aesthetic object that alludes to negotiation, democratic decision making, and stability. The allure of this image is the starting point for the video which proposes that desires for post-scarcity and postcapitalist economics must grapple with the shifts in the political, economic, and technological conditions of possibility that have transpired since Project Cybersyn. To this end the control room image itself becomes a platform for alien mutations, philosophical speculations, and social commitments. What would it take to reimagine the artefactual Cybersyn for our hyper-financialized day and age? For this work, curator and researcher Bassam El Baroni and transdisciplinary architect Constantinos Miltiadis collaborated with multidisciplinary artist and animator Georgios Cherouvim, and composer and sound artist Gerriet K. Sharma to bring this question to life.&lt;/p&gt;
 &lt;hr&gt;
 
@@ -141,8 +141,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_05-1200x675-.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_05-1200x675-_hu1bd51c042451564765bb4eab87c2745d_128464_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_05-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/ch3_2107_cybersyn_05-1200x675-.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/ch3_2107_cybersyn_05-1200x675-_hu1bd51c042451564765bb4eab87c2745d_128464_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_05-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -154,8 +154,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_06-1200x675-.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_06-1200x675-_hufad5dcc47b9d6bdb3965cf9618ac5605_169170_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_06-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/ch3_2107_cybersyn_06-1200x675-.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/ch3_2107_cybersyn_06-1200x675-_hufad5dcc47b9d6bdb3965cf9618ac5605_169170_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_06-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -167,8 +167,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_07-1200x675-.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/ch3_2107_cybersyn_07-1200x675-_hu49b954eb52491f96d3541e073b17cb12_74153_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_07-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/ch3_2107_cybersyn_07-1200x675-.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/ch3_2107_cybersyn_07-1200x675-_hu49b954eb52491f96d3541e073b17cb12_74153_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;ch3_2107_cybersyn_07-1200x675-.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -180,8 +180,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_01.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_01_hu43af7945808543548cea075bdff93343_297052_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_01.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_01.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_01_hu43af7945808543548cea075bdff93343_297052_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_01.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -193,8 +193,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_02.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_02_hu803932f76ed2f8fb0ba11c76eb9cfd84_462936_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_02.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_02.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_02_hu803932f76ed2f8fb0ba11c76eb9cfd84_462936_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_02.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -206,8 +206,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_03.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_03_huda7e2008a021e5fec7cbd3c9cc6d6608_266662_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_03.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_03.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_03_huda7e2008a021e5fec7cbd3c9cc6d6608_266662_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_03.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -219,8 +219,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_04.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/21-cybersyn/cybersyn_still_04_huaa3b548b592e1451c9162906d538578c_271875_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_04.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-21-cybersyn&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_04.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/21-cybersyn/cybersyn_still_04_huaa3b548b592e1451c9162906d538578c_271875_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;cybersyn_still_04.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -232,9 +232,9 @@
     
     <item>
       <title>WADS ↑ ← → ↓</title>
-      <link>https://example.com/project/wads/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</link>
       <pubDate>Sun, 06 Sep 2020 12:56:56 +0300</pubDate>
-      <guid>https://example.com/project/wads/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</guid>
       <description>&lt;p&gt;Co-curation of virtual exhibition at Ars Electronica Festival 2020 &lt;em&gt;In Kepler&amp;rsquo;s Gardens&lt;/em&gt; (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs.&lt;/p&gt;
 &lt;h2 id=&#34;exhibition-text&#34;&gt;Exhibition text&lt;/h2&gt;
 &lt;p&gt;WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.&lt;/p&gt;
@@ -279,8 +279,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--06.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -292,8 +292,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--07.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -305,8 +305,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -318,8 +318,8 @@
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -331,9 +331,9 @@
     
     <item>
       <title>Station of Commons</title>
-      <link>https://example.com/project/station-of-commons/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/station-of-commons/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/station-of-commons/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/station-of-commons/</guid>
       <description>&lt;p&gt;Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
 SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.&lt;/p&gt;
 &lt;p&gt;Among the flagship initiatives of SoC is the interlocal online radio &lt;a href=&#34;https://lumbungradio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lumbung radio&lt;/a&gt;, first established with ruangrupa for documeneta fifteen in 2022.
@@ -370,9 +370,9 @@ Visual artists Eddie Choo Wen Yi joined during Documenta fifteen in 2022 and ser
     
     <item>
       <title>◯  (2019)</title>
-      <link>https://example.com/project/o-graz/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/o-graz/</link>
       <pubDate>Sat, 04 May 2019 11:30:12 +0300</pubDate>
-      <guid>https://example.com/project/o-graz/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/o-graz/</guid>
       <description>&lt;p&gt;◯ was an experimental event series and collective based in Graz, active from 2019 to 2022. Founded in early 2019 by a group of eight individuals associated with the computer music program at the Institute of Electronic Music, University of Music and Performing Arts Graz, the collective aimed to curate and produce experimental post-genre events that blended contemporary bass and dance music with experimental electronics, live arts, and discourse.&lt;/p&gt;
 &lt;p&gt;◯ was launched on May 5, 2019, at Forum Stadtpark. Following that and throughout 2019, the collective was highly active, organizing its own events while also participating in a variety of festivals and events. However, as the pandemic took hold in 2020 and several members relocated from Graz, sustaining the series became increasingly challenging.
 Eventually, ◯  held its closing event at Forum Stadtpark on November 25, 2022.&lt;/p&gt;
@@ -453,7 +453,7 @@ Following the launch event ◯  was invited to participate, co-curate, or provid
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;18:00 WORKSHOP&lt;/p&gt;
@@ -514,7 +514,7 @@ no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Event produced by &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.facebook.com/thisisograz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;◯ &lt;/a&gt;.&lt;/p&gt;
@@ -579,9 +579,9 @@ no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
     
     <item>
       <title>reset.discover</title>
-      <link>https://example.com/project/reset-discover/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/reset-discover/</link>
       <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
-      <guid>https://example.com/project/reset-discover/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/reset-discover/</guid>
       <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
 The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.
@@ -608,9 +608,9 @@ Participants &lt;em&gt;enter&lt;/em&gt; the piece using a VR headset which allow
     
     <item>
       <title>Daphne&#39;s Diary</title>
-      <link>https://example.com/project/daphnes-diary/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</link>
       <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
-      <guid>https://example.com/project/daphnes-diary/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</guid>
       <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
 &lt;!--
 Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.
@@ -637,9 +637,9 @@ Daphne’s Diary is a concept design and prototype for historical interactive lo
     
     <item>
       <title>Sonic Rug Hackathon - Vienna Design Week 2017</title>
-      <link>https://example.com/event/sonic-rug/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/sonic-rug/</link>
       <pubDate>Wed, 04 Oct 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/sonic-rug/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/sonic-rug/</guid>
       <description>&lt;p&gt;Invited single-day hackathon project with Antonia Manhatsberger, for the production of an interactive audiovisual installation for the &lt;em&gt;Sonic Rug&lt;/em&gt;, developed by Selina Reiterer and Oliver Maklott.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Sonic Rug is the result of an artistic approach to smart textiles. The project is exploring the possibilities of connecting soft material to the digital space, manifesting the results within an interactive installation, that creates sounds by touch. [&amp;hellip;] In this Hackathon data from the touch-sensitive installation will be open to be translated into different media.&amp;rdquo;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
@@ -684,8 +684,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0009_danielajakob_1000w_hu943bbb124bda6eddd205eaeeb18ae06a_199589_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0009_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -697,8 +697,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0012_danielajakob_1000w_hu7b51eb61aa1523185e5ff281a3df0d86_195541_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0012_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -710,8 +710,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0015_danielajakob_1000w_hu060b6596fcc35abe830fa6a311e7bd7e_345297_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0015_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -723,8 +723,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0025_danielajakob_1000w_huc236fe7d3f1f4888ff43a17ef41d4610_238462_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0025_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -736,8 +736,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0032_danielajakob_1000w_hu40909aeb563b0a4b816cde1227d7fd12_210404_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0032_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -749,8 +749,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0045_danielajakob_1000w_hu8e20e81eda074ee405f5b873a471a033_206841_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0045_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -762,8 +762,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0051_danielajakob_1000w_hu152d65b63ba855477d3c1cb8328a6077_178757_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0051_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -775,8 +775,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0063_danielajakob_1000w_hu48a93b01fb1e9cf7a8d649904787b009_161323_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0063_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -788,8 +788,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0072_danielajakob_1000w_hu79a501fa6500a264167844392ac0a456_160284_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0072_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -801,8 +801,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0127_danielajakob_1000w_hud1d5b7f6ef3e6748b99f2646d1fae769_162257_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0127_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -814,8 +814,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0138_danielajakob_1000w_hu9caa044f95a99e307c821be56bf551be_130654_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0138_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -827,8 +827,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0147_danielajakob_1000w_hudb89b3d39e56ff57c7c9a34ea0e555b2_156753_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0147_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -840,8 +840,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0157_danielajakob_1000w_huf181fc74d5f28c3e914d6cb5c2cf7402_209256_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0157_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -853,8 +853,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0181_danielajakob_1000w_hu52229c3ff1d35da3b8b12a6fc89359e7_189197_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0181_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -866,8 +866,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0196_danielajakob_1000w_hua89bb29823c229af820df93cd57fb547_176825_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0196_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -879,8 +879,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0212_danielajakob_1000w_hu16b32ba096bdf470e7543ec5af6b8b62_204548_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0212_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -892,8 +892,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0216_danielajakob_1000w_hu17ac28d4a4d52a52ff3e69e19917309b_215938_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0216_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -905,8 +905,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0221_danielajakob_1000w_hu00d140e451fa671c9e87c8b73e9532c6_165367_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0221_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -918,8 +918,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0223_danielajakob_1000w_hu9a14e84f2a37e1cd66ea45bac9c6234f_188032_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0223_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -931,8 +931,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0226_danielajakob_1000w_hue79427389025b1eda4d146af0d526bf1_359015_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0226_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -944,8 +944,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0228_danielajakob_1000w_hua865fcd58dff5b5fcd4694d27c83a010_456167_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0228_danielajakob_1000w.jpg&#34; width=&#34;500&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -957,8 +957,8 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-sonic-rug&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-sonic-rug/20171004_pp_reiterer_0235_danielajakob_1000w_hu6972a1265dc499deae19821487403747_199604_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;20171004_pp_reiterer_0235_danielajakob_1000w.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -978,9 +978,9 @@ Photo documentation: Daniela Jakob (Vienna Design Week)&lt;/p&gt;
     
     <item>
       <title>Tabletalks on Architecture (2016-2017)</title>
-      <link>https://example.com/project/16-tabletalks/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/16-tabletalks/</link>
       <pubDate>Fri, 05 Aug 2016 15:33:29 +0300</pubDate>
-      <guid>https://example.com/project/16-tabletalks/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/16-tabletalks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tabletalks on Architecture&lt;/em&gt;&lt;/strong&gt; was a lecture series produced by a group of university assistants at the Faculty of Architecture, TU Graz between 2016 and 2017.
 The initiative was conceived as as means to foster current research and as a casual event outside of formal university structures where academics, students, and practicing architects can converge, engage, exchange, and discuss matters related to architecture and architectural research.&lt;/p&gt;
 &lt;p&gt;Founding members of the initiative include Constantinos Miltiadis, Diederik de Koning, Marcello Fantuz, Sophia Walk, and Christoph Braser.&lt;br&gt;
@@ -990,7 +990,7 @@ All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34
 &lt;h1 id=&#34;tabletalks-archive&#34;&gt;Tabletalks archive&lt;/h1&gt;
 &lt;h2 id=&#34;ttoa-1-diederik-de-koning----agricultural-architecture--land-management&#34;&gt;TToA 1: Diederik de Koning &amp;ndash; Agricultural Architecture &amp;amp; Land Management&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_1_deKoning.pdf&#34;&gt;TToA 1 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_1_deKoning.pdf&#34;&gt;TToA 1 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 06.12.2016, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
@@ -998,7 +998,7 @@ All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34
 &lt;p&gt;Diederik de Koning graduated cum laude in architecture from Delft University of Technology, and also holds a master’s degree in Environmental and Infrastructure Planning from the University of Groningen. Since the spring of 2013 he has taught a variety of courses at The Berlage Center for Advanced Studies in Architecture and Urban Design in Delft. He now works for the Institute of Architecture and Landscape at Graz University of Technology. He is currently working on his PhD research at the Borders &amp;amp; Territories research group at TU Delft, which deals with agricultural buildings in the post-war European countryside. Results of the research have been presented at conferences in Warsaw and Venice in 2016. In parallel, he runs an independent architecture practice together with Laura van Santen under the name la-di-da (&lt;a href=&#34;http://www.la-di-da.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.la-di-da.nl/&lt;/a&gt;) which was recently included as one of the 33 invited young Dutch and Flemish offices to present their work as part of the 2016 “MAATWERK/MASSARBEIT” exhibition at the Deutsches Architekturmuseum, Frankfurt.&lt;/p&gt;
 &lt;h2 id=&#34;ttoa-2----petra-eckhard-the-anti-canon-of-architectural-modernism&#34;&gt;TToA 2 &amp;ndash; Petra Eckhard: The Anti-canon of Architectural Modernism&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_2_eckhard.pdf&#34;&gt;TToA 2 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_2_eckhard.pdf&#34;&gt;TToA 2 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 10.01.2017, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
@@ -1006,14 +1006,14 @@ All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34
 &lt;p&gt;Petra Eckhard is a literary and cultural studies scholar at the Institute of Architectural Theory, Art History and Cultural Studies at Graz University of Technology. She studied English and American Studies in New York, Bern and Graz, where she also received her doctorate in 2010. Her fields of interdisciplinary research involve practices of architectural writing, postmodernist works of literature and architecture as well as their cultural implications. She is the author of “Chronotopes of the Uncanny” (2011) and co-editor of Graz Architecture Magazine (GAM). Currently, she is working on her second book which explores the anti-canon of modernist architecture.&lt;/p&gt;
 &lt;h2 id=&#34;ttoa-3-mars-miltiadis-sekulić----metadata-punks&#34;&gt;TToA 3: Mars, Miltiadis, Sekulić &amp;ndash; Metadata Punks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf&#34;&gt;TToA 3 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf&#34;&gt;TToA 3 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 21.03.2017, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;See &lt;a href=&#34;../../event/metadata-punks&#34;&gt;Metadata Punks&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;ttoa-4-christoph-walter-pirker----visual-ontologies-of-the-indefinite&#34;&gt;TToA 4: Christoph Walter Pirker &amp;ndash; Visual Ontologies of the Indefinite&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_4_pirker.pdf&#34;&gt;TToA 4 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_4_pirker.pdf&#34;&gt;TToA 4 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 13.06.2017, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
@@ -1027,9 +1027,9 @@ In referring to the notion of duration, “Visual ontologies of the indefinite�
     
     <item>
       <title>Shifting perspectives</title>
-      <link>https://example.com/project/shifting-perspectives/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</link>
       <pubDate>Mon, 10 Nov 2014 11:03:03 +0300</pubDate>
-      <guid>https://example.com/project/shifting-perspectives/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/shifting-perspectives/</guid>
       <description>&lt;p&gt;&lt;em&gt;Shifting perspectives&lt;/em&gt; is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).&lt;/p&gt;
 &lt;p&gt;The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping.
 The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands.
@@ -1058,9 +1058,9 @@ The installation was developed with PUNCH collective, an interdisciplinary syner
     
     <item>
       <title>Vector Raster Bleep</title>
-      <link>https://example.com/project/vector-raster-bleep/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/vector-raster-bleep/</link>
       <pubDate>Fri, 07 Mar 2014 17:15:18 +0300</pubDate>
-      <guid>https://example.com/project/vector-raster-bleep/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/vector-raster-bleep/</guid>
       <description>&lt;p&gt;&lt;em&gt;VectorRasterBleep&lt;/em&gt; is an interactive installation developed as a playful interpretation of a baroque garden to the digital-virtual domain.
 The garden is conceived as the Queen&amp;rsquo;s antidote to boredom, a playground open to stimuli for subverting the normality of everyday life, and a gateway to the fantastic and phantasmic.
 Wearing an electronic suit, the Queen escapes to the garden to explore its wonders.
@@ -1104,8 +1104,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-actual.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-actual_huc316d6ca59dd25838f9b2aa3a45794e6_164556_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-actual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1117,8 +1117,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-virtual.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/setup-virtual_hucc37af5b30d8fa9ff636c0c91083889f_99191_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;setup-virtual.jpg&#34; width=&#34;750&#34; height=&#34;530&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1130,8 +1130,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-flowers.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-flowers_hu41803ddd6baf3521b74c3b9ab3f8b36f_57812_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-flowers.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1143,8 +1143,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-labirynth.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-labirynth_hu44d65878a0513f6a8e89405a05ee15fd_49851_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-labirynth.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1156,8 +1156,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-screen.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-screen_huf0d940e3e4cdecc5b432b277b839346a_53251_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-screen.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1169,8 +1169,8 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://example.com/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-vrb&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-water.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-vrb/vrb-water_hu5ba6c234522feeb9dcfee1e8f6f857c3_47184_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;vrb-water.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1182,9 +1182,9 @@ Its virtual counterpart, however, is a live phantom that transforms continuously
     
     <item>
       <title>7x Cabin</title>
-      <link>https://example.com/project/14-7x-cabin/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/14-7x-cabin/</link>
       <pubDate>Mon, 10 Feb 2014 19:22:31 +0300</pubDate>
-      <guid>https://example.com/project/14-7x-cabin/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/14-7x-cabin/</guid>
       <description>&lt;p&gt;The 7xCabin is the result of a workshop focusing on the implementation of a robotic fabrication process on the architectural scale. Instead of inventing a new architectural language based on shifts in technology, this projects searches for an integrative approach towards traditional crafts and archetypal forms. Using digital design tools, traditional timber joints were adapted to be usable with raw, irregular logs. These joints have subsequently been produced using a chainsaw mounted on an industrial robot. All movements for the robot were planned digitally, with students preparing the exact toolpaths for each log type.&lt;/p&gt;
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -1237,8 +1237,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491p_800_hue3bb0df70059dc7d031acf37a9053a8c_223900_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1250,8 +1250,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0491r_800_hu06a63480b6c6156e854dead563e0ad8d_124103_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0491r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1263,8 +1263,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495p_800_hu0e6bcd6d1381f004baee416cb85a57b4_201041_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1276,8 +1276,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0495r_800_huf7c5f6544b81a70093fd9c12cf9bf439_116615_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0495r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1289,8 +1289,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500p_800_hudac6f79f22b33ec37564784669f7989f_266035_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1302,8 +1302,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0500r_800_huaa0b4e9a837695198d85b5f3f0ae892d_112917_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0500r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1315,8 +1315,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519p_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519p_800_huf7e9c2683c894339ccfcca7a0f985e3e_248601_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519p_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1328,8 +1328,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519r_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/0519r_800_hubb3ccb7d93088b6001fcc688aafbc1b9_113858_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;0519r_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1341,8 +1341,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/dsc_9303_800.JPG&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/dsc_9303_800_hu405db727174ca8b1286fe2b70c60c214_526989_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;dsc_9303_800.JPG&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1354,8 +1354,8 @@ Constantinos Miltiadis&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-14-7x-cabin&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/postForHut_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/14-7x-cabin/postForHut_1600_huf1d426ff8d22cd653adeb0fdf59d4d05_354320_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;postForHut_1600.jpg&#34; width=&#34;321&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1367,9 +1367,9 @@ Constantinos Miltiadis&lt;/p&gt;
     
     <item>
       <title>Porocity</title>
-      <link>https://example.com/project/porocity/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</link>
       <pubDate>Mon, 30 Sep 2013 12:26:43 +0300</pubDate>
-      <guid>https://example.com/project/porocity/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/porocity/</guid>
       <description>&lt;!-- 
 - on Choi&#39;s Vimeo account 
 https://vimeo.com/78187584

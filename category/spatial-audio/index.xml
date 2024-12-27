@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>spatial audio | studio any</title>
-    <link>https://example.com/category/spatial-audio/</link>
-      <atom:link href="https://example.com/category/spatial-audio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/category/spatial-audio/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/category/spatial-audio/index.xml" rel="self" type="application/rss+xml" />
     <description>spatial audio</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:00:32 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>spatial audio</title>
-      <link>https://example.com/category/spatial-audio/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/category/spatial-audio/</link>
     </image>
     
     <item>
       <title>Virtual Acoustic Ecologies</title>
-      <link>https://example.com/course/virtual-acoustic-ecologies-2024/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</link>
       <pubDate>Wed, 28 Aug 2024 09:00:32 +0300</pubDate>
-      <guid>https://example.com/course/virtual-acoustic-ecologies-2024/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/virtual-acoustic-ecologies-2024/</guid>
       <description>&lt;p&gt;Week-long workshop focusing the exploration of architectural acoustics through experimental game design.
 The course was developed and taught together with Achilleas Xydis (AA Lab, ETH Zurich).&lt;/p&gt;
 &lt;p&gt;Seminar week; Winter semester 2024&lt;br&gt;
@@ -29,9 +29,9 @@ Department of Architecture, ETH Zurich.&lt;/p&gt;
     
     <item>
       <title>Beyond the Visual</title>
-      <link>https://example.com/course/beyond-the-visual/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/beyond-the-visual/</link>
       <pubDate>Sat, 13 Oct 2018 09:00:32 +0300</pubDate>
-      <guid>https://example.com/course/beyond-the-visual/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/course/beyond-the-visual/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/297305474&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -191,8 +191,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-blindfolded-listening_1600_hube6bb4ed874a916fde1fb2c64d291aea_114363_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-blindfolded-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-blindfolded-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-blindfolded-listening_1600_hube6bb4ed874a916fde1fb2c64d291aea_114363_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-blindfolded-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -204,8 +204,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition_1600_hu51e9fb1066ac67e625ebea43e34d0b37_142480_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition_1600.jpg&#34; width=&#34;750&#34; height=&#34;421&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition_1600_hu51e9fb1066ac67e625ebea43e34d0b37_142480_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition_1600.jpg&#34; width=&#34;750&#34; height=&#34;421&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -217,8 +217,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-exhibition-2_1600_hu313d495d4d5ee7e31a1d393a45655b37_91163_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-exhibition-2_1600_hu313d495d4d5ee7e31a1d393a45655b37_91163_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-exhibition-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -230,8 +230,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-listening_1600_hu55c22af62a70e5ae80aa19112db30103_103129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-listening_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-listening_1600_hu55c22af62a70e5ae80aa19112db30103_103129_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-listening_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -243,8 +243,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-1_1600_hu016726fc0ba059df39e9aaeec42d2226_171463_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-1_1600_hu016726fc0ba059df39e9aaeec42d2226_171463_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -256,8 +256,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-mid-presentation-2_1600_hu4f3f6f4783d4cfed8d361ec656384698_221995_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-mid-presentation-2_1600_hu4f3f6f4783d4cfed8d361ec656384698_221995_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-mid-presentation-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -269,8 +269,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-presentation_1600_huf60464d257dbb9814963a25881727e63_92402_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-presentation_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-presentation_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-presentation_1600_huf60464d257dbb9814963a25881727e63_92402_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-presentation_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -282,8 +282,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-testing_1600_hu494306931d7ed85cab50892e83d5bb4e_90111_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-testing_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-testing_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-testing_1600_hu494306931d7ed85cab50892e83d5bb4e_90111_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-testing_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -295,8 +295,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-text-reading_1600_hu7eeeec678c2f4eee6365f2f4572badcf_120823_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-text-reading_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-text-reading_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-text-reading_1600_hu7eeeec678c2f4eee6365f2f4572badcf_120823_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-text-reading_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -308,8 +308,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/workshop/btv-timeline_1600_hucc4f218eecad616dec105c7edd9c06b5_82294_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-timeline_1600.jpg&#34; width=&#34;421&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/workshop&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-timeline_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/workshop/btv-timeline_1600_hucc4f218eecad616dec105c7edd9c06b5_82294_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-timeline_1600.jpg&#34; width=&#34;421&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -347,8 +347,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-1_1600_hu6c884ba0727840a40001dde293477b38_30914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-1_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-1_1600_hu6c884ba0727840a40001dde293477b38_30914_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-1_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -360,8 +360,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-2_1600_hu8018b5678e1cfe3edc47b99c1e1f9c2f_69219_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-2_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-2_1600_hu8018b5678e1cfe3edc47b99c1e1f9c2f_69219_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-2_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -373,8 +373,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-3_1600_hu6228bf9d442057a94c03dfd04a3914e1_41850_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-3_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-3_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-3_1600_hu6228bf9d442057a94c03dfd04a3914e1_41850_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-3_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -386,8 +386,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-4_1600_hud55ea90cded625f0657f227658b34697_18394_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-4_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-4_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-4_1600_hud55ea90cded625f0657f227658b34697_18394_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-4_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -399,8 +399,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-5_1600_huc73657eef5fcc7a344f0a02a7c4c249b_46616_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-5_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-5_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-5_1600_huc73657eef5fcc7a344f0a02a7c4c249b_46616_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-5_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -412,8 +412,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-6_1600_hu081d04adc2ea2c762e0e42edc73bd27d_16426_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-6_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-6_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-6_1600_hu081d04adc2ea2c762e0e42edc73bd27d_16426_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-6_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -425,8 +425,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-7_1600_hu8a09cfb85ff4eeb3c91a111839b4720d_82886_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-7_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-7_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-7_1600_hu8a09cfb85ff4eeb3c91a111839b4720d_82886_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-7_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -438,8 +438,8 @@ Gerriet K. Sharma&lt;/p&gt;
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/18-btv/scenes/btv-scene-8_1600_hu9f31cc87afa9fe5e70bcf75990b2def7_15977_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-8_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-18-btv/scenes&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-8_1600.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/18-btv/scenes/btv-scene-8_1600_hu9f31cc87afa9fe5e70bcf75990b2def7_15977_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;btv-scene-8_1600.jpg&#34; width=&#34;750&#34; height=&#34;422&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -451,9 +451,9 @@ Gerriet K. Sharma&lt;/p&gt;
     
     <item>
       <title>reset.discover</title>
-      <link>https://example.com/project/reset-discover/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/reset-discover/</link>
       <pubDate>Wed, 31 Jan 2018 12:55:55 +0300</pubDate>
-      <guid>https://example.com/project/reset-discover/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/reset-discover/</guid>
       <description>&lt;p&gt;The piece &lt;em&gt;reset.discover&lt;/em&gt; is an artistic research collaboration of composer Antonia Manhartsberger and computational designer Constantinos Miltiadis, pursued to explore possibilities of uniting spatial-visual and spatial-sonic elements into one &lt;em&gt;consistent spatiotemporal whole&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The piece consists two counterparts: an electronic music composition for spatial audio, and a interactive virtual environment for VR.
 The composition features abstract sonic environments and moving sound objects organized in three categories: &lt;em&gt;ambient-environmental&lt;/em&gt;, &lt;em&gt;sound-object-events&lt;/em&gt;, and &lt;em&gt;gestures&lt;/em&gt;.

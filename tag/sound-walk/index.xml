@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sound walk | studio any</title>
-    <link>https://example.com/tag/sound-walk/</link>
-      <atom:link href="https://example.com/tag/sound-walk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/sound-walk/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/sound-walk/index.xml" rel="self" type="application/rss+xml" />
     <description>sound walk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Nov 2018 19:40:57 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>sound walk</title>
-      <link>https://example.com/tag/sound-walk/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/sound-walk/</link>
     </image>
     
     <item>
       <title>The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes</title>
-      <link>https://example.com/event/visual-imaginary-intangible-heritage/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/visual-imaginary-intangible-heritage/</link>
       <pubDate>Wed, 14 Nov 2018 19:40:57 +0300</pubDate>
-      <guid>https://example.com/event/visual-imaginary-intangible-heritage/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/visual-imaginary-intangible-heritage/</guid>
       <description>&lt;p&gt;Contribution to CHNT 2018 on intangible cultural heritage based on the project &lt;a href=&#34;../../project/daphnes-diary&#34;&gt;Daphne&amp;rsquo;s Diary&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This paper presents theoretical and practical considerations regarding the role of moat of the medieval walls of historic Nicosia. It introduces the history of Nicosia, the last divided capital of Europe, through the development of its Venetian fortifications. The moat acquired an important role for Nicosia when the city started expanding beyond the medieval footprint of the labyrinthine urban fabric of the historic core during the late period of British rule on the island. Since the beginning of the 20th century numerous activities and uses were hosted into the moat, from sporting events, livestock trade and markets to parades and leisure spaces, waste disposal and farming. &lt;/p&gt;
@@ -38,9 +38,9 @@ CHNT Website [[x](https://www.chnt.at/)]
     
     <item>
       <title>Daphne&#39;s Diary</title>
-      <link>https://example.com/project/daphnes-diary/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</link>
       <pubDate>Fri, 03 Nov 2017 12:56:19 +0300</pubDate>
-      <guid>https://example.com/project/daphnes-diary/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/daphnes-diary/</guid>
       <description>&lt;p&gt;Daphne&amp;rsquo;s Diary is a prototype  for historical interactive location-based audio narrative Geocaching tours, developed during the &lt;a href=&#34;http://cyberparks-project.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COST Cyberparks Training School&lt;/a&gt; titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.&lt;/p&gt;
 &lt;!--
 Daphne’s Diary is a concept design and prototype for historical interactive location-based audio narrative Geocaching tours, developed during the [COST Cyberparks Training School](http://cyberparks-project.eu/) titled “Virtual Flâneur of Mediterranean Cities” that took place at the Cyprus Institute, Nicosia, during the week of 30.10-3.11.2017.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>memory of the world | studio any</title>
-    <link>https://example.com/tag/memory-of-the-world/</link>
-      <atom:link href="https://example.com/tag/memory-of-the-world/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/memory-of-the-world/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/memory-of-the-world/index.xml" rel="self" type="application/rss+xml" />
     <description>memory of the world</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2017 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>memory of the world</title>
-      <link>https://example.com/tag/memory-of-the-world/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/memory-of-the-world/</link>
     </image>
     
     <item>
       <title>Metadata Punks</title>
-      <link>https://example.com/event/metadata-punks/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/metadata-punks/</link>
       <pubDate>Tue, 21 Mar 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/event/metadata-punks/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/metadata-punks/</guid>
       <description>&lt;p&gt;#000000&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;

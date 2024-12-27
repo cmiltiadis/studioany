@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>full-body | studio any</title>
-    <link>https://example.com/tag/full-body/</link>
-      <atom:link href="https://example.com/tag/full-body/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/full-body/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/full-body/index.xml" rel="self" type="application/rss+xml" />
     <description>full-body</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>full-body</title>
-      <link>https://example.com/tag/full-body/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/full-body/</link>
     </image>
     
     <item>
       <title>Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual</title>
-      <link>https://example.com/publication/15-ecaade/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/15-ecaade/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/15-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/15-ecaade/</guid>
       <description>&lt;p&gt;The contribution was awarded the &lt;em&gt;Ivan Petrovic Award&lt;/em&gt; for the best presentation by a young researcher.&lt;/p&gt;
 &lt;p&gt;Miltiadis, Constantinos. ‘Virtual Architecture in a Real-Time, Interactive, Augmented Reality Environment - Project Anywhere and the Potential of Architecture in the Age of the Virtual’. In &lt;em&gt;Real Time - Proceedings of the 33rd ECAADe Conference&lt;/em&gt;, edited by Bob Martens, Gabriel Wurzer, T Grasl, WE Lorenz, and R Schaffranek, 1:61–68. Vienna: Vienna University of Technology, 2015. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113&lt;/a&gt;.&lt;/p&gt;
 </description>

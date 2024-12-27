@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game studies | studio any</title>
-    <link>https://example.com/tag/game-studies/</link>
-      <atom:link href="https://example.com/tag/game-studies/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/game-studies/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/game-studies/index.xml" rel="self" type="application/rss+xml" />
     <description>game studies</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>game studies</title>
-      <link>https://example.com/tag/game-studies/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/game-studies/</link>
     </image>
     
     <item>
       <title>Virtual Architecture and SpaceTimeCraft</title>
-      <link>https://example.com/project/spacetimecraft/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/spacetimecraft/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/spacetimecraft/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/spacetimecraft/</guid>
       <description>&lt;p&gt;Long-term transdisciplinary research project on virtual architecture.
 The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research.
 It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research.&lt;/p&gt;
-&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://example.com/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://example.com/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
+&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
 In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: &lt;em&gt;SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Below is a catalog of related publications and presentations.&lt;/p&gt;
 </description>
@@ -28,9 +28,9 @@ In late 2019 the project developed into a doctoral research project at Aalto Uni
     
     <item>
       <title>From player representation to enactive presence: The case of &#34;boomer shooters&#34;</title>
-      <link>https://example.com/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</link>
       <pubDate>Tue, 29 Aug 2023 09:00:00 +0000</pubDate>
-      <guid>https://example.com/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/from-player-representation-to-enactive-presence-the-case-of-boomer-shooters/</guid>
       <description>&lt;h2 id=&#34;presentation-abstract&#34;&gt;Presentation abstract&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Just forget it. You know they are demons; we know they are demons; we both want to shoot them in the face. Let&amp;rsquo;s just go (&lt;a href=&#34;https://www.youtube.com/watch?v=vsoVQWnSOfM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Martin 2016&lt;/a&gt;).&lt;/p&gt;
@@ -84,9 +84,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>Other than Text: Media Used in Game Studies Publications</title>
-      <link>https://example.com/publication/23-digra/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/23-digra/</link>
       <pubDate>Mon, 05 Jun 2023 14:23:09 +0300</pubDate>
-      <guid>https://example.com/publication/23-digra/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/23-digra/</guid>
       <description>&lt;h1 id=&#34;publication-history&#34;&gt;Publication history&lt;/h1&gt;
 &lt;p&gt;I originally wrote this paper in late 2021.&lt;/p&gt;
 &lt;ul&gt;
@@ -98,9 +98,9 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics</title>
-      <link>https://example.com/event/continuum-cologne/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</link>
       <pubDate>Mon, 18 Mar 2019 10:00:03 +0300</pubDate>
-      <guid>https://example.com/event/continuum-cologne/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</guid>
       <description>&lt;p&gt;Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Event description&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.&lt;/p&gt;
@@ -143,17 +143,17 @@ Games of this genre often display contempt toward high brow or consistent narrat
     
     <item>
       <title>On the hypotheses which lie at the bases of game design: flat earthers and post-physical navigable environments</title>
-      <link>https://example.com/event/hypotheses-krakow/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/hypotheses-krakow/</link>
       <pubDate>Sat, 24 Nov 2018 10:30:00 +0000</pubDate>
-      <guid>https://example.com/event/hypotheses-krakow/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/hypotheses-krakow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond the Implied Player: Transgression and Contingency in Digital Games</title>
-      <link>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</link>
       <pubDate>Thu, 11 Oct 2018 09:00:00 +0000</pubDate>
-      <guid>https://example.com/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/beyond-the-implied-player-transgression-and-contingency-in-digital-games/</guid>
       <description>&lt;!--
 abstract 
 https://www.researchgate.net/publication/328174581_Beyond_the_Implied_Player_Transgression_and_Contingency_in_Digital_Games
@@ -166,18 +166,18 @@ https://gespielt.hypotheses.org/2009
     
     <item>
       <title>Virtual Reality, Videogames, Architecture and Education - From utopian drawings to inconstructible navigable environments</title>
-      <link>https://example.com/publication/18-ecaade/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-ecaade/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/18-ecaade/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/18-ecaade/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In &lt;em&gt;Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference&lt;/em&gt;, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. &lt;a href=&#34;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Architectural Continuum</title>
-      <link>https://example.com/event/continuum-architectonics/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-architectonics/</link>
       <pubDate>Sat, 09 Jun 2018 09:30:00 +0000</pubDate>
-      <guid>https://example.com/event/continuum-architectonics/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-architectonics/</guid>
       <description>&lt;h2 id=&#34;event-description&#34;&gt;Event description&lt;/h2&gt;
 &lt;p&gt;Space – in particular architectural and urban space – is always both real and virtual. For human beings, space is a construct of its perception via the body, but it is also culturally and socially determined as “relational space.” Architectural and urban spaces are inherently shaped by human beings: by their senses, by their perception, and by their cultural and social bonds. We experience these spaces as “real” and contingent, despite all possible false perceptions that might deceive us. They are an extension of our body – as well as related to the neurological, embodied mind – and are tied to its limitations.&lt;/p&gt;
 &lt;p&gt;While traditional forms of virtuality such as movies and literature can only partially overcome these ties and boundaries – bound as they are to sight, sound, or our sense of fantasy – new digital tools and forms of immersive virtuality can reveal new orders of experience, allowing an interaction with this space. This interaction even partially allows one to design this space. At least one is either asked to perform tasks – play – or can replicate reality via simulation.&lt;/p&gt;

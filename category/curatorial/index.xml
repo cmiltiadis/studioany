@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>curatorial | studio any</title>
-    <link>https://example.com/category/curatorial/</link>
-      <atom:link href="https://example.com/category/curatorial/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/category/curatorial/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/category/curatorial/index.xml" rel="self" type="application/rss+xml" />
     <description>curatorial</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Jan 2023 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>curatorial</title>
-      <link>https://example.com/category/curatorial/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/category/curatorial/</link>
     </image>
     
     <item>
       <title>Noise Traffic</title>
-      <link>https://example.com/curation/23-noisetraffic/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/23-noisetraffic/</link>
       <pubDate>Sat, 14 Jan 2023 14:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/23-noisetraffic/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/23-noisetraffic/</guid>
       <description>&lt;p&gt;Experimental live art event curated by Nicolina Stylianou (sensorium space), and produced in collaboration with &lt;a href=&#34;../../project/soc&#34;&gt;Station of Commons&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;event-program&#34;&gt;Event program&lt;/h1&gt;
 &lt;ul&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Digital Commoning Practices</title>
-      <link>https://example.com/project/21-commoning-practices/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/21-commoning-practices/</link>
       <pubDate>Sat, 06 Mar 2021 12:00:00 +0000</pubDate>
-      <guid>https://example.com/project/21-commoning-practices/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/21-commoning-practices/</guid>
       <description>&lt;p&gt;Co-curation and hosting of the lecture part in &lt;a href=&#34;#p2&#34;&gt;Phase 2&lt;/a&gt; of the exhibition &lt;em&gt;Digital Commoning Practices&lt;/em&gt;, by &lt;em&gt;Station of Commons&lt;/em&gt; that took place at the artist-run gallery &lt;em&gt;Oksasenkatu 11&lt;/em&gt;, in Helsinki, March 6-28 2021, during lockdown. See &lt;a href=&#34;#credits&#34;&gt;exhibition credits&lt;/a&gt; and &lt;a href=&#34;#lecture-programme&#34;&gt;lecture programme&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;lecture-programme&#34;&gt;Lecture programme&lt;/h1&gt;
 &lt;table&gt;
@@ -251,9 +251,9 @@ His recent publications include Common Spaces of Urban Emancipation (Manchester 
     
     <item>
       <title>WADS ↑ ← → ↓</title>
-      <link>https://example.com/project/wads/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</link>
       <pubDate>Sun, 06 Sep 2020 12:56:56 +0300</pubDate>
-      <guid>https://example.com/project/wads/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/wads/</guid>
       <description>&lt;p&gt;Co-curation of virtual exhibition at Ars Electronica Festival 2020 &lt;em&gt;In Kepler&amp;rsquo;s Gardens&lt;/em&gt; (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs.&lt;/p&gt;
 &lt;h2 id=&#34;exhibition-text&#34;&gt;Exhibition text&lt;/h2&gt;
 &lt;p&gt;WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.&lt;/p&gt;
@@ -298,8 +298,8 @@ His recent publications include Common Spaces of Urban Emancipation (Manchester 
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--06.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--06_hu7fa1db621c60e41316e650af3922e98e_406715_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--06.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -311,8 +311,8 @@ His recent publications include Common Spaces of Urban Emancipation (Manchester 
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta--07.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta--07_huf053d7e225a50b53f91ca7b2731382eb_412185_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta--07.jpg&#34; width=&#34;750&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -324,8 +324,8 @@ His recent publications include Common Spaces of Urban Emancipation (Manchester 
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-1_hu768420f944f74827e5c3c8a36c801a72_558081_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-1.jpg&#34; width=&#34;534&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -337,8 +337,8 @@ His recent publications include Common Spaces of Urban Emancipation (Manchester 
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wads&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/wads/wads-insta-poster-story-2_hufec8d4f3ee09b4e596e2f831660898ad_202288_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;wads-insta-poster-story-2.jpg&#34; width=&#34;531&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -350,9 +350,9 @@ His recent publications include Common Spaces of Urban Emancipation (Manchester 
     
     <item>
       <title>CAAD Futures 2021: Design Imperatives - The future is Now</title>
-      <link>https://example.com/project/caad-futures-2021/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/caad-futures-2021/</link>
       <pubDate>Thu, 09 Jul 2020 13:12:53 +0300</pubDate>
-      <guid>https://example.com/project/caad-futures-2021/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/caad-futures-2021/</guid>
       <description>&lt;p&gt;Co-chair and co-organizer for the 2021 iteration of the CAAD Futures international biannual conference, hosted remotely by the University of Southern California (USC).
 Contributed to authoring the open call, reviewing contributions, curating and hosting the keynote panel sessions, and co-editing the proceedings volume of the conference published in 2022 by &lt;em&gt;Springer&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Conference co-chairs:&lt;/p&gt;
@@ -371,9 +371,9 @@ Conference co-chair, co-organizer, and host; co-curator of the keynote panel ses
     
     <item>
       <title>IAM Open Lecture 30: Of Mirrors and Plays: Heterotopia as a design tool</title>
-      <link>https://example.com/curation/ol/ol-30/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-30/</link>
       <pubDate>Fri, 21 Jun 2019 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-30/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-30/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/346087697&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -402,9 +402,9 @@ Original post: https://iam.tugraz.at/2019/06/ol30_fmo/
     
     <item>
       <title>IAM Open Lecture 29: Fiction[-]Time: The Design of Time</title>
-      <link>https://example.com/curation/ol/ol-29/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-29/</link>
       <pubDate>Mon, 20 May 2019 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-29/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-29/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/338746746&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -426,9 +426,9 @@ Original post: https://iam.tugraz.at/2019/05/ol_pala/
     
     <item>
       <title>IAM Open Lecture 28: Scavengers and Other Creatures</title>
-      <link>https://example.com/curation/ol/ol-28/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-28/</link>
       <pubDate>Fri, 17 May 2019 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-28/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-28/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/340734144&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -449,9 +449,9 @@ Original post: https://iam.tugraz.at/2019/05/ol_deostos/
     
     <item>
       <title>◯  (2019)</title>
-      <link>https://example.com/project/o-graz/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/o-graz/</link>
       <pubDate>Sat, 04 May 2019 11:30:12 +0300</pubDate>
-      <guid>https://example.com/project/o-graz/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/o-graz/</guid>
       <description>&lt;p&gt;◯ was an experimental event series and collective based in Graz, active from 2019 to 2022. Founded in early 2019 by a group of eight individuals associated with the computer music program at the Institute of Electronic Music, University of Music and Performing Arts Graz, the collective aimed to curate and produce experimental post-genre events that blended contemporary bass and dance music with experimental electronics, live arts, and discourse.&lt;/p&gt;
 &lt;p&gt;◯ was launched on May 5, 2019, at Forum Stadtpark. Following that and throughout 2019, the collective was highly active, organizing its own events while also participating in a variety of festivals and events. However, as the pandemic took hold in 2020 and several members relocated from Graz, sustaining the series became increasingly challenging.
 Eventually, ◯  held its closing event at Forum Stadtpark on November 25, 2022.&lt;/p&gt;
@@ -532,7 +532,7 @@ Following the launch event ◯  was invited to participate, co-curate, or provid
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/o/190504-o-poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;18:00 WORKSHOP&lt;/p&gt;
@@ -593,7 +593,7 @@ no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/o/190607-gnxo.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Event produced by &lt;a href=&#34;https://www.facebook.com/GreyNote&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreyNote&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.facebook.com/thisisograz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;◯ &lt;/a&gt;.&lt;/p&gt;
@@ -658,9 +658,9 @@ no prior knowledge necessary | free | place for 20 people&lt;/li&gt;
     
     <item>
       <title>IAM Open Lecture 27: See and Tell. Image and Imaginary Strategies: Artist talk &amp; film screening</title>
-      <link>https://example.com/curation/ol/ol-27/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-27/</link>
       <pubDate>Thu, 04 Apr 2019 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-27/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-27/</guid>
       <description>&lt;p&gt;[no video]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Eduardo Brito&lt;/strong&gt; works on photography, film and writing. He holds a Master’s degree in Artistic, Museological and Curatorial Studies from the Faculty of Fine Arts of the University of Porto with a dissertation entitled “Claro Obscuro – Representations of the Museum in Fiction Film”. Eduardo is an assistant professor at this faculty and a researcher at I2ADS. Between writing, photography and film, Eduardo’s work explores the connections between truth, fiction and memory, as well the relation of text to image. Example of these are his books “East Ending” (2017) and “The Orcadians” (2014), and the photography series “5 p.m. Hotel de la Gloria” (with Rui Hermenegildo, 2015), “Un Samedi Sur Terre” (2017) and “Stories with no Return” (2018). Eduardo also directed the short films “Penumbria” (2016) and “Slope” (2018), co-wrote with Rodrigo Areias the feature film “Blue Breath” (2018) and wrote the short films “The Scoundrel” (Paulo Abreu, 2012), “The Glory of Filmmaking in Portugal” (Manuel Mozos, 2015), “Catherine or 1786” (Francisca Manuel, 2017) and “The Everlasting Man” (Luís Costa, 2017).&lt;/p&gt;
 &lt;!--
@@ -675,9 +675,9 @@ Original post: https://iam.tugraz.at/2019/04/ol_brito/
     
     <item>
       <title>IAM Open Lecture 26: Simulations of Built Heritage as Urban Commons</title>
-      <link>https://example.com/curation/ol/ol-26/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-26/</link>
       <pubDate>Mon, 10 Sep 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-26/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-26/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/310964014&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -698,9 +698,9 @@ Original post: https://iam.tugraz.at/2018/08/ol26_artopoulos/
     
     <item>
       <title>IAM Open Lecture 25: The Sixth Wave of Computing, or why Augmented Reality is not just for Architects</title>
-      <link>https://example.com/curation/ol/ol-25/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-25/</link>
       <pubDate>Mon, 04 Jun 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-25/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-25/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/299001337&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -722,9 +722,9 @@ Original post: https://iam.tugraz.at/2018/06/ol_walcher/
     
     <item>
       <title>IAM Open Lecture &amp; VR Experience 24: Synthetic corporeality in Contemporary Digital Art Practice: Artist Talk</title>
-      <link>https://example.com/curation/ol/ol-24/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-24/</link>
       <pubDate>Thu, 17 May 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-24/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-24/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/299012305&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -746,9 +746,9 @@ Original post: https://iam.tugraz.at/2018/05/ol_menegon/
     
     <item>
       <title>IAM Open Lecture 23: Maker Cultures: Dominant discourse and the possibility of heterogeneous practices</title>
-      <link>https://example.com/curation/ol/ol-23/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-23/</link>
       <pubDate>Mon, 14 May 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-23/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-23/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/282869281&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -770,9 +770,9 @@ Original post: https://iam.tugraz.at/2018/04/ol_foster/
     
     <item>
       <title>IAM Open Lecture 22: On Real and Virtual Space</title>
-      <link>https://example.com/curation/ol/ol-22/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-22/</link>
       <pubDate>Tue, 08 May 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-22/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-22/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/282884124&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -794,9 +794,9 @@ Original post: https://iam.tugraz.at/2018/04/ol_leirfall/
     
     <item>
       <title>IAM Open Lecture 21: Cybernetics Architecture Information</title>
-      <link>https://example.com/curation/ol/ol-21/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-21/</link>
       <pubDate>Tue, 24 Apr 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-21/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-21/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/282874647&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -818,9 +818,9 @@ Original post: https://iam.tugraz.at/2018/04/ol_werner/
     
     <item>
       <title>IAM Open Lecture 20: Being There in Virtual Worlds: Embodiment as Foundation of Spatial Conception in Virtual Environments</title>
-      <link>https://example.com/curation/ol/ol-20/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-20/</link>
       <pubDate>Thu, 19 Apr 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-20/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-20/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/282863062&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -842,9 +842,9 @@ Original post: https://iam.tugraz.at/2018/03/ol_fetzer/
     
     <item>
       <title>IAM Open Lecture 19: From Architecture to architectures</title>
-      <link>https://example.com/curation/ol/ol-19/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-19/</link>
       <pubDate>Fri, 13 Apr 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-19/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-19/</guid>
       <description>&lt;p&gt;[no video]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mariana Bisti&lt;/strong&gt; studied Building Restoration (TEIPAT 2005) and Architectural Engineering (BA/MSc, NTUA 2012) in Greece. In 2014, having spent several years in the design industry, she moved to London to pursue a MFA in Fine Art Media at the Slade School of Fine Art (UCL 2016). Her art practice ranges across different media, including video, photography, public interventions, performances and installation. It can be described as an exploration of the contours of meaning and identities, through the processing of their equivocal formations and contingent representations. In her works, traces, marks, manifestations of temporal presence are recorded and manipulated in an attempt to investigate the ubiquitous absence of certainty in our contemporary world. Implications of political and social issues are juxtaposed with solid forms and concrete spatial references, informing each other of the current human condition and its contextual ambiguities.&lt;/p&gt;
 &lt;p&gt;Mariana Bisti’s work can be found at &lt;a href=&#34;https://www.marianabisti.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marianabisti.com/&lt;/a&gt;&lt;/p&gt;
@@ -863,9 +863,9 @@ Original post: https://iam.tugraz.at/2018/03/ol_bisti/
     
     <item>
       <title>IAM Open Lecture 18: Architectonics : Film presentation &amp; discussion</title>
-      <link>https://example.com/curation/ol/ol-18/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-18/</link>
       <pubDate>Thu, 12 Apr 2018 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-18/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-18/</guid>
       <description>&lt;p&gt;[no video]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Anouk De Clercq&lt;/strong&gt; studied piano in Ghent and film at the Sint Lukas Brussels University College of Art and Design. Her works explore the audiovisual potential of computer language to create possible worlds, many of which have a strongly architectonic character. She has received several awards, including the Illy Prize at Art Brussels in 2005 and a Prix Ars Electronica Honorary Mention in 2014. Her work has been shown in Tate Modern, Centre Pompidou, Museo Nacional Centro de Arte Reina Sofia, MAXXI, Centre d’Art Contemporain Genève, International Film Festival Rotterdam, Ars Electronica, among others. Anouk De Clercq is affiliated to the School of Arts University College Ghent as an artistic researcher. She’s a founding member of Auguste Orts and is represented by Gallery Sofie Van de Velde.&lt;/p&gt;
 &lt;p&gt;Anouk De Clercq’s work can found at portabak.be&lt;/p&gt;
@@ -884,9 +884,9 @@ Original post: https://iam.tugraz.at/2018/03/ol_declercq/
     
     <item>
       <title>Towards the Expanded Field</title>
-      <link>https://example.com/project/towards-the-expanded-field/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/towards-the-expanded-field/</link>
       <pubDate>Wed, 07 Mar 2018 18:26:39 +0300</pubDate>
-      <guid>https://example.com/project/towards-the-expanded-field/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/towards-the-expanded-field/</guid>
       <description>&lt;p&gt;&lt;em&gt;Towards the Expanded Field: experimental and interdisciplinary approaches to immaterial spatiotemporal environments&lt;/em&gt; was a three day symposium including lectures, spatial audio performances and a VR exhibition that took place between 7 and 9 of March 2018 at the &lt;em&gt;Haus der Architektur&lt;/em&gt; Graz.&lt;/p&gt;
 &lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;p&gt;Virtual reality and spatial audio technologies bring about a new paradigm in the fields of architecture and music. While defying classification, works developed in these media extend our spatial and auditory sensibilities beyond what is perceivable in the physical world. Can we regard them however as architecture and music, or are they foreign to their origins?&lt;br&gt;
@@ -1014,8 +1014,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2812%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_huf1d5081509ddbc7b7d4238afbe572438_245723_6967a731bb794ca9e2a16a0f6cee1d77.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (12).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2812%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_huf1d5081509ddbc7b7d4238afbe572438_245723_6967a731bb794ca9e2a16a0f6cee1d77.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (12).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1027,8 +1027,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2815%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hucf0fe92b841ccfb8f485db64825c550e_332797_db90f4181d29746bbe1aa4d0956d7dc0.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (15).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2815%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hucf0fe92b841ccfb8f485db64825c550e_332797_db90f4181d29746bbe1aa4d0956d7dc0.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (15).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1040,8 +1040,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2817%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hued0e19bd569b2a4b089d2349b333541c_282829_40ce6e5a7dc02b00633a1cf156e2842a.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (17).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2817%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hued0e19bd569b2a4b089d2349b333541c_282829_40ce6e5a7dc02b00633a1cf156e2842a.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (17).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1053,8 +1053,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%284%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hu141c900ff7eed2ca985c9eacbe9701fd_244166_dd3da07062fdc8aebecd336ecc84a784.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (4).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%284%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hu141c900ff7eed2ca985c9eacbe9701fd_244166_dd3da07062fdc8aebecd336ecc84a784.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (4).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1066,8 +1066,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%289%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hu9e6d88306ca5971130e0e6ebe36c932e_270380_9b40607f97bcd3d9be85ccb873eadd76.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (9).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%289%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hu9e6d88306ca5971130e0e6ebe36c932e_270380_9b40607f97bcd3d9be85ccb873eadd76.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (9).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1079,8 +1079,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/v_TEF_HDA_Event_poster.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/v_TEF_HDA_Event_poster_hu9597f4bc666353aaa7095f6a9da79eef_332674_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;v_TEF_HDA_Event_poster.jpg&#34; width=&#34;521&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/v_TEF_HDA_Event_poster.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/v_TEF_HDA_Event_poster_hu9597f4bc666353aaa7095f6a9da79eef_332674_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;v_TEF_HDA_Event_poster.jpg&#34; width=&#34;521&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -1092,9 +1092,9 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
     
     <item>
       <title>IAM Open Lecture 17: Behind the visual: Digitalization of Indian Stone Architecture</title>
-      <link>https://example.com/curation/ol/ol-17/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-17/</link>
       <pubDate>Wed, 13 Dec 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-17/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-17/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/270385158&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1117,9 +1117,9 @@ Original post: https://iam.tugraz.at/2017/12/ol_kizicz_grimm/
     
     <item>
       <title>IAM Open Lecture 16: Adaptive structures and material performance</title>
-      <link>https://example.com/curation/ol/ol-16/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-16/</link>
       <pubDate>Tue, 28 Nov 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-16/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-16/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/253763577&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1141,9 +1141,9 @@ Original post: https://iam.tugraz.at/2017/11/ol15-baseta/
     
     <item>
       <title>IAM Open Lecture 15: The Designed and Self-organized. Coupling distinct paradigms of deposition-based construction</title>
-      <link>https://example.com/curation/ol/ol-15/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-15/</link>
       <pubDate>Wed, 22 Nov 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-15/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-15/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/253029359&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1165,9 +1165,9 @@ Original post: https://iam.tugraz.at/2017/11/ol16-ilgun/
     
     <item>
       <title>IAM Open Lecture 14: VOID, BRANDS, CHARACTERS  and how to Deal with a LOTs</title>
-      <link>https://example.com/curation/ol/14/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/14/</link>
       <pubDate>Mon, 20 Nov 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/14/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/14/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/253642887&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1192,9 +1192,9 @@ Original post: https://iam.tugraz.at/2017/10/ol14_miro_roman/
     
     <item>
       <title>IAM Open Lecture 13: Simulation as a driver for form-found architecture</title>
-      <link>https://example.com/curation/ol/ol-13/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-13/</link>
       <pubDate>Thu, 09 Nov 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-13/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-13/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/253027419&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1218,9 +1218,9 @@ Original post: https://iam.tugraz.at/2017/10/ol13_angelos_chronis/
     
     <item>
       <title>IAM Open Lecture 12: From VFX to experimental animation and generative design</title>
-      <link>https://example.com/curation/ol/ol-12/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-12/</link>
       <pubDate>Tue, 12 Sep 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-12/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-12/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/237071298&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1243,9 +1243,9 @@ Original post: https://iam.tugraz.at/2017/09/open-lecture-12-cherouvim/
     
     <item>
       <title>IAM Open Lecture 11: Projection &amp; Production: Scenes of Architecture in Movies and Game</title>
-      <link>https://example.com/curation/ol/ol-11/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-11/</link>
       <pubDate>Tue, 06 Jun 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-11/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-11/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/236585494&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1267,9 +1267,9 @@ Original post: https://iam.tugraz.at/2017/05/open-lecture-11-nicole-stoecklmayr-
     
     <item>
       <title>IAM Open Lecture 10: Independence Day : Resurgence. Designing the Alien Invasion</title>
-      <link>https://example.com/curation/ol/ol-10/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-10/</link>
       <pubDate>Fri, 02 Jun 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-10/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-10/</guid>
       <description>&lt;p&gt;[no video]&lt;/p&gt;
 &lt;p&gt;The architect and entertainment designer &lt;strong&gt;Johannes Mücke&lt;/strong&gt; is one of the two founding partners of the Viennese design studio WIDESHOT established in 2010. Together with his partner Oliver Bertram and his team, Johannes works for various Hollywood blockbusters especially Roland Emmerich productions. What started with a raw animated cartoon for the apocalypse prophet Charly Frost in the movie „2012“ reached its most recent climax with the blockbuster „Independence Day: Resurgence“. For „Independence Day: Resurgence“ Johannes with WIDESHOT took on the leading role for the design of all the spaceships, the illustrations for greenlight-presenations at Fox, the construction of the sets at the Studios of Albuquerque and the production of the title sequence in Los Angeles. In his lecture Johannes will give a close insight into his work and will present his approach on unconventional and innovative design for film, by his Vienna based design company.&lt;/p&gt;
 &lt;!--
@@ -1285,9 +1285,9 @@ Original post: https://iam.tugraz.at/2017/05/ol10/
     
     <item>
       <title>IAM Open Lecture &amp; Performance 9: CPPG Composition, Performance and Perception of Gamified Audiovisual Works</title>
-      <link>https://example.com/curation/ol/ol-9/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-9/</link>
       <pubDate>Wed, 24 May 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-9/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-9/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/236586871&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1308,9 +1308,9 @@ Original post: https://iam.tugraz.at/2017/05/open-lecture-9-marko-ciciliani-cppg
     
     <item>
       <title>IAM Open Lecture 8: Ruined cities, video games, and digital space: virtual-material feedback</title>
-      <link>https://example.com/curation/ol/ol-8/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-8/</link>
       <pubDate>Wed, 24 May 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-8/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-8/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/219969675&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1330,9 +1330,9 @@ Original post: https://iam.tugraz.at/2017/05/open-lecture-8-emma-fraser-ruined-c
     
     <item>
       <title>IAM Open Lecture 7: Robotic rod bending</title>
-      <link>https://example.com/curation/ol/ol-7/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-7/</link>
       <pubDate>Wed, 22 Mar 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-7/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-7/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/214800687&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1353,9 +1353,9 @@ Original post: https://iam.tugraz.at/2017/03/open-lecture-7-maria-smigelska-robo
     
     <item>
       <title>IAM Open Lecture 6:  Machine Learning from Las Vegas</title>
-      <link>https://example.com/curation/ol/ol-6/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-6/</link>
       <pubDate>Thu, 26 Jan 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-6/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-6/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/216165949&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1376,9 +1376,9 @@ Original post: https://iam.tugraz.at/2017/01/iam-open-lecture-6-pierre-cutellic-
     
     <item>
       <title>IAM Open Lecture 5: Cognitive Urban Design Computing</title>
-      <link>https://example.com/curation/ol/ol-5/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-5/</link>
       <pubDate>Thu, 12 Jan 2017 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-5/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-5/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://player.vimeo.com/video/199324858&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1399,9 +1399,9 @@ Event poster https://iam.tugraz.at/wp-content/uploads/2016/12/ol5_RKonig.pdf
     
     <item>
       <title>IAM Open Lecture 4: Robot-Aided Architecture</title>
-      <link>https://example.com/curation/ol/ol-4/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-4/</link>
       <pubDate>Tue, 13 Dec 2016 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-4/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-4/</guid>
       <description>&lt;!--
 IAM Open Lecture #4  
 Abel Groenewolt „Robot-Aided Architecture“  
@@ -1424,9 +1424,9 @@ Original post: https://iam.tugraz.at/2016/11/am-open-lecture-4-abel-groenewelt-r
     
     <item>
       <title>IAM Open Lecture 3: Affair on a Fantastic Planet</title>
-      <link>https://example.com/curation/ol/ol-3/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-3/</link>
       <pubDate>Thu, 10 Nov 2016 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-3/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-3/</guid>
       <description>&lt;p&gt;IAM Open Lectures #3&lt;br&gt;
 Mihye An „Affair on a Fantastic Planet“&lt;br&gt;
 18:00 Thursday 10 Nov 2016&lt;br&gt;
@@ -1441,9 +1441,9 @@ Original post: https://iam.tugraz.at/2016/10/open-lecture-mihye/
     
     <item>
       <title>Tabletalks on Architecture (2016-2017)</title>
-      <link>https://example.com/project/16-tabletalks/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/16-tabletalks/</link>
       <pubDate>Fri, 05 Aug 2016 15:33:29 +0300</pubDate>
-      <guid>https://example.com/project/16-tabletalks/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/16-tabletalks/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tabletalks on Architecture&lt;/em&gt;&lt;/strong&gt; was a lecture series produced by a group of university assistants at the Faculty of Architecture, TU Graz between 2016 and 2017.
 The initiative was conceived as as means to foster current research and as a casual event outside of formal university structures where academics, students, and practicing architects can converge, engage, exchange, and discuss matters related to architecture and architectural research.&lt;/p&gt;
 &lt;p&gt;Founding members of the initiative include Constantinos Miltiadis, Diederik de Koning, Marcello Fantuz, Sophia Walk, and Christoph Braser.&lt;br&gt;
@@ -1453,7 +1453,7 @@ All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34
 &lt;h1 id=&#34;tabletalks-archive&#34;&gt;Tabletalks archive&lt;/h1&gt;
 &lt;h2 id=&#34;ttoa-1-diederik-de-koning----agricultural-architecture--land-management&#34;&gt;TToA 1: Diederik de Koning &amp;ndash; Agricultural Architecture &amp;amp; Land Management&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_1_deKoning.pdf&#34;&gt;TToA 1 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_1_deKoning.pdf&#34;&gt;TToA 1 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 06.12.2016, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
@@ -1461,7 +1461,7 @@ All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34
 &lt;p&gt;Diederik de Koning graduated cum laude in architecture from Delft University of Technology, and also holds a master’s degree in Environmental and Infrastructure Planning from the University of Groningen. Since the spring of 2013 he has taught a variety of courses at The Berlage Center for Advanced Studies in Architecture and Urban Design in Delft. He now works for the Institute of Architecture and Landscape at Graz University of Technology. He is currently working on his PhD research at the Borders &amp;amp; Territories research group at TU Delft, which deals with agricultural buildings in the post-war European countryside. Results of the research have been presented at conferences in Warsaw and Venice in 2016. In parallel, he runs an independent architecture practice together with Laura van Santen under the name la-di-da (&lt;a href=&#34;http://www.la-di-da.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.la-di-da.nl/&lt;/a&gt;) which was recently included as one of the 33 invited young Dutch and Flemish offices to present their work as part of the 2016 “MAATWERK/MASSARBEIT” exhibition at the Deutsches Architekturmuseum, Frankfurt.&lt;/p&gt;
 &lt;h2 id=&#34;ttoa-2----petra-eckhard-the-anti-canon-of-architectural-modernism&#34;&gt;TToA 2 &amp;ndash; Petra Eckhard: The Anti-canon of Architectural Modernism&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_2_eckhard.pdf&#34;&gt;TToA 2 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_2_eckhard.pdf&#34;&gt;TToA 2 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 10.01.2017, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
@@ -1469,14 +1469,14 @@ All events took place at &lt;a href=&#34;https://cafe-kork.com/&#34; target=&#34
 &lt;p&gt;Petra Eckhard is a literary and cultural studies scholar at the Institute of Architectural Theory, Art History and Cultural Studies at Graz University of Technology. She studied English and American Studies in New York, Bern and Graz, where she also received her doctorate in 2010. Her fields of interdisciplinary research involve practices of architectural writing, postmodernist works of literature and architecture as well as their cultural implications. She is the author of “Chronotopes of the Uncanny” (2011) and co-editor of Graz Architecture Magazine (GAM). Currently, she is working on her second book which explores the anti-canon of modernist architecture.&lt;/p&gt;
 &lt;h2 id=&#34;ttoa-3-mars-miltiadis-sekulić----metadata-punks&#34;&gt;TToA 3: Mars, Miltiadis, Sekulić &amp;ndash; Metadata Punks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf&#34;&gt;TToA 3 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf&#34;&gt;TToA 3 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 21.03.2017, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;See &lt;a href=&#34;../../event/metadata-punks&#34;&gt;Metadata Punks&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;ttoa-4-christoph-walter-pirker----visual-ontologies-of-the-indefinite&#34;&gt;TToA 4: Christoph Walter Pirker &amp;ndash; Visual Ontologies of the Indefinite&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/uploads/ttoa/ttoa_4_pirker.pdf&#34;&gt;TToA 4 event poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/uploads/ttoa/ttoa_4_pirker.pdf&#34;&gt;TToA 4 event poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Tuesday, 13.06.2017, 18:00&lt;/li&gt;
 &lt;li&gt;Kork, Lessingstraße 25, 8010 Graz&lt;/li&gt;
 &lt;/ul&gt;
@@ -1490,9 +1490,9 @@ In referring to the notion of duration, “Visual ontologies of the indefinite�
     
     <item>
       <title>IAM Open Lecture 2: Sound to Space</title>
-      <link>https://example.com/curation/ol/ol-2/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-2/</link>
       <pubDate>Tue, 10 May 2016 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-2/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-2/</guid>
       <description>&lt;p&gt;In the scope of the Virtual Spaces Master Studio, and the Interdisciplinary Media: Space to Sound, we are pleased to announce the IAM Open Lecture #2 by Prof. Werner Jauk, titled „Sound to (auditory) space“.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Werner Jauk&lt;/strong&gt;
 Psychologist working on experimental aesthetics, the hedonic control of explorative behaviour
@@ -1513,9 +1513,9 @@ Original post:
     
     <item>
       <title>IAM Open Lecture 1: Sound to Space</title>
-      <link>https://example.com/curation/ol/ol-1/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-1/</link>
       <pubDate>Wed, 25 Nov 2015 18:00:00 +0000</pubDate>
-      <guid>https://example.com/curation/ol/ol-1/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/curation/ol/ol-1/</guid>
       <description>&lt;!--
 IAM Open Lecture #1  
 Jan Henrik Hansen &amp; IOhannes zmölnig  
@@ -1538,14 +1538,14 @@ Original post:
     
     <item>
       <title>Open Lecture Series (2015-2019)</title>
-      <link>https://example.com/project/iam-open-lectures/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/iam-open-lectures/</link>
       <pubDate>Fri, 06 Nov 2015 19:00:04 +0300</pubDate>
-      <guid>https://example.com/project/iam-open-lectures/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/iam-open-lectures/</guid>
       <description>&lt;p&gt;The &lt;em&gt;IAM Open Lecture Series&lt;/em&gt; was founded in late 2015 at the Institute of Architecture and Media (IAM), TU Graz. The project slowly formalised as a mapping of the research ecology concerning computation and related discourse in the wider field of architecture and media.
 The series hosts talks by younger academic researchers and practitioners aiming to present and promote experimental, interdisciplinary and ongoing research.
 All sessions are hosted at the New Media Lab of IAM, Kronesgasse 5/III, Graz.&lt;/p&gt;
 &lt;h1 id=&#34;open-lectures-archive&#34;&gt;Open lectures archive&lt;/h1&gt;
-&lt;p&gt;For the documentation of sessions 1-30 see the &lt;a href=&#34;https://example.com/tag/iam-open-lectures&#34;&gt;IAM Open Lectures Archive&lt;/a&gt; on this website.
+&lt;p&gt;For the documentation of sessions 1-30 see the &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/iam-open-lectures&#34;&gt;IAM Open Lectures Archive&lt;/a&gt; on this website.
 For the complete catalog of the series see &lt;a href=&#34;https://iam.tugraz.at/main-website/category/openlecture/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IAM Open lectures at iam.tugraz.at&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Video documentation of the &lt;em&gt;IAM Open Lectures&lt;/em&gt; is archived at:
 &lt;a href=&#34;https://tube.tugraz.at/paella/ui/browse.html?series=9866b725-a6f2-41ca-8e5c-00879478b22f&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TU Graz Tube&lt;/a&gt; and on &lt;a href=&#34;https://vimeo.com/channels/iamlectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;

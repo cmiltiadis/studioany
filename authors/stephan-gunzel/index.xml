@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephan Günzel | studio any</title>
-    <link>https://example.com/authors/stephan-gunzel/</link>
-      <atom:link href="https://example.com/authors/stephan-gunzel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/stephan-gunzel/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/stephan-gunzel/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephan Günzel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 18:26:39 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>Stephan Günzel</title>
-      <link>https://example.com/authors/stephan-gunzel/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/authors/stephan-gunzel/</link>
     </image>
     
     <item>
       <title>Towards the Expanded Field</title>
-      <link>https://example.com/project/towards-the-expanded-field/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/towards-the-expanded-field/</link>
       <pubDate>Wed, 07 Mar 2018 18:26:39 +0300</pubDate>
-      <guid>https://example.com/project/towards-the-expanded-field/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/towards-the-expanded-field/</guid>
       <description>&lt;p&gt;&lt;em&gt;Towards the Expanded Field: experimental and interdisciplinary approaches to immaterial spatiotemporal environments&lt;/em&gt; was a three day symposium including lectures, spatial audio performances and a VR exhibition that took place between 7 and 9 of March 2018 at the &lt;em&gt;Haus der Architektur&lt;/em&gt; Graz.&lt;/p&gt;
 &lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;p&gt;Virtual reality and spatial audio technologies bring about a new paradigm in the fields of architecture and music. While defying classification, works developed in these media extend our spatial and auditory sensibilities beyond what is perceivable in the physical world. Can we regard them however as architecture and music, or are they foreign to their origins?&lt;br&gt;
@@ -144,8 +144,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2812%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_huf1d5081509ddbc7b7d4238afbe572438_245723_6967a731bb794ca9e2a16a0f6cee1d77.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (12).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2812%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_huf1d5081509ddbc7b7d4238afbe572438_245723_6967a731bb794ca9e2a16a0f6cee1d77.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (12).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -157,8 +157,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2815%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hucf0fe92b841ccfb8f485db64825c550e_332797_db90f4181d29746bbe1aa4d0956d7dc0.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (15).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2815%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hucf0fe92b841ccfb8f485db64825c550e_332797_db90f4181d29746bbe1aa4d0956d7dc0.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (15).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -170,8 +170,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2817%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hued0e19bd569b2a4b089d2349b333541c_282829_40ce6e5a7dc02b00633a1cf156e2842a.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (17).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%2817%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hued0e19bd569b2a4b089d2349b333541c_282829_40ce6e5a7dc02b00633a1cf156e2842a.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (17).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -183,8 +183,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%284%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hu141c900ff7eed2ca985c9eacbe9701fd_244166_dd3da07062fdc8aebecd336ecc84a784.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (4).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%284%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hu141c900ff7eed2ca985c9eacbe9701fd_244166_dd3da07062fdc8aebecd336ecc84a784.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (4).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -196,8 +196,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%289%29.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/_hu9e6d88306ca5971130e0e6ebe36c932e_270380_9b40607f97bcd3d9be85ccb873eadd76.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (9).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/180307_Towards_the_Expanded_Field%20%28c%29%20Felix%20Zitter-HDA%20%289%29.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/_hu9e6d88306ca5971130e0e6ebe36c932e_270380_9b40607f97bcd3d9be85ccb873eadd76.webp&#34; loading=&#34;lazy&#34; alt=&#34;180307_Towards_the_Expanded_Field (c) Felix Zitter-HDA (9).jpg&#34; width=&#34;750&#34; height=&#34;500&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   
@@ -209,8 +209,8 @@ The IKO speaker was provided courtesy of the Institute of Electronic Music and A
   
   
   &lt;div class=&#34;gallery-item gallery-item--medium&#34;&gt;
-    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://example.com/media/albums/tef/v_TEF_HDA_Event_poster.jpg&#34; &gt;
-      &lt;img src=&#34;https://example.com/media/albums/tef/v_TEF_HDA_Event_poster_hu9597f4bc666353aaa7095f6a9da79eef_332674_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;v_TEF_HDA_Event_poster.jpg&#34; width=&#34;521&#34; height=&#34;750&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-tef&#34; href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/v_TEF_HDA_Event_poster.jpg&#34; &gt;
+      &lt;img src=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/cmiltiadis/website-hugo-academic/media/albums/tef/v_TEF_HDA_Event_poster_hu9597f4bc666353aaa7095f6a9da79eef_332674_750x750_fit_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;v_TEF_HDA_Event_poster.jpg&#34; width=&#34;521&#34; height=&#34;750&#34;&gt;
     &lt;/a&gt;
   &lt;/div&gt;
   

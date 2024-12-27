@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>virtual architecture | studio any</title>
-    <link>https://example.com/tag/virtual-architecture/</link>
-      <atom:link href="https://example.com/tag/virtual-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/virtual-architecture/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/virtual-architecture/index.xml" rel="self" type="application/rss+xml" />
     <description>virtual architecture</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>virtual architecture</title>
-      <link>https://example.com/tag/virtual-architecture/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/virtual-architecture/</link>
     </image>
     
     <item>
       <title>Virtual Architecture and SpaceTimeCraft</title>
-      <link>https://example.com/project/spacetimecraft/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/spacetimecraft/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/spacetimecraft/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/project/spacetimecraft/</guid>
       <description>&lt;p&gt;Long-term transdisciplinary research project on virtual architecture.
 The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research.
 It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research.&lt;/p&gt;
-&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://example.com/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://example.com/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
+&lt;p&gt;The project started following the development of &lt;a href=&#34;../project-anywhere&#34;&gt;project Anywhere&lt;/a&gt; at the Chair for CAAD at ETH Zurich in 2014. It continued through teaching the experimental course &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/vsms&#34;&gt;Virtual Spaces Master Studio&lt;/a&gt; on VR game design for architects developed and taught at the Institute of Architecture and Media at TU Graz in 2016 and 2017, as well as other short intensive &lt;a href=&#34;https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/workshop&#34;&gt;workshops&lt;/a&gt;.
 In late 2019 the project developed into a doctoral research project at Aalto University, School of Arts, expected in 2025, titled: &lt;em&gt;SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Below is a catalog of related publications and presentations.&lt;/p&gt;
 </description>
@@ -28,26 +28,26 @@ In late 2019 the project developed into a doctoral research project at Aalto Uni
     
     <item>
       <title>Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections</title>
-      <link>https://example.com/publication/20-archidoct/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/20-archidoct/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/20-archidoct/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/publication/20-archidoct/</guid>
       <description>&lt;p&gt;Miltiadis, Constantinos. ‘Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections’. Archidoct, Variability, 8, no. 1 (2020): 24–37.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Inconstructible: space writing within architecture’s expanded field</title>
-      <link>https://example.com/event/the-inconstructible-space-writing-within-architectures-expanded-field/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-inconstructible-space-writing-within-architectures-expanded-field/</link>
       <pubDate>Sat, 16 Nov 2019 20:00:00 +0000</pubDate>
-      <guid>https://example.com/event/the-inconstructible-space-writing-within-architectures-expanded-field/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/the-inconstructible-space-writing-within-architectures-expanded-field/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inconstructible Architectures</title>
-      <link>https://example.com/event/inconstructible-architectures/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/inconstructible-architectures/</link>
       <pubDate>Sat, 16 Nov 2019 12:30:00 +0000</pubDate>
-      <guid>https://example.com/event/inconstructible-architectures/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/inconstructible-architectures/</guid>
       <description></description>
     </item>
     

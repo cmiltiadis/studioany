@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game space | studio any</title>
-    <link>https://example.com/tag/game-space/</link>
-      <atom:link href="https://example.com/tag/game-space/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/game-space/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/game-space/index.xml" rel="self" type="application/rss+xml" />
     <description>game space</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2019 10:00:03 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>game space</title>
-      <link>https://example.com/tag/game-space/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/game-space/</link>
     </image>
     
     <item>
       <title>The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics</title>
-      <link>https://example.com/event/continuum-cologne/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</link>
       <pubDate>Mon, 18 Mar 2019 10:00:03 +0300</pubDate>
-      <guid>https://example.com/event/continuum-cologne/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/continuum-cologne/</guid>
       <description>&lt;p&gt;Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Event description&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.&lt;/p&gt;

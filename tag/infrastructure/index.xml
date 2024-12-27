@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>infrastructure | studio any</title>
-    <link>https://example.com/tag/infrastructure/</link>
-      <atom:link href="https://example.com/tag/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/infrastructure/</link>
+      <atom:link href="https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/infrastructure/index.xml" rel="self" type="application/rss+xml" />
     <description>infrastructure</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2022 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/media/icon_hu4964246c05a61ea2dde1a8350b549fed_585_512x512_fill_lanczos_center_3.png</url>
       <title>infrastructure</title>
-      <link>https://example.com/tag/infrastructure/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/tag/infrastructure/</link>
     </image>
     
     <item>
       <title>Virtual Infrastructures</title>
-      <link>https://example.com/event/virtual-infrastructures/</link>
+      <link>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/virtual-infrastructures/</link>
       <pubDate>Thu, 09 Jun 2022 10:00:00 +0000</pubDate>
-      <guid>https://example.com/event/virtual-infrastructures/</guid>
+      <guid>https://cmiltiadis.github.io/cmiltiadis/website-hugo-academic/event/virtual-infrastructures/</guid>
       <description>&lt;h1 id=&#34;event-description--programme&#34;&gt;Event description &amp;amp; programme&lt;/h1&gt;
 &lt;p&gt;The &lt;em&gt;Open Up and Shape Helsinki&lt;/em&gt; Symposium discusses how equity, labour, money and structures of power are configured globally, while reflecting these questions back onto Helsinki’s cultural scene, inviting three position papers and three Helsinki-based respondents:&lt;/p&gt;
 &lt;p&gt;Carolina Rito, co-editor of Institution as &lt;a href=&#34;https://www.sternberg-press.com/product/institution-as-praxis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Praxis – New Curatorial Directions for Collaborative Research&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; (Sternberg Press, 2020); followed by Joasia Krysia, Curator of Helsinki Biennial 2023&lt;/p&gt;
