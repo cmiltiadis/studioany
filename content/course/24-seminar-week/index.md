@@ -25,8 +25,7 @@ links:
   url: 'uploads/24-Virtual Acoustic Ecologies.pdf'
   icon: file-pdf
 - name: 'Course website'
-  url: https://aa.arch.ethz.ch/seminar-weeks/virtual-acoustic-ecologies/ 
-  
+  url: https://aa.arch.ethz.ch/seminar-weeks/hs24/   
 
 # Projects (optional).
 projects: [spacetimecraft]
