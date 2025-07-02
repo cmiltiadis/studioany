@@ -42,15 +42,15 @@ education:
 # ###############################################
 interests: 
 - virtual architecture 
-- spatiotemporal design 
-- computational design 
-- experimental gamemaking
+- spatiotemporal design
+- spatial UI & UX 
+- R&D
+- rapid software & hardware prototyping
+- procedural design 
+- experimental game and VR development 
 - research through design
-- design & media archeology 
+- digital design & media archeology 
 - digital commons 
-- open infrastructure 
-- archiving & librarianship 
-- cooking 
 # ###############################################
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,9 +73,9 @@ social:
   - icon: linkedin  ####### LINKEDIN
     icon_pack: fab
     link: 'https://www.linkedin.com/in/constantinosmiltiadis/'
-  - icon: twitter  ####### twitter
-    icon_pack: fab
-    link: https://twitter.com/studioany
+#  - icon: twitter  ####### twitter
+#    icon_pack: fab
+#    link: https://twitter.com/studioany
     #display:
       #header: true
 # ###############################################
@@ -84,7 +84,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cmiltiadis-cv.pdf
+    link: "uploads/resume/CMiltiadis Resume.pdf"
 
 # ###############################################
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -168,23 +168,36 @@ skills:
         icon: camera
 -->
 
-Constantinos Miltiadis (b. 1986) is a transdisciplinary architect and researcher; also programmer, curator, media artist, teacher, archivist, and librarian.
-He is currently pursuing a doctoral dissertation titled *SpaceTimeCraft* (expected in 2025), at the [School of Arts, Design & Architecture at Aalto University](https://www.aalto.fi/en/school-of-arts-design-and-architecture). 
+Constantinos Miltiadis is a transdisciplinary architect, programmer and digital design researcher. 
+His work explores new aesthetic and experiential forms at the intersection of design, spatial interaction, and immersive technologies. 
+He has worked across scientific research, design consulting, UX, R&D, and creative technology prototyping, with a focus on interactive media, exploratory gamemaking, and VR development. 
+
+He is currently a design researcher at [Aalto University, School of Arts, Design & Architecture ](https://www.aalto.fi/en/school-of-arts-design-and-architecture), part of the Experience Design project funded by the Research Council of Finland, where he is pursuing a Doctorate in Arts with a dissertation titled *SpaceTimeCraft*, expected in 2025.
 
 <!-- EDUCATION & EXPERIENCE -->
-Constantinos studied architecture at [NTU-Athens](https://www.arch.ntua.gr/?lang=en) (Dipl-.Ing Architect Engineer), and at the [Chair for CAAD/Digital Architectonics](https://www.caad.arch.ethz.ch/) ETH Zurich (MAS in Architecture and Information), with additional studies in computer music at [IEM KU Graz](https://iem.kug.ac.at/en/). 
-Between 2015 and 2019 he was assistant professor at the [Institute of Architecture and Media](https://iam.tugraz.at/main-website/en/) at TU Graz. 
-Since late 2019 he is a doctoral researcher at the Dept. of Design & Dept. of Architecture at [Aalto University, School of ARTS](https://www.aalto.fi/en/school-of-arts-design-and-architecture).  
-
-<!-- INTERESTS // g](../category/prototype)-->
-Constantino's main research interests concern aesthetic phenomena between technology and culture, which he pursues through various methods including computational design research, speculative prototyping, experimental gamemaking, teaching, artistic research, and curatorial work.
-Since the mid-2010s his research focus concerns [virtual architecture](../../project/spacetimecraft), implementing integrative design research to investigate the aesthetic dimension of spatiotemporal environments that are *inconstructible* in the physical world, and thus specific to and experienceable through digital media such as VR and videogames. 
+Previous roles include assistant professor at the [Institute of Architecture and Media](https://iam.tugraz.at/main-website/en/), TU Graz (2015-2019), research assistant at ETH Zurich (2014-2015), and digital design consultant (2012-2015).
+Constantinos studied architecture at [NTU-Athens](https://www.arch.ntua.gr/?lang=en) (Dipl-.Ing Architect Engineer 2012), and at the [Chair for CAAD/Digital Architectonics](https://www.caad.arch.ethz.ch/) ETH Zurich (MAS in Architecture and Information 2014), and pursued further studies in computer music at [IEM KU Graz](https://iem.kug.ac.at/en/) (2018-2019). 
 
 <!-- WORK -->
-Constantino's research has been [presented](../event/) in seminars, conferences and exhibitions, and [published](../publication/) in academic fields including architecture, artistic research, and game studies. 
-He has [developed and taught original course curricula](../course) on creative computation, and experimental game design and VR development in both academic and extra-academic contexts.
-Moreover, he has been involved in multiple projects and transdisciplinary [collaborations](../tag/collaboration), including [curatorial projects](../category/curatorial), [discursive and artistic event production](../../curation), [exhibitions](../tag/exhibition), and [installations](../tag/installation).
+His research has been [presented](../event/) at international conferences and seminars, [published](../publication/) in academic fields including architecture, artistic research, and game studies, and featured in international media outlets. 
+He has developed and taught [original courses](../course) on creative programming, experimental game design and VR development in both academic and extra-academic settings.
+He is also active through transdisciplinary [collaborations](../tag/collaboration), [curatorial works](../category/curatorial), [discursive and artistic event production](../curation), [exhibitions](../tag/exhibition), and [installations](../tag/installation).
 
+
+---
+
+<!-- INTERESTS // g](../category/prototype)-->
+<!-- 
+Constantino's main research interests concern aesthetic phenomena between technology and culture, which he pursues through various methods including computational design research, speculative prototyping, experimental gamemaking, teaching, artistic research, and curatorial work.
+Since the mid-2010s his research focus concerns [virtual architecture](../project/spacetimecraft), implementing integrative design research to investigate the aesthetic dimension of spatiotemporal environments that are *inconstructible* in the physical world, and thus specific to and experienceable through digital media such as VR and videogames. 
+-->
+
+
+<!--
+; also programmer, curator, media artist, teacher, archivist, and librarian.
+-->
 <!-- GROUPS -->
-He is part of the working groups [ENCORE](https://www.aalto.fi/fi/muotoilun-laitos/encore-engaging-co-design-research-group) and [Game Design Praxiology](https://aakoosgamelab.com/gamepraxi/) at Aalto ARTS, the cross-continental Games & Praxis group, the special interest group [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449), and the Helsinki-based collective [Station of Commons](../project/station-of-commons). 
+<!-- 
+He is part of the working groups [ENCORE](https://www.aalto.fi/fi/muotoilun-laitos/encore-engaging-co-design-research-group) and [Game Design Praxiology](https://aakoosgamelab.com/gamepraxi/) at Aalto ARTS, the cross-continental Games & Praxis group, the special interest group [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449), and the Helsinki-based collective [Station of Commons](../project/station-of-commons).
+-->
 
