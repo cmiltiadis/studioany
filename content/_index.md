@@ -15,7 +15,7 @@ sections:
     id: landing-text
     content: 
       title: |
-        <br><markdown><center><small>Online portfolio and project archive of [Constantinos Miltiadis](/about)</small></center></markdown>
+        <br><markdown><center><small>Online portfolio and project archive of [Constantinos Miltiadis](about)</small></center></markdown>
       columns: '1'
 # Collection block from https://hugoblox.com/blocks/collection/
   - block: collection
