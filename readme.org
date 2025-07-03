@@ -6,9 +6,14 @@ Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (see [[
 + Deployments
   + Netlify https://studioany-test.netlify.app/
   + (Manually uploaded to) https://new.studioany.com/
-  + Github pages deployment (per [[https://gohugo.io/hosting-and-deployment/hosting-on-github/][guide]]) at https://cmiltiadis.github.io/studioany-website/
+  + Github pages deployment (per [[https://gohugo.io/hosting-and-deployment/hosting-on-github/][guide]]) at https://cmiltiadis.github.io/studioany/
+    + +https://cmiltiadis.github.io/studioany-website/+
   + failed with +[[https://theplaybook.dev/docs/deploy-hugo-to-github-pages/][theplaybook tutorial]]+
     + Added github.io url at config as =base_url=
+* Changelog
++ [2025-07-03 Thu]
+  + removed Posts from [[file:config/_default/menus.yaml][menus]].
+  + Changed repo name & url to =studioany=
 * UPDATE ?
 1. Make branch
 2. Solve

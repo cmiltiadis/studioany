@@ -29,9 +29,9 @@ main:
   - name: Teaching
     url: '/course' # new
     weight: 60
-  - name: Posts
-    url: '/blog' # new -- (earlier was #poasts and /post)
-    weight: 70
+#  - name: Posts
+#    url: '/blog' # new -- (earlier was #poasts and /post)
+#    weight: 70
   # - name: Project Filter
   #   url: '/project-filter' # new
   #   weight: 70  

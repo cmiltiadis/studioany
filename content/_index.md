@@ -11,14 +11,11 @@ sections:
 #  - block: hero 
 #    content: 
 #      title: 'studio any'
-      # text: "ffdslk"
   - block: markdown
     id: landing-text
     content: 
-      # text: # Browse [projects](/project), [talks](/event), [publications](/publication), [curatorial projects & event production](/curation), [courses taught](/course), [peers](/authors).
       title: |
-        <br><markdown><center><small>Online portfolio and project archive of [Constantinos Miltiadis](/contact)</small></center></markdown>
-      # text: <br><markdown><center>Online portfolio and project archive of [Constantinos Miltiadis](/contact)</center></markdown>
+        <br><markdown><center><small>Online portfolio and project archive of [Constantinos Miltiadis](/about)</small></center></markdown>
       columns: '1'
 # Collection block from https://hugoblox.com/blocks/collection/
   - block: collection
