@@ -169,20 +169,20 @@ skills:
 -->
 
 Constantinos Miltiadis is a transdisciplinary architect, programmer and digital design researcher. 
-His work explores new aesthetic and experiential forms at the intersection of design, spatial interaction, and immersive technologies. 
-He has worked across scientific research, design consulting, UX, R&D, and creative technology prototyping, with a focus on interactive media, exploratory gamemaking, and VR development. 
+His primary interest lies in exploring new aesthetic and experiential forms at the intersection of design, spatial interaction, and immersive technologies. 
+He has worked across scientific research, design consulting, UX, R&D, creative technology prototyping as well as teaching, with a focus on interactive media, exploratory gamemaking, and VR development. 
 
-He is currently a design researcher at [Aalto University, School of Arts, Design & Architecture ](https://www.aalto.fi/en/school-of-arts-design-and-architecture), part of the Experience Design project funded by the Research Council of Finland, where he is pursuing a Doctorate in Arts with a dissertation titled *[SpaceTimeCraft](../project/spacetimecraft)*, expected in 2025.
+He is currently a design researcher at [Aalto University, School of Arts, Design & Architecture ](https://www.aalto.fi/en/school-of-arts-design-and-architecture), part of the *Experience Design* project funded by the Research Council of Finland, where he is pursuing a Doctorate in Arts with a dissertation titled *[SpaceTimeCraft](../project/spacetimecraft)*, expected in 2025.
 
 <!-- EDUCATION & EXPERIENCE -->
-Previous roles include assistant professor at the [Institute of Architecture and Media](https://iam.tugraz.at/main-website/en/), TU Graz (2015-2019), research assistant at ETH Zurich (2014-2015), and digital design consultant (2012-2015).
-Constantinos studied architecture at [NTU-Athens](https://www.arch.ntua.gr/?lang=en) (Dipl-.Ing Architect Engineer 2012), and at the [Chair for CAAD/Digital Architectonics](https://www.caad.arch.ethz.ch/) ETH Zurich (MAS in Architecture and Information 2014), and pursued further studies in computer music at [IEM KU Graz](https://iem.kug.ac.at/en/) (2018-2019). 
+Previous roles include assistant professor at the [Institute of Architecture and Media](https://iam.tugraz.at/main-website/en/), TU Graz (2015-2019), research assistant at ETH Zurich (2014-2015), and digital design consultant (2012-2015). Constantinos holds a Diploma in Architecture Engineering from [NTU-Athens](https://www.arch.ntua.gr/?lang=en) (2012), and a Master of Advanced Studies in Architecture and Information from the [Chair for CAAD/Digital Architectonics](https://www.caad.arch.ethz.ch/), ETH Zurich (2014). He has also pursued further studies in computer music and spatial audio at the [Insitute of Electronic Music](https://iem.kug.ac.at/en/), KU Graz, between 2018 and 2019.  
 
 <!-- WORK -->
-His research has been [presented](../event/) in international conferences and seminars, [published](../publication/) in academic fields across architecture, artistic, and videogame research, and featured in international media outlets. 
-He has developed and taught [original courses](../course) on creative programming, experimental game design and VR development in both academic and extra-academic settings.
+His work has been [presented](../event/) in international conferences and seminars, [published](../publication/) in academic fields across architectural, artistic, and videogame research, received awards in design competitions, and featured in international media outlets. 
+Constantinos has developed and taught several [original courses](../course) on creative programming, experimental game design and VR development in both academic and extra-academic settings.
 He is also active through transdisciplinary [collaborations](../tag/collaboration), [curatorial works](../category/curatorial), [discursive and artistic event production](../curation), [exhibitions](../tag/exhibition), and [installations](../tag/installation).
 
+Outside of work, Constantinos is an avid home cook, bedroom guitarist, and exercise enthusiast. 
 
 ---
 
