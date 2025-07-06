@@ -182,7 +182,7 @@ His work has been [presented](../event/) in international conferences and semina
 Constantinos has developed and taught several [original courses](../course) on creative programming, experimental game design and VR development in both academic and extra-academic settings.
 He is also active through transdisciplinary [collaborations](../tag/collaboration), [curatorial works](../category/curatorial), [discursive and artistic event production](../curation), [exhibitions](../tag/exhibition), and [installations](../tag/installation).
 
-Outside of work, Constantinos is an avid home cook, bedroom guitarist, and exercise enthusiast. 
+Outside of work, Constantinos is an avid home cook, guitarist, grappling and exercise enthusiast. 
 
 ---
 
