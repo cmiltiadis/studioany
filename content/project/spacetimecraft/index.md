@@ -43,18 +43,9 @@ The project follows an integrative methodology, and spans multiple research appr
 - original publications in the context of architecture, artistic research, and game studies; as well as 
 - development and teaching of original courses in gamemaking and VR development. 
 
-<!-- 
-the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research. 
-panning exploratory prototyping, experimental game and VR development, media archeology,  publishing, as well as  
-Long-term transdisciplinary research project on virtual architecture. 
-The project investigates the aesthetic experience in virtual spatiotemporal environments that cannot be reproduced in physical reality, through integrative design research. 
-It is pursued through mixed methods including prototyping, experimental gamemaking, teaching experimental course curricula, media archeology, presenting and publishing; and it interfaces with discourse fields including architecture, game studies, design research, media studies, and artistic research. 
-
--->
-
 The project was initiated following the development of [project Anywhere](../project-anywhere) at ETH Zurich in 2014. 
 It was developed further through interdisciplinary research and publishing, as well as through extensive teaching of original curricula on experimental game and VR development, including the [Virtual Spaces Master Studio](../../tag/vsms) at TU Graz (2016-2017), as well as multiple shorter [workshops](../../tag/workshop).
-Moreover, aspects of this work have been informed through studies in computer music and spatial audio at the renowned Institute of Electronic Music of KU Graz conducted between 2018 and 2019. 
+Aspects of this research have been informed through studies in computer music and spatial audio at the renowned Institute of Electronic Music of KU Graz conducted between 2018 and 2019. 
 In late 2019, this was formalized into a doctoral research project at Aalto University, School of Arts, within the context of the *Experience Design* project funded by the Research Council of Finland, titled: *SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation*, with its defense expected in 2025. 
 
 See below for a list of related publications and presentations. 
