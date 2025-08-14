@@ -1,7 +1,7 @@
 #+title: Readme
 
 Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (see [[README-academic-theme.md][original-readme]])
-+ Uses older theme version *ONLY COMPATIBLE WITH HUGO v. 0.119.0*
++ Uses older theme version *ONLY COMPATIBLE WITH HUGO v. 0.119.0* [[https://github.com/gohugoio/hugo/releases/tag/v0.119.0][(github release)]]
   + Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes (shortcodes like gallery don't work)
 + Deployments
   + Netlify https://studioany-test.netlify.app/
