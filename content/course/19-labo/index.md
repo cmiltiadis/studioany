@@ -30,26 +30,15 @@ deSingel, Antwerp. August 24 – September 2 2019.
 ---
 
 *ChampdAction.LAbO* is a laboratory for young creators, organized by Antwerp-based production platform for new music and interdisciplinary arts ChampdAction, and part of deSingel's International Summer School. Its main purpose is creation through means of communication and interaction between the various arts disciplines: dance, music, fine arts and others.
+The summer school was organized in collaboration with deSingel, Sint Lucas School of Arts Antwerp, Royal Antwerp Conservatory, and Fontys Hogeschool.
 
 ChampdAction.LAbO is aimed at students and young professionals who already have some experience with interdisciplinary work and who want to create something with the other artists during the LAbO period. ChampdAction.LAbO largely focuses on interdisciplinarity and the use of new technology. Participants may propose their own projects in advance, of which a selection will serve as a starting point during the LAbO period: the emphasis will always be on creating together across various disciplines. During LAbO there is also room for new collaborations and projects, provided they are selected by the panel of coaches. Through short workshops and lectures on various subjects, participants are encouraged to leave their comfort zone every now and then.
 
-On the evening of Sunday 1<sup>st</sup> of September, some of the participants are invited to show their projects during an exhibition for the general public. This performance is freely accessible.
 
-In Collaboration with deSingel, Sint Lucas Antwerp, Royal Antwerp Conservatory, and Fontys Hogeschool.
+**LAbO 2019 coaches**  
+Marco Ciciliani, Angélique Willkie, Wim Henderickx, Frederik De Bleser, Constantinos Miltiadis, Stefano D'Alessio, Tom Pauwels,  Tuur Marinus, Kurt Van Belleghem
 
-# LAbO 2019 coaches 
-- Marco Ciciliani
-- Angélique Willkie
-- Wim Henderickx
-- Frederik De Bleser
-- Constantinos Miltiadis 
-- Stefano D'Alessio
-- Tom Pauwels
-- Tuur Marinus
-- Kurt Van Belleghem
-
-# Photo gallery[^image-credit]
-
-[^image-credit]: Images from the ChampdAction LAbO 2019 collective archive. 
+# Photo gallery 
+Work-in-progress photos and images from a public event held at deSingel on September 1<sup>st</sup> 2019, where participants exhibited and performed their projects. ChampdAction LAbO 2019 collective archive. 
 
 {{<gallery album ="19-labo">}}
