@@ -13,7 +13,7 @@ author_notes:
 tags: [virtual reality, virtual environment, prototype, Unity, gamemaking , thesis,award, ETH Zurich]
 categories: [prototype]
 date: 2014-11-07T18:04:19+03:00
-lastmod: 2023-08-07T18:04:19+03:00
+# lastmod: 2023-08-07T18:04:19+03:00
 featured: false
 draft: false
 
@@ -107,11 +107,14 @@ The project was developed in Unity3D and Java, and its using a range of tools de
   [Proyecto Anywhere, una nueva forma de jugar en línea - hi-tech](https://www.youtube.com/watch?v=R4M0IE6_WPo) [Spanish]
 - Reuters (2015)   
   [Project Anywhere takes virtual reality gaming to new level](https://www.yahoo.com/news/project-anywhere-takes-virtual-reality-152034973.html)
+- Architectural Digest (2015)  
+  [See the Far-Out Designs for the Museum of Science Fiction at the Brooklyn Public Library](https://www.architecturaldigest.com/story/museum-of-science-fiction-design-exhibition)
 - DesignBoom  (2014)   
   [Subjects manipulate project anywhere’s virtual universe in real-time](https://www.designboom.com/technology/studio-any-project-anywhere-virtual-universe-real-time-12-10-2014/)
 - Museum of Science Fiction (2014)  
   [The preview museum: A departure from museums as usual…](https://www.museumofsciencefiction.org/preview-museum/)
-- [Fubiz (2014) Virtual Universe in Real-time](https://www.fubiz.net/2014/12/16/virtual-universe-in-real-time/) [French]
+- Fubiz (2014)  
+  [Virtual Universe in Real-time](https://www.fubiz.net/2014/12/16/virtual-universe-in-real-time/) [French]
 
 # Exhibitions & installations
 - Demonstration at the Carl Zeiss Headquarters, in the context of the [Zeiss VR One App Contest](../../event/zeiss-vr-one). Oberkochen, Germany, June 2015
@@ -121,22 +124,15 @@ The project was developed in Unity3D and Java, and its using a range of tools de
 project Anywhere was developed as a postgraduate master thesis in 2014 at the Chair for CAAD, ETH Zurich, Prof. Ludger Hovestadt.
 It was first demonstrated at the Chair for CAAD in November 2014. 
 
-## Credits 
-**Concept and development**  
-Constantinos Miltiadis  
-**Prototyping support**  
-Demetris Shammas & Achilleas Xydis   
+# Credits 
+**Concept and development:** Constantinos Miltiadis  
+**Prototyping support:** Demetris Shammas & Achilleas Xydis   
 
 ## Video credits
-**Filming & Editing**  
-Demetris Shammas  
-**Photo documentation**  
-Achilleas Xydis  
-**Music**  
-Michalis Shammas 
-**Subject**  
-Anna Maragkoudaki
-
+**Filming & Editing:** Demetris Shammas  
+**Photo documentation:** Achilleas Xydis  
+**Music**: Michalis Shammas   
+**Subject**: Anna Maragkoudaki
 
 # Images 
 
