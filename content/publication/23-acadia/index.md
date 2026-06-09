@@ -11,10 +11,8 @@ lastmod: 2023-08-05T14:23:09+03:00
 featured: false
 # pub info 
 publication: "In *Proceedings of the 2023 ACADIA Conference: Habits of the Anthropocene*, Denver"
-# DOI 
-# doi: ""
+doi: "10.52842/conf.acadia.2023.3.229"
 # code url 
-#url_code: 'https://github.com/cmiltiadis/other-than-text'
 
 # custom links
 links:
