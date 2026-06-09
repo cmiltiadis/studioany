@@ -13,7 +13,7 @@ tags: [virtual reality, game design, education, spatial intelligence,
 videogames, game studies]
 
 date: '2018-09-01T00:00:00Z'
-doi: ''
+doi: '10.52842/conf.ecaade.2018.2.805'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

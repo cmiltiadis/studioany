@@ -12,7 +12,7 @@ authors:
   - admin
 
 date: '2015-09-01T00:00:00Z'
-doi: ''
+doi: '10.52842/conf.ecaade.2015.1.061'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

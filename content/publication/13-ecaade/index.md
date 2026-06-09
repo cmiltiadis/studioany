@@ -21,7 +21,7 @@ publication: '*eCAADe* 2013'
 abstract: 'The paper develops around a problematic regarding the methodology of contemporary computational real-time design. It begins by exploring the status of computer-driven architecture today, locating its inherent limitations that support the paper’s main argument that the problem of this kind of architecture, is the failure of realizing the necessity of a paradigm shift.Utilizing a personal project that falls in the category of real-time computation and design, and guiding the reader to the distinct stages for its development, an attempt is made to introduce an alternative methodology based on the materialist philosophy of Gilles Deleuze, that, displays a great potential to be applied and used as a conceptual framework for such designs.'
 # TAGS 
 tags: [real-time, kinetic, interactive, methodology, computation]
-
+doi: 10.52842/conf.ecaade.2013.1.517
 # Custom links (uncomment lines below)
 links:
 - name: Cumincad
