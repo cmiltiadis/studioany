@@ -27,12 +27,11 @@ abstract: "Virtual navigation---embodied spatial movement in interactive digital
 tags: [movement,videogames, virtual environments, interactive navigation, virtual navigation, embodied movement,non-Euclidean geometry,research through design, game design, game development, design methods]
 doi: "10.1145/3815598.3815651"
 
-# links:
-# - icon: 'file-pdf'
-#  icon_pack: fas
-#  name: "PDF"
-#  url: "publications/23-Fricker et al-Interconnected Agencies.pdf"
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+links:
+- icon: 'file-pdf'
+  icon_pack: fas
+  name: "PDF"
+  url: "publications/26-cmiltiadis-spacetimecraft.pdf"
 url_dataset: ''
 url_poster: ''
 url_project: ''
