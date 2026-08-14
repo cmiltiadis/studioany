@@ -8,35 +8,9 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      # title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
       columns: '2'
 ---
-
-<!--
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: ""
-      # Contact (add or remove contact options as necessary)
-      email: c.miltiadis@gmail.com
-      address:
-        city: Helsinki
-        region: Finland
-        country: Finland
-        country_code: FI
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
--->
