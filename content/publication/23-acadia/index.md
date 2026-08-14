@@ -3,7 +3,7 @@ draft: false
 title: "An open living archive for ACADIA"
 subtitle: "Forward to the open archive developed for the ACADIA Cultural History Project"
 authors: [admin]
-categories: [game studies]
+# categories: [architecture]
 # TAGS
 tags: [ACADIA, architecture, archive, library, Sandpoints, cultural history, prototype, media archeology]
 date: 2023-11-16T14:23:09+03:00
