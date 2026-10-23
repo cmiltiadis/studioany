@@ -109,9 +109,9 @@ He has worked across scientific research, design consulting, UX, R&D, creative-t
 He is currently a design researcher at [Aalto University, School of Arts, Design & Architecture](https://www.aalto.fi/en/school-of-arts-design-and-architecture), part of the *Experience Design* project funded by the Research Council of Finland, and is completing a Doctor of Arts degree. His dissertation, titled *[SpaceTimeCraft](../project/spacetimecraft)*, is expected in 2026.
 
 <!-- EDUCATION & EXPERIENCE -->
-Previously, he was assistant professor at the [Institute of Architecture and Media](https://iam.tugraz.at/main-website/en/), TU Graz (2015-2019), a research assistant at ETH Zurich (2014-2015), and a digital design consultant (2012-2015). 
-He holds a Diploma in Architectural Engineering from [NTU-Athens](https://www.arch.ntua.gr/?lang=en) (2012), and a Master of Advanced Studies in Architecture and Information from the [Chair for CAAD/Digital Architectonics](https://www.caad.arch.ethz.ch/), ETH Zurich (2014). 
-Between 2018 and 2019 he also studied computer music and spatial audio at the [Institute of Electronic Music](https://iem.kug.ac.at/en/), Kunstuniversität Graz.
+Previously, he was assistant professor at the *Institute of Architecture and Media, TU Graz* (2015-2019), a research assistant at *ETH Zurich* (2014-2015), and a digital design consultant (2012-2015). 
+He holds a Diploma in Architectural Engineering from *NTU-Athens* (2012), and a Master of Advanced Studies in Architecture and Information from the *Chair for CAAD/Digital Architectonics, ETH Zurich* (2014). 
+Between 2018 and 2019 he also studied computer music and spatial audio at the *Institute of Electronic Music, Kunstuniversität Graz*.
 
 <!-- WORK -->
 His research has been [presented](../event) in international conferences and seminars, and [published](../publication) across architectural, artistic, and videogame research. 
