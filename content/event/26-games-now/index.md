@@ -13,7 +13,7 @@ authors: [admin]
 #TAGS
 tags: [presentation, gamemaking, game design, research, Helsinki, Aalto]
 ##################################################################
-# EVENT NAME / URL  
+# EVENT NAME / URL
 event: 'Games Now! 2026'
 event_url: 'https://gamesnow.aalto.fi/'
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
@@ -50,7 +50,7 @@ projects: [spacetimecraft]
 ---
 
 
-# Workshop: Pracademics – Making Games/Research
+# Games Now! 2026 Workshop: Pracademics – Making Games/Research
 
 We study games, we make games—but how often do we bring these ways of knowing together? Much of what we know about game making rests on personal experience, scattered accounts and assumptions that rarely get examined. We need more research into how games are actually made, and more academic knowledge into game making.
 
