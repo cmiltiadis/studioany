@@ -2,63 +2,26 @@
 title: 'The situation of space in contemporary media environments'
 subtitle: 'Double lecture with Gerriet K. Sharma at the New Media Seminar, Aalto ARTS'
 draft: false
-# SUMMARY
 summary: 'Double lecture with Gerriet K. Sharma at the New Media Seminar. Aalto ARTS, 2020'
-# ABSTRACT 
 abstract: 'Virtual reality and spatial audio technologies bring about a new paradigm in the fields of architecture and music. Works developed in these media produce experiences beyond what is perceivable in the physical world, extending therefore our capacities to design/compose as well as our sensibilities for spatial and temporal perception. By operating in the spatiotemporal domain, these new media, question our disciplinary understandings of space and time as well as their aesthetics, requiring an altogether new post-disciplinary conception of design/composition and experience.
 
 The imperative for a new shared paradigm is even more prevalent in the so called “immersive media.” The production of spaces has become the modus operandi for the creation of artificial worlds and sound designs for concerts, VR, cinema and event culture – motivating an industry for hardware and software solutions. However, a closer look at the use of the term “space” reveals an astonishing inconsistency regarding contextualization, meaning and occupation. 
 
 Within this problematic, the aim of this research is the conception of a common space of the perception of spatiotemporal phenomena – a domain that we call the Shared Perceptual Space (SPS). Eventually, we ask whether post-disciplinary and artistic research, drawing from multiple disciplines from mathematics to musicology, architecture and philosophy, can construct a SPS as a common platform for the understanding of spatiotemporal phenomena and as aesthetic strategy for the orchestration of time and space.' 
-##################################################################
-# AUTHORS 
 authors: [admin, gerriet-sharma]
-#TAGS
 tags: [presentation, Aalto, digital spatial media, spatial audio]
-##################################################################
-# EVENT NAME 
 event: 'New Media Seminar; Aalto ARTS'
-# EVENT URL 
 event_url: 'https://blogs.aalto.fi/mediatutkimus/2020/03/19/new-media-doctoral-remote-seminar/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2020-03-19T16:25:00Z'
 date_end: '2020-03-19T19:30:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'Väre, Aalto ARTS'
 address:
   street: 'Otaniementie 14'
   city: 'Espoo'
   region: 'Finland'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-
-# CUSTOM LINKS 
-
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
-
-# Projects (optional).
 projects: [spacetimecraft]
 ---
 

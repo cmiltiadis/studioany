@@ -1,28 +1,21 @@
 ---
-# Display name
 title: Diederik de Koning
 draft: false
 
-# Full name (for SEO)
 first_name: Diederik
 last_name: de Koning
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Architect and researcher'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'la-di-da.nl'
     url: 'https://www.la-di-da.nl/'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

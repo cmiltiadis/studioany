@@ -1,30 +1,23 @@
 ---
-# Display name
 title: Grégoire Rousseau
 draft: false
 
-# Full name (for SEO)
 first_name: Grégoire
 last_name: Rousseau
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Visual artist and educator'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'gregoire.persona.co'
     url: 'https://gregoire.persona.co/'
   - name: 'Station of Commons'
     url: 'https://site.stationofcommons.org/'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

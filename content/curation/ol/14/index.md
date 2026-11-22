@@ -2,45 +2,24 @@
 title: 'IAM Open Lecture 14: VOID, BRANDS, CHARACTERS and how to Deal with a LOTs'
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'A lot of images, architectural blogs, Dezeen, ArchDaily, internet, public space, fashion, Tokyo, Vetements, Barad, brand, void, measurement, empty center, data, 10 years of online architectural publishing, 500 000 images, a weather prognosis, a cloud, an architectural mutant, flavors of contemporary architecture, avatars… dive right into it; filter, search, crawl, articulate. Use machine learning. Write a poem, or code a couple of them. Make sense of what is in fashion now. Compose your own “online mask” – play with information.'
-##################################################################
-# AUTHORS 
 authors: [Miro Roman]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-11-20T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Miro Roman'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-14-miro-roman-void-brands-characters-and-how-to-deal-with-a-lots/'

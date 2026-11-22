@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 15: The Designed and Self-organized. Coupling distinct 
 slug: ol-15
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'How can we start to limit our decimation of the Earth by utilising ideas of mutualism found in nature? Can these ideas challenge our orthodox frameworks for the construction and densification of cities and the resulting destruction of natural habitats and ecosystems? How can biological inclusive design practice bridge the humanist divide between us and the natural world? Social insects operate without a priori design intent. Rather, large populations self‐organise through many local interactions between individuals, and their environment, to produce highly complex adaptive structures with sophisticated spatial differentiation to support social and environmental goals. On occasion, these structures are comparable in scale to human architectural constructs.'
-##################################################################
-# AUTHORS 
 authors: [Asya Ilgun]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-11-22T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Asya Ilgun'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-15-asya-ilgun-the-designed-and-self-organized-coupling-distinct-paradigms-of-deposition-based-construction/'

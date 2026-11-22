@@ -1,36 +1,20 @@
 ---
 title: 'Virtual Infrastructures'
 draft: false
-# SUMMARY
 summary: 'Presentation at Open Up & Shape Helsinki, 2022'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# EVENT NAME 
 event: 'Open Up & Shape Helsinki'
-# EVENT URL 
 event_url: 'https://www.publics.fi/calendar/open-up-and-shape-helsinki/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-06-09T10:00:00Z'
 date_end: '2022-06-10T16:00:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: Publics
 address:
   street: 'Sturenkatu 37-41 4b'
   city: 'Helsinki'
   region: 'Finland'
-##################################################################
-# AUTHORS 
 authors: [admin, Bassam El Baroni]
-#TAGS
 tags: [infrastructure, digitalization, platform economy, presentation]
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
 links: 
@@ -38,7 +22,6 @@ links:
   url: 'uploads/22-Shape-Participants-Info-Schedule.pdf'
   icon: 'file-pdf'
   icon_pack: fas
-# IMAGE 
 image:
   caption: '' # 
   focal_point: Right

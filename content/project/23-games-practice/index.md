@@ -6,28 +6,18 @@ authors: [admin, Rilla Khaled, Pippin Barr, Miguel Sicart,Brendan Keogh, Doug Wi
 tags: [videogame research, game design, working group, Sandpoints]
 categories: [projects, videogame research, working group]
 date: 2023-06-20T14:21:30+03:00
-# lastmod: 2023-06-125T14:21:30+03:00
 featured: false
 draft: true 
 # NOT YET 1.12.2024 
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# links: 
 # - name: 'ACADIA archive'
 #  url: 'https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 

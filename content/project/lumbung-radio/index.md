@@ -8,7 +8,6 @@ tags: [radio, interlocal, online radio, sound practice,open infrastructure,docum
 categories: [commons]
 projects: [soc]
 date: 2022-04-08T21:54:44+03:00
-#lastmod: 2023-08-08T21:54:44+03:00
 featured: false
 draft: false
 
@@ -29,9 +28,6 @@ links:
 
 #url_video: 
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""

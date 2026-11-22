@@ -11,11 +11,9 @@ author_notes:
 tags: [teaching, workshop, robotic fabrication, digital fabrication, Zurich, MAS CAAD, ETH Zurich ]
 categories: [teaching]
 date: 2015-05-07T16:39:47+03:00
-#lastmod: 2023-08-07T16:39:47+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -28,7 +26,6 @@ links:
   icon_pack: fab
 - name: 'Extensile @ CAAD (archived)'
   url: https://web.archive.org/web/20161208015250/http://www.caad.arch.ethz.ch/blog/extensile-robotic-workshop/
-# Projects (optional).
 projects: []
 ---
 

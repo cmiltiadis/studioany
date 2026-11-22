@@ -1,30 +1,23 @@
 ---
-# Display name
 title: Lain Iwakura
 draft: false
 
-# Full name (for SEO)
 first_name: Lain 
 last_name: Iwakura
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Sound artist, writer, label co-manager at Mille Plateaux '
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'Bill B. Wintermute on Bandcamp'
     url: 'https://billbwintermute.bandcamp.com/'
   - name: 'Copyriot'
     url: 'https://derayling.copyriot.com/ezili-i-sabbah'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

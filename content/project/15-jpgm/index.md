@@ -15,7 +15,6 @@ date: 2015-04-06T18:11:20+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -27,7 +26,6 @@ links:
   icon: vimeo
   icon_pack: fab
 
-# Projects (optional).
 projects: []
 ---
 

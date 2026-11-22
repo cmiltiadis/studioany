@@ -4,45 +4,24 @@ title: 'The Architectural Continuum'
 # added a space in the title otherwise it gets confused with entry of the same title from Luniburg
 subtitle: ''
 draft: false
-# SUMMARY
 summary: 'Presentation at the symposium *The Architectonics of Virtual Space*. Einsiedeln, 2018'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [admin]
-#TAGS
 tags: [architecture, game studies, videogames, virtual reality, digital spatial media, mathematics, geometry]
-##################################################################
-# EVENT NAME 
 event: 'The Architectonics of Virtual Space'
-# EVENT URL 
-# event_url: 'https://example.org'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-06-09T09:30:00Z'
 date_end: '2018-06-09T17:30:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'Stiftung Bibliothek Werner Oechslin'
 address:
   city: 'Einsiedeln'
   region: 'Switzerland'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
 image:
   caption: 'Event poster'
   focal_point: Right
 
-##################################################################
-
-# CUSTOM LINKS 
 links:
 - name: 'Announcement at World-architects.com'
   url: 'https://www.world-architects.com/ru/events/the-architectonics-of-virtual-spaces-1'
@@ -50,19 +29,6 @@ links:
   url: 'uploads/18-architectonics-of-virtual-spaces-program.pdf'
   icon: file-pdf
 
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
-
-# Associated Projects (optional).
 projects: [spacetimecraft]
 ---
 

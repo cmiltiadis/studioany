@@ -5,49 +5,23 @@ subtitle: 'Public workshop at Social Space Kaymakkin'
 summary: 'Public workshop at Social Space Kaymakkin. Nicosia, December 2024'
 draft: false
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [admin]
 # author_roles: [presenter]
-#TAGS
 tags: [workshop, digital writing, librarianship, reference organization, knowledge management, Cyprus]
-##################################################################
-# EVENT NAME 
-# event: 'Some event'
-# EVENT URL 
-# event_url: 'https://example.org'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-12-15T15:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: Social Space Kaymakkin
 address:
   city: 'Nicosia'
   region: 'Cyprus'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-
-# CUSTOM LINKS 
 links:
 - icon: github
   icon_pack: fab
   name: Workshop repository / Obsidian vault
   url: https://github.com/cmiltiadis/kaymakkin
-##################################################################
 
-# Projects (optional).
 projects: []
 ---
 

@@ -7,12 +7,9 @@ authors: [admin, gerriet-sharma]
 tags: [workshop, virtual reality, spatial audio, spatiotemporal design, exhibition, Unity]
 categories: [teaching, spatial audio]
 date: 2018-10-13T09:00:32+03:00
-# date_end: 2018-10-20T09:00:32+03:00
-#lastmod: 2023-08-07T16:25:32+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -30,7 +27,6 @@ links:
   icon_pack: fab
   url: 'https://studioany.itch.io/beyond-the-visual'
 
-# Projects (optional).
 projects: []
 ---
 

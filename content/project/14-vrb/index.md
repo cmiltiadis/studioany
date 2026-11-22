@@ -15,13 +15,11 @@ lastmod: 2023-08-07T17:15:18+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 ---
 

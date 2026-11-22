@@ -3,13 +3,10 @@ slug: continuum-cologne
 title: "The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics"
 subtitle: "Architectonics of Game Worlds - On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies"
 summary: "Presentation at the symposium Architectonics of Game Worlds; 2019"
-# AUTHORS
 authors: [admin]
-# TAGS 
 tags: [presentation, symposium, game studies, videogames, game space]
 # CATEGORIES 
 categories: [presentation]
-# ABSTRACT 
 abstract: 'Since the turn of the century, scholars have argued for videogames as allegories of space, for game design as narrative architecture and for the focus of games on space as an altogether paradigmatic shift in both their production and consumption. This new paradigm, however, requires and engages with a practical and empirical approach; a different mode of literacy concerned with developable reasoning and abilities relevant to spatial, instead of the more commonly used logical-analytical, cognitive faculties.
 
 The proximity between architectural and game design practices, on the other hand, appears today to be closer than ever. VR is already being used as a representational and evaluation medium for architectural design, and videogames are employed as design and simulation tools for urban planning. This presentation however is concerned with the inverse rhetoric.
@@ -19,8 +16,6 @@ As renaissance architecture following the invention of perspective argued for ar
 # DATE 
 date: 2019-03-18T10:00:03+03:00
 date_end: 2019-03-17T16:00:03+03:00
-# all_day: false
-
 
 lastmod: 2023-08-06T19:23:03+03:00
 featured: false
@@ -34,15 +29,11 @@ address:
   city: Cologne
   region: Germany
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
 projects: [spacetimecraft]
 ---
 

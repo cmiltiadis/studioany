@@ -17,13 +17,11 @@ links:
   icon_pack: fab
   url: 'https://youtu.be/MZRo7heBZHE'
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 ---
 

@@ -8,12 +8,10 @@ authors: [admin, achilleas-xydis]
 tags: [teaching, workshop, spatial audio, acoustics, spatial audio, spatiotemporal design, exhibition, game design, gamemaking, Unity, ETH Zurich]
 categories: [teaching, spatial audio]
 date: 2024-08-28T09:00:32+03:00
-# date_end: 2018-10-20T09:00:32+03:00
 featured: false
 
 # show_breadcrumb: true
 
-# Featured image
 image:
   caption: ""
   focal_point: "Left"
@@ -26,7 +24,6 @@ links:
 - name: 'Course website'
   url: https://aa.arch.ethz.ch/seminar-weeks/hs24/   
 
-# Projects (optional).
 projects: [spacetimecraft]
 ---
 

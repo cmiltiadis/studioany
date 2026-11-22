@@ -2,45 +2,24 @@
 title: 'IAM Open Lecture 27: See and Tell. Image and Imaginary Strategies: Artist talk & film screening'
 slug: ol-27
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'The creation of imaginaries from the geography of Finisterre (from the Latin “finis terrae,” meaning “end of the earth”) at the westernmost cape of Spain has been over the years, Eduardo Brito’s subject matter in writing, photography and film. In this lecture, the screening of his two short films “Slope” (2018) and “Penumbria” (2016) will serve as the point of departure for a reflection on the definition and representation of “ends of earth” and other remote places.'
-##################################################################
-# AUTHORS 
 authors: [Eduardo Brito]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2019-04-04T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol27-eduardo-brito-see-and-tell-image-and-imaginary-strategies-artist-talk-film-screening/'

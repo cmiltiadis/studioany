@@ -2,45 +2,24 @@
 title: 'IAM Open Lecture 29: Fiction[-]Time: The Design of Time'
 slug: ol-29
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Starting from the notion of “Parachronism”, it is discussed the problem of our relationship with historical time (past, present and future) as both timely and timeless. It is both at the foundation of modernity (with its post-, hyper- and meta-) and a contemporary issue as in politics, as in architecture. This presentation will try to propose and stimulate some questions on how to develop an approach to time and history that takes account of its non-linearity: a conception in which the past, the present and the future are seen as one. Then, it is discussed how architecture can be something beyond the mere building of a material object, becoming instead a cultural object, bearer of ideological, cultural, popular or mythological values.'
-##################################################################
-# AUTHORS 
 authors: [Giacomo Pala]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2019-05-20T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit:  J. G. Hagelgans - Atlas Historicus (1718)'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol29-giacomo-pala-fiction-time-the-design-of-time/'

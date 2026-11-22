@@ -15,7 +15,6 @@ tags:
   - gamemaking 
 date: '2025-06-27T00:00:00Z'
 
-# Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
@@ -23,10 +22,6 @@ image:
   focal_point: Smart
 
 links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
 ---
 
 Long-term research project investigating forms of architecture aesthetics and navigable experience specific to digital media, culminating in the upcoming doctoral dissertation at Aalto ARTS titled *SpaceTimeCraft*, expected in 2025.  

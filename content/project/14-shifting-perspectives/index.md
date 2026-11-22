@@ -15,7 +15,6 @@ date: 2014-11-10T11:03:03+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -26,7 +25,6 @@ links:
     icon_pack: fab 
     name: Video 
     url: https://vimeo.com/116073674
-
 ---
 
 

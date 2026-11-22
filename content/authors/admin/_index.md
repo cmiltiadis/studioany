@@ -1,29 +1,15 @@
 ---
-# Display name
 title: Constantinos Miltiadis
 
-# Full name (for SEO)
 first_name: Constantinos
 last_name: Miltiadis
 
-# Status emoji
-# status:
-#  icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
-# ###############################################
-# Role/position/tagline
 # role: Transdisciplinary architect & design researcher
-# ###############################################
-# Short bio (displayed in user profile at end of posts)
 bio: # This is my short bio.
-# ###############################################
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: Aalto University, School of ARTS
     url: https://www.aalto.fi/
-# ###############################################
 # Education to show in About widget
 education:
   courses:
@@ -39,7 +25,6 @@ education:
     - course: Dipl.-Ing Architect Engineer
       institution: National Technical University of Athens (NTUA)
       year: 2012
-# ###############################################
 interests: 
 - virtual architecture 
 - spatiotemporal design
@@ -51,9 +36,7 @@ interests:
 - research through design
 - digital design & media archeology 
 - digital commons 
-# ###############################################
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 social:
   - icon: envelope ####### EMAIL
     icon_pack: fas
@@ -74,20 +57,14 @@ social:
     icon_pack: fab
     link: 'https://www.linkedin.com/in/constantinosmiltiadis/'
 #  - icon: twitter  ####### twitter
-#    icon_pack: fab
 #    link: https://twitter.com/studioany
     #display:
       #header: true
-# ###############################################
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
 
-# ###############################################
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'c.miltiadis@gmail.com'
-# ###############################################
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

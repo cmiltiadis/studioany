@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 12: From VFX to experimental animation and generative d
 slug: ol-12
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Computer animation and visual effects have seen a tremendous development over the past decades in a constant pursuit of recreating reality. The lecture will look into some of the processes borrowed from VFX and evolved into a series of experimental projects in computer animation and programming, based around procedural animation, growth algorithms and other bottom up behavioral systems, that best exemplify how a small set of rules can scale up and create complex forms and behaviors. This reappropriation of sophisticated tools and technology towards experimentation outside the realm of photo-realism, attempts to explore new visual territories and embrace the nature of the medium rather than disguise it.'
-##################################################################
-# AUTHORS 
 authors: [Georgios Cherouvim]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-09-12T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-12-georgios-cherouvim-from-vfx-to-experimental-animation-and-generative-design/'

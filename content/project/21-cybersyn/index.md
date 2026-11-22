@@ -9,12 +9,9 @@ author_notes:
 - Concept, research, coordination 
 - Animation director
 - Music and sound spatialization
-# TAGS 
 tags: [video, artistic research, animation, cgi, spatial audio, exhibition, media art, installation, collaboration]
 categories: [artistic research]
-#
 date: 2021-07-07T12:55:44+03:00
-# lastmod: 2023-08-06T12:55:44+03:00
 featured: false
 draft: false
 
@@ -38,11 +35,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 

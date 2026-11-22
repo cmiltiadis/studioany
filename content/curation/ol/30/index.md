@@ -2,46 +2,24 @@
 title: 'IAM Open Lecture 30: Of Mirrors and Plays: Heterotopia as a design tool'
 slug: ol-30
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'In 1967 the French anthropologist and philosopher Michel Foucault presented to the architecture community the latest findings of his reasoning on the phenomenology of space: “Heterotopias,” physical places located in our society and capable to deny their physicality and to refer to other places. From brothels to prisons, up to Club Med vacation villages, the non-exhaustive examples given by Foucault left the most crucial question open. Can heterotopia be designed? False Mirror Office resurfaces the issue of Heterotopia in Graz. The contribution will start from Robert Venturi’s and Denise Scott Brown’s Las Vegas, Rem Koolhaas’ Cooney Island and the Post Modern pastiche of Disneyland as three emblematic examples of the flirt between heterotopia and architectural theory. Looking at contemporary discourse the production of False Mirror Office will be dissected as well, to demonstrate the potential of turning heterotopia into an active design tool.'
-##################################################################
-# AUTHORS 
 authors: [Boris Hamzeian, Filippo Fanciotti, False Mirror Office]
-# 
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2019-06-21T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol30-false-mirror-office-of-mirrors-and-plays-heterotopia-as-a-design-tool/'

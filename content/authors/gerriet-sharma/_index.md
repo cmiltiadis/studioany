@@ -1,34 +1,25 @@
 ---
-# Display name
 title: Gerriet K. Sharma
 
-# Full name (for SEO)
 first_name: Gerriet K.
 last_name: Sharma
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Composer, sound artist, researcher'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'gksh.net'
     url: 'https://www.gksh.net/'
   - name: 'spæs lab for spatial aesthetics in sound Berlin'
     url: 'https://spaes.org/'
 
-# Short bio (displayed in user profile at end of posts)
 bio: ''
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'c.miltiadis@gmail.com'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

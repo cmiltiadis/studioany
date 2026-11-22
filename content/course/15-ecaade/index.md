@@ -6,13 +6,9 @@ authors: [admin, Achilleas Xydis]
 tags: [workshop, virtual reality, augemented reality]
 categories: [teaching]
 date: 2015-09-14T16:41:06+03:00
-# lastmod: 2023-08-07T16:41:06+03:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Image credit: Achilleas Xydis & Constantinos Miltiadis | Model: Despoina Pippa"
   focal_point: "Top"

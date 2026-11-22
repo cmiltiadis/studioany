@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 10: Independence Day: Resurgence. Designing the Alien I
 slug: ol-10
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [Johannes Mücke]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-06-02T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Johannes Mücke'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-10-johannes-muecke-independence-day-resurgence-designing-the-alien-invasion/'

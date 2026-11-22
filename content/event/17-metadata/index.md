@@ -1,18 +1,12 @@
 ---
 title: Metadata Punks
-# EVENT NAME 
 event: Tabletalks on Architecture
-# EVENT URL 
-# event_url: https://example.org
-# LOCATION 
 location: Kork, TU Graz
 address:
   street: Lessingstraße 25
   city: Graz
   region: Austria
-# SUMMARY
 summary: 'Presentation concerning historical, technological, political and practical aspects of librarianship and archiving. Graz, 2017.'
-# ABSTRACT 
 abstract: ''
 
 # Talk start and end times.
@@ -20,23 +14,12 @@ abstract: ''
 date: '2017-03-21T18:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-# AUTHORS 
 authors: [admin, Dubravka Sekulić, Marcell Mars]
-#TAGS
 tags: [talks, librarianship, reference organization, memory of the world, TU Graz]
 
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-
-# LINKS 
 links:
 - name: 'Facebook event page'
   url: 'https://www.facebook.com/events/340902669639677/'
@@ -46,7 +29,6 @@ links:
 
 slides: ''
 
-# Projects (optional).
 projects: [tabletalks]
 ---
 \#000000

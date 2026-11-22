@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 20: Being There in Virtual Worlds: Embodiment as Founda
 slug: ol-20
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Roaming the vast landscape of Skyrim (Bethesda, 2011) or driving a sports car through the busy streets of Los Santos (GTA V, Rockstar, 2013) seems like a quite normal, everyday thing to do. And still, navigating through these virtual worlds (which are in many ways close simulations of our physical world) re-shapes our conception of space extremely. This presentation will have a closer look at how inhabiting virtual worlds comes about in phenomenological terms. Starting with the assumption that spatial conception is a function of our embodied existence, it explores how the use of technology alters our grasp of space. Foregrounding the avatar as crucial part in virtual embodiment as prosthetic vicarious body of the player, this talk will address how its physical properties and capabilities determine our comprehension of virtual space.'
-##################################################################
-# AUTHORS 
 authors: [Frank Fetzer]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-04-19T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image: Atari Battlezone (1980)'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-20-frank-fetzer-being-there-in-virtual-worlds/'

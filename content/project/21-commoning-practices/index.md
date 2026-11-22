@@ -7,43 +7,31 @@ author_notes: [Lecture programme co-curator & host, Co-organizer & host, Present
 tags: [exhibition, talks, Station of Commons, lecture series]
 categories: [commons, curatorial]
 
-# lastmod: 2023-08-05T15:37:21+03:00
 featured: false
 draft: false
 
-# EVENT NAME 
 event: 'Digital Commoning Practices'
-# EVENT URL 
 event_url: 'https://site.stationofcommons.org/events/digital-commoning-practices'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-03-06T12:00:00Z'
 date_end: '2021-03-28T20:00:00Z'
 all_day: true
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: '[Oksasenkatu 11](https://oksasenkatu11.fi/)'
 address:
   street: 'Apollonkatu 23 b 53'
   city: 'Helsinki'
   region: 'Finland'
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# LINKS 
 links: 
 - name: 'Lectures video archive'
   url: 'https://site.stationofcommons.org/events/digital-commoning-practices-archives'
 - name: 'Review by Ksenia Kaverina (NO NIIN)'
   url: 'https://no-niin.com/issue-3/producing-and-practicing-presence-digital-commoning-practices-in-oksasenkatu-11/'
-# Projects (optional).
 projects: [soc]
 ---
 

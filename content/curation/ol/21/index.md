@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 21: Cybernetics Architecture Information'
 slug: ol-21
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Liss C. Werner will lecture on the systemic inter-relationships and relational dependencies between cybernetics, architecture and information. Her talk is divided into three parts: a) Cybernetics, B) biological communication systems and form, c) new ecological domains on a proto-level. Werner speaks about her recent investigations into biological communication- and form-systems: Physarum Polycephalum, also called slime mold or myxamoeba. Physarum is regarded as a bio-computer with intelligence embedded in its physical mechanisms. It is potentially relevant for future complexity in human-machines-networks (HMN) within architecture and urban design.'
-##################################################################
-# AUTHORS 
 authors: [Liss C. Werner]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-04-24T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Mariana Bisti'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-21-liss-c-werner-cybernetics-architecture-information/'

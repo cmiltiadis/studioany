@@ -14,11 +14,9 @@ author_notes:
 tags: [course, VSMS, master studio, virtual reality, game design, gamemaking, exhibition, Unity, TU Graz, IAM]
 categories: [teaching]
 date: 2016-02-07T16:21:47+03:00
-# lastmod: 2023-08-07T16:21:47+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -30,7 +28,6 @@ links:
   icon_pack: fab
   url: 'https://vimeo.com/803818267'
 
-# Projects (optional).
 projects: [spacetimecraft]
 ---
 

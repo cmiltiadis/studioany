@@ -9,11 +9,9 @@ author_notes:
 tags: [interactive, kinetic architecture, computational design,thesis, kinect,Processing, Arduino, prototype]
 categories: [projects, prototype]
 date: 2012-10-10T11:13:53+03:00
-#lastmod: 2023-08-10T11:13:53+03:00
 featured: false
 draft: false
 url_video:
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -32,7 +30,6 @@ links:
     icon: 'file-pdf'
     icon_pack: fas
     url: uploads/IKS/12-cmiltiadis-KIS-thesis-booklet-EN.pdf
-# Projects (optional).
 projects: []
 ---
 

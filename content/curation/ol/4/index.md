@@ -3,47 +3,26 @@ title: 'IAM Open Lecture 4: Robot-Aided Architecture'
 slug: ol-4
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'When investigating and developing digitally aided design methods and robotic fabrication processes, current building methods and design approaches are inherently questioned. How will computational tools and robotics shape building systems of the future? Is the digital revolution a chance to bring designers closer to the process of making? Will material still matter? Should architects become computer scientists? Will design see a shift from drawing to directing? By discussing a series of projects that explore various approaches to computational design, tentative answers to these questions can be formulated.'
-##################################################################
-# AUTHORS 
 authors: [Abel Groenewolt]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2016-12-13T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
 image:
   caption: 'Image credit: Abel Groenewolt'
-#  focal_point: Right
-##################################################################
 
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-4-abel-groenewolt-robot-aided-architecture/'

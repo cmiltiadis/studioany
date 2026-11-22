@@ -1,30 +1,23 @@
 ---
-# Display name
 title: Marcell Mars
 draft: false
 
-# Full name (for SEO)
 first_name: Marcell
 last_name: Mars
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Advanced internet user; developer; researcher.'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'bio'
     url: 'https://gist.github.com/marcellmars/10392e6e784e8734efa307623833597b'
   - name: 'ki.ber.kom.uni.st'
     url: 'http://ki.ber.kom.uni.st'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

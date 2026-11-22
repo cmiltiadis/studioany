@@ -1,12 +1,8 @@
 ---
 title: 'Virtual Reality, Videogames, Architecture and Education - From utopian drawings to inconstructible navigable environments'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors: [admin]
 
-# Summary. An optional shortened abstract.
 summary: 'Paper contribution; eCAADe 2018; Łódź University of Technology.'
 
 tags: [virtual reality, game design, education, spatial intelligence,
@@ -15,25 +11,17 @@ videogames, game studies]
 date: '2018-09-01T00:00:00Z'
 doi: '10.52842/conf.ecaade.2018.2.805'
 
-# Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-# Publication name and optional abbreviated publication name.
 publication: '*eCAADe* 2018'
 publication_short: ''
 
 abstract: The paper suggests virtual reality (VR) as an architectural medium on the continuum of visionary architectural drawings of the past centuries. It argues that architecture and contemporary videogames engage with and share very similar concerns and aesthetic sensibilities. The potential of VR to develop designs and spatial configurations impossible to construct in physical reality but perfectly perceivable by our sensory apparatus, uncovers a latent domain of spatial aesthetics that architects can experiment with, develop and harness. The latter half of the paper discusses an experimental master studio module developed at the Institute of Architecture and Media of TU Graz, in which architecture students were called to develop interactive spatiotemporal environments in the VR videogame medium.
 
-# Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
 links:
 - icon: 'file-pdf'
   icon_pack: fas
@@ -51,14 +39,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ''
-#  preview_only: false
-
-# Associated Projects (optional).
 projects: [spacetimecraft]
 ---
 

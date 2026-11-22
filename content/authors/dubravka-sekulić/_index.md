@@ -1,30 +1,23 @@
 ---
-# Display name
 title: Dubravka Sekulić
 draft: false
 
-# Full name (for SEO)
 first_name: Dubravka
 last_name: Sekulić
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'architect, theorist and educator'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'Senior Tutor at RCA'
     url: 'https://pgr.rca-architecture.com/people/dubravka-sekulic'
   - name: 'Wikipedia'
     url: 'https://en.wikipedia.org/wiki/Dubravka_Sekuli%C4%87'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

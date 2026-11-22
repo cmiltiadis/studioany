@@ -7,16 +7,13 @@ authors: [ Marco Ciciliani, Angélique Willkie,  Wim Henderickx , Frederik De Bl
 tags: [teaching, workshop, summer school, performing arts, exhibition, ChampdAction, Antwerp]
 categories: [teaching]
 date: 2019-08-24T16:39:47+03:00
-#lastmod: 2023-08-07T16:39:47+03:00
 featured: false
 draft: false
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 
 links: 

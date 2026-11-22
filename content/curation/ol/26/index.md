@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 26: Simulations of Built Heritage as Urban Commons'
 slug: ol-26
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Built heritage can be used to influence positively the social cohesion of neighbourhoods as it could be promoted in such a way that, instead of provoking tensions and division, would offer spaces of inclusion, interesting everyday experiences and provide a sense of belonging to socially excluded communities. The presentation will discuss the use of modelling, simulation and ICT for enhancing community participation and user engagement in the management of historical public spaces as commons. Modelling and simulation tools will be presented for the study of the many different ways citizens engage bodily with the common resources of the city, such as heritage sites.'
-##################################################################
-# AUTHORS 
 authors: [Georgios Artopoulos]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-09-10T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol26-georgios-artopoulos-simulations-of-built-heritage-as-urban-commons/'

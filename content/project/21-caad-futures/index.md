@@ -8,11 +8,9 @@ author_notes: [Co-chair, Co-chair, Co-chair, Co-chair, Main chair]
 tags: [conference, architecture, computation]
 categories: [curatorial, production]
 date: 2020-07-09T13:12:53+03:00
-#lastmod: 2023-08-09T13:12:53+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -25,7 +23,6 @@ links:
 - name: Proceedings volume Preface
   url: '/publications/22-caad-futures-21-frontmatter.pdf'
   icon: file-pdf
-
 ---
 
 Co-chair and co-organizer for the 2021 iteration of the CAAD Futures international biannual conference, hosted remotely by the University of Southern California (USC).

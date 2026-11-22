@@ -36,13 +36,11 @@ links:
 - name: 'Facebook event'
   url: 'https://www.facebook.com/events/210994876143959'
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: [spacetimecraft]
 
 # don't show profile at bottom of page

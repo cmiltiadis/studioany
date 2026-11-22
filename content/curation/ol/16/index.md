@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 16: Adaptive structures and material performance'
 slug: ol-16
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'What if architecture was responsive to its surroundings, like living beings, instead of being a static foreign body that cannot evolve with its environment? Which would be the design principles of a new kind of architecture in this framework and from which materials would it be made of? Material engineering is nowadays a growing field and scientists are not only able to invent new materials but also to discover new properties of existing ones. Design applications of such materialities have been mostly developed in academia in the form of demonstrative prototypes, that vary from wearables, to small scale artistic installations. In architecture, the few experimental projects that have been realized, focus mostly on adaptive envelope skins or room separators, but no self-standing adaptive structure has been developed due to the difficulties of scaling up material properties. This lecture will focus on experimental prototypes of adaptive structures based on material intelligence, eliminating the use of electronics and active mechanical parts.'
-##################################################################
-# AUTHORS 
 authors: [Efilena Baseta]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-11-28T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Efilena Baseta'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-16-efilena-baseta-adaptive-structures-and-material-performance/'

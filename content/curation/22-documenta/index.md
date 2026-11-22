@@ -2,51 +2,26 @@
 title: 'Live concerts for Lumbung Radio at Documenta Fifteen'
 subtitle: 'Concert production for lumbung Radio at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
 draft: false
-# SUMMARY
 summary: 'Concert production for lumbung Radio at Documenta Fifteen. Trafohaus, Kassel, July 2022'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [admin, Lain Iwakura, Niko Mas, Florian Fend, Waysatta Fernández]
 author_notes: [Producer with Station of Commons, Performing artist, Performing artist, Performing artist, Producer with Arts Collaboratory & Radio Tropiezo]
-#TAGS
 tags: [concert, production, documenta 15, Station of Commons, lumbung radio, Kassel] # add pics 
-##################################################################
-# EVENT NAME 
 event: 'Documenta Fifteen'
-# EVENT URL 
 event_url: ''
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-07-25T19:00:00Z'
 date_end: '2022-07-26T22:00:00Z'
 all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: Trafohaus
 address:
   street: 'Lutherplatz'
   city: 'Kassel'
   region: 'Germany'
-##################################################################
-# FEATURED
 featured: false
 
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-
-# CUSTOM LINKS 
 #links:
-#- name: 'Url name'
-#  url: 'example.org'
-##################################################################
 
-# Projects (optional).
 projects: [lumbung-radio, soc]
 ---
 

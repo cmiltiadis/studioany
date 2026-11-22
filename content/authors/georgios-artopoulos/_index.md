@@ -1,28 +1,21 @@
 ---
-# Display name
 title: Georgios Artopoulos
 draft: false
 
-# Full name (for SEO)
 first_name: Georgios
 last_name: Artopoulos
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Associate Professor'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'The Cyprus Institute'
     url: 'https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/160-georgios-artopoulos.html'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

@@ -17,13 +17,11 @@ date: 2017-02-07T16:13:17+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 ---
 

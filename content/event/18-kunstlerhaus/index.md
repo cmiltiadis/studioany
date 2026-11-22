@@ -3,48 +3,27 @@ title: 'Artificial Paradise? Immersion in Space and Time'
 subtitle: 'Round table discussion in the context of the exhibition *Artificial Paradise? Immersion in Space and Time*.'
 summary: 'Round table discussion at Kunstlerhaus Graz. Steirischer Herbst 2018, Graz'
 draft: false
-# ABSTRACT 
 abstract: 'Sound artist Gerriet K. Sharma, architectural theorist Constantinos Miltiadis and curator Elisabeth Fiedler will join for a round table discussion on immersive phenomena between sound and sculpture. As a starting point for the discussion serves the immersive space-sound-composition “Mirage Redux”, which Gerriet K. Sharma presents as part of the exhibition “Artificial Paradise? Immersion in Space and Time” in the darkened apse of the Künstlerhaus.'
-##################################################################
-# AUTHORS 
 authors: [admin, gerriet-sharma, Elisabeth Fiedler]
-#TAGS
 tags: [talk, immersion, virtual reality, contemporary art, Graz]
-##################################################################
-# EVENT NAME 
 event: 'Round table discussion: Artificial Paradise? Immersion in Space and Time'
 event_url: 'https://www.km-k.at/en/event/gerriet-k-sharma-constantinos-miltiadis-elisabeth-fiedler/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-11-08T18:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'Künstlerhaus, Halle für Kunst & Medien'
 address:
   street: 'Burgring 2'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
 featured: false
-# IMAGE 
 image:
   caption: 'Sonible IKO. Image credit: Gerriet K. Sharma & Sonible'
-#  focal_point: Right
-##################################################################
-# LINKS 
 links: 
 - name: ' Steirischer Herbst 2018'
   url: 'https://archiv.steirischerherbst.at/de/editions/2018'
 
-##################################################################
-# Markdown Slides (optional).
 slides: ''
 
-# Projects (optional).
 projects: []
 ---
 

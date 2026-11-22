@@ -13,11 +13,9 @@ author_notes:
 tags: [virtual reality, virtual environment, prototype, Unity, gamemaking , thesis,award, ETH Zurich]
 categories: [prototype]
 date: 2014-11-07T18:04:19+03:00
-# lastmod: 2023-08-07T18:04:19+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: "" 
   focal_point: ""
@@ -38,7 +36,6 @@ links:
 - name: 'Reuters'
   url: https://www.yahoo.com/news/project-anywhere-takes-virtual-reality-152034973.html
   icon: video
-# Projects (optional).
 projects: []
 ---
 

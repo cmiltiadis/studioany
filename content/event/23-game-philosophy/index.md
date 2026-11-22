@@ -2,62 +2,28 @@
 title: 'From player representation to enactive presence: The case of "boomer shooters"'
 subtitle: 'Presentation at the Nordic Explorative Workshops on the Philosophy of Games, ITU Copenhagen; 2023'
 draft: false
-# SUMMARY
 summary: 'Presentation at the Nordic Explorative Workshops on the Philosophy of Games. ITU Copenhagen, September 2023'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [admin]
-#TAGS
 tags: [game studies, game philosophy, enactivism, FPS games, boomer shooters, presentation]
-##################################################################
-# EVENT NAME 
 event: 'Representation in Games – Nordic Explorative Workshops'
-# EVENT URL 
 event_url: 'https://nordicgamephilosophy.w.uib.no/schedule-copenhagen/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-08-29T09:00:00Z'
 date_end: '2023-08-30T18:00:00Z'
 all_day: true
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'ITU Copenhagen'
 address:
   street: ''
   city: 'Copenhagen'
   region: 'Denmark'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
 image:
   caption: 'Image credit: [fpschampion.com](https://fpschampion.com/best-boomer-shooters-you-need-to-play/)'
-#  focal_point: Right
-##################################################################
 
-# CUSTOM LINKS 
 links:
-#- name: 'Url name'
-#  url: 'example.org'
 
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
-
-# Projects (optional).
 projects: [spacetimecraft]
 ---
 

@@ -1,28 +1,21 @@
 ---
-# Display name
 title: Georgios Cherouvim
 draft: false
 
-# Full name (for SEO)
 first_name: Georgios
 last_name: Cherouvim
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Artist, animator, coder'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'ch3.gr'
     url: 'https://ch3.gr/'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

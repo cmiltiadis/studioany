@@ -6,20 +6,16 @@ authors: [admin, achilleas-xydis, shammas]
 tags: [teaching, workshop, festival, exhibition, spatial audio, virtual reality, game design, Unity, Mapping Festival, Geneva]
 categories: [teaching]
 date: 2016-05-06T16:30:42+03:00
-# lastmod: 2023-08-07T16:30:42+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 
-# LINKS 
 links: 
 - name: 'Mapping festival 2016'
   url: 'https://2016.mappingfestival.com/workshops/sound-spatialisation-in-immersive-vr-environments.html'

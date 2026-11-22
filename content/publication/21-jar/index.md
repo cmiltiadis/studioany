@@ -5,20 +5,12 @@ authors: [admin, gerriet-sharma]
 date: "2021-09-27T00:00:00Z"
 draft: false
 doi: "10.22501/jar.815001"
-# Summary. An optional shortened abstract.
 summary: "Exposition published in the *Journal for Artistic Research*; 2021."
-# TAGS
 tags: [architecture, music, spatial audio, soundwalk, virtual reality, spatiotemporality, aural literacy, open access]
-# Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
 publication: "*Journal of Artistic Research 24*"
 publication_short: "JAR 24"
 
@@ -43,7 +35,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
 image:
   caption: 'VR experience screenshot'
   focal_point: ""

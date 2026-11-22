@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 25: The Sixth Wave of Computing, or why Augmented Reali
 slug: ol-25
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Augmented Reality is gradually moving from early consumer hypes, like Pokemon Go, into broader adoption by business and enterprise users. As with all revolutionary innovations, there is widespread scepticism and only a handful inspiring use cases. This talk helps to develop a deeper understanding for the full potential of AR. The history of cars, from the first horseless carriages to Mars rovers and autonomous vehicles, provides an excellent historical example for how new technology can gradually transform the world. The same is true for computing. Drawing parallels to the waves of computing, as defined by Hermann Hauser, provides surprising insights. The REX platform of AR services is used as an example. Designed initially for architectural visualisation, it is quickly becoming the foundation for a wide range of applications, ranging from security and surveying all the way to professional sports.'
-##################################################################
-# AUTHORS 
 authors: [Wolfang Walcher]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-06-04T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol25-wolfang-walcher-the-sixth-wave-of-computing-or-why-augmented-reality-is-not-just-for-architects/'

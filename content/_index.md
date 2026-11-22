@@ -1,8 +1,5 @@
 ---
-# #####################
 # LANDING PAGE
-# #####################
-# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
@@ -23,7 +20,6 @@ sections:
     content:
       title: Recent & upcoming 
       subtitle: ''
-      # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -53,9 +49,7 @@ sections:
     design:
       # Choose a listing view (def: 'card')
       view: 0
-###################################################################################################
 # TAG CLOUD
-###################################################################################################
   - block: tag_cloud
     headless: true
     content: 

@@ -1,30 +1,23 @@
 ---
-# Display name
 title: Emiddio Vasquez
 draft: false
 
-# Full name (for SEO)
 first_name: Emiddio
 last_name: Vasquez
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Artist, researcher, producer, DJ.'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'emiddiovasquez.info'
     url: 'https://emiddiovasquez.info/'
   - name: 'Moneda label'
     url: 'https://moneda.page/'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

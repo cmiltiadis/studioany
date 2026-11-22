@@ -1,28 +1,21 @@
 ---
-# Display name
 title: Atnonia Manhartsberger
 draft: false
 
-# Full name (for SEO)
 first_name: Atnonia
 last_name: Manhartsberger
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Sound artist'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'antonia-manhartsberger.mur.at'
     url: 'https://antonia-manhartsberger.mur.at/en/'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

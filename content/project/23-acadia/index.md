@@ -10,13 +10,9 @@ author_notes:
 tags: [architecture, conference, archive, library, Sandpoints, ACADIA, fellowship, open access, prototype]
 categories: [projects, archive, Sandpoints]
 date: 2023-07-20T14:21:30+03:00
-# lastmod: 2023-08-05T14:21:30+03:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "ACADIA Cultural History Project"
   focal_point: ""
@@ -28,7 +24,6 @@ links:
 - name: 'Publication'
   url: ../../publication/23-acadia/
 
-# Projects (optional).
 projects: []
 ---
 

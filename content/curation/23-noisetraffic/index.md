@@ -3,10 +3,7 @@ title: 'Noise Traffic'
 subtitle: ''
 draft: false
 summary: 'Co-production of experimental music and performance art event at Vapaan Taiteen Tila. Helsinki 2023'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [Nicolina Stylianou, admin, Gregoire Rousseau, Emiddio Vasquez, GRM, Minerva Jolahti, Forces, Tytti Arola, Androula Kafa, Jukka Kääriäinen, Ana Gutieszca, Sezgin Boynik]
 author_notes: 
 - Curation & production 
@@ -21,36 +18,19 @@ author_notes:
 - Performing artist
 - Performing artist
 - Book exhibition
-#TAGS
 tags: [production, live electronics, noise,concert, performance, Helsinki, TD]
 # add pictures
 categories: [curatorial]
-##################################################################
-# EVENT NAME 
 event: 'Noise Traffic'
-# EVENT URL 
 # event_url: 'https://www.instagram.com/noisetraffic/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-01-14T14:00:00Z'
 # date_end: '2023-01-14T21:00:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: '[Vapaan Taiteen Tila (Free Art Space)](https://vapaantaiteentila.fi/)'
 address:
   city: 'Helsinki'
   region: 'Finland'
-##################################################################
-# FEATURED
 featured: false
-
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
 
 links: 
  - name: 'Noise Traffic Facebook page'
@@ -61,14 +41,7 @@ links:
    url: https://www.instagram.com/noisetraffic/ 
    icon: instagram 
    icon_pack: fab
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
 
-# Projects (optional).
 projects: [soc]
 ---
 

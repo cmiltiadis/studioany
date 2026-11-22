@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 7: Robotic rod bending'
 slug: ol-7
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'In this talk Maria will present her current research focused on development of robotic rod bending processes applied to product design and architecture. Her work aims to integrate machine learning algorithms in the production process in order to create simplified but versatile robotic automation for the prototypical building industry. Machine learning has the potential to augment human expertise and material knowledge within fabrication processes and as such it allows the architects to retrieve the influence on production of complex objects, reserved so far only for encapsulated industrial processes. Combined with commonly used digital design tools and simplified mechanics attached to robotic arm as well as allowing for information flow between each, it merges back design and making.'
-##################################################################
-# AUTHORS 
 authors: [Maria Smigelska]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-03-22T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-7-maria-smigelska-robotic-rod-bending/'
@@ -56,7 +35,6 @@ links:
 - name: TUbe
   icon: video
   url: 'https://tube.tugraz.at/paella/ui/watch.html?id=1a976d67-92f0-42ec-81e5-9e862f812ed0'
-
 ---
 
 {{<vimeo 214800687>}}

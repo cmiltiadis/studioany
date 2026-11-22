@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 11: Projection & Production: Scenes of Architecture in 
 subtitle: ''
 slug: ol-11
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'This talk will examine scenes of architecture by discussing the two movies „Inception“ (Christopher Nolan 2010) and „Wreck-It Ralph“ (Rich Moore 2012) and the digital game „Monument Valley“ (Ustwo Games 2014). Here, building typologies such as labyrinth and tower as well as elements such as walls and stairs are not functioning merely as a stage or the setting for a storyline. They have an agency and are directly involved in action and interaction within the visual and spatial narrative. Moreover, camera movement and gameplay not only capture points of views but control the projection and production of architectural space. I will argue for an architectural media theory that addresses both, the design of digital environments as well as architecture experienced on screens.'
-##################################################################
-# AUTHORS 
 authors: [Nicole Stöcklmayr]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-06-06T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-11-nicole-stoecklmayr-projection-production-scenes-of-architecture-in-movies-and-games/'

@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 17: Behind the visual: Digitalization of Indian Stone A
 slug: ol-17
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'The lecture will present the current state of the 3-year FWF-Project on North-Indian Nagara architecture currently conducted at IAM. The first part will focus on an introduction to this specific form of Indian sacral architecture, with their architectural history of the monuments and their wider cultural context. The second part will be dedicated to the methodologies implemented for digital reconstruction, being a mixture of automated processes and digital craftsmanship. It will present the current results while explaining the further goals and challenges arising by the limitations of possible on-site documentation and technical restrictions.'
-##################################################################
-# AUTHORS 
 authors: [Gerald Kozicz,Ludwig Grimm]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-12-13T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Ludwig Grimm'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-17-gerald-kozicz-ludwig-grimm-behind-the-visual-digitalization-of-indian-stone-architecture/'

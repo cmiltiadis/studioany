@@ -1,28 +1,21 @@
 ---
-# Display name
 title: Juan Gomez
 draft: false
 
-# Full name (for SEO)
 first_name: Juan
 last_name: Gomez
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Media artist and interaction designer; researcher at EPFL'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'juangomez.co'
     url: 'https://juangomez.co/en/info'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

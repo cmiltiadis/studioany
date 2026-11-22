@@ -23,7 +23,6 @@ author_notes:
 - SoC member (2022)
 - SoC member (2023-2024)
 - SoC member (2024) 
-# Optional external URL for project (replaces project detail page).
 external_link: ''
 image:
   caption: ''

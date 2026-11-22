@@ -3,45 +3,24 @@ title: 'IAM Open Lecture & Performance 9: CPPG Composition, Performance and Perc
 slug: ol-9
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'This talk will present questions, methodologies and results from the artistic research project GAPPP – Gamified Audiovisual Performance and Performance Practice. GAPPP is a 3 year research project that started in 2016, and with a goal to investigate what aesthetic effect the use of elements from computer games can yield in the context of experimental audiovisual compositions. This project starts out with the assumption that player interactions and game strategies offer yet unexplored models that can be applied in live audiovisual works. The goal is to develop a thorough understanding of the potential of game based elements in performative experimental audiovisual works. The research is carried out from three perspectives, of 1) the audiovisual composer, 2) the performer, and 3) the audience. For our investigation, we commission audiovisual composers to write new works specifically for this research project. Subsequently the works are rehearsed and investigated during concentrated working periods. At the end of those working periods the works are performed with a “test”-audience which is required to give us feedback on how they experienced the pieces by filling in questionnaires. In addition, various interviews are conducted with composers, performers and audience members. A large number of data of different sorts has been accumulated during the first working periods, that took place since 2016. This talk will present the first findings, alongside various artistic examples from the project.'
-##################################################################
-# AUTHORS 
 authors: [Marko Ciciliani]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-05-24T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: ''
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-9-marko-ciciliani-cppg-composition-performance-and-perception-of-gamified-audiovisual-works/'

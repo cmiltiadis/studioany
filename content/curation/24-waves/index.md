@@ -34,31 +34,16 @@ author_notes:
 tags: [event, presentation, book launch, Station of Commons, Helsinki]
 event: 'Book Launch - Waves: Radio as Collective Imagination'
 event_url: 'https://www.stationofcommons.org/events/waves/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-11-23T17:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
 all_day: false
-# LOCATION 
 location: Äänen Lumo
 address:
   city: 'Helsinki'
   region: 'Finland'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-
-# CUSTOM LINKS 
 links:
 # - name: 'Url name'
-#  url: 'example.org'
-# Projects (optional).
 projects: [soc, lumbung-radio]
 ---
 

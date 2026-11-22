@@ -1,69 +1,32 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 title: 'Timescales of Architecture'
 subtitle: 'Presentation at the Signale Soirée, Institute for Electronic Music, KU Graz; 2017'
 draft: false
-# SUMMARY
 summary: 'Presentation at the Signale Soirée, Institute for Electronic Music, KU Graz; 2017.'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [admin, Susanne Fröhlich]
-#TAGS
 tags: [presentation, sound, IEM]
-##################################################################
-# EVENT NAME 
 event: 'Signale Soirée'
-# EVENT URL 
 event_url: ''
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-05-29T18:00:00Z'
 date_end: '2017-05-29T20:00:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'CUBE, Institute of Electronic Music'
 address:
   street: 'Inffeldgasse 10'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
 
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-
-# CUSTOM LINKS 
 links:
-#- name: 'Url name'
-#  url: 'example.org'
 
   - icon: facebook
     icon_pack: fab
     name: 'Facebook event'
     url: 'https://www.facebook.com/events/128651291035361/'
 
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides. Simply enter your slide deck's filename without extension. Otherwise, set `slides = ""`.
 slides: ''
 
-# Projects (optional).
-#   Associate this post with one or more of your projects. Simply enter your project's folder or file name without extension. Otherwise, set `projects = []`.
 projects: []
 ---
 

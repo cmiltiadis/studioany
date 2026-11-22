@@ -7,11 +7,9 @@ authors: [Antonia Manhartsberger, admin]
 tags: [virtual reality, ambisonics, spatial audio, installation,procedural generation,artistic research, spatiotemporal design, media art, Unity, collaboration]
 categories: [spatial audio]
 date: 2018-01-31T12:55:55+03:00
-# lastmod: 2023-08-06T12:55:55+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
@@ -28,7 +26,6 @@ links:
 
 # url_video: 'https://vimeo.com/298533739'
 
-# Projects (optional).
 projects: []
 ---
 

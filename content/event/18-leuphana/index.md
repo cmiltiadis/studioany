@@ -3,62 +3,26 @@ slug: continuum-digital-cultures
 title: 'The Architectural Continuum'
 subtitle: ''
 draft: false
-# SUMMARY
 summary: 'Presentation at Digital Cultures Conference 2018. Leuphana University, 2018'
-# ABSTRACT 
 abstract: ''
-##################################################################
-# AUTHORS 
 authors: [admin]
-#TAGS
 tags: [presentation, architecture, geometry, space]
-##################################################################
-# EVENT NAME 
 event: 'Digital Cultures Conference 2018: Knowledge / Culture / Technology'
-# EVENT URL 
 event_url: 'https://digitalculturesconference.org/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-09-19T10:00:00Z'
 date_end: '2018-09-22T17:00:00Z'
-# all_day: false
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'Leuphana University'
 address:
   city: 'Lüneburg'
   region: 'Germany'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-
-# CUSTOM LINKS 
 
 links: 
 - name: 'Abstract PDF'
   url: 'uploads/18-cmiltiadis-architectural-continuum-digital-cultures.pdf'
   icon: file-pdf
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
 
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
-
-# Associated Projects (optional).
 projects: [spacetimecraft]
 ---
 

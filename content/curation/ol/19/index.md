@@ -3,45 +3,24 @@ title: 'IAM Open Lecture 19: From Architecture to architectures'
 slug: ol-19
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'Architecture is synonymous with the notion of structure/construction/building. But above all, Architecture is a way of seeing, thinking and questioning. By using the architectural gaze, language and mode of thinking, one can develop an approach, a form of investigation and analysis, which offers a set of tools for the deconstruction and reconstruction of meaning and its contingent nature. In a sense, we are in the realm of other kinds of architectures, of narratives created and dismantled through the vocabulary and syntax of Architecture, evading its original context and contaminating other disciplines with its core characteristics. This is not always a formal process, but rather an intuitive journey which involves expression and reflection, always contingent and often uncertain.'
-##################################################################
-# AUTHORS 
 authors: [Mariana Bisti]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2018-04-13T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Mariana Bisti'
-#  focal_point: Right
-##################################################################
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/open-lecture-19-mariana-bisti-from-architecture-to-architectures'

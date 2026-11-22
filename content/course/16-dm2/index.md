@@ -10,7 +10,6 @@ date: 2016-01-07T16:34:00+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: "Workshop poster"
   focal_point: ""
@@ -21,7 +20,6 @@ links:
   name: 'Introduction to P5 programming (booklet)'
   url: 'uploads/16-cmiltiadis-DM2-Processing-Booklet.pdf'
 
-# Projects (optional).
 projects: []
 ---
 

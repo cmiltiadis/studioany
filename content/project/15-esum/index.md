@@ -7,18 +7,14 @@ authors: [admin]
 tags: [prototype, urban analysis, urban morphology, sensor logging, ESUM, ETH]
 categories: [prototype]
 date: 2015-03-06T12:56:02+03:00
-#lastmod: 2023-08-06T12:56:02+03:00
 featured: false
 draft: false
 
-# Featured image
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: true
 
-# LINKS
 links:
 - name: "ESUM project website"
   url: 'https://archive.arch.ethz.ch/esum/'

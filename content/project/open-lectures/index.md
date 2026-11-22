@@ -29,7 +29,6 @@ lastmod: 2023-08-06T19:00:04+03:00
 featured: false
 draft: false
 
-# custom links
 links: 
 - name: 'Open Lectures Info'
   url: 'https://iam.tugraz.at/main-website/en/open-lectures/'
@@ -48,13 +47,11 @@ links:
   url: 'https://tube.tugraz.at/paella/ui/browse.html?series=9866b725-a6f2-41ca-8e5c-00879478b22f'
   icon: video
   icon_pack: fas
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 ---
 

@@ -8,11 +8,9 @@ author_notes: [ "Documentation, script writing, documentation design", "Voice ac
 tags: [sound walk, prototype, AR, heritage, intangible heritage, public space, geocaching, collaboration, Cyprus, Nicosia]
 categories: [prototype]
 date: 2017-11-03T12:56:19+03:00
-# lastmod: 2023-08-06T12:56:19+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""

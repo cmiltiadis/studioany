@@ -19,7 +19,6 @@ tags: [event series, Graz, collective, collaboration, electronic music,live elec
 # Move events to curated 
 categories: [curatorial]
 date: 2019-05-04T11:30:12+03:00
-#lastmod: 2023-08-10T11:30:12+03:00
 featured: false
 draft: false
 
@@ -27,13 +26,11 @@ links:
 #- name: "f"
 #  url: 
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: true
 
-# Projects (optional).
 projects: []
 ---
 

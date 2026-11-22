@@ -3,46 +3,25 @@ title: 'IAM Open Lecture 5: Cognitive Urban Design Computing'
 slug: ol-5
 subtitle: ''
 draft: false
-# SUMMARY
 summary: ''
-# ABSTRACT 
 abstract: 'What is needed for the development of a future-oriented computational design support is a productive combination of the excellence of human cognition, with the power of modern computing technology. We call this approach “cognitive design computing”. The computational part aims to mimic the way a designer’s brain works, through combining state-of-the-art optimization and machine learning approaches with available simulation methods. The cognition part respects the complex nature of design problems by the provision of models for human-computation interaction. Therefore, distributing the design problem between computer and designer.'
-##################################################################
-# AUTHORS 
 authors: [Reinhard König]
 categories: [curatorial]
-#TAGS
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]
-# Projects (optional).
 projects: [open-lectures]
-##################################################################
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2017-01-12T18:00:00Z'
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# EVENT NAME 
 event: 'IAM Open Lecture Series'
-# EVENT URL 
 event_url: ''
-##################################################################
-# LOCATION 
 location: 'IAM Media Lab'
 address:
   street: 'Kronesgasse 5/3'
   city: 'Graz'
   region: 'Austria'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
 image:
   caption: 'Image credit: Matthias Standfest, Chair of Information Architecture ETHz'
-#  focal_point: Right
-##################################################################
 
-# CUSTOM LINKS 
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/iam-open-lecture-5-reinhard-koenig-cognitive-urban-design-computing/'

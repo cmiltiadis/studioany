@@ -1,5 +1,4 @@
 ---
-
 title: "7x Cabin"
 subtitle: ""
 summary: ""
@@ -7,13 +6,9 @@ authors: [admin, Tom Pawlofski, Adel Albloushi, Georgios Anagnostopoulos, Christ
 tags: [robotic fabrication,fabrication, computational design, collaboration,timber, MAS CAAD]
 categories: [projects]
 date: 2014-02-10T19:22:31+03:00
-#lastmod: 2023-08-10T19:22:31+03:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
@@ -31,8 +26,6 @@ links:
 - name: 'CAAD Blog (arhived)'
   url: 'https://web.archive.org/web/20190626140325/https://www.caad.arch.ethz.ch/blog/7xcabin-robotic-log-processing/'
 
-
-# Projects (optional).
 projects: []
 ---
 

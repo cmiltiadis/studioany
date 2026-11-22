@@ -8,11 +8,9 @@ tags: [installation, sound installation, interactive installation, SuperCollider
 # Add videos
 categories: [projects]
 date: 2019-01-24T18:18:58+03:00
-#lastmod: 2023-08-06T18:18:58+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: "3D rendering of audience performance"
   focal_point: "Left"
@@ -24,7 +22,6 @@ links:
   icon: 'file-pdf'
   icon_pack: fas
 
-# Projects (optional).
 projects: []
 ---
 

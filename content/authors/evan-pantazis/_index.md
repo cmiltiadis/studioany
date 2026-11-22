@@ -1,30 +1,23 @@
 ---
-# Display name
 title: Evangelos Pantazis
 draft: false
 
-# Full name (for SEO)
 first_name: Evangelos
 last_name: Pantazis
 
-# Status emoji
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
 role: 'Architect, computational designer, and researcher.'
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: 'Computational Design Lead, IBI Group'
     url: 'https://www.ibigroup.com/ibi-people/evangelos-pantazis/'
   - name: 'Co-founder at Topotheque' 
     url: 'https://topotheque.com/'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 

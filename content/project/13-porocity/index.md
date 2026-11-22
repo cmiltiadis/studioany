@@ -8,17 +8,14 @@ author_notes: [Programming; coordination; video editing, programming; video edit
 tags: [shape grammar, procedural design, computational design, Processing,collaboration, MAS CAAD, ETH Zurich]
 categories: []
 date: 2013-09-30T12:26:43+03:00
-# lastmod: 2023-08-13T12:26:43+03:00
 featured: false
 draft: false
 
-# Featured image
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
 projects: []
 
 links: 

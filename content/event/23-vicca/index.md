@@ -3,50 +3,23 @@ title: 'Space-Time-Craft: Notions of digital craft and design practice in contem
 slug: 'space-time-craft'
 subtitle: ''
 draft: false
-# SUMMARY
 summary: 'Presentation at the workshop *Thinking Practices in Art and Media*. Aalto ARTS, 2023'
-# ABSTRACT 
 abstract: "What is contemporary craft? Unlike vernacular notions of craft -- involving situated knowledges of a place and its available material which are cultivated over generations and performed by masters -- the notion of craft in our times poses a challenge, even more so in the context of research.The presentation will discuss notions of digital craft based on my research that investigates virtual space and movement *through exploratory design experimentation*. While virtual environments are ubiquitous, digital media like virtual reality and videogames are lacking formal foundations or discourses pertaining to their design and development. In my work I approach virtual space as a 'contemporary material', something that necessitates practical experimentation for investigating its capacities and potentials. I develop experimental prototypes to investigate virtual environments that are experienceable, however, impossible to construct or come across in the physical world. The aim of this practice is twofold: the exploration of the design space of such media through experienceable artifacts which also serve as research objects, parallel to the investigation of what is possible to experience. Lastly, the presentation will discuss current difficulties in admitting design prototypes, and especially 'playable artifacts' as research objects."
-##################################################################
-# AUTHORS 
 authors: [admin]
-#TAGS
 tags: [presentation, craft, Helsinki, Aalto]
-##################################################################
-# EVENT NAME 
 event: 'Thinking Practices in Art and Media'
-# EVENT URL 
 event_url: ''
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-10-03T09:00:00Z'
 #date_end: '2023-10-03T15:00:00Z'
 all_day: true
-# Schedule page publish date (NOT talk date).
 publishDate: '2023-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'ViCCA. Väre, Aalto ARTS'
 address:
   street: 'Otaniementie 14'
   city: 'Espoo'
   region: 'Finland'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
 
-# Associated Projects (optional).
 projects: [spacetimecraft]
 ---
 

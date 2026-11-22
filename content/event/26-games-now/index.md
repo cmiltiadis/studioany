@@ -4,48 +4,24 @@ slug: 'games-now'
 subtitle: 'Presentation at Pracademics – Making Games/Research workshop. Games Now! Aalto 2026'
 summary: 'Presentation at Pracademics – Making Games/Research workshop. Games Now! Aalto 2026'
 draft: false
-# ABSTRACT 
 abstract: "Why is it far easier to publish a paper analysing a finished videogame than research conducted through making one, and easier to submit a paper about a prototype than the prototype itself? Part of the reason is that gamemaking research still has no home of its own. Practitioner-academics routinely translate their work into the languages of game studies, HCI, or artistic research for it to count as research, and a growing generation of graduates from gamemaking degrees faces the same detour. This talk makes the case for gamemaking research as a field in its own right, one that could bring together scattered approaches and, ultimately, help us make better games. Drawing on an archive of game design research, I trace how this question has been raised, sidelined, and revived since the 1980s. From my studies of the videogame research landscape, I show how rarely formal discourse includes prototypes, or even images and video, despite studying a medium that is interactive and demands hands-on engagement. I then reflect on my own doctoral experience as an academic-practitioner, and on ongoing efforts with international colleagues to establish a journal for gamemaking research in which playable work counts as a contribution. The talk closes by asking what such a venue would need to offer those who make games, study them, or do both." 
 
-##################################################################
-# AUTHORS 
 authors: [admin]
-#TAGS
 tags: [presentation, gamemaking, game design, research, Helsinki, Aalto]
-##################################################################
 # EVENT NAME / URL
 event: 'Games Now! 2026'
 event_url: 'https://gamesnow.aalto.fi/'
-# DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-11-11T09:00:00Z'
 #date_end: '2023-10-03T15:00:00Z'
 all_day: true
-# Schedule page publish date (NOT talk date).
 publishDate: '2026-01-01T00:00:00Z'
-##################################################################
-# LOCATION 
 location: 'Marsio, Aalto University'
 # address:
 #  street: 'Otaniementie 14'
 #  city: 'Espoo'
 #  region: 'Finland'
-##################################################################
-# FEATURED
-# Is this a featured talk? (true/false)
 featured: false
-# IMAGE 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-##################################################################
-# LINKS 
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
-##################################################################
 
-# Associated Projects (optional).
 projects: [spacetimecraft]
 ---
 
