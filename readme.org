@@ -4,6 +4,7 @@ Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (see [[
 + Uses Wowchemy v5 (2023), *vendored and patched* in =_vendor/= to build with current Hugo (tested with 0.170.1, extended)
   + Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes (shortcodes like gallery don't work) -- not adopted
   + The theme is no longer fetched: edit =_vendor/= directly. Do NOT run =hugo mod vendor= / =hugo mod get= (it would overwrite the patches)
+    (=go.mod= / =go.sum= were removed for this reason; Hugo reads modules from =_vendor/=)
   + Patches (2026-11, see git log): removed functions (getCSV, resources.ToCSS, site.GoogleAnalytics, IsMultiLingual, IsNode, AllPages, .Site.Data, LanguageCode),
     new template lookup (=_partials/=, no dots in block file names), uint64 =view:= numbers, summaries rendered as before (plain text, ~30 words), Dart Sass
   + Requires Dart Sass (bundled with the snap package; installed in GitHub Actions & by =netlify-build.sh=)
@@ -16,22 +17,35 @@ Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (see [[
     + +https://cmiltiadis.github.io/studioany-website/+
   + failed with +[[https://theplaybook.dev/docs/deploy-hugo-to-github-pages/][theplaybook tutorial]]+
     + +Added github.io url at [[file:config/_default/config.yaml][config.yaml]]  as =base_url=+
+* Customizations
+Site-level files (preferred place for changes, outside the theme):
++ [[file:assets/scss/custom.scss][assets/scss/custom.scss]] -- own CSS (footer spacing, about-page bullet styles)
++ [[file:layouts/authors/peers.html][layouts/authors/peers.html]] -- Peers page (=/authors/=) as one alphabetical list,
+  selected by =layout: peers= in =content/authors/_index.md=. Excludes the =admin= profile.
++ [[file:config/_default/params.yaml][params.yaml]] =about.interests_bullet= / =about.education_bullet= --
+  bullets on the About page: a Font Awesome class (e.g. =fa-solid fa-book=) or =disc|circle|square|dash|none=
++ =capitalizeListTitles: false= in config.yaml keeps tag/author names as written;
+  =content/{tags,categories,publication_types,project}/_index.md= only set the list page titles
+
+Edits inside the theme (=_vendor/github.com/wowchemy/wowchemy-hugo-themes/modules/=, all marked with a =patched= comment):
++ =wowchemy/v5/layouts/authors/list.html= -- heading "Associated work" on author pages (was "Latest")
++ =wowchemy/v5/layouts/partials/site_footer.html= -- short "Built with Hugo & Wowchemy (now HugoBlox)" credit
++ =wowchemy/v5/layouts/partials/site_footer_license.html= -- copyright line below the CC icons
++ =wowchemy/v5/layouts/partials/blocks/about_biography.html= -- configurable bullets (see above)
++ =wowchemy/v5/layouts/partials/functions/get_event_dates.html= -- "-" instead of =&mdash;= in date ranges
++ Hugo-compatibility patches listed above
+
 * Changelog
++ [2026-11-22 Sun] Hugo upgrade 0.119 -> 0.170.1
+  + Vendored & patched theme (see above); old =hugo= binary no longer needed
+  + CI (GitHub Actions) and Netlify on Hugo 0.170.1; Netlify installs Dart Sass via [[file:netlify-build.sh][netlify-build.sh]]
+  + Content fixes: duplicate =draft:= keys, WebP featured image renamed, =dubravka-sekulić= folder,
+    double-spaced author names, consistent tag spelling, broken links (cumincad, TToA poster, CAAD Futures PDF)
+  + DOIs stored as bare identifiers (=10.xxxx/...=) -- the theme adds =https://doi.org/=
+  + 18-btv: link to JAR replaced by =doi:= field
+  + Peers page as single list; "Associated work" on author pages; footer tidied; About bullets configurable
+  + Removed unused starter files: =go.mod=, =go.sum=, =theme.toml=, =images/=
 + [2025-07-03 Thu]
   + removed Posts from [[file:config/_default/menus.yaml][menus]].
   + Changed repo name & url to =studioany=
   + Remove BaseURL from config, otherwise server creates subdir & relative links don't work.
-* UPDATE ?
-1. Make branch
-2. Solve
-   1. Gallery shortcode
-   2. Publication page / check hugo blox Research Group sample
-* Edits
-
-** DONE Fix mdash in events with duration
-Replace `&mdash;` with `-`
-`_vendor/.../wowchemie/...layouts/partials/functions/get_event_dates`
-
-```
- {{ $str = $str | append "-" }}<!-- replaced "&mdash;" -->
-```
