@@ -35,7 +35,23 @@ Edits inside the theme (=_vendor/github.com/wowchemy/wowchemy-hugo-themes/module
 + =wowchemy/v5/layouts/partials/functions/get_event_dates.html= -- "-" instead of =&mdash;= in date ranges
 + Hugo-compatibility patches listed above
 
+* Writing conventions
++ Summaries: =What at Venue. City, Year= -- no trailing period, no months (e.g. =Presentation at Drifts Festival. Helsinki, 2021=)
+  + Publications: =Paper at eCAADe 2018. Łódź University of Technology, 2018= / =Chapter in *Book Title*, 2019=
++ American spelling (-ize, color, program, modeling) in own text; quotes, guest bios/abstracts, published abstracts and titles stay as written
++ =videogame= (one word)
++ Dashes: en dash for ranges (=2016–2017=, =May 4–6=, =13.00–13.45=); closed em dash in sentences (=word—word=);
+  spaced en dash as separator in lists and titles (=Valentin Moser – Chronicles=)
++ Names: lumbung radio, documenta fifteen, project Anywhere, eCAADe, TU Wien, Künstlerhaus, Łódź
++ DOIs as bare identifiers (=doi: '10.xxxx/...'=)
++ New events: =hugo new event/26-name/index.md= (uses =archetypes/event.md=); starter examples in =_starter-examples/=
++ Title casing: undecided (mixed)
+
 * Changelog
++ [2026-11-22 Sun] Content pass
+  + Typos; front-matter template comments removed (2,350 lines; build output unchanged)
+  + Starter examples moved to =_starter-examples/=, event archetype, Netlify CMS removed
+  + Names, American spelling, videogame, dashes, summaries normalized (see Writing conventions)
 + [2026-11-22 Sun] Hugo upgrade 0.119 -> 0.170.1
   + Vendored & patched theme (see above); old =hugo= binary no longer needed
   + CI (GitHub Actions) and Netlify on Hugo 0.170.1; Netlify installs Dart Sass via [[file:netlify-build.sh][netlify-build.sh]]
