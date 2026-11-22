@@ -1,8 +1,8 @@
 ---
 slug: acadia-archive
 title: "ACADIA Conference Archive"
-subtitle: "Construction of an open access archive for ACADIA conferences (1985-2023)."
-summary: "Construction of an open access archive for ACADIA conferences (1985-2023)."
+subtitle: "Construction of an open access archive for ACADIA conferences (1985–2023)."
+summary: "Construction of an open access archive for ACADIA conferences (1985–2023)."
 authors: [admin, Marcell Mars]
 author_notes: 
 - Concept & development 

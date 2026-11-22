@@ -41,7 +41,7 @@ Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.
 
 **Event description**
 
-The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017-2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.
+The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017–2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.
 
 Thus, the participants will thematise aesthetics of reception as well as aesthetics of production and approach the complex constitution of computer games from a wide range of disciplines – from Media and Game Studies to Art History, Sound Studies to Architecture, Design to Phenomenology and Embodiment, as well as Spatial Theory and Cultural Studies.
 

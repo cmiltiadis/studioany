@@ -45,7 +45,7 @@ pictures (from FB by)
 -->
 
 ## Outline & documentation 
-Full-week workshop in the context of the 2018 Architectural Festival *Vision*, upon invitation from the Polish Association of Architecture Students (OSSA). October 13-21 2018, Łódź, Poland. 
+Full-week workshop in the context of the 2018 Architectural Festival *Vision*, upon invitation from the Polish Association of Architecture Students (OSSA). October 13–21 2018, Łódź, Poland. 
 The workshop was designed to focus on auditory aspects of spatial cognition, and included the participation of spatial audio composer and sound artist Gerriet K. Sharma in the first half. The workshop resulted in a collectively-developed 10-minute VR experience of spaces 'heard' in blindfolded listening sessions of the spatial audio piece 'grrawe' (Gerriet K. Sharma 2010). 
 
 | | |
@@ -94,7 +94,7 @@ Maja Piechowiak
 Ihor Savchenko 
 
 ### Spatial audio piece  
-[grrawe](https://www.gksh.net/portfolio/grrawe/) (spatial audio composition for an 8-channel loudspeaker ring; 2009-2010) by Gerriet K. Sharma  
+[grrawe](https://www.gksh.net/portfolio/grrawe/) (spatial audio composition for an 8-channel loudspeaker ring; 2009–2010) by Gerriet K. Sharma  
 ### Teachers  
 Constantinos Miltiadis  
 Gerriet K. Sharma 

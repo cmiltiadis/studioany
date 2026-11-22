@@ -25,7 +25,7 @@ links:
   url: 'https://2016.mappingfestival.com/artists/constantinos-miltiadis-achilleas-xydis.html'
 ---
 
-**Duration:**  May 4-6, 2016. 
+**Duration:**  May 4–6, 2016. 
 
 **Exhibition:** 16:00 May 6 2016, Le Commun, Geneva. 
 

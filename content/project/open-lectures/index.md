@@ -1,6 +1,6 @@
 ---
 slug: iam-open-lectures
-title: "Open Lecture Series (2015-2019)"
+title: "Open Lecture Series (2015–2019)"
 subtitle: "Lecture series at the Institute of Architecture and Media, TU Graz"
 summary: "Lecture series founder and curator. Institute of Architecture and Media, TU Graz"
 authors: 
@@ -13,7 +13,7 @@ authors:
   - Ludwig Grimm
   - Martin Schrotz
 author_notes: 
-  - Series founder; producer ofor sessions 1-30
+  - Series founder; producer ofor sessions 1–30
   - Manager, TU Graz Educational Technology Unit 
   - Video documentation & editing (TU Graz Educational Technology Unit)
   - Video documentation & editing (TU Graz Educational Technology Unit)
@@ -33,7 +33,7 @@ links:
 - name: 'Open Lectures Info'
   url: 'https://iam.tugraz.at/main-website/en/open-lectures/'
   icon: house
-- name: 'Open Lectures Archive (1-30)'
+- name: 'Open Lectures Archive (1–30)'
   url: '/tag/iam-open-lectures'
   icon: folder
 - name: 'Open Lectures archive IAM'
@@ -60,7 +60,7 @@ The series hosts talks by younger academic researchers and practitioners aiming 
 All sessions are hosted at the New Media Lab of IAM, Kronesgasse 5/III, Graz. 
 
 # Open lectures archive 
-For the documentation of sessions 1-30 see the [IAM Open Lectures Archive](/tag/iam-open-lectures) on this website.
+For the documentation of sessions 1–30 see the [IAM Open Lectures Archive](/tag/iam-open-lectures) on this website.
 For the complete catalog of the series see [IAM Open lectures at iam.tugraz.at](https://iam.tugraz.at/main-website/category/openlecture/). 
 
 Video documentation of the *IAM Open Lectures* is archived at: 

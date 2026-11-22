@@ -35,7 +35,7 @@ links:
 projects: [soc]
 ---
 
-Co-curation and hosting of the lecture part in [Phase 2](#p2) of the exhibition *Digital Commoning Practices*, by *Station of Commons* that took place at the artist-run gallery *Oksasenkatu 11*, in Helsinki, March 6-28 2021, during lockdown. See [exhibition credits](#credits) and [lecture program](#lecture-programme)
+Co-curation and hosting of the lecture part in [Phase 2](#p2) of the exhibition *Digital Commoning Practices*, by *Station of Commons* that took place at the artist-run gallery *Oksasenkatu 11*, in Helsinki, March 6–28 2021, during lockdown. See [exhibition credits](#credits) and [lecture program](#lecture-programme)
 
 
 # Lecture program {#lecture-programme}

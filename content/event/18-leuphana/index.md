@@ -28,7 +28,7 @@ projects: [spacetimecraft]
 
 <!-- 
 1.12.2024: digital cultures website doesnt work: available to buy 
-paper titled “The architectural continuum” will be presented at the [Digital Cultures 2018 Conference](https://digitalculturesconference.org/) at the Leuphana University of Lüneburg, 19-22 of September 2018.  
+paper titled “The architectural continuum” will be presented at the [Digital Cultures 2018 Conference](https://digitalculturesconference.org/) at the Leuphana University of Lüneburg, 19–22 of September 2018.  
 Detailed conference schedule [[x](https://digitalculturesconference.org/files/2018/09/KCT18_Program_Abstracts.pdf)]  
 Download abstract from researchgate [[x](https://www.researchgate.net/publication/327436853_The_Architectural_Continuum_Abstract)]
 -->

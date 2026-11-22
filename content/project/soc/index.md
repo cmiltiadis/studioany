@@ -21,7 +21,7 @@ author_notes:
 - SoC member (2021)
 - SoC member (2021)
 - SoC member (2022)
-- SoC member (2023-2024)
+- SoC member (2023–2024)
 - SoC member (2024) 
 external_link: ''
 image:

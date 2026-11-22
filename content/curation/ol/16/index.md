@@ -39,7 +39,7 @@ links:
 
 {{<vimeo 253763577>}}
 
-**Efilena Baseta** is an architect engineer who studied in the National Technical University of Athens (NTUA), with a Master degree in Advanced Architecture from the Institute for Advanced Architecture of Catalonia (IAAC). Her interest lies in exploring material behaviors, physically and digitally, in order to create adaptive structures. Since 2014 Efilena is a partner of Noumena, an experimental architectural practice based in Barcelona. Moreover Efilena is part of “Reshape – Digital Craft Community” which focuses on Wearable Technology. During 2015-2016 she collaborated with IAAC as the coordinator of the Visiting Programs and tutor of the Global Summer School. She is currently a Marie Curie PhD candidate in the University of Applied Arts Vienna on the topic of „Dynamic Active Bending Structures.“
+**Efilena Baseta** is an architect engineer who studied in the National Technical University of Athens (NTUA), with a Master degree in Advanced Architecture from the Institute for Advanced Architecture of Catalonia (IAAC). Her interest lies in exploring material behaviors, physically and digitally, in order to create adaptive structures. Since 2014 Efilena is a partner of Noumena, an experimental architectural practice based in Barcelona. Moreover Efilena is part of “Reshape – Digital Craft Community” which focuses on Wearable Technology. During 2015–2016 she collaborated with IAAC as the coordinator of the Visiting Programs and tutor of the Global Summer School. She is currently a Marie Curie PhD candidate in the University of Applied Arts Vienna on the topic of „Dynamic Active Bending Structures.“
 <!--
 IAM Open Lecture #16
 Efilena Baseta

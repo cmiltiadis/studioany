@@ -45,7 +45,7 @@ projects: [21-cybersyn]
 
 ---
 
-Peer reviewed artwork part of the ISEA 2022 screening program, in collaboration with  Sónar Festival: June 11-16 2016, Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona. 
+Peer reviewed artwork part of the ISEA 2022 screening program, in collaboration with  Sónar Festival: June 11–16 2016, Centre de Cultura Contemporània de Barcelona (CCCB) and at CERC, Barcelona. 
 ## Credits
 
 **Grupo Synco** is a collaboration between curator and researcher Bassam El Baroni (Aalto University, Finland) transdisciplinary architect Constantinos Miltiadis (Aalto University, Finland), multidisciplinary artist and animator Georgios Cherouvim (New York), and composer and sound artist Gerriet K. Sharma (Berlin). The group’s first co-creation is the CGI video work Cybersyn 1973/2023.

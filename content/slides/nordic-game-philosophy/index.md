@@ -511,7 +511,7 @@ Game engines are essentially Cartesian model spaces with Newtonian physics
 
 <bib>
 
-- Chesher, Chris. ‘Colonizing Virtual Reality. Construction of the Discourse of Virtual Reality, 1984-1992’. _Cultronix_ 1, no. 1 (1994).
+- Chesher, Chris. ‘Colonizing Virtual Reality. Construction of the Discourse of Virtual Reality, 1984–1992’. _Cultronix_ 1, no. 1 (1994).
 - Gunkel, David J., and Ann Hetzel Gunkel. ‘Virtual Geographies: The New Worlds of Cyberspace’. _Critical Studies in Media Communication_ 14, no. 2 (1997): 123–37.
 </bib>
 

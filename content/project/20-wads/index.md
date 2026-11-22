@@ -27,7 +27,7 @@ links:
    url: 'https://super-effective.net/floating-through-gardens-wads-and-its-states-of-potentiality/'
 ---
 
-Co-curation of virtual exhibition at Ars Electronica Festival 2020 *In Kepler's Gardens* (September 9-13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs. 
+Co-curation of virtual exhibition at Ars Electronica Festival 2020 *In Kepler's Gardens* (September 9–13, 2020). The exhibition involved 21 artists and consisted of 11 virtual environments developed in Mozilla Hubs. 
 ## Exhibition text  
 WADS (↑ ← → ↓) speaks of plurality and plentifulness, of conjoining principles, disciplines and possibilities. As a virtual space compiled of local artists, it sets out to explore the potential of digital hubs as grounds of artistic and technological co-creation. It imagines a garden of commoning where artists pollinate the digital by employing a technique derived from gardening: namely, grafting.
 
@@ -35,7 +35,7 @@ In this spirit and following its own mission, RISE invites local artists to poll
 
 ## Project presentation 
 
-WADS was exhibited at the Thinker Maker Space in Nicosia, on October 15-16, 2020.  
+WADS was exhibited at the Thinker Maker Space in Nicosia, on October 15–16, 2020.  
 ## Exhibition credits
 ### Participating Artists
 Raissa Angeli, Maria Andreou, Marina Ashioti, Pandelis Diamantides, Anastasia Dolitsay, Peter Eramian, Ibrahim Latif Ince, Stelios Ilchouk, Marina Kassianidou, Irini Khenkin, Angeliki Koutsodimitropoulou, Marinos Koutsomichalis, Marietta Mavrokordatou, Panagiotis Mina, Faysal Mroueh, Lina Protopapa, Doros Polydorou, Despina Rangou, Kleanthis Rousos, Elena Savvidou, Nico Stephou

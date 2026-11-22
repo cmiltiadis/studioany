@@ -44,7 +44,7 @@ education:
       year: 2024 (expected)
     - course: Computer Music (non-degree)
       institution: IEM, KU Graz
-      year: 2018-2019
+      year: 2018–2019
     - course: Master of Advanced Studies (MAS) in Architecture and Information
       institution: ETH Zurich
       year: 2014    

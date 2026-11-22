@@ -48,35 +48,35 @@ Games of this genre often display contempt toward high brow or consistent narrat
 
 09.30 Registration and Introductions
 
-10.00-11.30   **Representation, Imagination and Fiction**
+10.00–11.30   **Representation, Imagination and Fiction**
 
 Stacie Friend
 
 _11.30-13.00_  Lunch break
 
-13.00-13.45   **Representations of the Immaterial Through Player as a Prop in Video Games**
+13.00–13.45   **Representations of the Immaterial Through Player as a Prop in Video Games**
 
 Maciej Jemioł
 
-13.45-14.30  **From Player Representation to Enactive Presence: The Case of ‘Boomer Shooters’**
+13.45–14.30  **From Player Representation to Enactive Presence: The Case of ‘Boomer Shooters’**
 
 Constantinos Miltiadis
 
-14.30-15.15  **The Game of Video Game Objects**
+14.30–15.15  **The Game of Video Game Objects**
 
 Jesper Juul
 
 _15.15-15.45_  Coffee break
 
-15.45-16.30  **The Epistemic Power of Perception In Virtual Worlds and Virtual Games**
+15.45–16.30  **The Epistemic Power of Perception In Virtual Worlds and Virtual Games**
 
 Joseph Larse
 
-16.30-17.15   **Ludofictionality**
+16.30–17.15   **Ludofictionality**
 
 John Sageng
 
-17.15-18.00  **SNES is my Co-Author??? Authorship, Videogames, and Generative Glitches**
+17.15–18.00  **SNES is my Co-Author??? Authorship, Videogames, and Generative Glitches**
 
 Nathan Wildman
 
@@ -84,38 +84,38 @@ Nathan Wildman
 
 ## **Wednesday August 30**
 
-09.30-11.00  **Cybersemantics**
+09.30–11.00  **Cybersemantics**
 
 Peter Pagin
 
-11.00-11.45 –  **Diegetic versus Deictic Fiction**
+11.00–11.45 –  **Diegetic versus Deictic Fiction**
 
 Rune Klevjer
 
-11.45-13.00  Lunch break
+11.45–13.00  Lunch break
 
-13.00-13.45  **Perceiving Represented Gameworlds: Actual, Fictional, and Imaginative Perceptions**
+13.00–13.45  **Perceiving Represented Gameworlds: Actual, Fictional, and Imaginative Perceptions**
 
 Nele van der Mossalen 
 
-13.45-14.30  **The Challenge of Genius Loci and Spatial Representation in Virtual Worlds**
+13.45–14.30  **The Challenge of Genius Loci and Spatial Representation in Virtual Worlds**
 
 Daniele Monaco 
 
-14.30-15.15 **Reasoning in Computerized and Non-Computerized Games**
+14.30–15.15 **Reasoning in Computerized and Non-Computerized Games**
 
 Ida Jorgensen
 
-15.15-15.45  Coffee break
+15.15–15.45  Coffee break
 
-15.45-16.30  **Against Metaphysical Interpretations of VR**
+15.45–16.30  **Against Metaphysical Interpretations of VR**
 
 Grant Tavinor
 
-16.30-17.15 **Why VR Does Not Involve Picture Perception – a Gibsonian Account**
+16.30–17.15 **Why VR Does Not Involve Picture Perception – a Gibsonian Account**
 
 Edward Baggs, Paweł Grabarczyk and Zuzanna Rucińska
 
-17.15-18.00 – **Veridical Representation through Exaggeration in “Hans Christian and I”**
+17.15–18.00 – **Veridical Representation through Exaggeration in “Hans Christian and I”**
 
 Dooley Murphy

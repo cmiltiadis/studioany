@@ -39,7 +39,7 @@ The project follows an integrative methodology, and spans multiple research appr
 - development and teaching of original courses in gamemaking and VR development. 
 
 The project was initiated following the development of [project Anywhere](../project-anywhere) at ETH Zurich in 2014. 
-It was developed further through interdisciplinary research and publishing, as well as through extensive teaching of original curricula on experimental game and VR development, including the [Virtual Spaces Master Studio](../../tag/vsms) at TU Graz (2016-2017), as well as multiple shorter [workshops](../../tag/workshop).
+It was developed further through interdisciplinary research and publishing, as well as through extensive teaching of original curricula on experimental game and VR development, including the [Virtual Spaces Master Studio](../../tag/vsms) at TU Graz (2016–2017), as well as multiple shorter [workshops](../../tag/workshop).
 Aspects of this research have been informed through studies in computer music and spatial audio at the renowned Institute of Electronic Music of KU Graz conducted between 2018 and 2019. 
 In late 2019, this was formalized into a doctoral research project at Aalto University, School of Arts, within the context of the *Experience Design* project funded by the Research Council of Finland, titled: *SpaceTimeCraft: Integrative Research through Design into the Experience of Virtual Navigation*, with its defense expected in 2025. 
 
