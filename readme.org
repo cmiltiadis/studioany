@@ -1,6 +1,6 @@
 #+title: Readme
 
-Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (see [[README-academic-theme.md][original-readme]])
+Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (starter: [[https://github.com/wowchemy/starter-hugo-academic][wowchemy/starter-hugo-academic]])
 + Uses Wowchemy v5 (2023), *vendored and patched* in =_vendor/= to build with current Hugo (tested with 0.170.1, extended)
   + Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes (shortcodes like gallery don't work) -- not adopted
   + The theme is no longer fetched: edit =_vendor/= directly. Do NOT run =hugo mod vendor= / =hugo mod get= (it would overwrite the patches)
@@ -44,7 +44,7 @@ Edits inside the theme (=_vendor/github.com/wowchemy/wowchemy-hugo-themes/module
   + DOIs stored as bare identifiers (=10.xxxx/...=) -- the theme adds =https://doi.org/=
   + 18-btv: link to JAR replaced by =doi:= field
   + Peers page as single list; "Associated work" on author pages; footer tidied; About bullets configurable
-  + Removed unused starter files: =go.mod=, =go.sum=, =theme.toml=, =images/=
+  + Removed unused starter files: =go.mod=, =go.sum=, =theme.toml=, =images/=, =README-academic-theme.md=, =academic.Rproj=
 + [2025-07-03 Thu]
   + removed Posts from [[file:config/_default/menus.yaml][menus]].
   + Changed repo name & url to =studioany=
