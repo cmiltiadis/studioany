@@ -1,6 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-title: 'TEMPLATE'
+# Archetype for new events: hugo new event/<yy-name>/index.md
+title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 subtitle: ''
 draft: true
 # SUMMARY
@@ -19,7 +19,7 @@ event: 'Some event'
 # EVENT URL 
 event_url: 'https://example.org'
 # DATE # Talk start and end times. # End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-01T18:00:00Z'
+date: '{{ .Date }}'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 # Schedule page publish date (NOT talk date).
@@ -68,4 +68,3 @@ slides: ''
 projects: []
 ---
 
-EMPTY
