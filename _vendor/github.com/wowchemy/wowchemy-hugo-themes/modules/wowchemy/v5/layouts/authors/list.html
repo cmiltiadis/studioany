@@ -24,7 +24,7 @@
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
-      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <h3>Associated work</h3>{{/* patched: was i18n "user_profile_latest" (Latest) */}}
       <ul>
         {{ range $query }}
         <li>
