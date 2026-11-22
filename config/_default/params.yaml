@@ -114,3 +114,10 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# About page (biography block): bullets for the Interests and Education lists.
+#   A Font Awesome icon class, e.g. 'fa-solid fa-book' / 'fa-solid fa-graduation-cap' (theme defaults),
+#   or a plain style: disc | circle | square | dash | none
+about:
+  interests_bullet: disc
+  education_bullet: disc

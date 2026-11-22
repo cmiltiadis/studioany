@@ -1,0 +1,25 @@
+// Site-specific styles (overrides the theme's empty custom.scss).
+
+// Footer: tighter spacing between the copyright line and the "Built with" line.
+footer .copyright-license-text {
+  margin-bottom: 0.25rem;
+}
+
+// About page: plain bullet styles for Interests / Education,
+// selected with `about.interests_bullet` / `about.education_bullet` in params.yaml.
+ul.bullet-none,
+ul.bullet-disc,
+ul.bullet-circle,
+ul.bullet-square,
+ul.bullet-dash {
+  padding-left: 1.2em;
+}
+ul.bullet-none { list-style: none; padding-left: 0; }
+ul.bullet-disc { list-style: disc; }
+ul.bullet-circle { list-style: circle; }
+ul.bullet-square { list-style: square; }
+ul.bullet-dash { list-style: "\2013\00a0\00a0"; } // en dash
+ul.ul-edu.bullet-disc li,
+ul.ul-edu.bullet-circle li,
+ul.ul-edu.bullet-square li,
+ul.ul-edu.bullet-dash li { padding-left: 0; }

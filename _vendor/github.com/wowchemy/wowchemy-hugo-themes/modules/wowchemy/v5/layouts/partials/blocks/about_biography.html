@@ -101,10 +101,13 @@
       {{ with $person.interests }}
       <div class="col-md-5">
         <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
-        <ul class="ul-interests fa-ul mb-0">
+        {{/* patched: bullet configurable via params.yaml about.interests_bullet */}}
+        {{ $b := site.Params.about.interests_bullet | default "fa-solid fa-book" }}
+        {{ $icon := strings.HasPrefix $b "fa" }}
+        <ul class="ul-interests mb-0 {{ if $icon }}fa-ul{{ else }}bullet-{{ $b }}{{ end }}">
           {{ range . }}
           <li>
-            <i class="fa-li fa-solid fa-book"></i>
+            {{ if $icon }}<i class="fa-li {{ $b }}"></i>{{ end }}
             {{ . | markdownify | emojify }}
           </li>
           {{ end }}
@@ -115,10 +118,13 @@
       {{ with $person.education }}
       <div class="col-md-7">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
-        <ul class="ul-edu fa-ul mb-0">
+        {{/* patched: bullet configurable via params.yaml about.education_bullet */}}
+        {{ $b := site.Params.about.education_bullet | default "fa-solid fa-graduation-cap" }}
+        {{ $icon := strings.HasPrefix $b "fa" }}
+        <ul class="ul-edu mb-0 {{ if $icon }}fa-ul{{ else }}bullet-{{ $b }}{{ end }}">
           {{ range .courses }}
           <li>
-            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            {{ if $icon }}<i class="fa-li {{ $b }}"></i>{{ end }}
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
