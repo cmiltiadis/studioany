@@ -15,3 +15,7 @@ go.sum
 
 # temp folder 
 temp/
+
+# build artifacts
+dart-sass/
+zz-public/

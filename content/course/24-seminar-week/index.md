@@ -10,7 +10,6 @@ categories: [teaching, spatial audio]
 date: 2024-08-28T09:00:32+03:00
 # date_end: 2018-10-20T09:00:32+03:00
 featured: false
-draft: false
 
 # show_breadcrumb: true
 

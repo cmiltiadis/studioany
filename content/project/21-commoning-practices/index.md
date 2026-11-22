@@ -4,7 +4,7 @@ subtitle: "Exhibition lecture series co-curation and hosting"
 summary: "Exhibition lecture series co-curation and hosting at Oksasenkatu 11. Helsinki, 2021"
 authors: [admin,  gregoire-rousseau,Nora Sternfeld, Juan Gomez, Stavros Stavrides, Dubravka Sekulić,Cornelia Sollfrank,  Martino Morandi, Jara Rocha, Femke Snelting,  Marcell Mars, Sam Hart,  Selena Savic, Malin Kuht, Samuli Tanner, Värvöttäjä, Heta Bilaletdin, Tommi Keränen,  Pahat Kengät]
 author_notes: [Lecture programme co-curator & host, Co-organizer & host, Presenter, Co-organizer, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Exhibiting artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist   ]
-tags: [exhibition, talks, station of commons, lecture series]
+tags: [exhibition, talks, Station of Commons, lecture series]
 categories: [commons, curatorial]
 
 # lastmod: 2023-08-05T15:37:21+03:00

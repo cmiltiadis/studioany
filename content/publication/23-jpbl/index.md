@@ -22,7 +22,7 @@ abstract: "This article presents a nuanced discussion of four episodes on the co
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # TAGS 
-tags: [PBL for Transformative Learning, Interdisciplinary Perspectives, Complex Challenges, Adaptation, Space, Public Sphere]
+tags: [PBL for Transformative Learning, Interdisciplinary Perspectives, Complex Challenges, Adaptation, space, Public Sphere]
 doi: "https://doi.org/10.54337/ojs.jpblhe.v11i2.7780"
 
 links:

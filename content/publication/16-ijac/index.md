@@ -25,7 +25,7 @@ abstract: Virtual and augmented realities open a new world of great potential fo
 
 # TAGS 
 tags:
-- Virtual reality
+- virtual reality
 - augmented reality
 - interactive environments 
 - virtual space

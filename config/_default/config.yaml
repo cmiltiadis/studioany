@@ -33,7 +33,9 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
+capitalizeListTitles: false # keep tag/author titles as written
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -49,8 +51,11 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
   anchor: smart
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
 timeout: 600000
 taxonomies:
   tag: tags
@@ -78,7 +83,7 @@ minify:
 # example here https://docs.hugoblox.com/reference/page-features/
 cascade:
   # Configure blog posts
-  - _target:
+  - target:
       path: /authors/**
     pager: true
     show_date: false

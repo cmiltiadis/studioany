@@ -1,6 +1,6 @@
 ---
 title: "ESUM Urban Sensing Handbook: Component, Assembly and Operational Guide: Sensor Backpack & 360 Videos"
-authors: [Danielle Griego, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven  Schneider, Reinhard König, Donath Dirk, Gerhard Schmitt, admin, Allesandro Forino, Brigitte  Clements, Ashris  Choudhury, Riccardo Joss] 
+authors: [Danielle Griego, Saskia Kuliga, Martin Bielik, Matthias Standfest, Varun Kumar Ojha, Sven Schneider, Reinhard König, Donath Dirk, Gerhard Schmitt, admin, Allesandro Forino, Brigitte Clements, Ashris Choudhury, Riccardo Joss] 
 date: "2017-09-13T00:00:00Z"
 draft: false
 

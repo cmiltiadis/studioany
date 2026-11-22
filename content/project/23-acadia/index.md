@@ -7,7 +7,7 @@ authors: [admin, Marcell Mars]
 author_notes: 
 - Concept & development 
 - web hosting & technical support
-tags: [architecture, conference, archive, library, Sandpoints, ACADIA, fellowship, open-access, prototype]
+tags: [architecture, conference, archive, library, Sandpoints, ACADIA, fellowship, open access, prototype]
 categories: [projects, archive, Sandpoints]
 date: 2023-07-20T14:21:30+03:00
 # lastmod: 2023-08-05T14:21:30+03:00

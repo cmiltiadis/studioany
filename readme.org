@@ -1,8 +1,14 @@
 #+title: Readme
 
 Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (see [[README-academic-theme.md][original-readme]])
-+ Uses older theme version *ONLY COMPATIBLE WITH HUGO v. 0.119.0* [[https://github.com/gohugoio/hugo/releases/tag/v0.119.0][(github release)]]
-  + Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes (shortcodes like gallery don't work)
++ Uses Wowchemy v5 (2023), *vendored and patched* in =_vendor/= to build with current Hugo (tested with 0.170.1, extended)
+  + Wowchemie Hugo Academic was updated to Hugo Blocks, with breaking changes (shortcodes like gallery don't work) -- not adopted
+  + The theme is no longer fetched: edit =_vendor/= directly. Do NOT run =hugo mod vendor= / =hugo mod get= (it would overwrite the patches)
+  + Patches (2026-11, see git log): removed functions (getCSV, resources.ToCSS, site.GoogleAnalytics, IsMultiLingual, IsNode, AllPages, .Site.Data, LanguageCode),
+    new template lookup (=_partials/=, no dots in block file names), uint64 =view:= numbers, summaries rendered as before (plain text, ~30 words), Dart Sass
+  + Requires Dart Sass (bundled with the snap package; installed in GitHub Actions & by =netlify-build.sh=)
+  + Gotchas with new Hugo: YAML front matter must not repeat keys; images must have the right extension (WebP saved as .jpg fails);
+    author folder names must match the name in =authors:= incl. accents (e.g. =dubravka-sekulić=)
 + Deployments
   + Netlify https://studioany-test.netlify.app/
   + (Manually uploaded to) https://new.studioany.com/
