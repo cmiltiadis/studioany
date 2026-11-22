@@ -96,7 +96,7 @@ Note: The projects trailer video is a collage of video trailers of students’ p
 2-day excursion to Linz, including a tour of [Ars Electronica](http://www.aec.at/) and Deep Space 8K by AEC managing director  Andreas Bauer; [Hohen Rausch](http://www.hoehenrausch.at/); Lentos Museum, [Schlossmueum](http://www.landesmuseum.at/de/standorte/schlossmuseum-linz.html); Tabak Fabrik. 
 ### Guest lectures
 - [Michael Hansmeyer (Academy of Fine Arts, Vienna) – Tools of Imagination](https://tube.tugraz.at/paella/ui/watch.html?id=25937cf3-66c2-4f5c-a58e-45377190c7bc) (IAM guest for the Graz Architecture Lectures 2016) 
-- [Prof. Werner Jauk (Musicology Institute, KFU-Graz) – Sound to space](../../event/ol-2)
+- [Prof. Werner Jauk (Musicology Institute, KFU-Graz) – Sound to space](/curation/ol/ol-2/)
 - IOhannes zmölnig (Institute of Electronic Music, Kunst Uni Graz) – Introduction to granular synthesis with Pure Data
 ### Exhibitions  
 - TU Graz VR Night, public exhibition, 28.06.2016, organized by the TU Graz Institutes CGV, ICG and IICM, in cooperation with Fraunhofer Austria. 

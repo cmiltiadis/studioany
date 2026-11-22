@@ -12,8 +12,7 @@ Website studioany.com implementing Academic/HugoBlox/Wowchemie templates (starte
     author folder names must match the name in =authors:= incl. accents (e.g. =dubravka-sekulić=)
 + Deployments
   + Netlify https://studioany-test.netlify.app/
-  + (Manually uploaded to) https://new.studioany.com/
-  + Github pages deployment (per [[https://gohugo.io/hosting-and-deployment/hosting-on-github/][guide]]) at https://cmiltiadis.github.io/studioany/
+  + *Live:* https://studioany.com/ -- GitHub Pages (GitHub Actions, per [[https://gohugo.io/hosting-and-deployment/hosting-on-github/][guide]]); cmiltiadis.github.io/studioany redirects there
     + +https://cmiltiadis.github.io/studioany-website/+
   + failed with +[[https://theplaybook.dev/docs/deploy-hugo-to-github-pages/][theplaybook tutorial]]+
     + +Added github.io url at [[file:config/_default/config.yaml][config.yaml]]  as =base_url=+

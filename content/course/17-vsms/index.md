@@ -102,10 +102,10 @@ Travel to Linz on the 23rd-24th of March, organized by Julian Jauk. The first da
 - Button Festival visit  
 - Gaming nights at IAM for exploring narrative and mechanic-driven games  
 - Workshop with Emma Fraser – Thinking through ruins: Digital design practice, allegory, and the visual
-- [Open Lecture \#8 Emma Fraser – Ruined cities, video games, and digital space: virtual-material feedback](../../event/ol-8)
-- [Open Lecture \#9 Marco Ciciliani – CPPG Composition, Performance and Perception of Gamified Audiovisual Works](../../event/ol-9)  
-- [Open Lecture \#10 Johannes Mücke – Independence Day : Resurgence. Designing the Alien Invasion](../../ol-10)  
-- [Open Lecture \#11 Nicole Stoecklmayr – Projection & Production: Scenes of Architecture in Movies and Games](../../event/ol-11)
+- [Open Lecture \#8 Emma Fraser – Ruined cities, video games, and digital space: virtual-material feedback](/curation/ol/ol-8/)
+- [Open Lecture \#9 Marco Ciciliani – CPPG Composition, Performance and Perception of Gamified Audiovisual Works](/curation/ol/ol-9/)  
+- [Open Lecture \#10 Johannes Mücke – Independence Day : Resurgence. Designing the Alien Invasion](/curation/ol/ol-10/)  
+- [Open Lecture \#11 Nicole Stoecklmayr – Projection & Production: Scenes of Architecture in Movies and Games](/curation/ol/ol-11/)
 
 ### Exhibitions
 - Public exhibition at the Graz Open Architecture Day on June 30, and July 1, 2017.  

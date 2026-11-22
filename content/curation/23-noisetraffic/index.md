@@ -45,7 +45,7 @@ links:
 projects: [soc]
 ---
 
-Experimental live art event curated by Nicolina Stylianou (sensorium space), and produced in collaboration with [Station of Commons](../../project/soc). 
+Experimental live art event curated by Nicolina Stylianou (sensorium space), and produced in collaboration with [Station of Commons](/project/station-of-commons/). 
 
 # Event program
 - [GRM](https://totstellen-grmmsk.bandcamp.com/) (FI/DE)

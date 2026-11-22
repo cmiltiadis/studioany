@@ -83,7 +83,7 @@ Constantinos Miltiadis is a transdisciplinary architect, programmer, and digital
 His primary interest lies in exploring new aesthetic and experiential forms at the intersection of design, spatial interaction, and immersive technologies. 
 He has worked across scientific research, design consulting, UX, R&D, creative-technology prototyping, as well as teaching, with a focus on interactive media, exploratory gamemaking, and VR development. 
 -->
-He is currently a design researcher at [Aalto University, School of Arts, Design & Architecture](https://www.aalto.fi/en/school-of-arts-design-and-architecture), part of the *Experience Design* project funded by the Research Council of Finland, and is completing a Doctor of Arts degree. His dissertation, titled *[SpaceTimeCraft](../project/spacetimecraft)*, is expected in 2026.
+He is currently a design researcher at [Aalto University, School of Arts, Design & Architecture](https://www.aalto.fi/en/school-of-arts-design-and-architecture), part of the *Experience Design* project funded by the Research Council of Finland, and is completing a Doctor of Arts degree. His dissertation, titled *[SpaceTimeCraft](/project/spacetimecraft)*, is expected in 2026.
 
 <!-- EDUCATION & EXPERIENCE -->
 Previously, he was assistant professor at the *Institute of Architecture and Media, TU Graz* (2015–2019), a research assistant at *ETH Zurich* (2014–2015), and a digital design consultant (2012–2015). 
@@ -91,19 +91,19 @@ He holds a Diploma in Architectural Engineering from *NTU-Athens* (2012), and a 
 Between 2018 and 2019 he also studied computer music and spatial audio at the *Institute of Electronic Music, Kunstuniversität Graz*.
 
 <!-- WORK -->
-His research has been [presented](../event) in international conferences and seminars, and [published](../publication) across architectural, artistic, and videogame research. 
+His research has been [presented](/event) in international conferences and seminars, and [published](/publication) across architectural, artistic, and videogame research. 
 His design work has won competition awards, and was featured in international media. 
-Constantinos has developed and taught several [original courses](../course) on creative programming, experimental game design, and VR development in academic and extra-academic settings.
-He is also active through transdisciplinary [collaborations](../tag/collaboration), [curatorial works](../category/curatorial), [production of discursive and artistic events](../curation), [exhibitions](../tag/exhibition), and [installations](../tag/installation).
+Constantinos has developed and taught several [original courses](/course) on creative programming, experimental game design, and VR development in academic and extra-academic settings.
+He is also active through transdisciplinary [collaborations](/tag/collaboration), [curatorial works](/category/curatorial), [production of discursive and artistic events](/curation), [exhibitions](/tag/exhibition), and [installations](/tag/installation).
 
 Outside of work, Constantinos is an avid home cook, guitarist, and grappling enthusiast. 
 
 ---
 
-<!-- INTERESTS // g](../category/prototype)-->
+<!-- INTERESTS // g](/category/prototype)-->
 <!-- 
 Constantino's main research interests concern aesthetic phenomena between technology and culture, which he pursues through various methods including computational design research, speculative prototyping, experimental gamemaking, teaching, artistic research, and curatorial work.
-Since the mid-2010s his research focus concerns [virtual architecture](../project/spacetimecraft), implementing integrative design research to investigate the aesthetic dimension of spatiotemporal environments that are *inconstructible* in the physical world, and thus specific to and experienceable through digital media such as VR and videogames. 
+Since the mid-2010s his research focus concerns [virtual architecture](/project/spacetimecraft), implementing integrative design research to investigate the aesthetic dimension of spatiotemporal environments that are *inconstructible* in the physical world, and thus specific to and experienceable through digital media such as VR and videogames. 
 -->
 
 
@@ -112,7 +112,7 @@ Since the mid-2010s his research focus concerns [virtual architecture](../projec
 -->
 <!-- GROUPS -->
 <!-- 
-He is part of the working groups [ENCORE](https://www.aalto.fi/fi/muotoilun-laitos/encore-engaging-co-design-research-group) and [Game Design Praxiology](https://aakoosgamelab.com/gamepraxi/) at Aalto ARTS, the cross-continental Games & Praxis group, the special interest group [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449), and the Helsinki-based collective [Station of Commons](../project/station-of-commons).
+He is part of the working groups [ENCORE](https://www.aalto.fi/fi/muotoilun-laitos/encore-engaging-co-design-research-group) and [Game Design Praxiology](https://aakoosgamelab.com/gamepraxi/) at Aalto ARTS, the cross-continental Games & Praxis group, the special interest group [Spatial Aesthetics and Artificial Environments](https://www.researchcatalogue.net/view/1108448/1108449), and the Helsinki-based collective [Station of Commons](/project/station-of-commons).
 -->
 
 
