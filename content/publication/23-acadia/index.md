@@ -2,7 +2,7 @@
 draft: false
 title: "An open living archive for ACADIA"
 subtitle: "Foreword to the open archive developed for the ACADIA Cultural History Project"
-summary: 'Foreword to the open archive of the ACADIA Cultural History Project, in the *ACADIA 2023* proceedings. Denver, 2023'
+summary: 'Foreword in the *ACADIA 2023* proceedings. Denver, 2023'
 authors: [admin]
 # categories: [architecture]
 tags: [ACADIA, architecture, archive, library, Sandpoints, cultural history, prototype, media archeology]

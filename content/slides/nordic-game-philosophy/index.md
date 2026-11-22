@@ -195,7 +195,7 @@ Discussing Pac Man in 1984, Sherry Turkle discussed
 
 <bib>
 
-- Miltiadis, Constantinos. ‘Other than Text: Media Used in Game Studies Publications. A Computational Analysis into 20 Years of Publications of the Game Studies Journal, and an Appeal for Research Through Design’. In _Proceedings of the 2023 DiGRA International Conference: Limits and Margins of Games_. Sevilla: DiGRA, 2023. [https://doi.org/10.5281/zenodo.7944673](https://doi.org/10.5281/zenodo.7944673).
+- Miltiadis, Constantinos. ‘Other than Text: Media Used in Game Studies Publications. A Computational Analysis into 20 Years of Publications of the Game Studies Journal, and an Appeal for Research Through Design’. In _Proceedings of the 2023 DiGRA International Conference: Limits and Margins of Games_. Seville: DiGRA, 2023. [https://doi.org/10.5281/zenodo.7944673](https://doi.org/10.5281/zenodo.7944673).
 </bib>
 
 {{<speaker_note>}}

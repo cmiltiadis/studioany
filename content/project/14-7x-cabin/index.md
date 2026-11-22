@@ -1,5 +1,5 @@
 ---
-title: "7x Cabin"
+title: "7xCabin"
 subtitle: ""
 summary: 'Robotic timber fabrication workshop project, MAS CAAD. ETH Zurich, 2014'
 authors: [admin, Tom Pawlofski, Adel Albloushi, Georgios Anagnostopoulos, Christian Braun, Kaihong Chen, Grigorios Grigoriadis, Abel Groenewolt, Periklis Kyriakidis, Valle Medina, Regina Mirzoyants, Yu-ting Sheng, Togo Takamura]

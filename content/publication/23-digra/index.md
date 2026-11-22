@@ -21,7 +21,7 @@ date: 2023-06-05T14:23:09+03:00
 lastmod: 2023-08-05T14:23:09+03:00
 featured: false
 # pub info 
-publication: "In *Proceedings of the 2023 DiGRA International Conference: Limits and Margins of Games*, Sevilla"
+publication: "In *Proceedings of the 2023 DiGRA International Conference: Limits and Margins of Games*, Seville"
 # doi: ""
 # code url 
 #url_code: 'https://github.com/cmiltiadis/other-than-text'

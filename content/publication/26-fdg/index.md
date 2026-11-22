@@ -1,6 +1,6 @@
 ---
 title: "SpaceTimeCraft: A Strong Concept for Designing and Analyzing Embodied Movement in Virtual Environments"
-summary: 'Paper at Foundations of Digital Games (FDG) 2026'
+summary: 'Paper at Foundations of Digital Games (FDG) 2026. Royal Danish Academy, Copenhagen, 2026'
 authors: [admin]
 date: "2026-06-01T00:00:00Z"
 draft: false 
