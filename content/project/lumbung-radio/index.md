@@ -1,7 +1,7 @@
 ---
 title: "lumbung radio"
-subtitle: "Multi-collective interlocal online radio station for Documenta fifteen, live since April 2022"
-summary: "Multi-collective interlocal online radio station for Documenta fifteen, live since April 2022."
+subtitle: "Multi-collective interlocal online radio station for documenta fifteen, live since April 2022"
+summary: "Multi-collective interlocal online radio station for documenta fifteen, live since April 2022"
 abstract: ''
 authors: [Gregoire Rousseau, Alain Ryckelynck, Eddie Choo Wen Yi, admin, Juan Gomez,  Minerva Ruolahti, Essi Pellikka, Mathilde Palenius]
 tags: [radio, interlocal, online radio, sound practice,open infrastructure,documenta 15,working group, collective, collaboration]

@@ -1,13 +1,13 @@
 ---
-title: 'Live concerts for lumbung radio at Documenta Fifteen'
-subtitle: 'Concert production for lumbung radio at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
+title: 'Live concerts for lumbung radio at documenta fifteen'
+subtitle: 'Concert production for lumbung radio at documenta fifteen. Trafohaus, Kassel, July 2022.'
 draft: false
-summary: 'Concert production for lumbung radio at Documenta Fifteen. Trafohaus, Kassel, July 2022'
+summary: 'Concert production for lumbung radio at documenta fifteen. Trafohaus, Kassel, 2022'
 abstract: ''
 authors: [admin, Lain Iwakura, Niko Mas, Florian Fend, Waysatta Fernández]
 author_notes: [Producer with Station of Commons, Performing artist, Performing artist, Performing artist, Producer with Arts Collaboratory & Radio Tropiezo]
 tags: [concert, production, documenta 15, Station of Commons, lumbung radio, Kassel] # add pics 
-event: 'Documenta Fifteen'
+event: 'documenta fifteen'
 event_url: ''
 date: '2022-07-25T19:00:00Z'
 date_end: '2022-07-26T22:00:00Z'
@@ -30,7 +30,7 @@ maybe add pictures
 -->
 
 
-Production of two concerts featuring Lain Iwakura (Mille Plateaux/O Graz), Niko Mas (CDCY), and Klaus Masuda (O Graz), for *lumbung radio* at Documenta Fifteen, on behalf of *Station of Commons*. 
+Production of two concerts featuring Lain Iwakura (Mille Plateaux/O Graz), Niko Mas (CDCY), and Klaus Masuda (O Graz), for *lumbung radio* at documenta fifteen, on behalf of *Station of Commons*. 
 The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/trafohaus/), hosted by the collective [Arts Collaboratory](https://artscollaboratory.org/) and [Radio Tropiezo](https://radiotropiezo.org/radio_tropiezo/). 
 
 |Programme|| 
