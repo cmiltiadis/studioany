@@ -18,13 +18,13 @@ image:
   focal_point: ""
   preview_only: true
 
+doi: '10.22501/jar.815001' # Beyond the Visual (JAR 24)
+
 links: 
 - name: 'Project trailer'
   icon: 'vimeo-v'
   icon_pack: 'fab'
   url: 'https://vimeo.com/297305474'
-- name: 'Beyond the Visual (JAR 24)'
-  url: '../../../publication/21-jar'
 - name: 'BtV on Itch.io'
   icon: itch-io
   icon_pack: fab
@@ -62,7 +62,7 @@ The workshop was designed to focus on auditory aspects of spatial cognition, and
 | Presentation & exhibition | Art Inkubator, Łodz, 20.10.2018| 
 ### Documentation
 - A Research Catalogue exposition that provides an extensive documentation and discussion of the workshop's curriculum, process, aims and outcomes was published in: 
-	- Miltiadis, Constantinos, and Gerriet K. Sharma. ‘[Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments](../../../publication/21-jar)’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
+	- Miltiadis, Constantinos, and Gerriet K. Sharma. ‘[Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments](/publication/beyond-the-visual/)’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
 - A conventional, non-VR version of the experience for Windows and OSX is archived on [itch.io](https://studioany.itch.io/beyond-the-visual).  
 
 ## Workshop information

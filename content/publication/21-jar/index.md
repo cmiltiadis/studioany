@@ -4,7 +4,7 @@ title: "Beyond the Visual - A research curriculum for explorations in spatiotemp
 authors: [admin, gerriet-sharma]
 date: "2021-09-27T00:00:00Z"
 draft: false
-doi: "https://doi.org/10.22501/jar.815001"
+doi: "10.22501/jar.815001"
 # Summary. An optional shortened abstract.
 summary: "Exposition published in the *Journal for Artistic Research*; 2021."
 # TAGS

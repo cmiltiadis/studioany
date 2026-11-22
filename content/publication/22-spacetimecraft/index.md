@@ -32,7 +32,7 @@ publication_short: 'In *Bildhafte Räume, begehbare Bilder*'
 
 
 # DOI 
-doi: 'https://doi.org/10.30965/9783846767238_011'
+doi: '10.30965/9783846767238_011'
 
 # Custom links (uncomment lines below)
 # links:

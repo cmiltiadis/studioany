@@ -4,7 +4,7 @@ authors: [Danielle Griego, Saskia Kuliga, Martin Bielik, Matthias Standfest, Var
 date: "2017-09-13T00:00:00Z"
 draft: false
 
-doi: "https://doi.org/10.3929/ethz-b-000184587"
+doi: "10.3929/ethz-b-000184587"
 abstract: ''
 tags: [prototype, documentation]
 # Summary. An optional shortened abstract.

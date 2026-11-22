@@ -22,7 +22,7 @@ publication: '' # 'Computer-Aided Architectural Design. Design Imperatives: The 
 publication_short: ''
 
 # DOI 
-doi: 'https://doi.org/10.1007/978-981-19-1280-1'
+doi: '10.1007/978-981-19-1280-1'
 # ISBN? 
 isbn: '978-981-19128-0-1'
 # ABSTRACT 

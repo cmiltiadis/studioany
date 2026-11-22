@@ -23,7 +23,7 @@ abstract: "This article presents a nuanced discussion of four episodes on the co
 
 # TAGS 
 tags: [PBL for Transformative Learning, Interdisciplinary Perspectives, Complex Challenges, Adaptation, space, Public Sphere]
-doi: "https://doi.org/10.54337/ojs.jpblhe.v11i2.7780"
+doi: "10.54337/ojs.jpblhe.v11i2.7780"
 
 links:
 - icon: 'file-pdf'

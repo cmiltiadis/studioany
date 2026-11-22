@@ -23,7 +23,7 @@ links:
   url: uploads/21-CF2021-open-call.pdf
   icon: file-pdf
 - name: Proceedings volume Preface
-  url: '../../publication/21-caad-futures/22-caad-futures-21-frontmatter.pdf'
+  url: '/publications/22-caad-futures-21-frontmatter.pdf'
   icon: file-pdf
 
 ---

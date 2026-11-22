@@ -40,7 +40,7 @@ links:
   name: "PDF"
   url: 'publications/18-cmiltiadis-ecaade-vr-videogames-architecture-education.pdf'
 - name: Cumincad
-  url: papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366
+  url: https://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366
 
 url_pdf: ''
 url_code: ''

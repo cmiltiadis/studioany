@@ -42,7 +42,7 @@ links:
   url: 'https://www.facebook.com/events/340902669639677/'
 - name: 'Event poster'
   icon: file-pdf 
-  url: 'uploads/ttoa_3_mars_sekulic_miltiadis.pdf'
+  url: '/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf'
 
 slides: ''
 
