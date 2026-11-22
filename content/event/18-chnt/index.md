@@ -2,7 +2,7 @@
 title: "The visual imaginary of intangible cultural heritage: Accessing the palimpsest of Nicosia through audio-enabled routes"
 slug: 'visual-imaginary-intangible-heritage'
 subtitle: ""
-summary: "Presentation at CHNT 2018, Vienna"
+summary: 'Presentation at the Congress of Visual Heritage (CHNT). Vienna, 2018'
 authors: [admin, georgios-artopoulos]
 tags: [presentation, conference, heritage, intangible heritage, sound walk, public space]
 categories: [presentation]

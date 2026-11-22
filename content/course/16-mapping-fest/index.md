@@ -1,7 +1,7 @@
 ---
 title: "Sound Spatialisation in Immersive VR Environments"
 subtitle: "3-day intensive workshop at Mapping Festival 2016, Geneva"
-summary: "3-day intensive workshop at Mapping Festival 2016, Geneva"
+summary: '3-day intensive workshop at Mapping Festival. Geneva, 2016'
 authors: [admin, achilleas-xydis, shammas]
 tags: [teaching, workshop, festival, exhibition, spatial audio, virtual reality, game design, Unity, Mapping Festival, Geneva]
 categories: [teaching]

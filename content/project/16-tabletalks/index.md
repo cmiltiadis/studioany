@@ -1,7 +1,7 @@
 ---
 title: "Tabletalks on Architecture (2016–2017)"
 subtitle: ""
-summary: "Architectural research lecture series, Graz"
+summary: 'Architectural research lecture series. Graz, 2016–2017'
 authors: [admin, Marcello Fantuz, Sophia Walk, Christoph Breser, Diederik de Koning, Petra Eckhard, Dubravka Sekulić, Marcell Mars, Christoph Walter Pirker, Lilly Hafner]
 author_notes: [Co-founder; presenter, Co-founder, Co-founder, Co-founder, Co-founder; Presenter, Presenter, Presenter, Presenter, Presenter, Graphic design]
 tags: [curatorial,lecture series, Graz, TU Graz, architecture, research, collaboration]

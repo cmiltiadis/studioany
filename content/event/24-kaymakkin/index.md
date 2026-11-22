@@ -2,7 +2,7 @@
 slug: kaymakkin-workshop
 title: 'Open tools & workflows for digital writing, notetaking, publishing, reference & library management'
 subtitle: 'Public workshop at Social Space Kaymakkin'
-summary: 'Public workshop at Social Space Kaymakkin. Nicosia, December 2024'
+summary: 'Public workshop at Social Space Kaymakkin. Nicosia, 2024'
 draft: false
 abstract: ''
 authors: [admin]

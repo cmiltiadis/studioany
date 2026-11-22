@@ -3,7 +3,7 @@ title: 'Virtual Reality, Videogames, Architecture and Education - From utopian d
 
 authors: [admin]
 
-summary: 'Paper contribution; eCAADe 2018; Łódź University of Technology.'
+summary: 'Paper at eCAADe 2018. Łódź University of Technology, 2018'
 
 tags: [virtual reality, game design, education, spatial intelligence,
 videogames, game studies]

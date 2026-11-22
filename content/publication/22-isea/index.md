@@ -1,6 +1,6 @@
 ---
 title: 'Cybersyn 1973/2022'
-summary: 'Peer reviewed artwork at *ISEA 2022: Possibles*, Barcelona.'
+summary: 'Peer-reviewed artwork at *ISEA 2022: Possibles*. Barcelona, 2022'
 subtitle: 'Peer reviewed artwork at *ISEA 2022: Possibles*, Barcelona.'
 draft: false
 date: '2022-06-11T00:00:00Z' 

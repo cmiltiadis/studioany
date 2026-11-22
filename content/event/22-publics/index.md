@@ -1,7 +1,7 @@
 ---
 title: 'Virtual Infrastructures'
 draft: false
-summary: 'Presentation at Open Up & Shape Helsinki, 2022'
+summary: 'Presentation at the symposium *Open Up & Shape Helsinki*. Publics, Helsinki, 2022'
 abstract: ''
 event: 'Open Up & Shape Helsinki'
 event_url: 'https://www.publics.fi/calendar/open-up-and-shape-helsinki/'

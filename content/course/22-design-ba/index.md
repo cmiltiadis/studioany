@@ -1,7 +1,7 @@
 ---
 title: "Design research thesis course"
 # subtitle: "Thesis advisor for design research"
-summary: "Design BA Program. Aalto ARTS, 2022"
+summary: 'Thesis course in the Design BA program. Aalto ARTS, 2022'
 authors: [admin, Oscar Person, Namkyu Chun]
 author_notes: ["", "Program director and teacher", "Course teacher"]
 tags: [design research, advising]

@@ -1,5 +1,6 @@
 ---
 title: "Interconnected Agencies For Sustainable Futures: A Discourse on the Notion of Adaptation and Space"
+summary: 'Article in the *Journal of Problem Based Learning in Higher Education* 11(2), 2023'
 authors: [Pia Fricker, Friederike Landau-Donnelly, admin, Shubhangi Singh]
 date: "2023-10-10T00:00:00Z"
 draft: false 

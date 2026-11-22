@@ -2,7 +2,7 @@
 title: 'From player representation to enactive presence: The case of "boomer shooters"'
 subtitle: 'Presentation at the Nordic Explorative Workshops on the Philosophy of Games, ITU Copenhagen; 2023'
 draft: false
-summary: 'Presentation at the Nordic Explorative Workshops on the Philosophy of Games. ITU Copenhagen, September 2023'
+summary: 'Presentation at the Nordic Explorative Workshops on the Philosophy of Games. ITU Copenhagen, 2023'
 abstract: ''
 authors: [admin]
 tags: [game studies, game philosophy, enactivism, FPS games, boomer shooters, presentation]

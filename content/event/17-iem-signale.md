@@ -2,7 +2,7 @@
 title: 'Timescales of Architecture'
 subtitle: 'Presentation at the Signale Soirée, Institute for Electronic Music, KU Graz; 2017'
 draft: false
-summary: 'Presentation at the Signale Soirée, Institute for Electronic Music, KU Graz; 2017.'
+summary: 'Presentation at the Signale Soirée, Institute of Electronic Music. KU Graz, 2017'
 abstract: ''
 authors: [admin, Susanne Fröhlich]
 tags: [presentation, sound, IEM]

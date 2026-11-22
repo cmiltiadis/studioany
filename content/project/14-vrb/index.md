@@ -2,7 +2,7 @@
 slug: "vector-raster-bleep"
 title: "Vector Raster Bleep"
 subtitle: "Wearables interactive installation. ETH Zurich, 2014"
-summary: "Wearables, interactive installation. ETH Zurich, 2014"
+summary: 'Wearable interactive installation. ETH Zurich, 2014'
 authors: [admin, Gregoris Gregoriadis, Togo Takamura]
 author_notes: 
 - Concept, software development and electronics prototyping 

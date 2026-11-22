@@ -5,7 +5,7 @@ authors: [admin, gerriet-sharma]
 date: "2021-09-27T00:00:00Z"
 draft: false
 doi: "10.22501/jar.815001"
-summary: "Exposition published in the *Journal for Artistic Research*; 2021."
+summary: 'Exposition in the *Journal for Artistic Research*, 2021'
 tags: [architecture, music, spatial audio, soundwalk, virtual reality, spatiotemporality, aural literacy, open access]
 publishDate: "2017-01-01T00:00:00Z"
 

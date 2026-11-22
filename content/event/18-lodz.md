@@ -2,7 +2,7 @@
 title: 'The Aesthetics of Presence in Inconstructible Spaces I & II'
 subtitle: ''
 draft: false
-summary: 'Double lecture with Gerriet K. Sharma, Łódź; 2018.'
+summary: 'Double lecture with Gerriet K. Sharma at the OSSA 2018 Architecture Festival *Vision*. Łódź, 2018'
 abstract: ''
 authors: [admin, gerriet-sharma]
 tags: [presentation, digital spatial media, aesthetics, mathematics, space, TD]

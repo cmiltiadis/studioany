@@ -2,7 +2,7 @@
 slug: o-graz
 title: "◯ (2019)"
 subtitle: "Experimental electronic music event series collective. Graz 2019"
-summary: "Experimental electronic music event series collective. Graz 2019"
+summary: 'Experimental electronic music event series and collective. Graz, 2019'
 authors: [admin, Lain Iwakura, DJ Durbin, Korin Rizzo, Florian Fend, Peter Stiegler, John-Robin Bold, Gianluca Iadema]
 author_notes: 
   - Co-founder, producer, designer

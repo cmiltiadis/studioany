@@ -2,7 +2,7 @@
 slug: caad-futures-2021
 title: "CAAD Futures 2021: Design Imperatives - The future is Now"
 subtitle: ""
-summary: ""
+summary: 'Co-chair and co-organizer of the CAAD Futures 2021 conference. USC (online), 2021'
 authors: [Biayna Bogosian, evan-pantazis,  admin, Alicia Nahmad,David Gerber]
 author_notes: [Co-chair, Co-chair, Co-chair, Co-chair, Main chair]
 tags: [conference, architecture, computation]

@@ -2,7 +2,7 @@
 slug: spacetimecraft
 title: 'Virtual Architecture and SpaceTimeCraft'
 draft: false
-summary: Research project on the aesthetic experience of movement specific to virtual spatiotemporal environments.  
+summary: 'Research project on the aesthetic experience of movement specific to virtual spatiotemporal environments'
 subtitle: Research project on the aesthetic experience of movement specific to virtual spatiotemporal environments.  
 tags:
   - virtual reality

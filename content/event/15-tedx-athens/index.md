@@ -2,7 +2,7 @@
 slug: project-anywhere-ted
 title: 'project Anywhere installation at TEDx NTUA'
 subtitle: ''
-summary: ''
+summary: 'project Anywhere installation at TEDx NTUA *Chain Reactions*. Athens, 2015'
 draft: false
 abstract: ''
 authors: [admin]

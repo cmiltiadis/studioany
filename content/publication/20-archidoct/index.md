@@ -1,7 +1,7 @@
 ---
 title: "Oblivious to Gravity: Virtual Architecture between Disciplinary Dead Ends and Complex Intersections"
 authors: [admin]
-summary: "Paper publication at *Archidoct*; 2020."
+summary: 'Paper in *Archidoct* 8(1), 2020'
 
 tags:
 - virtual architecture

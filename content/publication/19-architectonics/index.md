@@ -3,7 +3,7 @@ title: 'The Architectural Continuum: Choropoietic Media and Post-Physical-World 
 draft: false
 date: '2019-10-17T00:00:00Z' 
 publishDate: '2017-01-01T00:00:00Z'
-summary: 'Chapter for the volume *Architectonics of Game Spaces: The Spatial Logic of the Virtual and Its Meaning for the Real*; 2019.'
+summary: 'Chapter in *Architectonics of Game Spaces: The Spatial Logic of the Virtual and Its Meaning for the Real*, 2019'
 tags: [open access, chapter]
 authors: [admin]
 

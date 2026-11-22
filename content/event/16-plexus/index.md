@@ -2,7 +2,7 @@
 title: 'Architecture as a Complex Number'
 subtitle: 'Presentation at Bartlett Plexus Paris'
 draft: false
-summary: 'Presentation at Bartlett Plexus Paris; 2016.'
+summary: 'Presentation at Bartlett Plexus *Expanse*. Paris, 2016'
 abstract: ''
 authors: [admin]
 tags: [presentation, architecture, computation, Paris]

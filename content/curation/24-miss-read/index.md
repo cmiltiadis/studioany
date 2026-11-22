@@ -3,7 +3,7 @@ title: 'lumbung radio x Miss Read 2024: Berlin Art Book Festival'
 slug: miss-read-24
 subtitle: "Prefair curation & Participation to Miss Read festival"
 draft: false
-summary: 'Miss Read pre-fair co-production with Station of Commons for lumbung radio. Berlin, October 2024'
+summary: 'Miss Read pre-fair co-production with Station of Commons for lumbung radio. Berlin, 2024'
 abstract: 
 authors:
   - Gregoire Rousseau

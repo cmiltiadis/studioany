@@ -6,7 +6,7 @@ address:
   street: Lessingstraße 25
   city: Graz
   region: Austria
-summary: 'Presentation concerning historical, technological, political and practical aspects of librarianship and archiving. Graz, 2017.'
+summary: 'Talk on librarianship and archiving at Tabletalks on Architecture. Graz, 2017'
 abstract: ''
 
 # Talk start and end times.

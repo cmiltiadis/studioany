@@ -1,7 +1,7 @@
 ---
 title: 'Spacetime-Craft: An Archaeology of Visions and Explorations of Spatial Experience'
 draft: false
-summary: 'Chapter for the volume *Bildhafte Räume, begehbare Bilder*; 2022.'
+summary: 'Chapter in *Bildhafte Räume, begehbare Bilder*, 2022'
 abstract: ""
 
 tags: [spacetimecraft, virtual reality, media archeology, spatiotemporality, mathematics, open access]

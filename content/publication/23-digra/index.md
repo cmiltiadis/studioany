@@ -1,7 +1,7 @@
 ---
 title: "Other than Text: Media Used in Game Studies Publications"
 subtitle: "A Computational Analysis into 20 Years of Publications of the Game Studies Journal, and an Appeal for Research Through Design"
-summary: "A Computational Analysis into 20 Years of Publications of the Game Studies Journal, and an Appeal for Research Through Design; paper contribution, DiGRA 2023."
+summary: 'Paper at the DiGRA 2023 International Conference. Seville, 2023'
 authors: [admin]
 categories: [videogame research]
 tags:

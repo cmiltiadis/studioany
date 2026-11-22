@@ -3,7 +3,7 @@ slug: zeiss-vr-one
 title: 'Second Prize in the Zeiss VR One App Contest'
 subtitle: ''
 draft: false
-summary: 'Award in VR app competition by Zeiss; 2015.'
+summary: 'Second prize in the Zeiss VR One app contest, 2015'
 abstract: '*project Anywhere* received the second prize in the Zeiss VR One Contest, in the category of finalized VR apps for the Zeiss VR One (currently discontinued). The award ceremony took place on June 24, at the Zeiss headquarters in Oberkochen, Germany.'
 authors: [admin]
 tags: [competition, award, Zeiss, virtual reality, app]

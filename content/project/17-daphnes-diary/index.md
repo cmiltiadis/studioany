@@ -2,7 +2,7 @@
 title: "Daphne's Diary"
 slug: daphnes-diary
 subtitle: ""
-summary: "Prototype for locative audio-narrative walks; The Cyprus Institute; Nicosia, 2017."
+summary: 'Prototype for locative audio-narrative walks. The Cyprus Institute, Nicosia, 2017'
 authors: [ admin, Paul Schmidt,Aurimas Žemaitaitis,Tamás Tóth,Simonas Skarzauskas]
 author_notes: [ "Documentation, script writing, documentation design", "Voice acting, audio recording", "Location scouting, video editing", "Web design","Location scouting"]
 tags: [sound walk, prototype, AR, heritage, intangible heritage, public space, geocaching, collaboration, Cyprus, Nicosia]

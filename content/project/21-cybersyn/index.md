@@ -2,7 +2,7 @@
 slug: cybersyn-1973-2023
 title: "Cybersyn 1973/2023"
 subtitle: "HD video + 8 channel spatial audio installation loop, 15:31"
-summary: "HD video + 8 channel spatial audio installation loop, 15:31"
+summary: 'HD video and 8-channel spatial audio installation loop (15:31), 2021'
 authors: [Bassam El Baroni, admin, georgios-cherouvim, gerriet-sharma]
 author_notes: 
 - Concept, research, screenplay 

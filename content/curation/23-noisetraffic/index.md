@@ -2,7 +2,7 @@
 title: 'Noise Traffic'
 subtitle: ''
 draft: false
-summary: 'Co-production of experimental music and performance art event at Vapaan Taiteen Tila. Helsinki 2023'
+summary: 'Co-production of an experimental music and performance art event at Vapaan Taiteen Tila. Helsinki, 2023'
 abstract: ''
 authors: [Nicolina Stylianou, admin, Gregoire Rousseau, Emiddio Vasquez, GRM, Minerva Jolahti, Forces, Tytti Arola, Androula Kafa, Jukka Kääriäinen, Ana Gutieszca, Sezgin Boynik]
 author_notes: 

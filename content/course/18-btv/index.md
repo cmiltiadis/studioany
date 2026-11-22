@@ -2,7 +2,7 @@
 slug: "beyond-the-visual"
 title: "Beyond the Visual"
 subtitle: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łódź"
-summary: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łódź"
+summary: 'Week-long workshop at *Vision*, the OSSA 2018 Architecture Festival. Łódź, 2018'
 authors: [admin, gerriet-sharma]
 tags: [workshop, virtual reality, spatial audio, spatiotemporal design, exhibition, Unity]
 categories: [teaching, spatial audio]

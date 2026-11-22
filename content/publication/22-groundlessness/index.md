@@ -3,7 +3,7 @@ title: 'Groundlessness'
 draft: false
 date: '2022-11-16T00:00:00Z' 
 publishDate: '2017-01-01T00:00:00Z'
-summary: 'Short contribution for the glossary *Chimeras: Inventory of Synthetic Cognition*.'
+summary: 'Contribution to the glossary *Chimeras: Inventory of Synthetic Cognition*, 2022'
 tags: [artificial intelligence, communication]
 authors:
   - admin

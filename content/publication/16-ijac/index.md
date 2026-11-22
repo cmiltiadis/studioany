@@ -1,6 +1,6 @@
 ---
 title: "Project Anywhere: An Interface for Virtual Architecture"
-summary: "Paper published in *IJAC*, 2016."
+summary: 'Paper in the *International Journal of Architectural Computing* (IJAC), 2016'
 authors: [admin]
 
 date: "2016-10-07T00:00:00Z"

@@ -3,7 +3,7 @@ title: 'VR exhibition at VR Playful Art'
 slug: 'vr-playful-art'
 subtitle: ''
 draft: false
-summary: 'VSMS master studio exhibition at *VR Playful Art*, Kunsthaus Graz, 2017.'
+summary: 'VSMS master studio exhibition at *VR Playful Art*. Kunsthaus Graz, 2017'
 abstract: ''
 authors: [admin]
 tags: [exhibition, virtual reality, Graz, Kunsthaus Graz]

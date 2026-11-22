@@ -2,7 +2,7 @@
 title: 'Beyond the Implied Player: Transgression and Contingency in Digital Games'
 subtitle: 'Presentation at CEEGS 2019. FAMU, Prague'
 draft: false
-summary: 'Presentation at CEEGS 2018. FAMU, Prague'
+summary: 'Presentation at the Central and Eastern European Game Studies Conference (CEEGS). FAMU Prague, 2018'
 abstract: ''
 authors: [admin]
 tags: [game studies, presentation, conference]

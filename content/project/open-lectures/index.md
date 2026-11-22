@@ -2,7 +2,7 @@
 slug: iam-open-lectures
 title: "Open Lecture Series (2015–2019)"
 subtitle: "Lecture series at the Institute of Architecture and Media, TU Graz"
-summary: "Lecture series founder and curator. Institute of Architecture and Media, TU Graz"
+summary: 'Lecture series founder and curator. Institute of Architecture and Media, TU Graz, 2015–2019'
 authors: 
   - admin
   - Ypatios Grigoriades

@@ -2,7 +2,7 @@
 slug: shifting-perspectives
 title: "Shifting perspectives"
 subtitle: "Interactive kinetic installation. Delft, November 2014"
-summary: "Interactive kinetic installation. Delft, November 2014"
+summary: 'Interactive kinetic installation. Delft, 2014'
 authors: [admin, shammas, Achilleas Xydis, Mariana Popescu]
 author_notes: 
   - Unity programming, real-time sound analysis, networking 

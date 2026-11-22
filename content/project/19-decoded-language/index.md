@@ -2,7 +2,7 @@
 slug: decoded-language
 title: "Decoded Language"
 subtitle: ""
-summary: "Interactive sound installation for SuperCollider and Kinect V2. IEM, 2019."
+summary: 'Interactive sound installation for SuperCollider and Kinect V2. IEM Graz, 2019'
 authors: [admin]
 tags: [installation, sound installation, interactive installation, SuperCollider, media art, TD]
 # Add videos

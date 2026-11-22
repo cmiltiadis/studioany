@@ -2,7 +2,7 @@
 slug: "iks"
 title: "Interactive Kinetic Structures"
 subtitle: "Interactive kinetic structure prototype. NTU-Athens 2012"
-summary: "Interactive kinetic structure prototype. Thesis project, NTU-Athens 2012"
+summary: 'Interactive kinetic structure prototype; thesis project. NTUA Athens, 2012'
 authors: [admin]
 author_notes: 
   - Concept & development, software & hardware prototyping. 

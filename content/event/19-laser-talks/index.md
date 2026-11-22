@@ -1,6 +1,6 @@
 ---
 title: 'Aalto Laser Talks: Adaptation and Space'
-summary: 'Speaker and co-moderator for Aalto Laser Talk *Adaptation and Space*. Helsinki, 2019'
+summary: 'Speaker and co-moderator at the Aalto Laser Talk *Adaptation and Space*. Helsinki, 2019'
 event: 'Adaptation and Space'
 event_url: https://www.aalto.fi/en/events/laser-talks-adaptation-and-space
 date: '2021-04-29T18:00:00Z'

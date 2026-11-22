@@ -2,7 +2,7 @@
 # ADD SERIES/ CHECK PUB title
 title: 'Computer-Aided Architectural Design. Design Imperatives: The Future is Now'
 subtitle: '19th International Conference, CAAD Futures 2021, Los Angeles, CA, USA, July 16–18, 2021, Selected Papers.'
-summary: 'Co-editor for the proceedings of *CAAD Futures 2021: Design Imperatives: The Future is Now*, published by Springer (2022).'
+summary: 'Co-editor of the proceedings of *CAAD Futures 2021: Design Imperatives: The Future is Now*. Springer, 2022'
 draft: false
 date: '2022-03-17T00:00:00Z' 
 publishDate: '2022-03-01T00:00:00Z'

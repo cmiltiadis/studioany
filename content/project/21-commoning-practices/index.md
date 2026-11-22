@@ -1,7 +1,7 @@
 ---
 title: "Digital Commoning Practices"
 subtitle: "Exhibition lecture series co-curation and hosting"
-summary: "Exhibition lecture series co-curation and hosting at Oksasenkatu 11. Helsinki, 2021"
+summary: 'Co-curation and hosting of the lecture series of the exhibition *Digital Commoning Practices*. Oksasenkatu 11, Helsinki, 2021'
 authors: [admin,  gregoire-rousseau,Nora Sternfeld, Juan Gomez, Stavros Stavrides, Dubravka Sekulić,Cornelia Sollfrank,  Martino Morandi, Jara Rocha, Femke Snelting,  Marcell Mars, Sam Hart,  Selena Savic, Malin Kuht, Samuli Tanner, Värvöttäjä, Heta Bilaletdin, Tommi Keränen,  Pahat Kengät]
 author_notes: [Lecture program co-curator & host, Co-organizer & host, Presenter, Co-organizer, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Exhibiting artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist   ]
 tags: [exhibition, talks, Station of Commons, lecture series]

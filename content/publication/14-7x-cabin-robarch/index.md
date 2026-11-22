@@ -20,7 +20,7 @@ The project was realized by students of ETH Zürich’s MAS CAAD program under t
 Tom Pawlofksi’s Rhino2KL plugin was used to export Kuka source code.  
 The cabin was reassembled and displayed at the ETHz Campus at Honggerberg during February 2014.'
 
-summary: ''
+summary: 'Video contribution to *Rob|Arch 2014*. University of Michigan, 2014'
 
 tags: [conference, robotics, video participation, timber]
 

@@ -3,7 +3,7 @@ slug: continuum-digital-cultures
 title: 'The Architectural Continuum'
 subtitle: ''
 draft: false
-summary: 'Presentation at Digital Cultures Conference 2018. Leuphana University, 2018'
+summary: 'Presentation at the Digital Cultures Conference. Leuphana University Lüneburg, 2018'
 abstract: ''
 authors: [admin]
 tags: [presentation, architecture, geometry, space]

@@ -2,7 +2,7 @@
 slug: vsms-2016
 title: "Virtual Spaces Master Studio"
 subtitle: "Master design studio module. Institute of Architecture and Media, TU Graz 2016"
-summary: "Master design studio module. Institute of Architecture and Media. TU Graz, 2016"
+summary: 'Master design studio module. Institute of Architecture and Media, TU Graz, 2016'
 authors: [admin, Urs Hirschberg, Ludwig Grimm, Julian Jauk, Martin Schrotz]
 author_notes: 
   - Course leader, studio course teacher, elective course teacher 

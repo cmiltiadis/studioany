@@ -7,7 +7,7 @@ draft: false
 doi: "10.3929/ethz-b-000184587"
 abstract: ''
 tags: [prototype, documentation]
-summary: 'Report for the ESUM project by ETH Zurich and Future Cities Lab ETH Singapore; 2017.'
+summary: 'Report for the ESUM project, ETH Zurich and Future Cities Lab Singapore, 2017'
 
 publishDate: "2017-01-01T00:00:00Z"
 

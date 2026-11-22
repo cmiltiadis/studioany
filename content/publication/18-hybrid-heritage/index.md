@@ -3,7 +3,7 @@ title: 'Hybrid Heritagescapes as Urban Commons in Mediterranean Cities: Accessin
 draft: false
 date: '2018-11-16T00:00:00Z' 
 publishDate: '2017-01-01T00:00:00Z'
-summary: 'Chapter for the volume *Neighbourhood & City -- analogue and digital perspectives*; 2018.'
+summary: 'Chapter in *Neighbourhood & City – analogue and digital perspectives*, 2018'
 tags: [Spatially distributed narratives, playful engagement of user communities, interdisciplinary digital methodologies, accessible tourism, Mediterranean historic cities, heritage, Cyprus]
 authors: [georgios-artopoulos, admin, Francesco Bagni]
 

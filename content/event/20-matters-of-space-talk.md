@@ -1,7 +1,7 @@
 ---
 title: 'On the matter and matters of space in novel media'
 draft: false
-summary: 'Guest lectures at TU Berlin & HafenCity University Hamburg, 2020'
+summary: 'Guest lectures at TU Berlin and HafenCity University Hamburg, 2020'
 abstract: 'Two guest lectures on spatiotemporal digital media for courses by Martin Thiering, Stephan Günzel, and Gerriet K. Sharma at TU Berlin and HafenCity University Hamburg.'
 authors: [admin]
 tags: [virtual reality,spatiotemporal media, digital spatiality, mathematics, geometry, presentation]

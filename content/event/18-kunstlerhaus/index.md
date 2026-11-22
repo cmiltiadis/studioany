@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Paradise? Immersion in Space and Time'
 subtitle: 'Round table discussion in the context of the exhibition *Artificial Paradise? Immersion in Space and Time*.'
-summary: 'Round table discussion at Künstlerhaus Graz. Steirischer Herbst 2018, Graz'
+summary: 'Round table discussion at Steirischer Herbst. Künstlerhaus Graz, 2018'
 draft: false
 abstract: 'Sound artist Gerriet K. Sharma, architectural theorist Constantinos Miltiadis and curator Elisabeth Fiedler will join for a round table discussion on immersive phenomena between sound and sculpture. As a starting point for the discussion serves the immersive space-sound-composition “Mirage Redux”, which Gerriet K. Sharma presents as part of the exhibition “Artificial Paradise? Immersion in Space and Time” in the darkened apse of the Künstlerhaus.'
 authors: [admin, gerriet-sharma, Elisabeth Fiedler]
