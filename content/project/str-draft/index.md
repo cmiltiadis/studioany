@@ -28,4 +28,4 @@ projects: []
 ---
 
 Process builds - 2015
-{{< gallery album="str" >}}
+<!-- gallery removed: album "str" missing from assets/media/albums/str — restore with: gallery shortcode, album="str" -->
