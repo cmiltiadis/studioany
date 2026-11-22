@@ -86,7 +86,7 @@ It was presented to a four-member jury in October 2012 and graded 10/10.
 
 The project was one of the finalists of the international competition *ALGODeQ: Algorithmic Design Quest* in 2013. 
 
-A paper based on this project was presented at the [2013 eCAADE conference](../../publication/13-ecaade/) at TU Delft, in September 2013. 
+A paper based on this project was presented at the [2013 eCAADe conference](../../publication/13-ecaade/) at TU Delft, in September 2013. 
 
 
 # Credits 

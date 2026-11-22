@@ -92,7 +92,7 @@ The project was developed in Unity3D and Java, and its using a range of tools de
 - Photon Engine Dev Story (2015). [Project Anywhere – Digital Route to an Out-of-Body Experience](https://blog.photonengine.com/dev-story-project-anywhere/#)
 
 # Awards 
-- Ivan Petrovic Prize for the “best presentation by a young researcher” for the paper “[Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment](../../publication/15-ecaade)”.  eCAADe 2015, TU Vienna, September 2015.
+- Ivan Petrovic Prize for the “best presentation by a young researcher” for the paper “[Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment](../../publication/15-ecaade)”.  eCAADe 2015, TU Wien, September 2015.
 - Second place [Zeiss VR One Contest for Mobile VR Apps](../../event/zeiss-vr-one), 2015. 
 - Arthur C. Clarke prize for “the most creative and unorthodox approach”. [Museum of Science Fiction international architectural competition](https://www.museumofsciencefiction.org/winners), 2014. 
 

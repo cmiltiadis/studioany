@@ -1,5 +1,5 @@
 ---
-title: "Lumbung Radio"
+title: "lumbung radio"
 subtitle: "Multi-collective interlocal online radio station for Documenta fifteen, live since April 2022"
 summary: "Multi-collective interlocal online radio station for Documenta fifteen, live since April 2022."
 abstract: ''
@@ -36,14 +36,14 @@ image:
 
 
 [^d15d]: https://documenta-fifteen.de/en/lumbung-radio/
-## Lumbung radio description at d15[^d15d]
-_lumbung Radio_ is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung Radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung Radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server. 
+## lumbung radio description at d15[^d15d]
+_lumbung radio_ is the online community radio project of documenta fifteen (d15). As an inter-local network of radio stations and audio practices, it is based on principles of commoning. lumbung radio operates in no specific time zones, and streams multiple languages, music, and art. Each participating radio station depends on its own means of production, way of thinking, learning, and sharing. In that sense, lumbung radio is a decentralized network of nodes that uses internet without its hegemonic agency. The radio itself runs on open-source infrastructure and is self-hosted on a dedicated server. 
 
-*lumbung Radio* the result of the radio working group (consisting of the initial members **Grégoire Rousseau**, **Malene Saalmann**, **Gözde Filinta**, **Ayşe Güleç**, and **Reza Afisina**) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen [_ekosistem_](https://documenta-fifteen.de/en/glossary/?entry=ekosistem).
+*lumbung radio* the result of the radio working group (consisting of the initial members **Grégoire Rousseau**, **Malene Saalmann**, **Gözde Filinta**, **Ayşe Güleç**, and **Reza Afisina**) that started meeting in August 2021 between Kassel, Jakarta, and Helsinki, with the aim of envisioning a collective audio practice based on principles of commoning as a shared space between inter-local nodes of the documenta fifteen [_ekosistem_](https://documenta-fifteen.de/en/glossary/?entry=ekosistem).
 
-*lumbung Radio* was launched in April 2022, broadcasting 24/7 during the 100 days of d15, from and to the whole planet. With the end of d15, the participants of the network, with the support of [ruangrupa](https://ruangrupa.id/en/) voted to continue the project. 
+*lumbung radio* was launched in April 2022, broadcasting 24/7 during the 100 days of d15, from and to the whole planet. With the end of d15, the participants of the network, with the support of [ruangrupa](https://ruangrupa.id/en/) voted to continue the project. 
 
-*lumbung Radio* is coordinated by _[Station of Commons](https://stationofcommons.org/)_—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.
+*lumbung radio* is coordinated by _[Station of Commons](https://stationofcommons.org/)_—an ongoing collaborative, Helsinki and Geneva based initiative on digital commoning practices by Grégoire Rousseau, Minerva Juolahti, Alain Ryckelynck, Constantinos Miltiadis, Juan Gomez, and Eddie Choo Wen Yi. Since February 2020, Station of Commons  investigates the possibilities of reappropriating technology within public space. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. Station of Commons operates as an easily integrable online platform for sharing local resources.
 
 Since 2022 *Station of Commons* is coordinating collective of lumbung radio, supported by the [KONE foundation](https://koneensaatio.fi/en/). 
 

@@ -1,9 +1,9 @@
 ---
-title: 'lumbung Radio x Miss Read 2023: Berlin Art Book Fair'
+title: 'lumbung radio x Miss Read 2023: Berlin Art Book Fair'
 slug: miss-read-23
 subtitle: "Prefair curation & participation to Miss Read festival"
 draft: false
-summary: 'Miss Read Prefair by Station of Commons & Lumbung Radio. Berlin, September 2023'
+summary: 'Miss Read Prefair by Station of Commons & lumbung radio. Berlin, September 2023'
 abstract: 
 authors:
   - Gregoire Rousseau

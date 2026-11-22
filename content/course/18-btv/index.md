@@ -1,8 +1,8 @@
 ---
 slug: "beyond-the-visual"
 title: "Beyond the Visual"
-subtitle: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
-summary: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łodz"
+subtitle: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łódź"
+summary: "Week-long workshop at *Vision*, the 2018 OSSA Architecture Festival, Łódź"
 authors: [admin, gerriet-sharma]
 tags: [workshop, virtual reality, spatial audio, spatiotemporal design, exhibition, Unity]
 categories: [teaching, spatial audio]
@@ -45,7 +45,7 @@ pictures (from FB by)
 -->
 
 ## Outline & documentation 
-Full-week workshop in the context of the 2018 Architectural Festival *Vision*, upon invitation from the Polish Association of Architecture Students (OSSA). October 13-21 2018, Łodz, Poland. 
+Full-week workshop in the context of the 2018 Architectural Festival *Vision*, upon invitation from the Polish Association of Architecture Students (OSSA). October 13-21 2018, Łódź, Poland. 
 The workshop was designed to focus on auditory aspects of spatial cognition, and included the participation of spatial audio composer and sound artist Gerriet K. Sharma in the first half. The workshop resulted in a collectively-developed 10-minute VR experience of spaces 'heard' in blindfolded listening sessions of the spatial audio piece 'grrawe' (Gerriet K. Sharma 2010). 
 
 | | |
@@ -55,7 +55,7 @@ The workshop was designed to focus on auditory aspects of spatial cognition, and
 | Duration | Full week (13-20.10.2018) | 
 | Participants | 7 (architecture students) |
 | Output | Collective VR application (HTC Vive) |  
-| Presentation & exhibition | Art Inkubator, Łodz, 20.10.2018| 
+| Presentation & exhibition | Art Inkubator, Łódź, 20.10.2018| 
 ### Documentation
 - A Research Catalogue exposition that provides an extensive documentation and discussion of the workshop's curriculum, process, aims and outcomes was published in: 
 	- Miltiadis, Constantinos, and Gerriet K. Sharma. ‘[Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments](/publication/beyond-the-visual/)’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
@@ -71,9 +71,9 @@ The workshop began with readings and listening exercises for developing sensibil
 The second half of the workshop started with blindfolded listening sessions of  the spatial audio piece ‘_grrawe_‘ (Gerriet K. Sharma), where participants were asked to visualize the spaces and environments they heard into sketches. Eventually the sketches were transposed to individual Unity scenes and assembled into a 10-minute VR experience of 8 different spatiotemporal environments that follow the piece.  
 ### Lectures 
 
-*The Aesthetics of Presence in Inconstructible Spaces I & II* -- public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łodz.
+*The Aesthetics of Presence in Inconstructible Spaces I & II* -- public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łódź.
 ### Presentation & exhibition
-The workshop participants held a presentation and exhibition of the workshop outcomes on Saturday, October 21, at the Art Inkubator, in Łodz.
+The workshop participants held a presentation and exhibition of the workshop outcomes on Saturday, October 21, at the Art Inkubator, in Łódź.
 
 ## Workshop credits 
 

@@ -19,7 +19,7 @@ projects: []
 
 ## Workshop information
 
-2-day workshop on AR and VR application development for architectural visualization at the eCAADe 2015 conference titled 'Real-Time.' TU Vienna, September 14-15, 2015. 
+2-day workshop on AR and VR application development for architectural visualization at the eCAADe 2015 conference titled 'Real-Time.' TU Wien, September 14-15, 2015. 
 
 **Workshop brief**  
 The workshop aims to get participants familiar with using Virtual and Augmented Reality for architectural visualization. The workshop will offer a brief introduction of the Unity 3D game engine, demonstrate workflows for developing VR and AR applications, and support participants to create their own applications.  The first day of the workshop will cover creating navigable VR applications for the Oculus DK2 HMD, also using the Leap Motion controller. The second day will cover mobile AR application development for iOS and Android using the Vuforia SDK. 

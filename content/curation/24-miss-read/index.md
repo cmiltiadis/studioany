@@ -1,9 +1,9 @@
 ---
-title: 'lumbung Radio x Miss Read 2024: Berlin Art Book Festival'
+title: 'lumbung radio x Miss Read 2024: Berlin Art Book Festival'
 slug: miss-read-24
 subtitle: "Prefair curation & Participation to Miss Read festival"
 draft: false
-summary: 'Miss Read pre-fair co-production with Station of Commons for Lumbung Radio. Berlin, October 2024'
+summary: 'Miss Read pre-fair co-production with Station of Commons for lumbung radio. Berlin, October 2024'
 abstract: 
 authors:
   - Gregoire Rousseau
@@ -87,7 +87,7 @@ links:
 projects: [lumbung-radio, soc]
 ---
 
-For a second year [Station of Commons](../../../project/station-of-commons) is collaborating with  [Miss Read: The Berlin Art Book Fair ](https://missread.com/) to produce the festival's prefair program in collaboration with Lumbung Radio, and to live stream presentations from the Miss Read fair weekend. 
+For a second year [Station of Commons](../../../project/station-of-commons) is collaborating with  [Miss Read: The Berlin Art Book Fair ](https://missread.com/) to produce the festival's prefair program in collaboration with lumbung radio, and to live stream presentations from the Miss Read fair weekend. 
 The pre-fair takes place at Miss Read & Savvy Contemporary in Wedding on 06-10.10.2024, and the Miss Read fair takes place at Haus der Kulturen der Welt (HKW) on 11-13.10.2024. 
 
 The events are open to public and is streamed live on missread.com/radio, lumbungradio.org and partly via local FM in collaboration with [Radio Cashmere](https://cashmereradio.com) and [SAVVYZAAR radio](https://savvy-contemporary.com/en/pillars/savvyzaar/).

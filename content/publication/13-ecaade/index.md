@@ -1,6 +1,6 @@
 ---
 title: 'From the Univocal to the Dissipative: Computation and performance methodology in real-time architecture'
-summary: 'Paper contribution; eCAADE 2013; TU Delft.'
+summary: 'Paper contribution; eCAADe 2013; TU Delft.'
 authors:
   - admin
 date: '2013-09-01T00:00:00Z'

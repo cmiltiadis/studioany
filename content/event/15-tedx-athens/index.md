@@ -1,6 +1,6 @@
 ---
 slug: project-anywhere-ted
-title: 'Project Anywhere installation at TEDx NTUA'
+title: 'project Anywhere installation at TEDx NTUA'
 subtitle: ''
 summary: ''
 draft: false

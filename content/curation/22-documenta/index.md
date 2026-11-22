@@ -1,8 +1,8 @@
 ---
-title: 'Live concerts for Lumbung Radio at Documenta Fifteen'
-subtitle: 'Concert production for lumbung Radio at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
+title: 'Live concerts for lumbung radio at Documenta Fifteen'
+subtitle: 'Concert production for lumbung radio at Documenta Fifteen. Trafohaus, Kassel, July 2022.'
 draft: false
-summary: 'Concert production for lumbung Radio at Documenta Fifteen. Trafohaus, Kassel, July 2022'
+summary: 'Concert production for lumbung radio at Documenta Fifteen. Trafohaus, Kassel, July 2022'
 abstract: ''
 authors: [admin, Lain Iwakura, Niko Mas, Florian Fend, Waysatta Fernández]
 author_notes: [Producer with Station of Commons, Performing artist, Performing artist, Performing artist, Producer with Arts Collaboratory & Radio Tropiezo]
