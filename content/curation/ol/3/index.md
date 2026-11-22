@@ -4,7 +4,7 @@ slug: ol-3
 subtitle: ''
 draft: false
 summary: ''
-abstract: 'What does infrastructure mean today? Our digital environments seem to expand by constructing fictitious relations between fundamentally different dimensions: the physical space and the immaterial layer of data, the tangible and the intangible, people and things, things and systems, spaces and symbols. They invite us to perform all kinds of activities upon the suggested relations – stretching them, unwinding, tinkering, connecting, opening up, take, transfer, engender, absorb, invigorate, simulate, stimulate, inflate, protect, freeze, wrap, to name but a few.  
+abstract: 'What does infrastructure mean today? Our digital environments seem to expand by constructing fictitious relations between fundamentally different dimensions: the physical space and the immaterial layer of data, the tangible and the intangible, people and things, things and systems, spaces and symbols. They invite us to perform all kinds of activities upon the suggested relations—stretching them, unwinding, tinkering, connecting, opening up, take, transfer, engender, absorb, invigorate, simulate, stimulate, inflate, protect, freeze, wrap, to name but a few.  
 In this talk Mihye An will present her book “Atlas of Fantastic Infrastructures: an intimate look at media architecture” (April 2016, Birkhäuser), which is composed of four distinct atlases, and each of which attempts to provide an abstract prism on the fictitious, mediated, and relational “affairs” by examining media architectural projects.'
 authors: [Mihye An]
 categories: [curatorial]
@@ -39,7 +39,7 @@ Mihye An „Affair on a Fantastic Planet“
 IAM Media Lab, Kronesgasse 5/3
 
 
-**Mihye An** is a postdoctoral researcher at CAAD (Computer Aided Architectural Design), Department of Architecture in ETH Zurich. Her interests are in developing inhabitable theories that offer a rich perspectivity on our world from the fundamental technological aspect – “inhabitable” not only for humans, but potentially for any thing. Mihye has backgrounds in design, media arts, culture technology, and architecture.
+**Mihye An** is a postdoctoral researcher at CAAD (Computer Aided Architectural Design), Department of Architecture in ETH Zurich. Her interests are in developing inhabitable theories that offer a rich perspectivity on our world from the fundamental technological aspect—“inhabitable” not only for humans, but potentially for any thing. Mihye has backgrounds in design, media arts, culture technology, and architecture.
 
 <!--
 Event poster https://iam.tugraz.at/wp-content/uploads/2016/11/Mihye_AOAFP_LecturePoster.pdf

@@ -3,7 +3,7 @@ title: 'IAM Open Lecture 14: VOID, BRANDS, CHARACTERS and how to Deal with a LOT
 subtitle: ''
 draft: false
 summary: ''
-abstract: 'A lot of images, architectural blogs, Dezeen, ArchDaily, internet, public space, fashion, Tokyo, Vetements, Barad, brand, void, measurement, empty center, data, 10 years of online architectural publishing, 500 000 images, a weather prognosis, a cloud, an architectural mutant, flavors of contemporary architecture, avatars… dive right into it; filter, search, crawl, articulate. Use machine learning. Write a poem, or code a couple of them. Make sense of what is in fashion now. Compose your own “online mask” – play with information.'
+abstract: 'A lot of images, architectural blogs, Dezeen, ArchDaily, internet, public space, fashion, Tokyo, Vetements, Barad, brand, void, measurement, empty center, data, 10 years of online architectural publishing, 500 000 images, a weather prognosis, a cloud, an architectural mutant, flavors of contemporary architecture, avatars… dive right into it; filter, search, crawl, articulate. Use machine learning. Write a poem, or code a couple of them. Make sense of what is in fashion now. Compose your own “online mask”—play with information.'
 authors: [Miro Roman]
 categories: [curatorial]
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]

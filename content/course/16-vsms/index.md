@@ -77,19 +77,19 @@ The studio was sponsored by [Drei Austria](http://drei.at/) with four sets of 
 
 Note: The projects trailer video is a collage of video trailers of students’ projects. It is a reupload of the original first published in 07.2016, which was archived due to the university's privacy policy, along with the course websites ([course website (IAM TU Graz)](https://iam.tugraz.at/studio16s/) and [project videos collection](https://vimeo.com/channels/vsms2016)). 
 ## Student projects
-- Edna Basanovic - The Island
+- Edna Basanovic – The Island
 - Björn Gerd Seidl -  Beyond Space
-- David Seiwald - basic needs 
-- Felix Obermair - dream XYZ
-- Ines Zajkic - Museum
-- Kathrin Wutte - Room Dilemma 
-- Kelly Man - Architecture of I
-- Ludwig Grimm - ΜΕΘΕΞΙΣ 
-- Michael Deutsch - RISEvr
-- Philipp Glanzner - volunteer
-- Philipp Schnitzhofer - Future Visions
-- Primoz Brglez - GYRO
-- Xin Guo - The Labyrinth
+- David Seiwald – basic needs 
+- Felix Obermair – dream XYZ
+- Ines Zajkic – Museum
+- Kathrin Wutte – Room Dilemma 
+- Kelly Man – Architecture of I
+- Ludwig Grimm – ΜΕΘΕΞΙΣ 
+- Michael Deutsch – RISEvr
+- Philipp Glanzner – volunteer
+- Philipp Schnitzhofer – Future Visions
+- Primoz Brglez – GYRO
+- Xin Guo – The Labyrinth
 ## Auxiliary events 
 
 ### Studio excursion  

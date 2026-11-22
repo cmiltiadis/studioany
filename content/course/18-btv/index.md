@@ -58,7 +58,7 @@ The workshop was designed to focus on auditory aspects of spatial cognition, and
 | Presentation & exhibition | Art Inkubator, Łódź, 20.10.2018| 
 ### Documentation
 - A Research Catalogue exposition that provides an extensive documentation and discussion of the workshop's curriculum, process, aims and outcomes was published in: 
-	- Miltiadis, Constantinos, and Gerriet K. Sharma. ‘[Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments](/publication/beyond-the-visual/)’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
+	- Miltiadis, Constantinos, and Gerriet K. Sharma. ‘[Beyond the Visual – A Research Curriculum for Explorations in Spatiotemporal Environments](/publication/beyond-the-visual/)’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
 - A conventional, non-VR version of the experience for Windows and OSX is archived on [itch.io](https://studioany.itch.io/beyond-the-visual).  
 
 ## Workshop information
@@ -71,7 +71,7 @@ The workshop began with readings and listening exercises for developing sensibil
 The second half of the workshop started with blindfolded listening sessions of  the spatial audio piece ‘_grrawe_‘ (Gerriet K. Sharma), where participants were asked to visualize the spaces and environments they heard into sketches. Eventually the sketches were transposed to individual Unity scenes and assembled into a 10-minute VR experience of 8 different spatiotemporal environments that follow the piece.  
 ### Lectures 
 
-*The Aesthetics of Presence in Inconstructible Spaces I & II* -- public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łódź.
+*The Aesthetics of Presence in Inconstructible Spaces I & II*—public lectures by Constantinos Miltiadis and Gerriet K. Sharma in the context of the OSSA 2018 festival. October 15 at EC1, Łódź.
 ### Presentation & exhibition
 The workshop participants held a presentation and exhibition of the workshop outcomes on Saturday, October 21, at the Art Inkubator, in Łódź.
 

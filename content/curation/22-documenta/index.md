@@ -35,10 +35,10 @@ The concerts took place at  [Trafohaus](https://documenta-fifteen.de/en/venues/t
 
 |Programme|| 
 |-|-|
-|July 25 | 19:00 Lain Iwakura - Live|
-| | 20:00 Niko Mas - DJ set|
-|July 26  | 19:00 Klaus Masuda - DJ set | 
-| | 20:00 Niko Mas - DJ set |
+|July 25 | 19:00 Lain Iwakura – Live|
+| | 20:00 Niko Mas – DJ set|
+|July 26  | 19:00 Klaus Masuda – DJ set | 
+| | 20:00 Niko Mas – DJ set |
 
 
 **Posters**[^posters]

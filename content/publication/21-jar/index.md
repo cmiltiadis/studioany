@@ -1,6 +1,6 @@
 ---
 slug: beyond-the-visual
-title: "Beyond the Visual - A research curriculum for explorations in spatiotemporal environments"
+title: "Beyond the Visual – A research curriculum for explorations in spatiotemporal environments"
 authors: [admin, gerriet-sharma]
 date: "2021-09-27T00:00:00Z"
 draft: false
@@ -42,4 +42,4 @@ image:
 
 projects: [spacetimecraft]
 ---
-Miltiadis, Constantinos, and Gerriet K. Sharma. ‘Beyond the Visual - A Research Curriculum for Explorations in Spatiotemporal Environments’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).
+Miltiadis, Constantinos, and Gerriet K. Sharma. ‘Beyond the Visual – A Research Curriculum for Explorations in Spatiotemporal Environments’. _Journal for Artistic Research_, no. 24 (27 September 2021). [https://www.researchcatalogue.net/view/815001/815002](https://www.researchcatalogue.net/view/815001/815002).

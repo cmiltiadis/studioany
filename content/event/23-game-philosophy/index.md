@@ -39,7 +39,7 @@ These cases are not about how the protagonist is represented (who is usually sil
 Games of this genre often display contempt toward high brow or consistent narratives. Here, any potential or necessary injection of story elements is rather utilitarian, serving as pacing break, setting up the gameworld, and empowering the player, often toward the ridiculous.  
   
 
-"Just forget it [...] Let's just go," Doom director Hugo Martin remarked on its ridiculous staging. Whether, Nazis, demons, aliens or other necessary evils, what these games suggest is a mode of representation through identification with what the protagonist _can practically do_ in the gameworld, and less than, or even against notions such as who they are, or why they do. They boil down to enactive representation: the mastery of actions like jumping, dashing, sliding and shooting, which define and set apart the protagonist in both worlds -- what Martin termed 'Doom dance.'
+"Just forget it [...] Let's just go," Doom director Hugo Martin remarked on its ridiculous staging. Whether, Nazis, demons, aliens or other necessary evils, what these games suggest is a mode of representation through identification with what the protagonist _can practically do_ in the gameworld, and less than, or even against notions such as who they are, or why they do. They boil down to enactive representation: the mastery of actions like jumping, dashing, sliding and shooting, which define and set apart the protagonist in both worlds—what Martin termed 'Doom dance.'
 
 ---
 ## Workshop program

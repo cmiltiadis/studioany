@@ -28,13 +28,13 @@ slides:
 
 <small><markdown>
 Constantinos Miltiadis  
-School of ARTS -- Aalto University  
+School of ARTS – Aalto University  
 constantinos.miltiades@aalto.fi  
 [studioany.com](http://studioany.com)  
 </markdown></small>
 
 <small><markdown>
-Nordic Explorative Workshops on the Philosophy of Games -- ITU Copenhagen 29/08/2023 
+Nordic Explorative Workshops on the Philosophy of Games – ITU Copenhagen 29/08/2023 
 </markdown></small>
 
 {{<speaker_note>}}
@@ -60,7 +60,7 @@ The problem with this category of games, is that they often evade analytical len
 {{< speaker_note >}}
 - Games that celebrate enaction 
 - issues of analysis, as enactive and performative experience /tacit skills / difficult to transfer to text 
-- boomer shooters - a phenomenon (2016)
+- boomer shooters – a phenomenon (2016)
 {{< /speaker_note >}}
 
 
@@ -181,7 +181,7 @@ Discussing Pac Man in 1984, Sherry Turkle discussed
 </bib>
 
 {{<speaker_note>}}
-- Much of it has to do with the existing structures of scholarship -- and especially the textual medium, which has significant shortcomings in aspects of games research  
+- Much of it has to do with the existing structures of scholarship – and especially the textual medium, which has significant shortcomings in aspects of games research  
 - we are all guilty of trying to make sense of rich audio-visual, procedural, interactive, and performative media (like videogames) in the most conventional and traditional of means. Simple text. 
 {{</speaker_note>}}
 
@@ -199,7 +199,7 @@ Discussing Pac Man in 1984, Sherry Turkle discussed
 </bib>
 
 {{<speaker_note>}}
-- Much of it has to do with the existing structures of scholarship -- and especially the textual medium, which has significant shortcomings in aspects of games research  
+- Much of it has to do with the existing structures of scholarship – and especially the textual medium, which has significant shortcomings in aspects of games research  
 - we are all guilty of trying to make sense of rich audio-visual, procedural, interactive, and performative media (like videogames) in the most conventional and traditional of means. Simple text. 
 - Graph shows the use of images in entries of the game studies journal 
 {{</speaker_note>}}
@@ -348,7 +348,7 @@ Discussing Pac Man in 1984, Sherry Turkle discussed
 - or look old-school like Ultrakill (PS2)
 - but all seem to bring about new systems and mechanics, that intend to intensify the experience 
 - attitude to narrative varies 
-- Realms deep - event on boomer shooters  / multiple commentators / doom tubers 
+- Realms deep – event on boomer shooters  / multiple commentators / doom tubers 
 {{</speaker_note>}}
 
 ---
@@ -554,7 +554,7 @@ Game engines are essentially Cartesian model spaces with Newtonian physics
 
 <small><markdown>
 Constantinos Miltiadis  
-School of ARTS -- Aalto University  
+School of ARTS – Aalto University  
 constantinos.miltiades@aalto.fi  
 [studioany.com](http://studioany.com)  
 </markdown></small>

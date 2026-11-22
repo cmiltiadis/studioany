@@ -1,7 +1,7 @@
 ---
 slug: continuum-cologne
 title: "The Architectural Continuum: Choropoietic media and post-physical-world spatial aesthetics"
-subtitle: "Architectonics of Game Worlds - On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies"
+subtitle: "Architectonics of Game Worlds – On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies"
 summary: 'Presentation at the symposium *Architectonics of Game Worlds*. Cologne, 2019'
 authors: [admin]
 tags: [presentation, symposium, game studies, videogames, game space]
@@ -21,7 +21,7 @@ lastmod: 2023-08-06T19:23:03+03:00
 featured: false
 draft: false
 # Event specific 
-event: 'Architectonics of Game Worlds - On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies'
+event: 'Architectonics of Game Worlds – On Aesthetics and Mechanics, Spaces and Places, Rhythms and Philosophies'
 event_url: 'https://mekuwi.phil-fak.uni-koeln.de/aktuelle-mitteilungen-veranstaltungen/archiv/2019-architectonics-of-game-worlds'
 # location 
 location: Universität zu Köln
@@ -41,9 +41,9 @@ Workshop organized by Marc Bonner, DFG fellow at Universität zu Köln.
 
 **Event description**
 
-The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017–2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases – worldbuilding from a different angle.
+The international conference will be held in context of the DFG funded research project “Open-World-Structures: Architecture, City- and Landscape in Computer Games” (Bonner 2017–2020) and addresses the matter of (1) architecture in game worlds in the sense of its media specific spatialization, architectural layouts and the role of architecture, as well as (2) the architecture of computer games themselves in the sense of systematics, structures and media specific logics between algorithms and databases—worldbuilding from a different angle.
 
-Thus, the participants will thematise aesthetics of reception as well as aesthetics of production and approach the complex constitution of computer games from a wide range of disciplines – from Media and Game Studies to Art History, Sound Studies to Architecture, Design to Phenomenology and Embodiment, as well as Spatial Theory and Cultural Studies.
+Thus, the participants will thematise aesthetics of reception as well as aesthetics of production and approach the complex constitution of computer games from a wide range of disciplines—from Media and Game Studies to Art History, Sound Studies to Architecture, Design to Phenomenology and Embodiment, as well as Spatial Theory and Cultural Studies.
 
 The aim of the conference is to channel multi-disciplinary approaches and current research projects to fuel an interest towards an understanding of computer games as spatial, architectural or world phenomena within the current digital media culture. Furthermore, it is to explore and discuss concepts and methodologies from other disciplines and the potential transfer as useful tools in Game Studies.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Virtual Reality, Videogames, Architecture and Education - From utopian drawings to inconstructible navigable environments'
+title: 'Virtual Reality, Videogames, Architecture and Education – From utopian drawings to inconstructible navigable environments'
 
 authors: [admin]
 
@@ -42,4 +42,4 @@ url_video: ''
 projects: [spacetimecraft]
 ---
 
-Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In _Computing for a Better Tomorrow - Proceedings of the 36th ECAADe Conference_, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. [http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366](http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366).
+Miltiadis, Constantinos. ‘Virtual Reality, Videogames, Architecture and Education. From Utopian Drawings to Inconstructible Navigable Environments’. In _Computing for a Better Tomorrow – Proceedings of the 36th ECAADe Conference_, edited by A Kepczynska-Walczak and S Bialkowski, 2:815–24. Lodz, Poland: Lodz University of Technology, 2018. [http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366](http://papers.cumincad.org/cgi-bin/works/paper/ecaade2018_366).

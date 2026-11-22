@@ -156,7 +156,7 @@ Event introduction by ◯
 
 Music program
 - [ILe Flottante](https://www.facebook.com/ileflottantebeats) Live Beat Set [UK]
-- [Der Vinylizer](https://www.facebook.com/dervinylizer) aka Marcus Maack II [WobWob](https://www.facebook.com/wobwobdubstep)! / [BTTB - Back To The Basics](https://www.facebook.com/bttbradio) - [ByteFM](https://www.facebook.com/bytefm) [DE]
+- [Der Vinylizer](https://www.facebook.com/dervinylizer) aka Marcus Maack II [WobWob](https://www.facebook.com/wobwobdubstep)! / [BTTB – Back To The Basics](https://www.facebook.com/bttbradio) - [ByteFM](https://www.facebook.com/bytefm) [DE]
 - [alllone](https://www.facebook.com/allloneofficial) II [GreyNote](https://www.facebook.com/GreyNote), [Noise Collage](https://www.facebook.com/noisecollage) [https://soundcloud.com/alllone](https://soundcloud.com/alllone)
 - [OME Dubs](https://www.facebook.com/OmeBeats) II [GreyNote](https://www.facebook.com/GreyNote)  [https://soundcloud.com/ome_dubs](https://soundcloud.com/ome_dubs)
 - Dotworks II [GreyNote](https://www.facebook.com/GreyNote), [Basstrace](https://www.facebook.com/basstrace?__cft__[0]=AZWvEmCYCy1Q4JhllbkJhgz6xsJFsX30V6lx-MJFQDPVgSkzs4HRWalkb2n8-OlG5j_BUWOLYAU17PdQ8E9kNFGIk-76-tkDYuyzjvoiJpEbbSrX-L7U-3ov5bYrQ-oA6I4&__tn__=q)  [https://soundcloud.com/dotworks](https://soundcloud.com/dotworks)
@@ -172,7 +172,7 @@ Music program
 <!-- 
 ## Post-2019 events 
 
-#### ◯ presents Book, Film, Concert & Club - Forum Stadtpark 02.02.2020 [FB](https://www.facebook.com/events/453329305336465/?ref=newsfeed)
+#### ◯ presents Book, Film, Concert & Club – Forum Stadtpark 02.02.2020 [FB](https://www.facebook.com/events/453329305336465/?ref=newsfeed)
 - 8pm Book & Compilation presentation: mille plateaux’s „Ultrablackness of Music“  
 - 9pm Movie & Talk: demystification committee’s short film "[Interface Chaos](https://interfacechaos.com/)"  
 - 10.30pm Album Release Concert & Reading: John-Robin Bold & Harald Nicolas Stazol  

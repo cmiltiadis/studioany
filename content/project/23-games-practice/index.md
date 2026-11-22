@@ -25,6 +25,6 @@ Founding member of the international working group "Games & Practice" establishe
 The group includes prominent researchers, educators, and artists based in Europe, North America, and Australia, and with backgrounds including HCI, game studies, architecture, computer science, game design and development, and media studies. 
 
 The initiative answers to multiple calls by researchers, educators, and practitioners for a third track of videogame research between and complementary to existing approaches which primarily focus on games as texts (e.g. game studies), and games as software (e.g. HCI).  
-The intention of the working group is to establish a formal venue for research through, in the form of, and concerning gamemaking -- videogame design & development -- and to investigate aspects specific to this line of research, such as forms of contribution, peer-review, and open publishing.
+The intention of the working group is to establish a formal venue for research through, in the form of, and concerning gamemaking—videogame design & development—and to investigate aspects specific to this line of research, such as forms of contribution, peer-review, and open publishing.
 
 

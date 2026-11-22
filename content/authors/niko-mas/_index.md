@@ -15,7 +15,7 @@ role: 'Writer, publisher, producer, DJ.'
 organizations:
   - name: 'Becoming.press'
     url: 'https://becoming.press/'
-  - name: 'CDCY - Crossdressing Diogenes (Sandpoints)'
+  - name: 'CDCY – Crossdressing Diogenes (Sandpoints)'
     url: 'https://pages.sandpoints.org/crossdressingdiogenes/series/fanzine/'
   - name: 'CDCY Bandcamp'
     url: 'https://crossdressingdiogenes.bandcamp.com/'

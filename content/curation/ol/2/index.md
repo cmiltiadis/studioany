@@ -4,7 +4,7 @@ slug: ol-2
 subtitle: ''
 draft: false
 summary: ''
-abstract: 'Sound is an artifact of motion, informing about its cause and its propagation. Perception / body-environment-interaction leads to embodiments, to intuitive knowledge of the behavior of sound in the space and its meaning to the body both, being represented by sound-gestures. Vice versa, sound-gestures “trigger” embodied cognitions to make spaces being present in perception. Mediated interaction of the body with environment creates adaptive spaces – physically and emotionally perceived…'
+abstract: 'Sound is an artifact of motion, informing about its cause and its propagation. Perception / body-environment-interaction leads to embodiments, to intuitive knowledge of the behavior of sound in the space and its meaning to the body both, being represented by sound-gestures. Vice versa, sound-gestures “trigger” embodied cognitions to make spaces being present in perception. Mediated interaction of the body with environment creates adaptive spaces—physically and emotionally perceived…'
 authors: [Werner Jauk]
 categories: [curatorial]
 tags: [IAM Open Lectures, curatorial, IAM TU Graz]

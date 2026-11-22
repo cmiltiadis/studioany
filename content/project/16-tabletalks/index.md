@@ -35,7 +35,7 @@ All events took place at [Cafe Kork](https://cafe-kork.com/) and were free and o
 
 # Tabletalks archive 
 
-## TToA 1: Diederik de Koning -- Agricultural Architecture & Land Management 
+## TToA 1: Diederik de Koning – Agricultural Architecture & Land Management 
 - [TToA 1 event poster](/uploads/ttoa/ttoa_1_deKoning.pdf)
 - Tuesday, 06.12.2016, 18:00
 - Kork, Lessingstraße 25, 8010 Graz
@@ -53,14 +53,14 @@ In her talk Petra Eckhard will explore architectural structures located in the W
 
 Petra Eckhard is a literary and cultural studies scholar at the Institute of Architectural Theory, Art History and Cultural Studies at Graz University of Technology. She studied English and American Studies in New York, Bern and Graz, where she also received her doctorate in 2010. Her fields of interdisciplinary research involve practices of architectural writing, postmodernist works of literature and architecture as well as their cultural implications. She is the author of “Chronotopes of the Uncanny” (2011) and co-editor of Graz Architecture Magazine (GAM). Currently, she is working on her second book which explores the anti-canon of modernist architecture.
 
-## TToA 3: Mars, Miltiadis, Sekulić -- Metadata Punks 
+## TToA 3: Mars, Miltiadis, Sekulić – Metadata Punks 
 - [TToA 3 event poster](/uploads/ttoa/ttoa_3_mars_sekulic_miltiadis.pdf)
 - Tuesday, 21.03.2017, 18:00
 - Kork, Lessingstraße 25, 8010 Graz
 
 See [Metadata Punks](../../event/metadata-punks).
 
-## TToA 4: Christoph Walter Pirker -- Visual Ontologies of the Indefinite 
+## TToA 4: Christoph Walter Pirker – Visual Ontologies of the Indefinite 
 
 - [TToA 4 event poster](/uploads/ttoa/ttoa_4_pirker.pdf)
 - Tuesday, 13.06.2017, 18:00

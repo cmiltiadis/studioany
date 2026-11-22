@@ -20,7 +20,7 @@ address:
   region: 'Austria'
 featured: false
 image:
-  caption: 'Image credit: M.C. Escher - Relativity (1953)'
+  caption: 'Image credit: M.C. Escher – Relativity (1953)'
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol22-anita-leirfall-on-real-and-virtual-space/'

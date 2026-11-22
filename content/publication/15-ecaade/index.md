@@ -1,5 +1,5 @@
 ---
-title: 'Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual'
+title: 'Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment – project Anywhere and the potential of Architecture in the age of the Virtual'
 summary: 'Paper at eCAADe 2015; Ivan Petrovic Award. TU Wien, 2015'
 tags: [augmented reality, full-body, mobility, immersivity, multiplayer, ivan petrovic award, award]
 
@@ -43,4 +43,4 @@ projects: [14-project-anywhere]
 
 The contribution was awarded the *Ivan Petrovic Award* for the best presentation by a young researcher.
 
-Miltiadis, Constantinos. ‘Virtual Architecture in a Real-Time, Interactive, Augmented Reality Environment - Project Anywhere and the Potential of Architecture in the Age of the Virtual’. In _Real Time - Proceedings of the 33rd ECAADe Conference_, edited by Bob Martens, Gabriel Wurzer, T Grasl, WE Lorenz, and R Schaffranek, 1:61–68. Vienna: Vienna University of Technology, 2015. [http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113](http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113).
+Miltiadis, Constantinos. ‘Virtual Architecture in a Real-Time, Interactive, Augmented Reality Environment – Project Anywhere and the Potential of Architecture in the Age of the Virtual’. In _Real Time – Proceedings of the 33rd ECAADe Conference_, edited by Bob Martens, Gabriel Wurzer, T Grasl, WE Lorenz, and R Schaffranek, 1:61–68. Vienna: Vienna University of Technology, 2015. [http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113](http://papers.cumincad.org/cgi-bin/works/paper/ecaade2015_113).

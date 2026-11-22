@@ -19,7 +19,7 @@ address:
   region: 'Austria'
 featured: false
 image:
-  caption: 'Image credit:  J. G. Hagelgans - Atlas Historicus (1718)'
+  caption: 'Image credit:  J. G. Hagelgans – Atlas Historicus (1718)'
 links:
 - name: 'IAM Page'
   url: 'https://iam.tugraz.at/main-website/ol29-giacomo-pala-fiction-time-the-design-of-time/'
@@ -38,7 +38,7 @@ links:
 
 {{<vimeo 338746746>}}
 
-**Giacomo Pala** is an architect and researcher based in Innsbruck, Austria, where he works at the department of architecture theory as an assistant researcher – collaborating in research activities and in teaching the “ArchiFIcture” studios. He conducts his PhD at the same university under the guidance of Peter Trummer. More specifically, his research is focused on the relationship between historical time – intended as a form of fiction and architectural design in the attempt of developing a more complex relationship between the two, by looking at specific cases including Giovanni Battista Piranesi’s work. Basically, his interest lies in the possibility of testing the mutual limits between design, history and theory.
+**Giacomo Pala** is an architect and researcher based in Innsbruck, Austria, where he works at the department of architecture theory as an assistant researcher—collaborating in research activities and in teaching the “ArchiFIcture” studios. He conducts his PhD at the same university under the guidance of Peter Trummer. More specifically, his research is focused on the relationship between historical time—intended as a form of fiction and architectural design in the attempt of developing a more complex relationship between the two, by looking at specific cases including Giovanni Battista Piranesi’s work. Basically, his interest lies in the possibility of testing the mutual limits between design, history and theory.
 
 https://www.giacomopala.com/
 

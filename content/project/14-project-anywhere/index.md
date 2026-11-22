@@ -88,7 +88,7 @@ The project was developed in Unity3D and Java, and its using a range of tools de
 
 # Related publications 
 - [Constantinos Miltiadis (2016). Project Anywhere: An Interface for Virtual Architecture](../../publication/16-ijac). IJAC 14 (4). 
-- [Constantinos Miltiadis (2015). Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment - project Anywhere and the potential of Architecture in the age of the Virtual](../../publication/15-ecaade). eCAADe 2015. TU Delft. 
+- [Constantinos Miltiadis (2015). Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment – project Anywhere and the potential of Architecture in the age of the Virtual](../../publication/15-ecaade). eCAADe 2015. TU Delft. 
 - Photon Engine Dev Story (2015). [Project Anywhere – Digital Route to an Out-of-Body Experience](https://blog.photonengine.com/dev-story-project-anywhere/#)
 
 # Awards 
@@ -101,7 +101,7 @@ The project was developed in Unity3D and Java, and its using a range of tools de
   [Project Anywhere: digital route to an out-of-body experience : Constantinos Miltiadis’s project combines inteligloves and Kinect sensors to an Oculus Rift-style headset to provide the ultimate in impressive digital experiences](https://www.theguardian.com/technology/2015/jan/07/project-anywhere-digital-route-to-an-out-of-body-experience). 
 - Euronews High Tech; Euronews Next (2015)   
   [Euronews Next. Project Anywhere: an out-of-body experience of a new kind](https://www.youtube.com/watch?v=LfIDuVGGlts)
-  [Proyecto Anywhere, una nueva forma de jugar en línea - hi-tech](https://www.youtube.com/watch?v=R4M0IE6_WPo) [Spanish]
+  [Proyecto Anywhere, una nueva forma de jugar en línea – hi-tech](https://www.youtube.com/watch?v=R4M0IE6_WPo) [Spanish]
 - Reuters (2015)   
   [Project Anywhere takes virtual reality gaming to new level](https://www.yahoo.com/news/project-anywhere-takes-virtual-reality-152034973.html)
 - Architectural Digest (2015)  

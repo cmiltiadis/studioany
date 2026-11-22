@@ -1,7 +1,7 @@
 ---
 draft: true
 slug: str
-title: "*str - procedural extended range electric guitar generator"
+title: "*str – procedural extended range electric guitar generator"
 subtitle: ""
 summary: ""
 authors: [admin]

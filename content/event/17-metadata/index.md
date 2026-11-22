@@ -36,7 +36,7 @@ projects: [tabletalks]
 ## Abstract 
 
 
-> “In the past we were acting like data-punks. Not so much “here’s three chords, now form your band.” More like: “Here’s three gigs, now go form your autonomous art collective.” The new tactic might be more question of being metadata-punks.” (McKenzie Wark - Metadata Punk, 2015)[^ref]
+> “In the past we were acting like data-punks. Not so much “here’s three chords, now form your band.” More like: “Here’s three gigs, now go form your autonomous art collective.” The new tactic might be more question of being metadata-punks.” (McKenzie Wark – Metadata Punk, 2015)[^ref]
 
 Constantinos Miltiadis, Dubravka Sekulić, and Marcell Mars are amateur librarians sharing and maintaining their collections at [https://library.memoryoftheworld.org/](https://library.memoryoftheworld.org/). Like other amateur librarians they run away, on daily bases, from interesting, exciting professional duties into the boring acts of searching for new books available on the internet, meticulously editing their metadata, running optical character recognition against badly scanned books, slicing double-paged books into single-paged ready for screen. If an important author and her books are not already available on internet then they scan and make it available. Sometimes, not always, they also read, annotate, cite, and discuss with others.
 

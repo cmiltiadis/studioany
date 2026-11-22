@@ -1,6 +1,6 @@
 ---
 slug: waves-helsinki-launch
-title: 'Book launch - WAVES: Radio as Collective Imagination'
+title: 'Book launch – WAVES: Radio as Collective Imagination'
 subtitle: 'Book launch by Station of Commons. Äänen Lumo, Helsinki'
 draft: false
 summary: 'Book launch by Station of Commons. Äänen Lumo, Helsinki, 2024'
@@ -32,7 +32,7 @@ author_notes:
   - Invited performer 
   - Invited performer 
 tags: [event, presentation, book launch, Station of Commons, Helsinki]
-event: 'Book Launch - Waves: Radio as Collective Imagination'
+event: 'Book Launch – Waves: Radio as Collective Imagination'
 event_url: 'https://www.stationofcommons.org/events/waves/'
 date: '2024-11-23T17:00:00Z'
 all_day: false
