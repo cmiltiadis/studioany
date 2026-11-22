@@ -1,5 +1,5 @@
 ---
-title: 'IAM Open Lecture 14: VOID, BRANDS, CHARACTERS  and how to Deal with a LOTs'
+title: 'IAM Open Lecture 14: VOID, BRANDS, CHARACTERS and how to Deal with a LOTs'
 subtitle: ''
 draft: false
 # SUMMARY
@@ -68,7 +68,7 @@ www.caad.arch.ethz.ch/blog
 <!--
 IAM Open Lecture #14  
 Miro Roman  
-VOID, BRANDS, CHARACTERS  and how to Deal with a LOTs  
+VOID, BRANDS, CHARACTERS and how to Deal with a LOTs  
 18:00 Monday 20 November 2017  
 IAM Media Lab, Kronesgasse 5/3
 

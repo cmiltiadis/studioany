@@ -1,6 +1,6 @@
 ---
 slug: o-graz
-title: "◯  (2019)"
+title: "◯ (2019)"
 subtitle: "Experimental electronic music event series collective. Graz 2019"
 summary: "Experimental electronic music event series collective. Graz 2019"
 authors: [admin, Lain Iwakura, DJ Durbin, Korin Rizzo, Florian Fend, Peter Stiegler, John-Robin Bold, Gianluca Iadema]
@@ -55,7 +55,7 @@ Eventually, ◯  held its closing event at Forum Stadtpark on November 25, 2022.
 - Florian Fend / Klaus Masuda 
 - Gianluca Iadema
 
-As the only non-performing-arist of the group my main contribution involved production and co-curation as well as visual design.
+As the only non-performing-artist of the group my main contribution involved production and co-curation as well as visual design.
 
 ## Invited guests 
 - [Jung An Tagen](https://jungantagen.xyz/) (AT)

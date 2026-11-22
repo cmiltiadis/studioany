@@ -76,7 +76,7 @@ Workshop on open tools and workflows for writing, notetaking, publishing, refere
 - [PanWriter](https://panwriter.com/) Markdown text editor with Pandoc integration 
 - [Pandoc](https://pandoc.org/) (FOSS, universal document converter)
 - [Calibre](https://calibre-ebook.com/) (FOSS for ebook management) 
-- [Zotero](https://www.zotero.org/) (FOSS for bibliographic reference managment)
+- [Zotero](https://www.zotero.org/) (FOSS for bibliographic reference management)
 - [Hugo](https://gohugo.io/) (FOSS for building static websites)
 - [Sanpoints](https://pages.sandpoints.org/sandpoints/simplesandpoints-de47f813/_preview/draft/portfolio/) (FOSS Hugo theme; open infrastructure of experimental digital publishing)
 

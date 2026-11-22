@@ -1,5 +1,5 @@
 ---
-title: 'IAM Open Lecture 18: Architectonics : Film presentation & discussion'
+title: 'IAM Open Lecture 18: Architectonics: Film presentation & discussion'
 slug: ol-18
 subtitle: ''
 draft: false
@@ -61,7 +61,7 @@ Anouk De Clercq’s work can found at portabak.be
 <!--
 IAM Open Lecture #18
 Anouk De Clercq
-Architectonics : Film presentation & discussion
+Architectonics: Film presentation & discussion
 18:00 Thursday 12 April 2018
 Halle, Kronesgasse 5/1
 

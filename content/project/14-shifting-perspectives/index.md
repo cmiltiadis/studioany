@@ -33,7 +33,7 @@ links:
 *Shifting perspectives* is an interactive kinetic installation prototype for projection mapping developed in 2014 between Zurich and Delft with Demetris Shammas, Achilleas Xydis, and Mariana Popescu (as PUNCH Collective).
 
 The installation is a kinetic 6×4 grid structure used as a canvas for interactive projection mapping. 
-The structure consists of 24 square panels assembled with rotary joints, so that when pulled appart the panels rotate individually and the whole structure expands. 
+The structure consists of 24 square panels assembled with rotary joints, so that when pulled apart the panels rotate individually and the whole structure expands. 
 The movement of the structure is controlled by stepper motors that pull the structure from 2 external points.
 The three custom software developed for the installation were: a Processing-Java program for real-time sound analysis (FFT); an Arduino-based software for controlling the stepper motors; and a Unity program for projection mapping, all synchronized with each other via OSC. 
 Using real-time sound analysis the installation projected audio-responsive graphics mapped on the continuous movements of the grid structure.

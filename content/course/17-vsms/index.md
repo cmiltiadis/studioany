@@ -1,6 +1,6 @@
 ---
 slug: vsms-2017
-title: "Virtual Spaces Master Studio: 16m2  labyrinths"
+title: "Virtual Spaces Master Studio: 16m2 labyrinths"
 subtitle: "Master design studio module. Institute of Architecture and Media, TU Graz, 2017"
 summary: "Master design studio module. Institute of Architecture and Media, TU Graz, 2017"
 authors: [admin, Urs Hirschberg, Oliver Reischl, Ludwig Grimm, Julian Jauk]

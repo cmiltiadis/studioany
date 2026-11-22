@@ -88,7 +88,7 @@ projects: [lumbung-radio, soc]
 ---
 
 For a second year [Station of Commons](../../../project/station-of-commons) is collaborating with  [Miss Read: The Berlin Art Book Fair ](https://missread.com/) to produce the festival's prefair program in collaboration with Lumbung Radio, and to live stream presentations from the Miss Read fair weekend. 
-The prefar takes place at Miss Read & Savvy Contemporary in Wedding on 06-10.10.2024, and the Miss Read fair takes place at Haus der Kulturen der Welt (HKW) on 11-13.10.2024. 
+The pre-fair takes place at Miss Read & Savvy Contemporary in Wedding on 06-10.10.2024, and the Miss Read fair takes place at Haus der Kulturen der Welt (HKW) on 11-13.10.2024. 
 
 The events are open to public and is streamed live on missread.com/radio, lumbungradio.org and partly via local FM in collaboration with [Radio Cashmere](https://cashmereradio.com) and [SAVVYZAAR radio](https://savvy-contemporary.com/en/pillars/savvyzaar/).
 

@@ -85,7 +85,7 @@ Moreover, the project explored a range of possible configurations of the structu
 # Project information 
 
 Interactive Kinetic Structures was developed in 2012 as a diploma thesis project at NTU-Athens, under the supervision of Prof. Dimitris Papalexopoulos. 
-It was presented to a four-memeber jury in October 2012 and graded 10/10. 
+It was presented to a four-member jury in October 2012 and graded 10/10. 
 
 The project was one of the finalists of the international competition *ALGODeQ: Algorithmic Design Quest* in 2013. 
 

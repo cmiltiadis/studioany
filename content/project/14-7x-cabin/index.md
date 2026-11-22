@@ -40,7 +40,7 @@ The 7xCabin is the result of a workshop focusing on the implementation of a robo
 
 {{<vimeo 88490760>}}
 <br>
-The project was realized by students of MAS CAAD prostgraduate program at ETH Zurich, under the supervision of Tom Pawlofsky.  Tom Pawlofksi’s *Rhino2KRL* plugin was used to export Kuka source code.  
+The project was realized by students of MAS CAAD postgraduate program at ETH Zurich, under the supervision of Tom Pawlofsky.  Tom Pawlofksi’s *Rhino2KRL* plugin was used to export Kuka source code.  
 The cabin was reassembled and displayed at the ETHz Campus at Honggerberg during February 2014.
 
 The project video was accepted as project participation to [Rob|Arch 2014](http://www.robarch2014.org/) - the international conference on robotic fabrication in architecture, art, and design.

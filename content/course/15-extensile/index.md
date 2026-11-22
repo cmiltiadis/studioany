@@ -58,7 +58,7 @@ This study informed the creation of parametric tools that assisted the material-
 In conjunction with the use of a 7-axis Kuka robot, this allowed us to design and fabricate with a high degree of controlled variation at the threshold of the material's tolerances.
 
 The course participants developed a panel-based construction consisting of 32 40×40 cm modules arranged in a 4x8 grid.
-The patterned surfaces were designed using a coplex system of probabilistic distributions developed in Wolfram Mathematica and Grasshopper. 
+The patterned surfaces were designed using a complex system of probabilistic distributions developed in Wolfram Mathematica and Grasshopper. 
 Lastly, the robot control code was generated using the KUKA|prc Grasshopper plug-in.
 
 Extensile was presented at the Chair for Computer Aided Architectural Design on 11.06.2015

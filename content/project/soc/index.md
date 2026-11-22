@@ -40,7 +40,7 @@ projects: [lumbung-radio]
 ---
 
 Station of Commons (SoC) is a Helsinki-based collective established in 2020 concerned with developing technologies, investigating forms, and pursuing practices for digital commoning.
-SoC operates in multiple ways inlcuding developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.
+SoC operates in multiple ways including developing open technological infrastructure; co-/organizing exhibitions, performances, discursive events, and workshops; and relaying content from its network.
 
 Among the flagship initiatives of SoC is the interlocal online radio [lumbung radio](https://lumbungradio.org/), first established with ruangrupa for documeneta fifteen in 2022. 
 The radio comprises more than 20 radio and audio practice collective from around the world, and is broadcasting since April 2022 on open infrastructure developed by SoC. Since the end of documenta, SoC is the coordinating collective of lumbung radio, supported by the Kone Foundation.  

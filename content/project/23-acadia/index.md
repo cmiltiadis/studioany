@@ -41,13 +41,13 @@ The fellowship entailed production of work related to the 'archive' of ACADIA, w
 My proposal was to create an open-access archive to host all content published by ACADIA. Using the data available, I wrote a Python program to parse this information and generate entries for an archive implementing *Sandpoints*, an open-source open-infrastructure framework for experimental publishing. 
 The archive contains entries for all papers (1488), authors (2057), conference proceedings (40), and editors (116), as well as a library with readily available proceedings PDFs.
 
-All archive contents are open access; all infrastructure and tools used to create this archive are open-souce; all data and original software used to create this archive are shared openly and documented at the archive website. 
+All archive contents are open access; all infrastructure and tools used to create this archive are open-source; all data and original software used to create this archive are shared openly and documented at the archive website. 
 
 Currently, the ACADIA archive is hosted at *Sandpoints*, courtesy of Marcell Mars, at https://pages.sandpoints.org/sandpoints/acadiaarchive-46619c43/archive/acadia/ and is planned to move to archive.acadia.org .
 
 # Contribute 
 
-As an open and living archive, the ACADIA archive welcomes contributions both in the form of maintenance and care for the archive itself as well as contributions making use of its contents and hypertextual publishing format. Some ideas for contributions include: corrections and ammendments to existing entries; contributions of biographies of ACADIA members and contributors; contributions of articles about ACADIA and its history as well as archeological or thematic syllabuses making use of its material.  
+As an open and living archive, the ACADIA archive welcomes contributions both in the form of maintenance and care for the archive itself as well as contributions making use of its contents and hypertextual publishing format. Some ideas for contributions include: corrections and amendments to existing entries; contributions of biographies of ACADIA members and contributors; contributions of articles about ACADIA and its history as well as archeological or thematic syllabuses making use of its material.  
 
 # Archive contents  
 
