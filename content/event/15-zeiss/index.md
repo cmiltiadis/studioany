@@ -1,6 +1,6 @@
 ---
 slug: zeiss-vr-one
-title: 'Second Prize in the Zeiss VR One App Contest'
+title: 'Second prize in the Zeiss VR One app contest'
 subtitle: ''
 draft: false
 summary: 'Second prize in the Zeiss VR One app contest, 2015'

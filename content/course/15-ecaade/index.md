@@ -1,5 +1,5 @@
 ---
-title: "VR & AR in Architectural Visualisation"
+title: "VR & AR in Architectural Visualization"
 subtitle: "Workshop at eCAADe 2015 *Real-time*, TU Wien"
 summary: 'Workshop at eCAADe 2015 *Real Time*. TU Wien, 2015'
 authors: [admin, Achilleas Xydis]

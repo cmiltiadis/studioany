@@ -1,5 +1,5 @@
 ---
-title: 'Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment – project Anywhere and the potential of Architecture in the age of the Virtual'
+title: 'Virtual Architecture in a Real-time, Interactive, Augmented Reality Environment – Project Anywhere and the Potential of Architecture in the Age of the Virtual'
 summary: 'Paper at eCAADe 2015; Ivan Petrovic Award. TU Wien, 2015'
 tags: [augmented reality, full-body, mobility, immersivity, multiplayer, ivan petrovic award, award]
 

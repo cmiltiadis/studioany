@@ -56,7 +56,7 @@ Realized by *Grupo Synco* : Bassam El Baroni, Constantinos Miltiadis, Georgios C
 
 **Concept, Research, Screenplay**: Bassam El Baroni and Constantinos Miltiadis   
 **Animation Director**: Georgios Cherouvim.  
-**Music and Sound Spatialisation**: Gerriet K. Sharma.  
+**Music and Sound Spatialization**: Gerriet K. Sharma.  
 **Modelling**: Katerina Lakovaki.  
 **Illustration**: Ino Zavvou and Andreas Kelemen.  
 **Render Support**: Dimitris Liatsos.  

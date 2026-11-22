@@ -1,6 +1,6 @@
 ---
 slug: sonic-rug
-title: 'Sonic Rug Hackathon – Vienna Design Week 2017'
+title: 'Sonic Rug hackathon – Vienna Design Week 2017'
 subtitle: 'Audiovisual interactive installation. Vienna, 2017'
 draft: false
 summary: 'Audiovisual interactive installation at Vienna Design Week. Vienna, 2017'
