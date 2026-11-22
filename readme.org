@@ -45,7 +45,7 @@ Edits inside the theme (=_vendor/github.com/wowchemy/wowchemy-hugo-themes/module
 + Names: lumbung radio, documenta fifteen, project Anywhere, eCAADe, TU Wien, Künstlerhaus, Łódź
 + DOIs as bare identifiers (=doi: '10.xxxx/...'=)
 + New events: =hugo new event/26-name/index.md= (uses =archetypes/event.md=); starter examples in =_starter-examples/=
-+ Title casing: undecided (mixed)
++ Titles: works (talks, papers, artworks, courses) keep their published/announced title; descriptive page titles in sentence case (e.g. =Second prize in the Zeiss VR One app contest=)
 
 * Changelog
 + [2026-11-22 Sun] Content pass
