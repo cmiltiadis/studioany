@@ -51,7 +51,7 @@ The aim of the studio is to approach Virtual Reality as a choropoietic medium, i
 Starting from the concept of the Labyrinth the studio investigated the geometrical, formal, and organizational aspects of labyrinths and mazes, and through key readings from both architecture and game studies, how such concepts can be applied to spatio-temporal interactive environments, as an intention of approaching the videogame medium with an architectural sensibility, for developing novel architectural experiences.
 
 #### Course details  
-The course is going to work primarily with Unity 3D, 3D Max, and Premiere Pro. All course assignments and outputs are in digital form. No previous programming experience is necessary. Fluency with conventional 3D modelling, raster, and vector graphics software though is required.  
+The course is going to work primarily with Unity 3D, 3D Max, and Premiere Pro. All course assignments and outputs are in digital form. No previous programming experience is necessary. Fluency with conventional 3D modeling, raster, and vector graphics software though is required.  
 The course includes the electives Digital Form and Motion taught by Oliver Reischl, and Interdisciplinary Media taught by Constantinos Miltiadis. 
 The course is coordinated through a Slack group, collective readings performed through [Hypothes.is](https://hypothes.is/).
 

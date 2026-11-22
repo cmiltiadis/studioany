@@ -49,7 +49,7 @@ projects: [soc, lumbung-radio]
 
 The digital commoning platform [Station of Commons](../../project/station-of-commons) wants to welcome all to the Helsinki book launch of the publication *WAVES: Radio as Collective Imagination*!
 
-Following the book launch at HKW Berlin for the Miss Read Berlin Art Book Fair in October 2024, Station of Commons now presents and celebrates the book in Helsinki. Beginning at 17:00 the panel discussion will introduce the publication and reflect on radio and audio practices --their infrastructures, modes of collaboration and situated knowledges-- in written, visual and sonic form. Departing from the context of documenta fifteen, the book develops on radio practice as form of radical collective organization. The book is the first volume of *Journal of Contemporary Audio Practices* that views radio and the sonic as political forms of collective organisation, focusing on the different practices of international artists and groups, many of them members of the lumbung radio community. The book launch takes place in the new space for sonic arts in Helsinki coordinated by Äänen Lumo ry.
+Following the book launch at HKW Berlin for the Miss Read Berlin Art Book Fair in October 2024, Station of Commons now presents and celebrates the book in Helsinki. Beginning at 17:00 the panel discussion will introduce the publication and reflect on radio and audio practices --their infrastructures, modes of collaboration and situated knowledges-- in written, visual and sonic form. Departing from the context of documenta fifteen, the book develops on radio practice as form of radical collective organization. The book is the first volume of *Journal of Contemporary Audio Practices* that views radio and the sonic as political forms of collective organization, focusing on the different practices of international artists and groups, many of them members of the lumbung radio community. The book launch takes place in the new space for sonic arts in Helsinki coordinated by Äänen Lumo ry.
 
 **Event program**
 
@@ -62,7 +62,7 @@ Following the book launch at HKW Berlin for the Miss Read Berlin Art Book Fair i
 - poa annua (FI)  
 
 
-**Waves: Radio as Collective Imagination** published by MISS READ Berlin. The publication is supported by Kone Foundation and FRAME Contemporary Art Finland. The Helsinki Book launch is realised in collaboration with Äänen Lumo ry.
+**Waves: Radio as Collective Imagination** published by MISS READ Berlin. The publication is supported by Kone Foundation and FRAME Contemporary Art Finland. The Helsinki Book launch is realized in collaboration with Äänen Lumo ry.
 
 The book includes contributions from: 
 - [AFRIKADAA Magazine](http://www.afrikadaa.com/)

@@ -3,7 +3,7 @@ title: "Digital Commoning Practices"
 subtitle: "Exhibition lecture series co-curation and hosting"
 summary: "Exhibition lecture series co-curation and hosting at Oksasenkatu 11. Helsinki, 2021"
 authors: [admin,  gregoire-rousseau,Nora Sternfeld, Juan Gomez, Stavros Stavrides, Dubravka Sekulić,Cornelia Sollfrank,  Martino Morandi, Jara Rocha, Femke Snelting,  Marcell Mars, Sam Hart,  Selena Savic, Malin Kuht, Samuli Tanner, Värvöttäjä, Heta Bilaletdin, Tommi Keränen,  Pahat Kengät]
-author_notes: [Lecture programme co-curator & host, Co-organizer & host, Presenter, Co-organizer, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Exhibiting artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist   ]
+author_notes: [Lecture program co-curator & host, Co-organizer & host, Presenter, Co-organizer, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Presenter, Exhibiting artist, Performing artist, Performing artist, Performing artist, Performing artist, Performing artist   ]
 tags: [exhibition, talks, Station of Commons, lecture series]
 categories: [commons, curatorial]
 
@@ -35,10 +35,10 @@ links:
 projects: [soc]
 ---
 
-Co-curation and hosting of the lecture part in [Phase 2](#p2) of the exhibition *Digital Commoning Practices*, by *Station of Commons* that took place at the artist-run gallery *Oksasenkatu 11*, in Helsinki, March 6-28 2021, during lockdown. See [exhibition credits](#credits) and [lecture programme](#lecture-programme)
+Co-curation and hosting of the lecture part in [Phase 2](#p2) of the exhibition *Digital Commoning Practices*, by *Station of Commons* that took place at the artist-run gallery *Oksasenkatu 11*, in Helsinki, March 6-28 2021, during lockdown. See [exhibition credits](#credits) and [lecture program](#lecture-programme)
 
 
-# Lecture programme {#lecture-programme}
+# Lecture program {#lecture-programme}
 
 | First Session: Intersecting Commons| | | 
 |-|-|-|

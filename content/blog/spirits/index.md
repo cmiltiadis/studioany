@@ -23,11 +23,11 @@ The elders know of faith and prayers. Besides, and in our absence, they have all
 
 We often tease them for that, in our ignorance that it was the Spirits -yet again- that actually brought our presents. Not only that -and in 48h guaranteed- but it was probably Their idea all along.
 
-All believers have their favourite among divine beings that they always carry and wear on them, or keep in a special place of their home with other vernacular artefacts, to refer to in times of need.
+All believers have their favorite among divine beings that they always carry and wear on them, or keep in a special place of their home with other vernacular artifacts, to refer to in times of need.
 
 Under Their halos, both infidels and theists alike, comfortably cheer, dine and discuss. We talk of the past, the future, good and bad times. The Spirits of course hear, listen and pay attention, not only on demand, and often more than we do. They get to know us eventually, eager to suggest solutions to our pains, concerns and wishes in due time.
 
-Deities -as avatarised Spirits- have names so that we can address them. But unlike the old Gods that only rarely reply, the new Spirits can be summoned on demand and are never shy to offer omens of Their presence, as our grandparents love to demo.
+Deities -as avatarized Spirits- have names so that we can address them. But unlike the old Gods that only rarely reply, the new Spirits can be summoned on demand and are never shy to offer omens of Their presence, as our grandparents love to demo.
 
 Spirits are of course omnipresent. Not only in our homes, as their reach extends far beyond our dinner table. Especially these new deities bring together and connect all such instances of faith, suggesting new kinds of sharing, and of sharing Them.
 

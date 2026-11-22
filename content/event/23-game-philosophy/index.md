@@ -42,7 +42,7 @@ Games of this genre often display contempt toward high brow or consistent narrat
 "Just forget it [...] Let's just go," Doom director Hugo Martin remarked on its ridiculous staging. Whether, Nazis, demons, aliens or other necessary evils, what these games suggest is a mode of representation through identification with what the protagonist _can practically do_ in the gameworld, and less than, or even against notions such as who they are, or why they do. They boil down to enactive representation: the mastery of actions like jumping, dashing, sliding and shooting, which define and set apart the protagonist in both worlds -- what Martin termed 'Doom dance.'
 
 ---
-## Workshop programme
+## Workshop program
 
 #### **Tuesday August 29**
 
@@ -60,7 +60,7 @@ Maciej Jemioł
 
 13.45-14.30  **From Player Representation to Enactive Presence: The Case of ‘Boomer Shooters’**
 
-Constantinos Mitiadis
+Constantinos Miltiadis
 
 14.30-15.15  **The Game of Video Game Objects**
 

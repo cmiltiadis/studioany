@@ -55,7 +55,7 @@ image:
 projects: []
 ---
 
-The *IAM Open Lecture Series* was founded in late 2015 at the Institute of Architecture and Media (IAM), TU Graz. The project slowly formalised as a mapping of the research ecology concerning computation and related discourse in the wider field of architecture and media. 
+The *IAM Open Lecture Series* was founded in late 2015 at the Institute of Architecture and Media (IAM), TU Graz. The project slowly formalized as a mapping of the research ecology concerning computation and related discourse in the wider field of architecture and media. 
 The series hosts talks by younger academic researchers and practitioners aiming to present and promote experimental, interdisciplinary and ongoing research. 
 All sessions are hosted at the New Media Lab of IAM, Kronesgasse 5/III, Graz. 
 

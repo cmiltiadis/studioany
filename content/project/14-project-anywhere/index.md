@@ -45,12 +45,12 @@ projects: []
 *project Anywhere* is a framework and proof-of-concept prototype for full-body interactive wireless VR, developed at the Chair for CAAD, ETH Zurich in 2014, to investigate notions of virtual space and time, and to explore designing synthetic spatiotemporal sensory experiences. 
 The project was initiated in mid-2014, following the release of the first commercial VR devices that featured limited bodily involvement and capacity for movement. 
 Addressing these limitations, this project developed a VR framework consisting of a mobile application, custom wireless VR HMDs and data glove prototypes as well as skeleton tracking, to produce a vivid real-time interactive presence in a virtual reality environment
-In that, project Anywhere demonstrates the potential of virtual space as a valid architectural medium in itself (instead of its use as an intermediary form for design or visualization), that allows experimenting with synthetic kinaesthetic, visual and auditory sensory experiences.
+In that, project Anywhere demonstrates the potential of virtual space as a valid architectural medium in itself (instead of its use as an intermediary form for design or visualization), that allows experimenting with synthetic kinesthetic, visual and auditory sensory experiences.
 Concurrently it explores the capacity of designing spatiotemporal environments with an embedded dimension of time. The project’s title, “Anywhere”, refers to the generic nature of the digital-virtual environment that can be made to simulate any physical context: real or imaginary.
 <!-- 
 this project was initiated as a proof-of-concept for full-body wireless interactive VR. 
 
-Blending aspects of both actuality and virtuality, the project creates a vivid presence in an augmented reality environment. The ubiquity of processors and the advent of cloud computing has made possible the decentralised aggregation of independent node systems in a common network, bringing together people from the most remote places to coexist in the same virtual space. 
+Blending aspects of both actuality and virtuality, the project creates a vivid presence in an augmented reality environment. The ubiquity of processors and the advent of cloud computing has made possible the decentralized aggregation of independent node systems in a common network, bringing together people from the most remote places to coexist in the same virtual space. 
 -->
 # Video demo
 

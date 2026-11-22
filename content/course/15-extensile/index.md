@@ -34,7 +34,7 @@ defunct
 [Extensile on CAAD Blog](http://www.caad.arch.ethz.ch/blog/extensile-robotic-workshop/)
 -->
 
-*Extensile* was the result of a two-week robotic fabrication workshop module taught in the postgraduate programme (MAS CAAD) of the Chair for Computer Aided Architectural Design (CAAD), ETH Zurich, by Achilleas Xydis, Mariana Popescu and Constantinos Miltiadis, in May-June 2015. 
+*Extensile* was the result of a two-week robotic fabrication workshop module taught in the postgraduate program (MAS CAAD) of the Chair for Computer Aided Architectural Design (CAAD), ETH Zurich, by Achilleas Xydis, Mariana Popescu and Constantinos Miltiadis, in May-June 2015. 
 
 <!--
 The workshop used a 7-axis Kuka robot, and 

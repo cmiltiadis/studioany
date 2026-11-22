@@ -44,4 +44,4 @@ On February 2018, the Cyberparks COST Action awarded the project a [short-term 
 **Location scouting**: Aurimas Žemaitaitis, Paul Schmidt & Simonas Skarzauskas
 ### Acknowledgements 
 
-The team would like to thank George Artopoulos of The Cyprus Institute for organising the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.
+The team would like to thank George Artopoulos of The Cyprus Institute for organizing the workshop and supporting the project, as well as Nikolas Bakirtzis of The Cyprus Institute, and Elena Poyiadji of the Leventis Municipal Museum for their support with historical research and material.

@@ -61,15 +61,15 @@ The structural detailing of the project provisioned for pneumatic extendable bea
 <!-- 
 The project comprises four main components: 
 1. a custom software developed in the Processing programming language; 
-2. functional physical modelling prototypes using Arduino-based custom electronics;
+2. functional physical modeling prototypes using Arduino-based custom electronics;
 3. fabrication and structural detailing to demonstrate the feasibility of the proposal; 
 
-The main component of the project was the Processing software (1). This was was responsible for the functional modelling of the structure,  
+The main component of the project was the Processing software (1). This was was responsible for the functional modeling of the structure,  
 Moreover, 
 
-The project had to rely on developing custom software using the Processing programming language, as well as functional physical modelling prototypes using custom electronics based on Arduino micro controllers.  
+The project had to rely on developing custom software using the Processing programming language, as well as functional physical modeling prototypes using custom electronics based on Arduino micro controllers.  
 
-which was triggered by the Processing software, in order to produce transformations. Traditional CAD software were used only for representational reasons (physics modelling, rendering, 3d-printing) by sending data from Processing to Grasshopper and Rhino via OSC.
+which was triggered by the Processing software, in order to produce transformations. Traditional CAD software were used only for representational reasons (physics modeling, rendering, 3d-printing) by sending data from Processing to Grasshopper and Rhino via OSC.
 
 -->
 

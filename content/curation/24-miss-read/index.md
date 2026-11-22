@@ -93,7 +93,7 @@ The pre-fair takes place at Miss Read & Savvy Contemporary in Wedding on 06-10.1
 The events are open to public and is streamed live on missread.com/radio, lumbungradio.org and partly via local FM in collaboration with [Radio Cashmere](https://cashmereradio.com) and [SAVVYZAAR radio](https://savvy-contemporary.com/en/pillars/savvyzaar/).
 
 The pre-fair program taking place at the Miss Read space and at Savvy Contemporary, consists of
-a diverse set of workshops, panel discussions and performances organised with the lumbung radio and Miss Read contributors and collaborators.  
+a diverse set of workshops, panel discussions and performances organized with the lumbung radio and Miss Read contributors and collaborators.  
 
 # Venues 
 Miss Read prefair (06-10.10.2024)  

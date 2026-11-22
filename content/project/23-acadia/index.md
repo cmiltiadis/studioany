@@ -52,7 +52,7 @@ As an open and living archive, the ACADIA archive welcomes contributions both in
 | Articles |Peer reviewed proceedings articles (up to 2020) |  1488 |
 | Contributors |Article authors| 2057 | 
 | Editors|Proceedings (issue) editors| 116 + 1 entry for archivist | 
-| Library | Library catalogue with downloadable ACADIA publications (note: metadata not finalized) | 140 | 
+| Library | Library catalog with downloadable ACADIA publications (note: metadata not finalized) | 140 | 
 
 
 [^fellows]: See [ACADIA Cultural History Project Fellowship Announcement](http://acadia.org/news/69P4TY) and  [Announcing Recipients of the ACADIA Cultural History Fellowship

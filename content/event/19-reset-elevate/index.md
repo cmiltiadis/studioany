@@ -2,7 +2,7 @@
 title: 'reset.discover VR exhibition' 
 subtitle: ''
 draft: false
-summary: 'Exhibition part of the Arts programme of Elevate Festival. Graz, 2019'
+summary: 'Exhibition part of the Arts program of Elevate Festival. Graz, 2019'
 abstract: ''
 authors: [admin, Antonia Manhartsberger]
 tags: [virtual reality, installation, exhibition, spatial audio, ambisonics]

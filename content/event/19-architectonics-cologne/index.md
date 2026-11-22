@@ -47,7 +47,7 @@ Thus, the participants will thematise aesthetics of reception as well as aesthet
 
 The aim of the conference is to channel multi-disciplinary approaches and current research projects to fuel an interest towards an understanding of computer games as spatial, architectural or world phenomena within the current digital media culture. Furthermore, it is to explore and discuss concepts and methodologies from other disciplines and the potential transfer as useful tools in Game Studies.
 
-# Workshop programme
+# Workshop program
 ## Monday, 03/18/19
 - Distant Agricultural Splendor: National Identity, Agricultural Labor, and Space in Farming Simulator (Derek Price) 10:45 a.m.
 - Taking a Breath of the Wild – Paidiatic Spaces and Practices Off the Ludic Grid (Cornelia Janina Schnaars) 11:05 a.m.
