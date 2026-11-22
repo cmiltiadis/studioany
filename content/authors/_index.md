@@ -12,8 +12,7 @@ cms_exclude: true
 #    list: always
 
 # TEST 
-type: landing
-view: 2
+layout: peers # single alphabetical list, see layouts/authors/peers.html
 
 content: 
   sort_by: 'Title'

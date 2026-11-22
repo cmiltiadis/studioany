@@ -1,0 +1,27 @@
+{{- define "main" -}}
+
+{{/* Peers & collaborators: one alphabetical list on a single page (no pagination).
+     Selected via `layout: peers` in content/authors/_index.md. */}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{/* Exclude the site owner's own profile (content/authors/admin). */}}
+  {{ $peers := where .Pages "RelPermalink" "!=" "/authors/admin/" }}
+  <ul class="peers-list">
+    {{ range sort $peers "Title" }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+
+<style>
+  .peers-list { columns: 3 14rem; column-gap: 2rem; list-style: none; padding-left: 0; }
+  .peers-list li { break-inside: avoid; padding: 0.15rem 0; }
+</style>
+
+{{- end -}}
