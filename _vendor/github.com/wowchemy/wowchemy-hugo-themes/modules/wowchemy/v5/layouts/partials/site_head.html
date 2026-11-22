@@ -6,7 +6,7 @@
   {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
   {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
   {{ if not (and $is_sponsor $hide_generator) }}
-    <meta name="generator" content="Wowchemy {{ site.Data.wowchemy.version }} for Hugo" />
+    <meta name="generator" content="Wowchemy {{ hugo.Data.wowchemy.version }} for Hugo" />
   {{ end }}
 
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
@@ -36,8 +36,8 @@
     <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
   {{- end -}}
 
-  {{ $css := site.Data.assets.css }}
-  {{ $js := site.Data.assets.js }}
+  {{ $css := hugo.Data.assets.css }}
+  {{ $js := hugo.Data.assets.js }}
 
   {{/* Config LaTeX math rendering. */}}
   {{ if or .Params.math site.Params.features.math.enable }}
@@ -113,7 +113,7 @@
     {{ end }}
 
     {{/* Load async scripts. */}}
-    {{ range $k, $v := site.Data.assets.js }}
+    {{ range $k, $v := hugo.Data.assets.js }}
       {{/* TODO: investigate why `where ... "async" true` does not work. */}}
       {{ $load := $v.async }}
 
@@ -129,11 +129,11 @@
   {{ end }}
 
   {{/* Load WC style */}}
-  {{ $license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
+  {{ $license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" hugo.Data.wowchemy.version }}
   {{ $license := $license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
   {{ $license := $license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */\n" }}
   {{ $css_bundle_head := $license | resources.FromString "css/bundle-head.css" }}
-  {{ $css_options := dict "targetPath" "css/wowchemy.css" }}
+  {{ $css_options := dict "targetPath" "css/wowchemy.css" "transpiler" "dartsass" "silenceDeprecations" (slice "import" "global-builtin" "color-functions" "if-function" "slash-div" "abs-percent" "function-units") }}
   {{- if hugo.IsProduction -}}
     {{- $css_options = merge $css_options (dict "outputStyle" "compressed") -}}
   {{- end -}}
@@ -158,7 +158,7 @@
   {{/* Load WC community block styles */}}
   {{ $wc_block_styles := resources.Match "scss/blocks/**.scss" }}
   {{ with $wc_block_styles }}
-    {{ $wc_block_styles = $wc_block_styles | resources.Concat "css/wowchemy-blocks.scss" | resources.ToCSS }}
+    {{ $wc_block_styles = $wc_block_styles | resources.Concat "css/wowchemy-blocks.scss" | css.Sass (dict "transpiler" "dartsass" "silenceDeprecations" (slice "import" "global-builtin" "color-functions" "if-function" "slash-div")) }}
     {{- if eq (getenv "WC_POST_CSS") "true" -}}
       {{- $wc_block_styles = $wc_block_styles | postCSS -}}
     {{- end -}}
@@ -208,7 +208,7 @@
 
   {{/* EXTENSIBILITY HOOK: HEAD-END */}}
   {{/* Deprecated custom_head hook */}}
-  {{ if templates.Exists "partials/custom_head.html" }}
+  {{ if templates.Exists "_partials/custom_head.html" }}
     {{ partial "custom_head" . }}
   {{ end }}
   {{ partial "functions/get_hook" (dict "hook" "head-end" "context" .) }}

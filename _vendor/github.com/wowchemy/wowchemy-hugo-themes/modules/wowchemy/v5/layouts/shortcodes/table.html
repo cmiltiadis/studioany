@@ -22,11 +22,15 @@
 {{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
 {{ $caption := .Get "caption" }}
 
-{{ $is_remote := strings.HasPrefix $src "http" }}
-{{ if not $is_remote }}
-  {{ $src = path.Join  "content" $.Page.File.Dir $src }}
+{{/* Patched for Hugo >= 0.123: getCSV was removed */}}
+{{ $res := "" }}
+{{ if strings.HasPrefix $src "http" }}
+  {{ $res = resources.GetRemote $src }}
+{{ else }}
+  {{ $res = or ($.Page.Resources.Get $src) (resources.Get $src) }}
 {{ end }}
-{{ $rows := getCSV $delimiter $src }}
+{{ if not $res }}{{ errorf "table shortcode: could not find %q" $src }}{{ end }}
+{{ $rows := transform.Unmarshal (dict "delimiter" $delimiter "targetType" "slice") $res.Content }}
 
 <table class="table">
   {{ if $useHeaderRow }}

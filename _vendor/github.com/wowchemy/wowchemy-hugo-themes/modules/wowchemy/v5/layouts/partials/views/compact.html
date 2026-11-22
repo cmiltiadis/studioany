@@ -25,7 +25,14 @@
 {{ else if $item.Params.abstract }}
   {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
 {{ else if $item.Summary }}
-  {{ $summary = $item.Summary }}
+  {{/* Patched: Hugo >= 0.134 returns whole-paragraph HTML summaries. Mimic the old
+     behaviour: plain text, first summaryLength words, completed to the end of the sentence. */}}
+  {{ $s := $item.Summary | replaceRE "(?s)<!--.*?-->" "" | plainify | replaceRE `\s+` " " | strings.TrimSpace }}
+  {{ $limit := 30 }}{{/* = summaryLength in config.yaml */}}
+  {{ $out := slice }}{{ $words := 0 }}
+  {{ range split $s ". " }}{{ if lt $words $limit }}{{ $out = $out | append . }}{{ $words = add $words (len (split . " ")) }}{{ end }}{{ end }}
+  {{ $summary = delimit $out ". " }}
+  {{ if and (lt (len $out) (len (split $s ". "))) (not (strings.HasSuffix $summary ".")) }}{{ $summary = printf "%s." $summary }}{{ end }}
 {{ end }}
 
 <div class="media stream-item view-compact">

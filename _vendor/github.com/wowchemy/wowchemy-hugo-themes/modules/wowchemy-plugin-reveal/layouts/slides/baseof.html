@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.LanguageCode | default "en-us" }}">
+<html lang="{{ site.Language.Locale | default "en-us" }}">
 <head>
 
   {{/* Asset versions */}}
@@ -10,7 +10,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Wowchemy {{with site.Data.wowchemy.version}}{{.}}{{end}} for Hugo">
+  <meta name="generator" content="Wowchemy {{with hugo.Data.wowchemy.version}}{{.}}{{end}} for Hugo">
 
   {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
     <link rel="manifest" href="{{ .RelPermalink }}">

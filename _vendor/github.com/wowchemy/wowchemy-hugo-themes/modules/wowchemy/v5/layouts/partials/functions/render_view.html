@@ -7,7 +7,9 @@
 {{ $view_dtype :=  printf "%T" $view }}
 {{ $index := .index }}
 
-{{if eq $view_dtype "int" | or (eq $view_dtype "int64") }}
+{{/* Patched: newer Hugo YAML parser yields uint64 for integers */}}
+{{if in (slice "int" "int64" "uint64" "float64") $view_dtype }}
+  {{ $view = int $view }}
   {{/* Support legacy numeric views 1-5 */}}
   {{ if eq $view 1 }}
     {{ $view_file = "list" }}
@@ -21,7 +23,7 @@
     {{ $view_file = "compact" }}
   {{ end }}
 {{else}}
-  {{ if templates.Exists (printf "partials/views/%s.html" (lower $view)) }}
+  {{ if templates.Exists (printf "_partials/views/%s.html" (lower $view)) }}
     {{ $view_file = lower $view }}
   {{else}}
     {{/* Fallback to compact view */}}
